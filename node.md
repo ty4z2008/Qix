@@ -453,6 +453,7 @@ connection.query('UPDATE posts SET ...', function (err, response) {
 
   console.log('changed ' + result.changedRows + ' rows');
 })
+```
 ##获取连接ID
 你可以使用`threadId`方法来获取连接MySQL的ID(线程ID)
 ```js
