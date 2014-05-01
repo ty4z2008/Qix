@@ -1,29 +1,27 @@
----
-layout: page
-title: Hello World!
-tagline: Supporting tagline
----
-{% include JB/setup %}
-
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
-
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
 模块Github地址：https://github.com/felixge/node-mysql
+
 微博:[@廖君Jun](http://weibo.com/ty4z2008)
+
 自己还是一个学生，第一次翻译。不恰当的地方还希望不吝批评。联系方式可以直接微博AT我
 ##安装
+
 ```bash
 npm install mysql
 ```
+
 如果需要以前的版本0.9.x系列的文档，请访问[v0.9 branch]: https://github.com/felixge/node-mysql/tree/v0.9.
+
 有时你可以从github中安装最新版本的node-mysql，具体怎么做请参考下面的示例：
+
 ```bash
 npm install felixge/node-mysql
 ```
-介绍
+
+##介绍
 这是一个node.Js的mysql驱动程序。这个驱动完全是用javascript写的，不需要任何编译工作。完全的遵守MIT开源协议。
+
 这里有一个简单的示例告诉你如何使用它:
+
 ```js
 var mysql      = require('mysql');
 var connection = mysql.createConnection({
@@ -31,34 +29,39 @@ var connection = mysql.createConnection({
   user     : 'me',
   password : 'secret'
 });
-
 connection.connect();//建立连接
-
 connection.query('SELECT 1 + 1 AS solution', function(err, rows, fields) {
   if (err) throw err;
-
   console.log('The solution is: ', rows[0].solution);
 });
-
 connection.end();//释放连接
 ```
 
 从上面这个例子中，你应该要知道如下的两点：
+
 每个方法调用在连接队列中是按顺序执行。
-当使用end()函数关闭连接时候，你必须要确保你的所有查询都已经发送给了mysql服务器。否者end()之后的查询是无效的。
+
+当使用`end()`函数关闭连接时候，你必须要确保你的所有查询都已经发送给了mysql服务器。否者`end()`之后的查询是无效的。
+
 ##贡献者
 
 非常感谢那些给这个模块开发作贡献的朋友[GitHub Contributors page][].
 
 
 [GitHub Contributors page]: https://github.com/felixge/node-mysql/graphs/contributors
+
 其中，我特别需要感谢的两位：
+
 [Andrey Hristov][]  (Oracle) 与[Ulf Wendel][]帮我解决了一些数据库协议上面的问题
+
 [Ulf Wendel]: http://blog.ulf-wendel.de/
+
 [Andrey Hristov]: http://andrey.hristov.com/
 
 ##赞助商
+
 特别的感谢下面这些公司在资金上面的赞助，让我能够有更多的时间在这个项目上面(下面的名次根据赞助时间排序)
+
 * [Transloadit](http://transloadit.com) (我的首位赞助公司，他们公司主要是提供文件上传与视频转码服务，瞧瞧吧)
 * [Joyent](http://www.joyent.com/)
 * [pinkbike.com](http://pinkbike.com/)
@@ -71,10 +74,14 @@ connection.end();//释放连接
 [get in touch]: http://felixge.de/#consulting
 
 ##社区支持
+
 如果你也想参与到这个模版讨论，或者是有问题需要询问，可以通过下面的方式来联系：
+
 * **Google论坛**：https://groups.google.com/forum/#!forum/node-mysql
 * **IRC频道**： #node.js (freenode.net,只要包含有mysql的所有问题我都会关注的)
+
 ##创建连接
+
 推荐的一种连接方式：
 ```js
 var mysql      = require('mysql');
@@ -93,13 +100,13 @@ connection.connect(function(err) {
   console.log('connected as id ' + connection.threadId);
 });
 ```
-然而，一个连接只能隐式的调用一个query函数。调用方式如下：
+然而，一个连接只能隐式的调用一个`query`函数。调用方式如下：
 ```js
 var mysql      = require('mysql');
 var connection = mysql.createConnection(...);
 
 connection.query('SELECT 1', function(err, rows) {
-  // 成功连接! (unless `err` is set)
+  //成功连接! (unless `err` is set)
 });
 ```
  
@@ -183,18 +190,20 @@ pool.query('SELECT 1 + 1 AS solution', function(err, rows, fields) {
 
   console.log('The solution is: ', rows[0].solution);
 });
+
 ```
+
 连接可以轻易的共享一个连接或者是管理多个连接：
- ```js
+
+```js
 var mysql = require('mysql');
 var pool  = mysql.createPool({
   host     : 'example.org',
   user     : 'bob',
   password : 'secret'
 });
-
 pool.getConnection(function(err, connection) {
-  // 连接成功! (除非有`err` )
+  //连接成功!(除非有`err`)
 });
 ```
 
@@ -206,15 +215,15 @@ pool.on('connection', function(connection) {
   connection.query('SET SESSION auto_increment_increment=1')
 });
 ```
-当你的连接完成后，只需要调用connection.release()方法。将连接返回到池中，以供其他人再次使用。
- ```js
+当你的连接完成后，只需要调用`connection.release()`方法。将连接返回到池中，以供其他人再次使用。
+```js
 var mysql = require('mysql');
 var pool  = mysql.createPool(...);
 
 pool.getConnection(function(err, connection) {
-  // 使用连接
+  //使用连接
   connection.query( 'SELECT something FROM sometable', function(err, rows) {
-     // 连接使用完成后释放连接
+     //连接使用完成后释放连接
     connection.release();
 
     //不要在这里使用connection进行查询，因为连接已经被归还到连接池了
@@ -234,8 +243,9 @@ pool.getConnection(function(err, connection) {
 
 ##PoolCluster
 PoolCluster提供了多台主机连接功能(group&retry&selector)：
+
 ```js
-// 创建连接
+//创建连接
 var poolCluster = mysql.createPoolCluster();
 
 poolCluster.add(config); // anonymous group
@@ -276,7 +286,8 @@ poolCluster.end();
 * `RR`:选择一个交替(轮循)
 * `RANDOM`：由随机函数选择一个节点.
 * `ORDER`:按照顺序无条件的选择第一个节点。
- ```js
+
+```js
 var clusterConfig = {
   removeNodeErrorCount: 1, // 连接失败后立即从把该节点移除
   defaultSelector: 'ORDER'
@@ -326,35 +337,38 @@ connection.query('SELECT * FROM users WHERE id = ?', [userId], function(err, res
 这看起来像是使用了MySQL的预处理语句，其实同样的在MySQL内部也是使用了类似`connection.escape()`的方法。
 **注意**这不同于MySQL预处理语句，因为它会把所有的`?`都替换掉.
 不同的是类型转义的值不同。请看下面的解释:
-*Number类型保存不变.
-*Boolean值被转换为了`true/false`字符串.
-*Date类型被转换为了`YYYY-mm-dd HH:ii:ss`字符串
-*Buffer转换为了16进制，例如:`X'0fa5'`
-*String转换为了安全的字符串。
-*Array转换为了`list`。例如:`['a','b']`会返回`'a','b'`
+* Number类型保存不变.
+* Boolean值被转换为了`true/false`字符串.
+* Date类型被转换为了`YYYY-mm-dd HH:ii:ss`字符串
+* Buffer转换为了16进制，例如:`X'0fa5'`
+* String转换为了安全的字符串。
+* Array转换为了`list`。例如:`['a','b']`会返回`'a','b'`
 多维数组会被转换为多维`list`。例如`[['a', 'b'], ['c', 'd']]`返回`('a', 'b'), ('c', 'd')`
-*Object转换为`key = 'val'`;多维Object对象会转换为字符串.
-*undefined/null会转换为`null`
-*NaN / Infinity 保持不变,因为MySQL现在并不支持这些对象，如果你把`NaN/Infinity`做为值,MySQL会报错.直到它们被MySQL支持。
+* Object转换为`key = 'val'`;多维Object对象会转换为字符串.
+* undefined/null会转换为`null`
+* NaN / Infinity 保持不变,因为MySQL现在并不支持这些对象，如果你把`NaN/Infinity`做为值,MySQL会报错.直到它们被MySQL支持。
 
 如果你留意了，你会发现转义查询值可以巧妙的用下面这种方式:
- ```js
+
+```js
 var post  = {id: 1, title: 'Hello MySQL'};
 var query = connection.query('INSERT INTO posts SET ?', post, function(err, result) {
-  // 非常完美！
+  // Neat!
 });
 console.log(query.sql); // INSERT INTO posts SET `id` = 1, `title` = 'Hello MySQL'
 
 ```
+
 如果你觉得有必要自己去转义查询值，那么你可以直接去调用转义函数：
  
 ```js
 var query = "SELECT * FROM posts WHERE title=" + mysql.escape("Hello MySQL");
 
-console.log(query); // SELECT * FROM posts WHERE title='Hello MySQL'
+console.log(query); //SELECT * FROM posts WHERE title='Hello MySQL'
 ```
+
 ##转义查询标示符
-如果你不信任用户提交过来的标示符((database / table / column name))。那么你需要使用mysql.escapeId(identifier)来转义:
+如果你不信任用户提交过来的标示符(database/table/column name)。那么你需要使用mysql.escapeId(identifier)来转义:
 ```js
 var sorter = 'date';
 var query = 'SELECT * FROM posts ORDER BY ' + mysql.escapeId(sorter);
@@ -776,7 +790,4 @@ mysql -u root -e "CREATE DATABASE IF NOT EXISTS node_mysql_test"
 * 预查询语句
 * 查询时调用 `setTimeout() `方法
 * 支持 UTF-8 / ASCII编码
-
-
-
 
