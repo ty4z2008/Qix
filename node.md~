@@ -3,6 +3,7 @@
 微博:[@廖君Jun](http://weibo.com/ty4z2008)
 
 自己还是一个学生，第一次翻译。不恰当的地方还希望不吝批评。联系方式可以直接微博AT我
+
 ##安装
 
 ```bash
@@ -452,6 +453,7 @@ connection.query('UPDATE posts SET ...', function (err, response) {
 
   console.log('changed ' + result.changedRows + ' rows');
 })
+```
 ##获取连接ID
 你可以使用`threadId`方法来获取连接MySQL的ID(线程ID)
 ```js

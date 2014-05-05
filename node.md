@@ -780,6 +780,7 @@ var connection = mysql.createConnection({debug: ['ComQueryPacket', 'RowDataPacke
 如果没有帮助，你可以打开github的问答社区。一个好的GitHub问题有以下几个特征：
 * 提供能够重现该问题的代码（如果可以）
 * 尽可能的说清楚您的调试环境（MySQL版本，nodeJS版本，操作系统等等）。
+
 ##运行单元测试
 设置环境变量`MYSQL_DATABASE`,` MYSQL_HOST`,` MYSQL_PORT`,` MYSQL_USER` 和` MYSQL_PASSWORD`。当你测试的时候你可以需要把这些配置放在一个`config.sh`文件或者是源代码中。然后运行`npm test`。
 例如，你安装的MySQL是运行在localhost:3306上面并且没有给root设置密码，那么你可以像下面这样做：
