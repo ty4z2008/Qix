@@ -12,6 +12,9 @@ node-mysql官方文档:https://github.com/felixge/node-mysql/blob/master/Readme.
 
 node-mysql中文文档:https://github.com/ty4z2008/Qix/blob/master/node.md
 
+##机器学习资料
+
+资料地址:https://github.com/ty4z2008/Qix/blob/master/dl.md
 
 
 
