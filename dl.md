@@ -25,3 +25,11 @@
 * [《R语言参考卡片》](http://cran.r-project.org/doc/contrib/Liu-R-refcard.pdf)
 
 介绍:R语言是机器学习的主要语言,有很多的朋友想学习R语言，但是总是忘记一些函数与关键字的含义。那么这篇文章或许能够帮助到你
+
+* [《Choosing a Machine Learning Classifier》](http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/)
+
+介绍:我该如何选择机器学习算法，这篇文章比较直观的比较了Naive Bayes，Logistic Regression，SVM，决策树等方法的优劣，另外讨论了样本大小、Feature与Model权衡等问题。此外还有已经翻译了的版本:http://www.52ml.net/15063.html
+
+* [《An Introduction to Deep Learning: From Perceptrons to Deep Networks》](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
+
+介绍：深度学习概述：从感知机到深度网络，作者对于例子的选择、理论的介绍都很到位，由浅入深。翻译版本：http://www.cnblogs.com/xiaowanyer/p/3701944.html
