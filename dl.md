@@ -13,3 +13,6 @@
 
 介绍:这是一份python机器学习库,如果您是一位python工程师而且想深入机器学习.那么这篇文章或许能够帮助到你.
 
+* [《How to Layout and Manage Your Machine Learning Project》](http://machinelearningmastery.com/how-to-layout-and-manage-your-machine-learning-project/)
+
+介绍:这一篇介绍如果设计和管理属于你自己的机器学习项目的文章，里面提供了管理模版、数据管理与实践方法.
