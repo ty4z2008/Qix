@@ -33,3 +33,11 @@
 * [《An Introduction to Deep Learning: From Perceptrons to Deep Networks》](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
 
 介绍：深度学习概述：从感知机到深度网络，作者对于例子的选择、理论的介绍都很到位，由浅入深。翻译版本：http://www.cnblogs.com/xiaowanyer/p/3701944.html
+
+* [《The LION Way: Machine Learning plus Intelligent Optimization》](http://www.lionsolver.com/LIONbook/)
+
+ 介绍:<机器学习与优化>这是一本机器学习的小册子, 短短300多页道尽机器学习的方方面面. 图文并茂, 生动易懂, 没有一坨坨公式的烦恼. 适合新手入门打基础, 也适合老手温故而知新. 比起MLAPP/PRML等大部头, 也许这本你更需要!具体内容推荐阅读:http://intelligent-optimization.org/LIONbook/
+
+* [《深度学习与统计学习理论》](http://1.guzili.sinaapp.com/?p=174)
+
+介绍:作者是来自百度，不过他本人已经在2014年4月份申请离职了。但是这篇文章很不错如果你不知道深度学习与支持向量机/统计学习理论有什么联系？那么应该立即看看这篇文章.
