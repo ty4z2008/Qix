@@ -49,3 +49,7 @@
 * [《数据科学入门》](http://zh.scribd.com/doc/223731055/Data-Science-Book-v-2)
 
 介绍:这是一本由雪城大学新编的第二版《数据科学入门》教材：偏实用型，浅显易懂，适合想学习R语言的同学选读。
+
+* [《Twenty Questions for Donald Knuth》](http://www.informit.com/articles/article.aspx?p=2213858)
+
+介绍:这并不是一篇文档或书籍。这是篇向图灵奖得主Donald Knuth提问记录稿： 近日， Charles Leiserson, Al Aho, Jon Bentley等大神向Knuth提出了20个问题，内容包括TAOCP，P/NP问题，图灵机，逻辑，以及为什么大神不用电邮等等。
