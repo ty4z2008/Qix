@@ -53,3 +53,11 @@
 * [《Twenty Questions for Donald Knuth》](http://www.informit.com/articles/article.aspx?p=2213858)
 
 介绍:这并不是一篇文档或书籍。这是篇向图灵奖得主Donald Knuth提问记录稿： 近日， Charles Leiserson, Al Aho, Jon Bentley等大神向Knuth提出了20个问题，内容包括TAOCP，P/NP问题，图灵机，逻辑，以及为什么大神不用电邮等等。
+
+* [《Automatic Construction and Natural-Language Description of Nonparametric Regression Models》](http://arxiv.org/pdf/1402.4304v2.pdf)
+
+介绍：不会统计怎么办？不知道如何选择合适的统计模型怎么办？那这篇文章你的好好读一读了麻省理工Joshua B. Tenenbaum和剑桥Zoubin Ghahramani合作，写了一篇关于automatic statistician的文章。可以自动选择回归模型类别，还能自动写报告...
+
+* [《ICLR 2014论文集》](http://openreview.net/venue/iclr2014)
+
+介绍:对深度学习和representation learning最新进展有兴趣的同学可以了解一下
