@@ -61,3 +61,19 @@
 * [《ICLR 2014论文集》](http://openreview.net/venue/iclr2014)
 
 介绍:对深度学习和representation learning最新进展有兴趣的同学可以了解一下
+
+* [《Introduction to Information Retrieval》](http://www-nlp.stanford.edu/IR-book/)
+
+介绍：这是一本信息检索相关的书籍，是由斯坦福Manning与谷歌副总裁Raghavan等合著的Introduction to Information Retrieval一直是北美最受欢迎的信息检索教材之一。最近作者增加了该课程的幻灯片和作业。IR相关资源：http://www-nlp.stanford.edu/IR-book/information-retrieval.html
+
+* [《Machine learning in 10 pictures》](http://www.denizyuret.com/2014/02/machine-learning-in-5-pictures.html)
+
+介绍:Deniz Yuret用10张漂亮的图来解释机器学习重要概念：1. Bias/Variance Tradeoff 2. Overfitting 3. Bayesian / Occam's razor 4. Feature combination 5. Irrelevant feature 6. Basis function 7. Discriminative / Generative 8. Loss function 9. Least squares 10. Sparsity.很清晰
+
+* [《雅虎研究院的数据集汇总》](http://webscope.sandbox.yahoo.com/catalog.php?datatype=l)
+
+介绍：雅虎研究院的数据集汇总： 包括语言类数据，图与社交类数据，评分与分类数据，计算广告学数据，图像数据，竞赛数据，以及系统类的数据。
+
+* [《An Introduction to Statistical Learning with Applications in R》](http://www-bcf.usc.edu/~gareth/ISL/)
+
+介绍：这是一本斯坦福统计学著名教授Trevor Hastie和Robert Tibshirani的新书，并且在2014年一月已经开课：https://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about
