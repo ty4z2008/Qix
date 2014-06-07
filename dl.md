@@ -77,3 +77,7 @@
 * [《An Introduction to Statistical Learning with Applications in R》](http://www-bcf.usc.edu/~gareth/ISL/)
 
 介绍：这是一本斯坦福统计学著名教授Trevor Hastie和Robert Tibshirani的新书，并且在2014年一月已经开课：https://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about
+
+* [Best Machine Learning Resources for Getting Started](http://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/)
+
+介绍：机器学习最佳入门学习资料汇总是专为机器学习初学者推荐的优质学习资源，帮助初学者快速入门。而且这篇文章的介绍已经被翻译成[中文版](http://article.yeeyan.org/view/22139/410514)。如果你不怎么熟悉，那么我建议你先看一看中文的介绍。
