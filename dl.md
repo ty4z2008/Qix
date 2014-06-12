@@ -85,3 +85,7 @@
 * [My deep learning reading list](http://blog.sina.com.cn/s/blog_bda0d2f10101fpp4.html)
 
 介绍:主要是顺着Bengio的PAMI review的文章找出来的。包括几本综述文章，将近100篇论文，各位山头们的Presentation。全部都可以在google上找到。
+
+* [Cross-Language Information Retrieval](http://www.morganclaypool.com/doi/abs/10.2200/S00266ED1V01Y201005HLT008?journalCode=hlt)
+
+介绍：这是一本书籍，主要介绍的是跨语言信息检索方面的知识。理论很多
