@@ -81,3 +81,7 @@
 * [Best Machine Learning Resources for Getting Started](http://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/)
 
 介绍：机器学习最佳入门学习资料汇总是专为机器学习初学者推荐的优质学习资源，帮助初学者快速入门。而且这篇文章的介绍已经被翻译成[中文版](http://article.yeeyan.org/view/22139/410514)。如果你不怎么熟悉，那么我建议你先看一看中文的介绍。
+
+* [My deep learning reading list](http://blog.sina.com.cn/s/blog_bda0d2f10101fpp4.html)
+
+介绍:主要是顺着Bengio的PAMI review的文章找出来的。包括几本综述文章，将近100篇论文，各位山头们的Presentation。全部都可以在google上找到。
