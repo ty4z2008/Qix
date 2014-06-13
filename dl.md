@@ -93,3 +93,8 @@
 * [探索推荐引擎内部的秘密，第 1 部分: 推荐引擎初探](http://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy1/index.html?ca=drs-)
 
 介绍:本文共有三个系列，作者是来自IBM的工程师。它主要介绍了推荐引擎相关算法，并帮助读者高效的实现这些算法。 [探索推荐引擎内部的秘密，第 2 部分: 深入推荐引擎相关算法 - 协同过滤](http://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy2/index.html?ca=drs-),[探索推荐引擎内部的秘密，第 3 部分: 深入推荐引擎相关算法 - 聚类](http://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy3/index.html?ca=drs-)
+
+
+* [《Advice for students of machine learning》](http://mimno.infosci.cornell.edu/b/articles/ml-learn/)
+
+介绍：康奈尔大学信息科学系助理教授David Mimno写的《对机器学习初学者的一点建议》， 写的挺实际，强调实践与理论结合，最后还引用了冯 • 诺依曼的名言: "Young man, in mathematics you don't understand things. You just get used to them."
