@@ -98,3 +98,7 @@
 * [《Advice for students of machine learning》](http://mimno.infosci.cornell.edu/b/articles/ml-learn/)
 
 介绍：康奈尔大学信息科学系助理教授David Mimno写的《对机器学习初学者的一点建议》， 写的挺实际，强调实践与理论结合，最后还引用了冯 • 诺依曼的名言: "Young man, in mathematics you don't understand things. You just get used to them."
+
+* [分布式并行处理的数据](http://web.stanford.edu/group/pdplab/pdphandbook/)
+
+介绍：这是一本关于分布式并行处理的数据《Explorations in Parallel Distributed Processing: A Handbook of Models, Programs, and Exercises》,作者是斯坦福的James L. McClelland。着重介绍了各种神级网络算法的分布式实现,做Distributed Deep Learning 的童鞋可以参考下
