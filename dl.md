@@ -102,3 +102,7 @@
 * [分布式并行处理的数据](http://web.stanford.edu/group/pdplab/pdphandbook/)
 
 介绍：这是一本关于分布式并行处理的数据《Explorations in Parallel Distributed Processing: A Handbook of Models, Programs, and Exercises》,作者是斯坦福的James L. McClelland。着重介绍了各种神级网络算法的分布式实现,做Distributed Deep Learning 的童鞋可以参考下
+
+* [《“机器学习”是什么？》](http://blogs.technet.com/b/machinelearning/archive/2014/07/01/what-is-machine-learning.aspx)
+
+介绍:【“机器学习”是什么？】John Platt是微软研究院杰出科学家，17年来他一直在机器学习领域耕耘。近年来机器学习变得炙手可热，Platt和同事们遂决定开设[博客](http://blogs.technet.com/b/machinelearning/)，向公众介绍机器学习的研究进展。机器学习是什么，被应用在哪里？来看Platt的这篇[博文](http://blogs.technet.com/b/machinelearning/archive/2014/07/01/what-is-machine-learning.aspx)
