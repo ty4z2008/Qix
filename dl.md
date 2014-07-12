@@ -115,4 +115,5 @@
 
 介绍：这篇文章主要是以Learning to Rank为例说明企业界机器学习的具体应用，RankNet对NDCG之类不敏感，加入NDCG因素后变成了LambdaRank，同样的思想从神经网络改为应用到Boosted Tree模型就成就了LambdaMART。[Chirs Burges](http://research.microsoft.com/en-us/people/cburges/?WT.mc_id=Blog_MachLearn_General_DI)，微软的机器学习大神，Yahoo 2010 Learning to Rank Challenge第一名得主，排序模型方面有RankNet，LambdaRank，LambdaMART，尤其以LambdaMART最为突出，代表论文为：
 [From RankNet to LambdaRank to LambdaMART: An Overview](http://research.microsoft.com/en-us/um/people/cburges/tech_reports/msr-tr-2010-82.pdf)
-此外，Burges还有很多有名的代表作，比如：[A Tutorial on Support Vector Machines for Pattern Recognition](http://research.microsoft.com/pubs/67119/svmtutorial.pdf)    [Some Notes on Applied Mathematics for Machine Learning](http://research.microsoft.com/en-us/um/people/cburges/tech_reports/tr-2004-56.pdf)
+此外，Burges还有很多有名的代表作，比如：[A Tutorial on Support Vector Machines for Pattern Recognition](http://research.microsoft.com/pubs/67119/svmtutorial.pdf)    
+[Some Notes on Applied Mathematics for Machine Learning](http://research.microsoft.com/en-us/um/people/cburges/tech_reports/tr-2004-56.pdf)
