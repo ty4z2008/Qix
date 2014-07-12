@@ -106,3 +106,7 @@
 * [《“机器学习”是什么？》](http://blogs.technet.com/b/machinelearning/archive/2014/07/01/what-is-machine-learning.aspx)
 
 介绍:【“机器学习”是什么？】John Platt是微软研究院杰出科学家，17年来他一直在机器学习领域耕耘。近年来机器学习变得炙手可热，Platt和同事们遂决定开设[博客](http://blogs.technet.com/b/machinelearning/)，向公众介绍机器学习的研究进展。机器学习是什么，被应用在哪里？来看Platt的这篇[博文](http://blogs.technet.com/b/machinelearning/archive/2014/07/01/what-is-machine-learning.aspx)
+
+* [《2014年国际机器学习大会ICML 2014 论文》](http://icml.cc/2014/index/article/15.htm)
+
+介绍：2014年国际机器学习大会（ICML）已经于6月21-26日在国家会议中心隆重举办。本次大会由微软亚洲研究院和清华大学联手主办，是这个有着30多年历史并享誉世界的机器学习领域的盛会首次来到中国，已成功吸引海内外1200多位学者的报名参与。干货很多，值得深入学习下
