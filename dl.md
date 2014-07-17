@@ -121,3 +121,7 @@
 * [100 Best GitHub: Deep Learning](http://meta-guide.com/software-meta-guide/100-best-github-deep-learning/)
 
 介绍:100 Best GitHub: Deep Learning
+
+*[《UFLDL-斯坦福大学Andrew Ng教授“Deep Learning”教程》](http://www.52ml.net/12019.html)
+
+介绍:本教程将阐述无监督特征学习和深度学习的主要观点。通过学习，你也将实现多个功能学习/深度学习算法，能看到它们为你工作，并学习如何应用/适应这些想法到新问题上。本教程假定机器学习的基本知识（特别是熟悉的监督学习，逻辑回归，梯度下降的想法），如果你不熟悉这些想法，我们建议你去这里[机器学习课程](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning)，并先完成第II，III，IV章（到逻辑回归）。此外这关于这套教程的源代码在github上面已经有python版本了[ UFLDL Tutorial Code](https://github.com/jatinshah/ufldl_tutorial)
