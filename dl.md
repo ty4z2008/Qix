@@ -125,3 +125,11 @@
 * [《UFLDL-斯坦福大学Andrew Ng教授“Deep Learning”教程》](http://www.52ml.net/12019.html)
 
 介绍:本教程将阐述无监督特征学习和深度学习的主要观点。通过学习，你也将实现多个功能学习/深度学习算法，能看到它们为你工作，并学习如何应用/适应这些想法到新问题上。本教程假定机器学习的基本知识（特别是熟悉的监督学习，逻辑回归，梯度下降的想法），如果你不熟悉这些想法，我们建议你去这里[机器学习课程](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning)，并先完成第II，III，IV章（到逻辑回归）。此外这关于这套教程的源代码在github上面已经有python版本了[ UFLDL Tutorial Code](https://github.com/jatinshah/ufldl_tutorial)
+
+*[《Deep Learning for Natural Language Processing and Related Applications》](http://research.microsoft.com/pubs/217165/ICASSP_DeepTextLearning_v07.pdf)
+
+介绍:这份文档来自微软研究院,精髓很多。如果需要完全理解，需要一定的机器学习基础。不过有些地方会让人眼前一亮,毛塞顿开。
+
+* [Understanding Convolutions](https://colah.github.io/posts/2014-07-Understanding-Convolutions/)
+
+介绍:这是一篇介绍图像卷积运算的文章，讲的已经算比较详细的了
