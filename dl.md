@@ -133,3 +133,7 @@
 * [Understanding Convolutions](https://colah.github.io/posts/2014-07-Understanding-Convolutions/)
 
 介绍:这是一篇介绍图像卷积运算的文章，讲的已经算比较详细的了
+
+* [《Machine Learning Summer School》](http://mlss2014.com/)
+
+介绍：每天请一个大牛来讲座，主要涉及机器学习，大数据分析，并行计算以及人脑研究。https://www.youtube.com/user/smolix（需翻墙）
