@@ -117,3 +117,7 @@
 [From RankNet to LambdaRank to LambdaMART: An Overview](http://research.microsoft.com/en-us/um/people/cburges/tech_reports/msr-tr-2010-82.pdf)
 此外，Burges还有很多有名的代表作，比如：[A Tutorial on Support Vector Machines for Pattern Recognition](http://research.microsoft.com/pubs/67119/svmtutorial.pdf)    
 [Some Notes on Applied Mathematics for Machine Learning](http://research.microsoft.com/en-us/um/people/cburges/tech_reports/tr-2004-56.pdf)
+
+* [100 Best GitHub: Deep Learning](http://meta-guide.com/software-meta-guide/100-best-github-deep-learning/)
+
+介绍:100 Best GitHub: Deep Learning
