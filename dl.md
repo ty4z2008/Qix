@@ -137,3 +137,7 @@
 * [《Machine Learning Summer School》](http://mlss2014.com/)
 
 介绍：每天请一个大牛来讲座，主要涉及机器学习，大数据分析，并行计算以及人脑研究。https://www.youtube.com/user/smolix    （需翻墙）
+
+* [《Awesome Machine Learning》](https://github.com/josephmisiti/awesome-machine-learning)
+
+介绍：一个超级完整的机器学习开源库总结，如果你认为这个碉堡了，那后面这个列表会更让你惊讶：【Awesome Awesomeness】
