@@ -21,6 +21,8 @@ node-mysql中文文档:https://github.com/ty4z2008/Qix/blob/master/node.md
 资料地址：https://github.com/ty4z2008/Qix/blob/master/golang.md
 
 
+##美式口语学习
 
+资料地址：http://say.microdba.com
 
 
