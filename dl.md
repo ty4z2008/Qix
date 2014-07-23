@@ -140,7 +140,7 @@
 
 * [《Awesome Machine Learning》](https://github.com/josephmisiti/awesome-machine-learning)
 
-介绍：一个超级完整的机器学习开源库总结，如果你认为这个碉堡了，那后面这个列表会更让你惊讶：【Awesome Awesomeness】
+介绍：一个超级完整的机器学习开源库总结，如果你认为这个碉堡了，那后面这个列表会更让你惊讶：【Awesome Awesomeness】,国内已经有热心的朋友进行了翻译[中文介绍](http://blog.jobbole.com/73806/)
 
 * [斯坦福《自然语言处理》课程视频](http://see.stanford.edu/see/lecturelist.aspx?coll=63480b48-8819-4efd-8412-263f1a472f5a)
 
