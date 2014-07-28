@@ -145,3 +145,7 @@
 * [斯坦福《自然语言处理》课程视频](http://see.stanford.edu/see/lecturelist.aspx?coll=63480b48-8819-4efd-8412-263f1a472f5a)
 
 介绍:ACL候任主席、斯坦福大学计算机系Chris Manning教授的《自然语言处理》课程所有视频已经可以在斯坦福公开课网站上观看了（如Chrome不行，可用IE观看） 作业与测验也可以下载。
+
+*[《Deep Learning and Shallow Learning》](http://freemind.pluskid.org/machine-learning/deep-learning-and-shallow-learning/)
+
+介绍:对比 Deep Learning 和 Shallow Learning 的好文，来着浙大毕业、MIT 读博的 Chiyuan Zhang 的博客。
