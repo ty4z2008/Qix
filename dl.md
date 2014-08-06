@@ -153,3 +153,7 @@
 * [《Recommending music on Spotify with deep learning》](http://benanne.github.io/2014/08/05/spotify-cnns.html)
 
 介绍:利用卷积神经网络做音乐推荐。
+
+* [《Neural Networks and Deep Learning》](http://neuralnetworksanddeeplearning.com/index.html)
+
+介绍：神经网络的免费在线书，已经写了三章了，还有对应的开源代码：https://github.com/mnielsen/neural-networks-and-deep-learning爱好者的福音。
