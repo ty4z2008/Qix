@@ -157,3 +157,7 @@
 * [《Neural Networks and Deep Learning》](http://neuralnetworksanddeeplearning.com/index.html)
 
 介绍：神经网络的免费在线书，已经写了三章了，还有对应的开源代码：https://github.com/mnielsen/neural-networks-and-deep-learning爱好者的福音。
+
+* [《Java Machine Learning》](http://machinelearningmastery.com/java-machine-learning/)
+
+介绍：Java机器学习相关平台和开源的机器学习库，按照大数据、NLP、计算机视觉和Deep Learning分类进行了整理。看起来挺全的，Java爱好者值得收藏。
