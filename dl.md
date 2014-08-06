@@ -146,6 +146,10 @@
 
 介绍:ACL候任主席、斯坦福大学计算机系Chris Manning教授的《自然语言处理》课程所有视频已经可以在斯坦福公开课网站上观看了（如Chrome不行，可用IE观看） 作业与测验也可以下载。
 
-*[《Deep Learning and Shallow Learning》](http://freemind.pluskid.org/machine-learning/deep-learning-and-shallow-learning/)
+* [《Deep Learning and Shallow Learning》](http://freemind.pluskid.org/machine-learning/deep-learning-and-shallow-learning/)
 
 介绍:对比 Deep Learning 和 Shallow Learning 的好文，来着浙大毕业、MIT 读博的 Chiyuan Zhang 的博客。
+
+* [《Recommending music on Spotify with deep learning》](http://benanne.github.io/2014/08/05/spotify-cnns.html)
+
+介绍:利用卷积神经网络做音乐推荐。
