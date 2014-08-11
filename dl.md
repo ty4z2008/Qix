@@ -161,3 +161,7 @@
 * [《Java Machine Learning》](http://machinelearningmastery.com/java-machine-learning/)
 
 介绍：Java机器学习相关平台和开源的机器学习库，按照大数据、NLP、计算机视觉和Deep Learning分类进行了整理。看起来挺全的，Java爱好者值得收藏。
+
+* [《Machine Learning Theory: An Introductory Primer》](http://www.oschina.net/translate/6-tips-for-writing-better-code)
+
+介绍：机器学习最基本的入门文章，适合零基础者
