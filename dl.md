@@ -165,3 +165,7 @@
 * [《Machine Learning Theory: An Introductory Primer》](http://www.oschina.net/translate/6-tips-for-writing-better-code)
 
 介绍：机器学习最基本的入门文章，适合零基础者
+
+* [《机器学习常见算法分类汇总》](http://www.ctocio.com/hotnews/15919.html)
+
+介绍：机器学习的算法很多。很多时候困惑人们都是，很多算法是一类算法，而有些算法又是从其他算法中延伸出来的。这里，我们从两个方面来给大家介绍，第一个方面是学习的方式，第二个方面是算法的类似性。
