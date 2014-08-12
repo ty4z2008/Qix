@@ -169,3 +169,31 @@
 * [《机器学习常见算法分类汇总》](http://www.ctocio.com/hotnews/15919.html)
 
 介绍：机器学习的算法很多。很多时候困惑人们都是，很多算法是一类算法，而有些算法又是从其他算法中延伸出来的。这里，我们从两个方面来给大家介绍，第一个方面是学习的方式，第二个方面是算法的类似性。
+
+* [《机器学习经典论文/survey合集》](http://suanfazu.com/discussion/68/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%85%B8%E8%AE%BA%E6%96%87survey%E5%90%88%E9%9B%86)
+
+介绍：看题目你已经知道了是什么内容,没错。里面有很多经典的机器学习论文值得仔细与反复的阅读。
+
+* [《机器学习视频库》](http://work.caltech.edu/library/)
+
+介绍：视频由加州理工学院（Caltech）出品。需要英语底子。
+
+* [《机器学习经典书籍》](http://suanfazu.com/discussion/109/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%B1%8D)
+
+介绍：总结了机器学习的经典书籍，包括数学基础和算法理论的书籍，可做为入门参考书单。
+
+* [《16 Free eBooks On Machine Learning》](http://efytimes.com/e1/fullnews.asp?edid=121516)
+
+介绍:16本机器学习的电子书，可以下载下来在pad，手机上面任意时刻去阅读。不多我建议你看完一本再下载一本。
+
+* [《A Large set of Machine Learning Resources for Beginners to Mavens》](http://www.erogol.com/large-set-machine-learning-resources-beginners-mavens/)
+
+介绍:标题很大，从新手到专家。不过看完上面所有资料。肯定是专家了
+
+* [《机器学习最佳入门学习资料汇总》](http://article.yeeyan.org/view/22139/410514)
+
+介绍：入门的书真的很多，而且我已经帮你找齐了。
+
+* [《Sibyl》](http://users.soe.ucsc.edu/~niejiazhong/slides/chandra.pdf)
+
+介绍：Sibyl 是一个监督式机器学习系统，用来解决预测方面的问题，比如 YouTube 的视频推荐。
