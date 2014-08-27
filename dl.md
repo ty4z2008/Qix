@@ -197,3 +197,7 @@
 * [《Sibyl》](http://users.soe.ucsc.edu/~niejiazhong/slides/chandra.pdf)
 
 介绍：Sibyl 是一个监督式机器学习系统，用来解决预测方面的问题，比如 YouTube 的视频推荐。
+
+* [《Deep Learning》](http://www.iro.umontreal.ca/~bengioy/dlbook/)
+
+介绍：Yoshua Bengio, Ian Goodfellow, Aaron Courville著
