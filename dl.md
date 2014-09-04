@@ -210,6 +210,10 @@
 
 介绍:计算机视觉入门之前景目标检测1（总结）
 
-*[《行人检测》](http://www.52ml.net/17004.html)
+* [《行人检测》](http://www.52ml.net/17004.html)
 
 介绍:计算机视觉入门之行人检测
+
+* [《Deep Learning – important resources for learning and understanding》](http://www.kdnuggets.com/2014/08/deep-learning-important-resources-learning-understanding.html)
+
+介绍:Important resources for learning and understanding . Is awesome
