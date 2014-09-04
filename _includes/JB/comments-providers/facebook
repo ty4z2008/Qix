@@ -1,9 +1,0 @@
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId={{ site.JB.comments.facebook.appid }}";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-<div class="fb-comments" data-href="{{ site.production_url }}" data-num-posts="{{ site.JB.comments.facebook.num_posts }}" data-width="{{ site.JB.comments.facebook.width }}" data-colorscheme="{{ site.JB.comments.facebook.colorscheme }}"></div>
