@@ -221,3 +221,7 @@
 * [《Machine Learning Theory: An Introductory Primer》](http://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
 
 介绍:这又是一篇机器学习初学者的入门文章。值得一读
+
+* [《Neural Networks and Deep Learning》](http://neuralnetworksanddeeplearning.com/)
+
+介绍:在线Neural Networks and Deep Learning电子书
