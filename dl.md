@@ -201,3 +201,7 @@
 * [《Deep Learning》](http://www.iro.umontreal.ca/~bengioy/dlbook/)
 
 介绍：Yoshua Bengio, Ian Goodfellow, Aaron Courville著
+
+* [《Neural Network & Text Mining》](http://www.slideshare.net/ssuser9cc1bd/piji-li-dltm)
+
+介绍:关于(Deep) Neural Networks在 NLP 和 Text Mining 方面一些paper的总结
