@@ -217,3 +217,7 @@
 * [《Deep Learning – important resources for learning and understanding》](http://www.kdnuggets.com/2014/08/deep-learning-important-resources-learning-understanding.html)
 
 介绍:Important resources for learning and understanding . Is awesome
+
+* [《Machine Learning Theory: An Introductory Primer》](http://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
+
+介绍:这又是一篇机器学习初学者的入门文章。值得一读
