@@ -205,3 +205,11 @@
 * [《Neural Network & Text Mining》](http://www.slideshare.net/ssuser9cc1bd/piji-li-dltm)
 
 介绍:关于(Deep) Neural Networks在 NLP 和 Text Mining 方面一些paper的总结
+
+* [《前景目标检测1（总结）》](http://www.cnblogs.com/lxy2017/p/3927226.html)
+
+介绍:计算机视觉入门之前景目标检测1（总结）
+
+*[《行人检测》](http://www.52ml.net/17004.html)
+
+介绍:计算机视觉入门之行人检测
