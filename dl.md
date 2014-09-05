@@ -257,3 +257,7 @@
 * [《Machine Learning Summer School 2014》](http://pan.baidu.com/s/1pJ0ok7T)
 
 介绍:2014年七月CMU举办的机器学习夏季课刚刚结束 有近50小时的视频、十多个PDF版幻灯片，覆盖 深度学习，贝叶斯，分布式机器学习，伸缩性 等热点话题。所有13名讲师都是牛人：包括大牛Tom Mitchell （他的［机器学习］是名校的常用教材），还有CMU李沐 .（1080P高清哟）
+
+* [《Sibyl: 来自Google的大规模机器学习系统》](http://users.soe.ucsc.edu/~niejiazhong/slides/chandra.pdf)
+
+介绍:在今年的IEEE/IFIP可靠系统和网络（DSN）国际会议上，Google软件工程师Tushar Chandra做了一个关于Sibyl系统的主题演讲。 Sibyl是一个监督式机器学习系统，用来解决预测方面的问题，比如YouTube的视频推荐。详情请阅读[google sibyl](http://www.infoq.com/cn/news/2014/07/google-sibyl)
