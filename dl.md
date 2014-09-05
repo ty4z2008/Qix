@@ -238,4 +238,22 @@
 
 介绍:作者王益目前是腾讯广告算法总监，王益博士毕业后在google任研究。这篇文章王益博士7年来从谷歌到腾讯对于分布机器学习的所见所闻。值得细读
 
+* [《机器学习提升之道（Level-Up Your Machine Learning）》](http://metacademy.org/roadmaps/cjrd/level-up-your-ml)
 
+介绍:把机器学习提升的级别分为0~4级，每级需要学习的教材和掌握的知识。这样，给机器学习者提供一个上进的路线图，以免走弯路。另外，整个网站都是关于机器学习的，资源很丰富。
+
+* [《Machine Learning Surveys》](http://www.mlsurveys.com/)
+
+介绍:机器学习各个方向综述的网站
+
+* [《Deep Learning Reading list》](http://deeplearning.net/reading-list/)
+
+介绍:深入学习阅资源列表
+
+* [《Deep Learning: Methods and Applications》](http://research.microsoft.com/pubs/219984/DeepLearningBook_RefsByLastFirstNames.pdf)
+
+介绍：这是一本来自微的研究员 li Peng和Dong Yu所著的关于深入学习的方法和应用的电子书
+
+* [《Machine Learning Summer School 2014》](http://pan.baidu.com/s/1pJ0ok7T)
+
+介绍:2014年七月CMU举办的机器学习夏季课刚刚结束 有近50小时的视频、十多个PDF版幻灯片，覆盖 深度学习，贝叶斯，分布式机器学习，伸缩性 等热点话题。所有13名讲师都是牛人：包括大牛Tom Mitchell （他的［机器学习］是名校的常用教材），还有CMU李沐 .（1080P高清哟）
