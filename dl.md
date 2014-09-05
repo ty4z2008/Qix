@@ -1,4 +1,4 @@
-##机器学习(Machine Learning)资料
+##机器学习(Machine Learning)&深入学习(Deep Learning)资料
 
 * [《Brief History of Machine Learning》](http://www.erogol.com/brief-history-machine-learning/)
 
@@ -225,3 +225,17 @@
 * [《Neural Networks and Deep Learning》](http://neuralnetworksanddeeplearning.com/)
 
 介绍:在线Neural Networks and Deep Learning电子书
+
+* [《Python 网页爬虫 & 文本处理 & 科学计算 & 机器学习 & 数据挖掘兵器谱》](http://www.52nlp.cn/python-%E7%BD%91%E9%A1%B5%E7%88%AC%E8%99%AB-%E6%96%87%E6%9C%AC%E5%A4%84%E7%90%86-%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98)
+
+介绍:python的17个关于机器学习的工具
+
+* [《神奇的伽玛函数(上)》](http://www.flickering.cn/%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/2014/06/%E7%A5%9E%E5%A5%87%E7%9A%84%E4%BC%BD%E7%8E%9B%E5%87%BD%E6%95%B0%E4%B8%8A/)
+
+介绍:下集在这里[神奇的伽玛函数(下)](http://www.flickering.cn/%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/2014/06/%E7%A5%9E%E5%A5%87%E7%9A%84%E4%BC%BD%E7%8E%9B%E5%87%BD%E6%95%B0%E4%B8%8A/)
+
+* [《分布式机器学习的故事》](http://cxwangyi.github.io/2014/01/20/distributed-machine-learning/)
+
+介绍:作者王益目前是腾讯广告算法总监，王益博士毕业后在google任研究。这篇文章王益博士7年来从谷歌到腾讯对于分布机器学习的所见所闻。值得细读
+
+
