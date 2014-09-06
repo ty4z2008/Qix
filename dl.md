@@ -261,3 +261,7 @@
 * [《Sibyl: 来自Google的大规模机器学习系统》](http://users.soe.ucsc.edu/~niejiazhong/slides/chandra.pdf)
 
 介绍:在今年的IEEE/IFIP可靠系统和网络（DSN）国际会议上，Google软件工程师Tushar Chandra做了一个关于Sibyl系统的主题演讲。 Sibyl是一个监督式机器学习系统，用来解决预测方面的问题，比如YouTube的视频推荐。详情请阅读[google sibyl](http://www.infoq.com/cn/news/2014/07/google-sibyl)
+
+* [《Building a deeper understanding of images》](http://googleresearch.blogspot.com/2014/09/building-deeper-understanding-of-images.html)
+
+介绍:谷歌研究院的Christian Szegedy在谷歌研究院的博客上简要地介绍了他们今年参加ImageNet取得好成绩的GoogLeNet系统.是关于图像处理的。
