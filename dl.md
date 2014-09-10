@@ -265,3 +265,7 @@
 * [《Building a deeper understanding of images》](http://googleresearch.blogspot.com/2014/09/building-deeper-understanding-of-images.html)
 
 介绍:谷歌研究院的Christian Szegedy在谷歌研究院的博客上简要地介绍了他们今年参加ImageNet取得好成绩的GoogLeNet系统.是关于图像处理的。
+
+* [《Bayesian network 与python概率编程实战入门》](https://github.com/memect/hao/blob/master/awesome/bayesian-network-python.md)
+
+介绍:贝叶斯学习。如果不是很清可看看[概率编程语言与贝叶斯方法实践](http://www.infoq.com/cn/news/2014/07/programming-language-bayes)
