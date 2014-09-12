@@ -269,3 +269,7 @@
 * [《Bayesian network 与python概率编程实战入门》](https://github.com/memect/hao/blob/master/awesome/bayesian-network-python.md)
 
 介绍:贝叶斯学习。如果不是很清可看看[概率编程语言与贝叶斯方法实践](http://www.infoq.com/cn/news/2014/07/programming-language-bayes)
+
+* [《AMA: Michael I Jordan》](http://www.reddit.com/r/MachineLearning/comments/2fxi6v/ama_michael_i_jordan/)
+
+介绍:网友问伯克利机器学习大牛、美国双料院士Michael I. Jordan："如果你有10亿美金，你怎么花？Jordan: "我会用这10亿美金建造一个NASA级别的自然语言处理研究项目。" 
