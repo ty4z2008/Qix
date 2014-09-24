@@ -285,3 +285,7 @@
 * [《怎么选择深度学习的GPUs》](http://timdettmers.wordpress.com/2014/08/14/which-gpu-for-deep-learning/)
 
 介绍:在Kaggle上经常取得不错成绩的Tim Dettmers介绍了他自己是怎么选择深度学习的GPUs, 以及个人如何构建深度学习的GPU集群: http://t.cn/RhpuD1G 
+
+* [《对话机器学习大神Michael Jordan：深度模型》](http://www.infoq.com/cn/news/2014/09/depth-model)
+
+介绍:对话机器学习大神Michael Jordan
