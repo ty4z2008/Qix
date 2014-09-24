@@ -273,3 +273,15 @@
 * [《AMA: Michael I Jordan》](http://www.reddit.com/r/MachineLearning/comments/2fxi6v/ama_michael_i_jordan/)
 
 介绍:网友问伯克利机器学习大牛、美国双料院士Michael I. Jordan："如果你有10亿美金，你怎么花？Jordan: "我会用这10亿美金建造一个NASA级别的自然语言处理研究项目。" 
+
+* [《机器学习&数据挖掘笔记_16（常见面试之机器学习算法思想简单梳理）》](http://www.cnblogs.com/tornadomeet/p/3395593.html)
+
+介绍:常见面试之机器学习算法思想简单梳理
+
+* [《文本与数据挖掘视频汇总》](http://www.kdnuggets.com/2014/09/most-viewed-web-mining-lectures-videolectures.html)
+
+介绍：Videolectures上最受欢迎的25个文本与数据挖掘视频汇总
+
+* [《怎么选择深度学习的GPUs》](http://timdettmers.wordpress.com/2014/08/14/which-gpu-for-deep-learning/)
+
+介绍:在Kaggle上经常取得不错成绩的Tim Dettmers介绍了他自己是怎么选择深度学习的GPUs, 以及个人如何构建深度学习的GPU集群: http://t.cn/RhpuD1G 
