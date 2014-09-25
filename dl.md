@@ -1,4 +1,4 @@
-##机器学习(Machine Learning)&深入学习(Deep Learning)资料
+##机器学习(Machine Learning)&深度学习(Deep Learning)资料
 
 * [《Brief History of Machine Learning》](http://www.erogol.com/brief-history-machine-learning/)
 
@@ -11,7 +11,7 @@
 
 * [《A Gentle Introduction to Scikit-Learn: A Python Machine Learning Library》](http://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/)
 
-介绍:这是一份python机器学习库,如果您是一位python工程师而且想深入机器学习.那么这篇文章或许能够帮助到你.
+介绍:这是一份python机器学习库,如果您是一位python工程师而且想深入的学习机器学习.那么这篇文章或许能够帮助到你.
 
 * [《How to Layout and Manage Your Machine Learning Project》](http://machinelearningmastery.com/how-to-layout-and-manage-your-machine-learning-project/)
 
@@ -92,7 +92,7 @@
 
 * [探索推荐引擎内部的秘密，第 1 部分: 推荐引擎初探](http://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy1/index.html?ca=drs-)
 
-介绍:本文共有三个系列，作者是来自IBM的工程师。它主要介绍了推荐引擎相关算法，并帮助读者高效的实现这些算法。 [探索推荐引擎内部的秘密，第 2 部分: 深入推荐引擎相关算法 - 协同过滤](http://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy2/index.html?ca=drs-),[探索推荐引擎内部的秘密，第 3 部分: 深入推荐引擎相关算法 - 聚类](http://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy3/index.html?ca=drs-)
+介绍:本文共有三个系列，作者是来自IBM的工程师。它主要介绍了推荐引擎相关算法，并帮助读者高效的实现这些算法。 [探索推荐引擎内部的秘密，第 2 部分: 深度推荐引擎相关算法 - 协同过滤](http://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy2/index.html?ca=drs-),[探索推荐引擎内部的秘密，第 3 部分: 深度推荐引擎相关算法 - 聚类](http://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy3/index.html?ca=drs-)
 
 
 * [《Advice for students of machine learning》](http://mimno.infosci.cornell.edu/b/articles/ml-learn/)
@@ -248,11 +248,11 @@
 
 * [《Deep Learning Reading list》](http://deeplearning.net/reading-list/)
 
-介绍:深入学习阅资源列表
+介绍:深度学习阅资源列表
 
 * [《Deep Learning: Methods and Applications》](http://research.microsoft.com/pubs/219984/DeepLearningBook_RefsByLastFirstNames.pdf)
 
-介绍：这是一本来自微的研究员 li Peng和Dong Yu所著的关于深入学习的方法和应用的电子书
+介绍：这是一本来自微的研究员 li Peng和Dong Yu所著的关于深度学习的方法和应用的电子书
 
 * [《Machine Learning Summer School 2014》](http://pan.baidu.com/s/1pJ0ok7T)
 
