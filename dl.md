@@ -289,3 +289,11 @@
 * [《对话机器学习大神Michael Jordan：深度模型》](http://www.infoq.com/cn/news/2014/09/depth-model)
 
 介绍:对话机器学习大神Michael Jordan
+
+* [《Deep Learning 和 Knowledge Graph 引爆大数据革命》](http://blog.sina.com.cn/s/blog_46d0a3930101fswl.html)
+
+介绍:还有２，３部分。http://blog.sina.com.cn/s/blog_46d0a3930101gs5h.html
+
+* [《Deep Learning 教程翻译》](http://blog.sina.com.cn/s/blog_46d0a3930101h6nf.html)
+
+介绍:是Stanford 教授 Andrew Ng 的 Deep Learning 教程，国内的机器学习爱好者很热心的把这个教程翻译成了中文。如果你英语不好，可以看看这个
