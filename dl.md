@@ -297,3 +297,20 @@
 * [《Deep Learning 教程翻译》](http://blog.sina.com.cn/s/blog_46d0a3930101h6nf.html)
 
 介绍:是Stanford 教授 Andrew Ng 的 Deep Learning 教程，国内的机器学习爱好者很热心的把这个教程翻译成了中文。如果你英语不好，可以看看这个
+
+* [《Deep Learning 101》](http://markus.com/deep-learning-101/)
+
+介绍:因为近两年来，深度学习在媒体界被炒作很厉害（就像大数据）。其实很多人都还不知道什么是深度学习。这篇文章由浅入深。告诉你深度学究竟是什么！
+
+* [《UFLDL Tutorial》](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
+
+介绍:这是斯坦福大学做的一免费课程（很勉强），这个可以给你在深度学习的路上给你一个学习的思路。里面提到了一些基本的算法。而且告诉你如何去应用到实际环境中。
+
+* [《Toronto Deep Learning Demos》](http://deeplearning.cs.toronto.edu/)
+
+介绍:这是多伦多大学做的一个深度学习用来识别图片标签／图转文字的demo。是一个实际应用案例。有源码
+
+* [《Deep learning from the bottom up》](http://metacademy.org/roadmaps/rgrosse/deep_learning)
+
+介绍:机器学习模型，阅读这个内容需要有一定的基础。
+
