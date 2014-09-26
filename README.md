@@ -26,3 +26,6 @@ node-mysql中文文档:https://github.com/ty4z2008/Qix/blob/master/node.md
 资料地址：http://say.microdba.com
 
 
+##授权
+
+[MIT License](https://github.com/ty4z2008/Qix/blob/master/License.md)
