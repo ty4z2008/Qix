@@ -321,3 +321,23 @@
 * [《机器学习常见算法分类汇总》](http://www.ctocio.com/hotnews/15919.html)
 
 介绍: 机器学习无疑是当前数据分析领域的一个热点内容。很多人在平时的工作中都或多或少会用到机器学习的算法。本文为您总结一下常见的机器学习算法，以供您在工作和学习中参考.
+
+
+* [《Deep Learning（深度学习）学习笔记整理系列》](http://blog.csdn.net/zouxy09/article/details/8775360)
+
+介绍: 很多干货，而且作者还总结了好几个系列。另外还作者还了一个[文章导航](http://blog.csdn.net/zouxy09/article/details/14222605).非常的感谢作者总结。
+
+[Deep Learning（深度学习）学习笔记整理系列之（二）](http://blog.csdn.net/zouxy09/article/details/8775488)
+
+[Deep Learning（深度学习）学习笔记整理系列之（三）](http://blog.csdn.net/zouxy09/article/details/8775518)
+
+[Deep Learning（深度学习）学习笔记整理系列之（四）](http://blog.csdn.net/zouxy09/article/details/8775524)
+
+[Deep Learning（深度学习）学习笔记整理系列之（五）](http://blog.csdn.net/zouxy09/article/details/8777094)
+
+[Deep Learning（深度学习）学习笔记整理系列之（六）](http://blog.csdn.net/zouxy09/article/details/8781396)
+
+[Deep Learning（深度学习）学习笔记整理系列之（七）](http://blog.csdn.net/zouxy09/article/details/8781543)
+
+[DeepLearning（深度学习）学习笔记整理系列之（八）](http://blog.csdn.net/zouxy09/article/details/8782018)
+
