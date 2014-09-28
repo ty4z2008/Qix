@@ -341,3 +341,11 @@
 
 [DeepLearning（深度学习）学习笔记整理系列之（八）](http://blog.csdn.net/zouxy09/article/details/8782018)
 
+* [《Tutorials Session A - Deep Learning for Computer Vision》](http://research.microsoft.com/apps/video/default.aspx?id=206976&l=i)
+
+介绍:传送理由：Rob Fergus的用深度学习做计算机是觉的NIPS 2013教程。有mp4, mp3, pdf各种[下载](http://msrvideo.vo.msecnd.net/rmcvideos/206976/dl/206976.pdf) 他是纽约大学教授，目前也在Facebook工作，他2014年的8篇[论文](http://cs.nyu.edu/~fergus/pmwiki/pmwiki.php?n=PmWiki.Publications)
+
+* [《FudanNLP》](https://github.com/xpqiu/fnlp/)
+
+介绍:FudanNLP，这是一个复旦大学计算机学院开发的开源中文自然语言处理（NLP）工具包
+Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性标注、时间词抽取、语法分析等功能，对搜索引擎 文本分析等极为有价值。
