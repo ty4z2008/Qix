@@ -349,3 +349,7 @@
 
 介绍:FudanNLP，这是一个复旦大学计算机学院开发的开源中文自然语言处理（NLP）工具包
 Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性标注、时间词抽取、语法分析等功能，对搜索引擎 文本分析等极为有价值。
+
+* [《Open Sourcing ml-ease》](http://engineering.linkedin.com/large-scale-machine-learning/open-sourcing-ml-ease)
+
+介绍:LinkedIn 开源的机器学习工具包,支持单机, Hadoop cluster，和 Spark cluster 重点是 logistic regression 算法
