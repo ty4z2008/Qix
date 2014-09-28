@@ -353,3 +353,9 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Open Sourcing ml-ease》](http://engineering.linkedin.com/large-scale-machine-learning/open-sourcing-ml-ease)
 
 介绍:LinkedIn 开源的机器学习工具包,支持单机, Hadoop cluster，和 Spark cluster 重点是 logistic regression 算法
+
+* [《机器学习周刊》](http://ztl2004.github.io/MachineLearningWeekly/index.html)
+
+介绍:对于英语不好，但又很想学习机器学习的朋友。是一个大的福利。机器学习周刊目前主要提供中文版，还是面向广大国内爱好者，内容涉及机器学习、数据挖掘、并行系统、图像识别、人工智能、机器人等等。谢谢作者
+
+
