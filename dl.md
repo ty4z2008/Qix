@@ -358,4 +358,14 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:对于英语不好，但又很想学习机器学习的朋友。是一个大的福利。机器学习周刊目前主要提供中文版，还是面向广大国内爱好者，内容涉及机器学习、数据挖掘、并行系统、图像识别、人工智能、机器人等等。谢谢作者
 
+* [《线性代数》](http://v.163.com/special/opencourse/daishu.html)
 
+介绍：《线性代数》是《机器学习》的重要数学先导课程。其实《线代》这门课讲得浅显易懂特别不容易，如果一上来就讲逆序数及罗列行列式性质，很容易让学生失去学习的兴趣。我个人推荐的最佳《线性代数》课程是麻省理工Gilbert Strang教授的课程。 [课程主页](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+
+* [《Big-data》](http://blog.andreamostosi.name/big-data/)
+
+介绍:大数据数据处理资源、工具不完备列表，从框架、分布式编程、分布式文件系统、键值数据模型、图数据模型、数据可视化、列存储、机器学习等。很赞的资源汇总。
+
+* [《machine learning for smart dummies》](http://yahoolabs.tumblr.com/post/97839313996/machine-learning-for-smart-dummies)
+
+介绍:雅虎邀请了一名来自本古里安大学的访问学者，制作了一套关于机器学习的系列视频课程。本课程共分为7期，详细讲解了有关SVM, boosting, nearest neighbors, decision trees 等常规机器学习算法的理论基础知识。
