@@ -377,3 +377,12 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《How a Math Genius Hacked OkCupid to Find True Love》](http://www.wired.com/2014/01/how-to-hack-okcupid/all/)
 
 介绍:Wired杂志报道了UCLA数学博士Chris McKinlay （图1）通过大数据手段+机器学习方法破解婚恋网站配对算法找到真爱的故事,通过Python脚本控制着12个账号，下载了婚恋网站2万女用户的600万问题答案，对他们进行了统计抽样及聚类分析（图2，3），最后终于收获了真爱。科技改变命运！
+
+* [《Underactuated Robotics》](https://www.edx.org/course/mitx/mitx-6-832x-underactuated-robotics-3511)
+
+介绍:MIT的Underactuated Robotics于 2014年10月1日开课，该课属于MIT研究生级别的课程，对机器人和非线性动力系统感兴趣的朋友不妨可以挑战一下这门课程！
+
+* [《mllib实践经验(1)》](http://yanbohappy.sinaapp.com/?p=498)
+
+介绍:mllib实践经验分享
+
