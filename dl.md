@@ -389,3 +389,13 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Google Turns To Deep Learning Classification To Fight Web Spam》](http://www.seobythesea.com/2014/09/google-turns-deep-learning-classification-fight-web-spam/)
 
 介绍:Google用Deep Learning做的antispam(反垃圾邮件)
+
+* [《NLP常用信息资源》](https://github.com/memect/hao/blob/master/awesome/nlp.md)
+
+介绍:NLP常用信息资源* [《NLP常用信息资源》](https://github.com/memect/hao/blob/master/awesome/nlp.md)
+
+介绍:NLP常用信息资源
+
+* [《机器学习速查表》](https://github.com/soulmachine/machine-learning-cheat-sheet)
+
+介绍:机器学习速查表
