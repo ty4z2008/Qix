@@ -16,7 +16,7 @@
 
 介绍：在之前的 [Go语言的国际化支持(基于gettext-go)](http://my.oschina.net/chai2010/blog/190914)中, 讲到了如何翻译源代码中的字符串.
 
-* [	《Go语言资源自动回收技术》](http://my.oschina.net/chai2010/blog/161797)
+* [《Go语言资源自动回收技术》](http://my.oschina.net/chai2010/blog/161797)
 
 介绍：Go语言作为一个现代化的编程语言以及支持垃圾内存的自动回收特性(GC). 这篇文章主要介的是非内存资源的自动回收技术.
 
@@ -52,3 +52,7 @@
 * [《Go Web 编程》](https://github.com/astaxie/build-web-application-with-golang)
 
 介绍：这是一本开源书籍，本书的作者目前开发了一个开源框架[beego](beego.me)，非常的有名。就目前2014年10月2日截止。在github上面有超过3000多个star了
+
+* [《Building a testable Go web app》](https://sourcegraph.com/blog/building-a-testable-webapp)
+
+介绍：构建一个可测试的go web 应用，step by step 
