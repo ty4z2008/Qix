@@ -56,3 +56,25 @@
 * [《Building a testable Go web app》](https://sourcegraph.com/blog/building-a-testable-webapp)
 
 介绍：构建一个可测试的go web 应用，step by step 
+
+* [《Go名库讲解》](https://github.com/Unknwon/go-rock-libraries-showcases)
+
+介绍：随着 Go 语言的快速发展，各类实用、强大的官方库和第三方库层出不穷。但种类繁多与功能强大的同时，也给不少初学者带来了许多选择和使用上的困扰。很多同学因为时间和精力上的限制，无法很好地体验这些数量庞大的库。因此，作者特别制作本套教程，专门针对当中比较知名和受关注度较高的库进行基于 博客、示例和视频 的三位一体讲解。
+
+* [《Go编程基础》](https://github.com/Unknwon/go-fundamental-programming)
+
+介绍：作者就自身学习go语言的学习经历来讲解，并且讲述了作者在学习中遇到的坑。非常适合零基础的朋友
+
+* [《Go Web基础》](https://github.com/Unknwon/go-web-foundation)
+
+介绍：《Go编程基础》的第二部，本套教程将以搭建个人博客作为实战目标，由浅至深地讲解使用 Go 开发 Web 应用程序的必备知识与技巧。
+
+* [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)
+
+介绍：《The Way to Go》中文译本.
+
+
+
+
+
+
