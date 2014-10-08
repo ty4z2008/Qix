@@ -402,3 +402,11 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Best Papers vs. Top Cited Papers in Computer Science》](http://arnetminer.org/conferencebestpapers)
 
 介绍：从1996年开始在计算机科学的论文中被引用次数最多的论文
+
+* [《InfiniTAM: 基于深度图像的体数据集成框架》](http://mmcheng.net/zh/itam/)
+
+介绍：把今年的一个ACM Trans. on Graphics (TOG)论文中的代码整理为一个开源的算法框架，共享出来了。欢迎大家使用。可以实时的采集3D数据、重建出三维模型。Online learning，GPU Random forest，GPU CRF也会后续公开。
+
+* [《Hacker's guide to Neural Networks》](http://karpathy.github.io/neuralnets/)
+
+介绍：【神经网络黑客指南】现在，最火莫过于深度学习（Deep Learning），怎样更好学习它？可以让你在浏览器中，跑起深度学习效果的超酷开源项目convnetjs作者karpathy告诉你，最佳技巧是，当你开始写代码，一切将变得清晰。他刚发布了一本图书，不断在线更新
