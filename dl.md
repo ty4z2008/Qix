@@ -426,3 +426,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《A primer on deeping learning》](http://www.datarobot.com/blog/a-primer-on-deep-learning/)
 
 介绍：深度学习入门的初级读本
+
+* [《Machine learning is teaching us the secret to teaching 》](https://news.ycombinator.com/item?id=8379571)
+
+介绍：机器学习教会了我们什么？
