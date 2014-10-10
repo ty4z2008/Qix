@@ -415,3 +415,14 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍：前Google广告系统工程师Josh Wills 讲述工业界和学术界机器学习的异同,大实话
 
+* [《Deep Learning Sentiment Analysis for Movie Reviews using Neo4j》](http://www.kennybastani.com/2014/09/deep-learning-sentiment-analysis-for.html)
+
+介绍：使用[Neo4j](http://www.neo4j.org/) 做电影评论的情感分析。
+
+* [《DeepLearning.University – An Annotated Deep Learning Bibliography》](http://memkite.com/deep-learning-bibliography/)
+
+介绍：不仅是资料，而且还对有些资料做了注释。
+
+* [《A primer on deeping learning》](http://www.datarobot.com/blog/a-primer-on-deep-learning/)
+
+介绍：深度学习入门的初级读本
