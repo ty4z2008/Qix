@@ -430,3 +430,12 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Machine learning is teaching us the secret to teaching 》](https://news.ycombinator.com/item?id=8379571)
 
 介绍：机器学习教会了我们什么？
+
+* [《scikit-learn：用于机器学习的Python模块》](http://scikit-learn.org/stable/documentation.html)
+
+介绍：scikit-learn是在SciPy基础上构建的用于机器学习的Python模块。
+
+
+* [《对话机器学习大神Michael Jordan：解析领域中各类模型》](http://www.infoq.com/cn/news/2014/10/interview-michael-jordan)
+
+介绍：乔丹教授（Michael I. Jordan）教授是机器学习领域神经网络的大牛，他对深度学习、神经网络有着很浓厚的兴趣。因此，很多提问的问题中包含了机器学习领域的各类模型，乔丹教授对此一一做了解释和展望。
