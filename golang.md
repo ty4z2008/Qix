@@ -73,8 +73,8 @@
 
 介绍：《The Way to Go》中文译本.
 
+* [《Building Web Apps with Go》](http://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
 
-
-
+介绍：免费电子书,如何构建一个web app
 
 
