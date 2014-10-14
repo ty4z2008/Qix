@@ -439,3 +439,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《对话机器学习大神Michael Jordan：解析领域中各类模型》](http://www.infoq.com/cn/news/2014/10/interview-michael-jordan)
 
 介绍：乔丹教授（Michael I. Jordan）教授是机器学习领域神经网络的大牛，他对深度学习、神经网络有着很浓厚的兴趣。因此，很多提问的问题中包含了机器学习领域的各类模型，乔丹教授对此一一做了解释和展望。
+
+* [《A*搜索算法的可视化短教程》](http://www.redblobgames.com/pathfinding/a-star/introduction.html)
+
+介绍：A*搜索是人工智能基本算法，用于高效地搜索图中两点的最佳路径, 核心是 g(n)+h(n): g(n)是从起点到顶点n的实际代价，h(n)是顶点n到目标顶点的估算代价。[合集](https://github.com/memect/hao/issues/256)
