@@ -443,3 +443,19 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《A*搜索算法的可视化短教程》](http://www.redblobgames.com/pathfinding/a-star/introduction.html)
 
 介绍：A*搜索是人工智能基本算法，用于高效地搜索图中两点的最佳路径, 核心是 g(n)+h(n): g(n)是从起点到顶点n的实际代价，h(n)是顶点n到目标顶点的估算代价。[合集](https://github.com/memect/hao/issues/256)
+
+* [《基于云的自然语言处理开源项目FudanNLP》](http://code.csdn.net/news/2822123)
+
+介绍：本项目利用了Microsoft Azure，可以在几分种内完成NLP on Azure Website的部署，立即开始对FNLP各种特性的试用，或者以REST API的形式调用FNLP的语言分析功能
+
+* [《吴立德《概率主题模型&数据科学基础》》](http://www.youku.com/playlist_show/id_22935176.html)
+
+介绍：现任复旦大学首席教授、计算机软件博士生导师。计算机科学研究所副所长.内部课程
+
+* [《机器学习入门资源不完全汇总》》](http://ml.memect.com/article/machine-learning-guide.html)
+
+介绍：好东西的干货真的很多
+
+
+
+
