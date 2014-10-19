@@ -456,6 +456,13 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍：好东西的干货真的很多
 
+* [《收集从2014年开始深度学习文献》](http://memkite.com/deep-learning-bibliography/)
+
+介绍：从硬件、图像到健康、生物、大数据、生物信息再到量子计算等，Amund Tveit等维护了一个DeepLearning.University小项目：收集从2014年开始深度学习文献，相信可以作为深度学习的起点,[github](https://github.com/memkite/DeepLearningBibliography)
+
+* [《EMNLP上两篇关于股票趋势的应用论文 》](http://emnlp2014.org/papers/pdf/EMNLP2014148.pdf)
+
+介绍：EMNLP上两篇关于[stock trend](http://emnlp2014.org/papers/pdf/EMNLP2014148.pdf) 用到了deep model组织特征；[ Exploiting Social Relations and Sentiment for Stock Prediction](http://emnlp2014.org/papers/pdf/EMNLP2014120.pdf)用到了stock network。
 
 
 
