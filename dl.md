@@ -464,5 +464,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍：EMNLP上两篇关于[stock trend](http://emnlp2014.org/papers/pdf/EMNLP2014148.pdf) 用到了deep model组织特征；[ Exploiting Social Relations and Sentiment for Stock Prediction](http://emnlp2014.org/papers/pdf/EMNLP2014120.pdf)用到了stock network。
 
+* [《Bengio组（蒙特利尔大学LISA组）深度学习教程 》](http://deeplearning.net/tutorial/deeplearning.pdf)
 
+介绍：作者是深度学习一线大牛Bengio组写的教程，算法深入显出，还有实现代码，一步步展开。
 
