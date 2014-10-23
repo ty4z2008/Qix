@@ -468,3 +468,6 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍：作者是深度学习一线大牛Bengio组写的教程，算法深入显出，还有实现代码，一步步展开。
 
+* [《学习算法的Neural Turing Machine 》](http://arxiv.org/pdf/1410.5401v1.pdf)
+
+介绍：许多传统的机器学习任务都是在学习function，不过谷歌目前有开始学习算法的趋势。谷歌另外的这篇学习Python程序的[Learning to Execute](http://arxiv.org/pdf/1410.4615v1.pdf)也有相似之处
