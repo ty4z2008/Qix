@@ -475,3 +475,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Learning to Rank for Information Retrieval and Natural Language Processing》](http://www.morganclaypool.com/doi/abs/10.2200/S00607ED2V01Y201410HLT026)
 
 介绍：作者是华为技术有限公司，诺亚方舟实验室，首席科学家的李航博士写的关于信息检索与自然语言处理的文章
+
+* [《Rumor has it: Identifying Misinformation in Microblogs》](http://www.aclweb.org/anthology/D11-1147)
+
+介绍：利用机用器学习在谣言的判别上的应用,此外还有两个。一个是识别垃圾与虚假信息的[paper](http://digital.cs.usu.edu/~kyumin/tutorial/www-tutorial.pdf).还有一个是[网络舆情及其分析技术](http://www.datatang.com/news/details_1319.htm)
