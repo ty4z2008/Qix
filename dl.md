@@ -483,3 +483,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《R机器学习实践》](http://study.163.com/course/introduction/854064.htm)
 
 介绍：该课程是网易公开课的收费课程，不贵，超级便宜。主要适合于对利用R语言进行机器学习，数据挖掘感兴趣的人。
+
+* [《大数据分析：机器学习算法实现的演化》](http://ifeve.com/bigdataanalyticsbeyondhadoop_evolutionofmlrealizaton/)
+
+介绍：本章中作者总结了三代机器学习算法实现的演化：第一代非分布式的， 第二代工具如Mahout和Rapidminer实现基于Hadoop的扩展，第三代如Spark和Storm实现了实时和迭代数据处理。[BIG DATA ANALYTICS BEYOND HADOOP](http://ifeve.com/wp-content/uploads/2014/05/big-data-analytics-beyond-hadoop.pdf)
