@@ -487,3 +487,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《大数据分析：机器学习算法实现的演化》](http://ifeve.com/bigdataanalyticsbeyondhadoop_evolutionofmlrealizaton/)
 
 介绍：本章中作者总结了三代机器学习算法实现的演化：第一代非分布式的， 第二代工具如Mahout和Rapidminer实现基于Hadoop的扩展，第三代如Spark和Storm实现了实时和迭代数据处理。[BIG DATA ANALYTICS BEYOND HADOOP](http://ifeve.com/wp-content/uploads/2014/05/big-data-analytics-beyond-hadoop.pdf)
+
+* [《图像处理，分析与机器视觉》](http://book.douban.com/subject/5921462/)
+
+介绍：讲计算机视觉的四部奇书（应该叫经典吧）之一，另外三本是Hartley的《多图几何》、Gonzalez的《数字图像处理》、Rafael C.Gonzalez / Richard E.Woods 的[《数字图像处理》](http://book.douban.com/subject/1106342/)
