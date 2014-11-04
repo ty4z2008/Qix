@@ -77,4 +77,30 @@
 
 介绍：免费电子书,如何构建一个web app
 
+* [《Golang generate 草案 》](http://bms.tratao.com/desktop/doc/e7ef69ebefbf43e35d825a07ee232f17)
 
+介绍：Golang generate 草案,翻译自[Go generate: A Proposal](https://docs.google.com/document/d/1V03LUfjSADDooDMhe-_K59EgpTEm3V8uvQRuNMAEnjg/edit?pli=1)
+
+* [《Go Object Oriented Design 》](http://nathany.com/good/)
+
+介绍：golang的面向对象设计
+
+* [《 Web-based IDE for Teams using Golang. 》](https://github.com/b3log/wide)
+
+介绍：使用golang编写的web ide
+
+* [《 Fluent: HTTP client for Golang. With timeout, retries and exponential back-off 》](https://github.com/lafikl/fluent)
+
+介绍：Fluent HTTP client for Golang. With timeout, retries and exponential back-off support.
+
+* [《 Go 1.4 on Android》](https://www.reddit.com/r/golang/comments/2kv0s1/go_14_on_android/)
+
+介绍：Go 1.4 将支持 Android
+
+* [《 Making and Receiving Phone Calls With Golang》](https://www.twilio.com/blog/2014/10/making-and-receiving-phone-calls-with-golang.html)
+
+介绍：使用Golang打电话,接电话
+
+* [《 introduce Resources for Go》](http://codecondo.com/golang-resources/)
+
+介绍：国外的Go资源
