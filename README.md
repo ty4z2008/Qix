@@ -3,6 +3,8 @@
 ##About Me
 
 微博:[@廖君_Jun](http://weibo.com/ty4z2008)
+邮箱:ty4z2008@gmail.com
+我的Startup News:这个里面有很多干货,差不多每天都在更新。第一是方便自己，第二个可以分享给大家一通进步。"厨师的分享"[Startup News](http://news.dbanotes.net/saved?id=websec)
 
 **NOTE：** 自己还是一个学生，第一次翻译。不恰当的地方还希望不吝批评。联系方式可以直接微博AT我!
 ##个人翻译项目
