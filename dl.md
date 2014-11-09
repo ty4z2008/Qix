@@ -491,3 +491,21 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《图像处理，分析与机器视觉》](http://book.douban.com/subject/5921462/)
 
 介绍：讲计算机视觉的四部奇书（应该叫经典吧）之一，另外三本是Hartley的《多图几何》、Gonzalez的《数字图像处理》、Rafael C.Gonzalez / Richard E.Woods 的[《数字图像处理》](http://book.douban.com/subject/1106342/)
+
+* [《LinkedIn最新的推荐系统文章Browsemaps》](http://pan.baidu.com/s/1sjFeLTN)
+
+介绍：里面基本没涉及到具体算法，但作者介绍了CF在LinkedIn的很多应用，以及他们在做推荐过程中获得的一些经验。最后一条经验是应该监控log数据的质量，因为推荐的质量很依赖数据的质量！
+
+* [《初学者如何查阅自然语言处理（NLP）领域学术资料 》](http://blog.sina.com.cn/s/blog_574a437f01019poo.html)
+
+介绍：初学者如何查阅自然语言处理（NLP）领域学术资料
+
+* [《树莓派的人脸识别教程 》](http://www.open-electronics.org/raspberry-pi-and-the-camera-pi-module-face-recognition-tutorial/)
+
+介绍：用树莓派和相机模块进行人脸识别
+
+* [《利用深度学习与大数据构建对话系统  》](http://www.hangli-hl.com/uploads/3/1/6/8/3168008/short_text_conversation_mla.pdf)
+
+介绍：如何利用深度学习与大数据构建对话系统 
+
+
