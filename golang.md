@@ -104,3 +104,7 @@
 * [《 introduce Resources for Go》](http://codecondo.com/golang-resources/)
 
 介绍：国外的Go资源
+
+* [《 introduce Resources for Go》](https://github.com/avelino/awesome-go)
+
+介绍：A curated list of awesome Go frameworks, libraries and software 
