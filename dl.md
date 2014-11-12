@@ -508,4 +508,6 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍：如何利用深度学习与大数据构建对话系统 
 
+* [《经典论文Leo Breiman：Statistical Modeling: The Two Cultures  》](http://lear.inrialpes.fr/people/mairal/resources/pdf/review_sparse_arxiv.pdf)
 
+介绍：Francis Bach合作的有关稀疏建模的新综述(书)：Sparse Modeling for Image and Vision Processing，内容涉及Sparsity, Dictionary Learning, PCA, Matrix Factorization等理论，以及在图像和视觉上的应用，而且第一部分关于Why does the l1-norm induce sparsity的解释也很不错。
