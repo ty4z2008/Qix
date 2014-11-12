@@ -511,3 +511,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《经典论文Leo Breiman：Statistical Modeling: The Two Cultures  》](http://lear.inrialpes.fr/people/mairal/resources/pdf/review_sparse_arxiv.pdf)
 
 介绍：Francis Bach合作的有关稀疏建模的新综述(书)：Sparse Modeling for Image and Vision Processing，内容涉及Sparsity, Dictionary Learning, PCA, Matrix Factorization等理论，以及在图像和视觉上的应用，而且第一部分关于Why does the l1-norm induce sparsity的解释也很不错。
+
+* [《Reproducing Kernel Hilbert Space 》](http://www.umiacs.umd.edu/~hal/docs/daume04rkhs.pdf)
+
+介绍：RKHS是机器学习中重要的概念，其在large margin分类器上的应用也是广为熟知的。如果没有较好的数学基础，直接理解RKHS可能会不易。本文从基本运算空间讲到Banach和Hilbert空间，深入浅出，一共才12页。
