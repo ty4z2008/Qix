@@ -515,3 +515,11 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Reproducing Kernel Hilbert Space 》](http://www.umiacs.umd.edu/~hal/docs/daume04rkhs.pdf)
 
 介绍：RKHS是机器学习中重要的概念，其在large margin分类器上的应用也是广为熟知的。如果没有较好的数学基础，直接理解RKHS可能会不易。本文从基本运算空间讲到Banach和Hilbert空间，深入浅出，一共才12页。
+
+* [《Hacker's guide to Neural Networks 》](http://karpathy.github.io/neuralnets/)
+
+介绍：许多同学对于机器学习及深度学习的困惑在于，数学方面已经大致理解了，但是动起手来却不知道如何下手写代码。斯坦福深度学习博士Andrej Karpathy写了一篇实战版本的深度学习及机器学习教程，手把手教你用Javascript写神经网络和SVM.
+
+* [《【语料库】语料库资源汇总 》](http://blog.csdn.net/pandalibaba/article/details/17409395)
+
+介绍：【语料库】语料库资源汇总
