@@ -108,3 +108,7 @@
 * [《 introduce Resources for Go》](https://github.com/avelino/awesome-go)
 
 介绍：A curated list of awesome Go frameworks, libraries and software 
+
+* [《weekly》](https://github.com/zenany/weekly)
+
+介绍：汇总平时看到的好文章，技术、产品、管理均有，尽量保证一周汇总一篇
