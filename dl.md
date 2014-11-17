@@ -496,11 +496,11 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍：里面基本没涉及到具体算法，但作者介绍了CF在LinkedIn的很多应用，以及他们在做推荐过程中获得的一些经验。最后一条经验是应该监控log数据的质量，因为推荐的质量很依赖数据的质量！
 
-* [《初学者如何查阅自然语言处理（NLP）领域学术资料 》](http://blog.sina.com.cn/s/blog_574a437f01019poo.html)
+* [《初学者如何查阅自然语言处理（NLP）领域学术资料》](http://blog.sina.com.cn/s/blog_574a437f01019poo.html)
 
 介绍：初学者如何查阅自然语言处理（NLP）领域学术资料
 
-* [《树莓派的人脸识别教程 》](http://www.open-electronics.org/raspberry-pi-and-the-camera-pi-module-face-recognition-tutorial/)
+* [《树莓派的人脸识别教程》](http://www.open-electronics.org/raspberry-pi-and-the-camera-pi-module-face-recognition-tutorial/)
 
 介绍：用树莓派和相机模块进行人脸识别
 
@@ -512,18 +512,51 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍：Francis Bach合作的有关稀疏建模的新综述(书)：Sparse Modeling for Image and Vision Processing，内容涉及Sparsity, Dictionary Learning, PCA, Matrix Factorization等理论，以及在图像和视觉上的应用，而且第一部分关于Why does the l1-norm induce sparsity的解释也很不错。
 
-* [《Reproducing Kernel Hilbert Space 》](http://www.umiacs.umd.edu/~hal/docs/daume04rkhs.pdf)
+* [《Reproducing Kernel Hilbert Space》](http://www.umiacs.umd.edu/~hal/docs/daume04rkhs.pdf)
 
 介绍：RKHS是机器学习中重要的概念，其在large margin分类器上的应用也是广为熟知的。如果没有较好的数学基础，直接理解RKHS可能会不易。本文从基本运算空间讲到Banach和Hilbert空间，深入浅出，一共才12页。
 
-* [《Hacker's guide to Neural Networks 》](http://karpathy.github.io/neuralnets/)
+* [《Hacker's guide to Neural Networks》](http://karpathy.github.io/neuralnets/)
 
 介绍：许多同学对于机器学习及深度学习的困惑在于，数学方面已经大致理解了，但是动起手来却不知道如何下手写代码。斯坦福深度学习博士Andrej Karpathy写了一篇实战版本的深度学习及机器学习教程，手把手教你用Javascript写神经网络和SVM.
 
-* [《【语料库】语料库资源汇总 》](http://blog.csdn.net/pandalibaba/article/details/17409395)
+* [《【语料库】语料库资源汇总》](http://blog.csdn.net/pandalibaba/article/details/17409395)
 
 介绍：【语料库】语料库资源汇总
 
-* [《机器学习算法之旅 》](http://blog.jobbole.com/60809/)
+* [《机器学习算法之旅》](http://blog.jobbole.com/60809/)
 
 介绍：本文会过一遍最流行的机器学习算法，大致了解哪些方法可用，很有帮助。
+
+* [《Reproducible Research in Computational Science》](http://www.csee.wvu.edu/~xinl/source.html)
+
+介绍：这个里面有很多关于机器学习、信号处理、计算机视觉、深入学习、神经网络等领域的大量源代码（或可执行代码）及相关论文。科研写论文的好资源
+
+* [《NYU 2014年的深度学习课程资料》](http://cilvr.nyu.edu/doku.php?id=deeplearning:slides:start)
+
+介绍：NYU 2014年的深度学习课程资料，有视频
+
+* [《计算机视觉数据集不完全汇总》](https://github.com/memect/hao/blob/master/awesome/computer-vision-dataset.md)
+
+介绍：计算机视觉数据集不完全汇总
+
+* [《Machine Learning Open Source Software》](http://mloss.org/software/)
+
+介绍：机器学习开源软件
+
+* [《LIBSVM》](http://www.csie.ntu.edu.tw/~cjlin/libsvm/)
+
+介绍： A Library for Support Vector Machines
+
+* [《Support Vector Machines》](http://www.support-vector-machines.org/index.html)
+
+介绍：  [数据挖掘十大经典算法](files.cnblogs.com/tekson/数据挖掘之经典算法.doc)之一
+
+* [《100 Best GitHub: Deep Learning》](http://meta-guide.com/software-meta-guide/100-best-github-deep-learning/)
+
+介绍：  github上面100个非常棒的项目
+
+
+
+
+
