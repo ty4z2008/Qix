@@ -304,7 +304,7 @@
 
 * [《UFLDL Tutorial》](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 
-介绍:这是斯坦福大学做的一免费课程（很勉强），这个可以给你在深度学习的路上给你一个学习的思路。里面提到了一些基本的算法。而且告诉你如何去应用到实际环境中。
+介绍:这是斯坦福大学做的一免费课程（很勉强），这个可以给你在深度学习的路上给你一个学习的思路。里面提到了一些基本的算法。而且告诉你如何去应用到实际环境中。[中文版](http://ufldl.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)
 
 * [《Toronto Deep Learning Demos》](http://deeplearning.cs.toronto.edu/)
 
@@ -571,3 +571,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《CIKM数据挖掘竞赛夺冠算法-陈运文》](http://www.52nlp.cn/cikm-competition-topdata)
 
 介绍：CIKM Cup(或者称为CIKM Competition)是ACM CIKM举办的国际数据挖掘竞赛的名称。
+
+* [《Geoffrey E. Hinton》](http://www.cs.toronto.edu/~hinton/)
+
+介绍：杰弗里·埃弗里斯特·辛顿 FRS是一位英国出生的计算机学家和心理学家，以其在神经网络方面的贡献闻名。辛顿是反向传播算法和对比散度算法的发明人之一，也是深度学习的积极推动者.
