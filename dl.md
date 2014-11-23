@@ -546,17 +546,28 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 * [《LIBSVM》](http://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 
-介绍： A Library for Support Vector Machines
+介绍：A Library for Support Vector Machines
 
 * [《Support Vector Machines》](http://www.support-vector-machines.org/index.html)
 
-介绍：  [数据挖掘十大经典算法](files.cnblogs.com/tekson/数据挖掘之经典算法.doc)之一
+介绍：[数据挖掘十大经典算法](files.cnblogs.com/tekson/数据挖掘之经典算法.doc)之一
 
 * [《100 Best GitHub: Deep Learning》](http://meta-guide.com/software-meta-guide/100-best-github-deep-learning/)
 
-介绍：  github上面100个非常棒的项目
+介绍：github上面100个非常棒的项目
 
+* [《加州大学欧文分校(UCI)机器学习数据集仓库》](http://archive.ics.uci.edu/ml)
 
+介绍：当前加州大学欧文分校为机器学习社区维护着306个数据集。[查询数据集](http://archive.ics.uci.edu/ml/datasets.html)
 
+* [《Andrej Karpathy个人主页》](http://cs.stanford.edu/people/karpathy/)
 
+介绍：Andrej Karpathy 是斯坦福大学Li Fei-Fei的博士生，使用机器学习在图像、视频语义分析领域取得了科研和工程上的突破，发的文章不多，但每个都很扎实，在每一个问题上都做到了state-of-art.
 
+* [《Andrej Karpathy的深度强化学习演示》](http://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html)
+
+介绍：Andrej Karpathy的深度强化学习演示，[论文在这里](http://arxiv.org/pdf/1312.5602v1.pdf)
+
+* [《CIKM数据挖掘竞赛夺冠算法-陈运文》](http://www.52nlp.cn/cikm-competition-topdata)
+
+介绍：CIKM Cup(或者称为CIKM Competition)是ACM CIKM举办的国际数据挖掘竞赛的名称。
