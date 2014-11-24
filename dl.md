@@ -575,3 +575,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Geoffrey E. Hinton》](http://www.cs.toronto.edu/~hinton/)
 
 介绍：杰弗里·埃弗里斯特·辛顿 FRS是一位英国出生的计算机学家和心理学家，以其在神经网络方面的贡献闻名。辛顿是反向传播算法和对比散度算法的发明人之一，也是深度学习的积极推动者.
+
+* [《自然语言处理的深度学习理论与实际》](http://cikm2014.fudan.edu.cn/cikm2014/Tpl/Public/slides/CIKM14_tutorial_slides_6.pdf)
+
+介绍：微软研究院深度学习技术中心在CIKM2014 上关于《自然语言处理的深度学习理论与实际》教学讲座的幻灯片
