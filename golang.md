@@ -112,3 +112,11 @@
 * [《weekly》](https://github.com/zenany/weekly)
 
 介绍：汇总平时看到的好文章，技术、产品、管理均有，尽量保证一周汇总一篇
+
+* [《gorename: easy refactoring tool for Golang》](https://texlution.com/post/gorename/)
+
+介绍：一个简单实用的 Go 语言重构工具
+
+* [《码农周刊分类整理Golang》](https://github.com/nemoTyrant/manong#GO)
+
+介绍：码农周刊分类整理Golang
