@@ -97,3 +97,11 @@
 * [《So You Want Another PostgreSQL Database？》](http://engineroom.trackmaven.com/blog/so-you-want-another-postgresql-database-part-1)
 
 介绍：还有[part2](http://engineroom.trackmaven.com/blog/so-you-want-another-postgresql-database-part-2/)
+
+* [《PostgreSQL Rising》](http://rob.conery.io/2012/07/19/postgresql-rising/)
+
+介绍：PostgreSQL的成长
+
+* [《Simple API with Nginx and PostgreSQL》](http://rny.io/nginx/postgresql/2013/07/26/simple-api-with-nginx-and-postgresql.html)
+
+介绍：如何建一个简单的REST API 仅仅使用 Nginx 和 PostgreSQL.如果不理解REST API这里推荐[RESTful API 设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)、[理解RESTful架构](http://www.ruanyifeng.com/blog/2011/09/restful.html)
