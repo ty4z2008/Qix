@@ -65,3 +65,35 @@
 * [《pgFouine》](http://www.pgbarman.org/)
 
 介绍：pgFouine 是一个 PostgreSQL 的日志分析软件，可以让你对 PostgreSQL 数据库的运行状态有个清晰的了解，同时对一些慢查询、使用频率最高的查询、错误生成相应的报表和图表。
+
+* [《Substitute PostgreSQL for Your NoSQL Needs》](http://news.dice.com/2014/11/24/substitute-postgresql-nosql-needs/)
+
+介绍：用PostgreSQL替换你的NoSQL。
+
+* [《Representing Trees in PostgreSQL》](http://woss.name/articles/representing-trees-in-postgresql/)
+
+介绍：Representing Trees in PostgreSQL
+
+* [《Michael Paquier》](http://michael.otacoo.com/)
+
+介绍：推荐一个博客，作者是一位日本的开发者。但是文章写的挺好的。是英文！！
+
+* [《Using Writeable CTEs to Improve Performance in PostgreSQL 》](http://omniti.com/seeds/writable-ctes-improve-performance)
+
+介绍：使用CTEs来提升你的数据库性能
+
+* [《Fast pagination on PostgreSQL》](http://chrisdone.com/posts/postgresql-pagination )
+
+介绍：PostgreSQL的快速分页
+
+* [《Upgrading your PostgreSQL cluster from 9.3 to 9.4 》](https://www.florian-schlachter.de/post/upgrading-postgres-9-3-9-4/)
+
+介绍：把你的PostgreSQL集群从9.3升级到9.4.
+
+* [《Making PostgreSQL scale Hadoop-style: Benchmark numbers》](http://www.citusdata.com/blog/86-making-postgresql-scale-hadoop-style)
+
+介绍：Making PostgreSQL scale Hadoop-style: Benchmark numbers
+
+* [《So You Want Another PostgreSQL Database？》](http://engineroom.trackmaven.com/blog/so-you-want-another-postgresql-database-part-1)
+
+介绍：还有[part2](http://engineroom.trackmaven.com/blog/so-you-want-another-postgresql-database-part-2/)
