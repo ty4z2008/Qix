@@ -579,3 +579,19 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《自然语言处理的深度学习理论与实际》](http://cikm2014.fudan.edu.cn/cikm2014/Tpl/Public/slides/CIKM14_tutorial_slides_6.pdf)
 
 介绍：微软研究院深度学习技术中心在CIKM2014 上关于《自然语言处理的深度学习理论与实际》教学讲座的幻灯片
+
+* [《用大数据和机器学习做股票价格预测》](http://eugenezhulenev.com/blog/2014/11/14/stock-price-prediction-with-big-data-and-machine-learning/)
+
+介绍： 本文基于<支持向量机的高频限价订单的动态建模>采用了 Apache Spark和Spark MLLib从纽约股票交易所的订单日志数据构建价格运动预测模型。(股票有风险，投资谨慎)GitHub源代码托管[地址](https://github.com/ezhulenev/orderbook-dynamics).
+
+* [《关于机器学习的若干理论问题》](http://dataunion.org/?p=2011)
+
+介绍：徐宗本 院士将于热爱机器学习的小伙伴一起探讨有关于机器学习的几个理论性问题，并给出一些有意义的结论。最后通过一些实例来说明这些理论问题的物理意义和实际应用价值。
+
+* [《深度学习在自然语言处理的应用》](http://vdisk.weibo.com/s/D2szyg_bBVM0)
+
+介绍：作者还著有《这就是搜索引擎：核心技术详解》一书，主要是介绍应用层的东西
+
+* [《Undergraduate machine learning at UBC》](http://www.cs.ubc.ca/~nando/340-2012/index.php)
+
+介绍：机器学习课程
