@@ -599,3 +599,23 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《人脸识别必读的N篇文章》](http://blog.sina.com.cn/s/blog_6ae183910101h4jr.html)
 
 介绍：人脸识别必读文章推荐
+
+* [《推荐系统经典论文文献及业界应用》](http://semocean.com/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E7%BB%8F%E5%85%B8%E8%AE%BA%E6%96%87%E6%96%87%E7%8C%AE%E5%8F%8A%E8%B5%84%E6%96%99/)
+
+介绍：推荐系统经典论文文献
+
+* [《人脸识别必读的N篇文章》](http://blog.sina.com.cn/s/blog_6ae183910101h4jr.html)
+
+介绍：人脸识别必读文章推荐
+
+* [《第十二届中国"机器学习及其应用"研讨会PPT》](http://see.xidian.edu.cn/vipsl/MLA2014/program.htm)
+
+介绍：第十二届中国"机器学习及其应用"研讨会PPT
+
+* [《统计机器学习》](http://ocw.sjtu.edu.cn/G2S/OCW/cn/CourseDetails.htm?Id=398)
+
+介绍：统计学习是关于计算机基于数据构建的概率统计模型并运用模型对数据进行预测和分析的一门科学，统计学习也成为统计机器学习。课程来自上海交通大学
+
+* [《机器学习导论》](http://ocw.sjtu.edu.cn/G2S/OCW/cn/CourseDetails.htm?Id=397)
+
+介绍：机器学习的目标是对计算机编程，以便使用样本数据或以往的经验来解决给定的问题.
