@@ -595,3 +595,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Undergraduate machine learning at UBC》](http://www.cs.ubc.ca/~nando/340-2012/index.php)
 
 介绍：机器学习课程
+
+* [《人脸识别必读的N篇文章》](http://blog.sina.com.cn/s/blog_6ae183910101h4jr.html)
+
+介绍：人脸识别必读文章推荐
