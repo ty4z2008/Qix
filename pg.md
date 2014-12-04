@@ -105,3 +105,23 @@
 * [《Simple API with Nginx and PostgreSQL》](http://rny.io/nginx/postgresql/2013/07/26/simple-api-with-nginx-and-postgresql.html)
 
 介绍：如何建一个简单的REST API 仅仅使用 Nginx 和 PostgreSQL.如果不理解REST API这里推荐[RESTful API 设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)、[理解RESTful架构](http://www.ruanyifeng.com/blog/2011/09/restful.html)
+
+* [《hypervault》](https://github.com/tetsuo/hypervault)
+
+介绍：PostgreSQL connection manager for scalability freaks.
+
+* [《PostgreSQL as a benchmarking tool》](https://www.pgcon.org/2014/schedule/attachments/309_PG_as_bench_mark.pdf)
+
+介绍：PostgreSQL as a benchmarking tool
+
+* [《2014年 PGcon会议paper》](http://www.pgcon.org/2014/schedule/index.en.html)
+
+介绍：2014年 PGcon会议paper，进去之后你还可以发现往年的paper。
+
+* [《PSequel》](http://www.psequel.com/)
+
+介绍： Mac OS X端的PostgreSQL图形管理工具
+
+
+
+
