@@ -623,3 +623,11 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《CIKM 2014主题报告的幻灯片》](http://cikm2014.fudan.edu.cn/)
 
 介绍：CIKM 2014 Jeff Dean、Qi Lu、Gerhard Weikum的主题报告的幻灯片， Alex Smola、Limsoon Wong、Tong Zhang、Chih-Jen Lin的Industry Track报告的幻灯片
+
+* [《人工智能和机器学习领域有趣的开源项目》](http://deeplearning.net/software_links/)
+
+介绍：部分中文[列表](http://code.csdn.net/news/2822818)
+
+* [《机器学习经典算法详解及Python实现--基于SMO的SVM分类器》](http://blog.csdn.net/suipingsp/article/details/41645779)
+
+介绍:此外作者还有一篇[元算法、AdaBoost　python实现文章](http://blog.csdn.net/suipingsp/article/details/41722435)
