@@ -122,6 +122,23 @@
 
 介绍： Mac OS X端的PostgreSQL图形管理工具
 
+* [《PostgreSQL’s Powerful New Join Type:LATERAL》](http://blog.heapanalytics.com/postgresqls-powerful-new-join-type-lateral/)
+
+介绍： PostgreSQL’s Powerful New Join Type: LATERAL，这个类型是在9.3的版本中开始的。
+
+* [《PostgreSQL Hardware Performance Tuning》](http://momjian.us/main/writings/pgsql/hw_performance/)
+
+介绍：PostgreSQL的硬件性能调优。
+
+* [《PostgreSQL: Introduction and Concepts Bruce Momjian》](http://momjian.us/main/writings/pgsql/aw_pgsql_book/)
+
+介绍：入门型电子书籍,书有点老了2001年的了。此外这本书的作者还有一个[资源页](http://momjian.us/main/writings/pgsql/)，里面有很多的干货。作者是enterpriseDB的工程师。经典文章还有[Writing PostgreSQL Applications](http://momjian.us/main/writings/pgsql/writing_apps.pdf).
+
+
+
+
+
+
 
 
 
