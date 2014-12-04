@@ -631,3 +631,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《机器学习经典算法详解及Python实现--基于SMO的SVM分类器》](http://blog.csdn.net/suipingsp/article/details/41645779)
 
 介绍:此外作者还有一篇[元算法、AdaBoost　python实现文章](http://blog.csdn.net/suipingsp/article/details/41722435)
+
+* [《Numerical Optimization: Understanding L-BFGS》](http://aria42.com/blog/2014/12/understanding-lbfgs/)
+
+介绍:加州伯克利大学博士Aria Haghighi写了一篇超赞的数值优化博文，从牛顿法讲到拟牛顿法，再讲到BFGS以及L-BFGS, 图文并茂，还有伪代码。强烈推荐。
