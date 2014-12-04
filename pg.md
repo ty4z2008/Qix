@@ -134,11 +134,21 @@
 
 介绍：入门型电子书籍,书有点老了2001年的了。此外这本书的作者还有一个[资源页](http://momjian.us/main/writings/pgsql/)，里面有很多的干货。作者是enterpriseDB的工程师。经典文章还有[Writing PostgreSQL Applications](http://momjian.us/main/writings/pgsql/writing_apps.pdf).
 
+* [《Compiling PLV8 with Postgres Plus Advanced Server》](http://blogs.enterprisedb.com/2014/12/03/compiling-plv8-with-postgres-plus-advanced-server-2/)
 
+介绍：[什么是PLV8？](https://code.google.com/p/plv8js/wiki/PLV8),魅力就是:用js写SQL
 
+* [《fosdem 2014年PostgreSQL议题(含视频)》](https://archive.fosdem.org/2014/schedule/track/postgresql/)
 
+介绍:[fosdem](http://en.wikipedia.org/wiki/FOSDEM)是一个开源性组织,这个只是会议的一部分，从2001年开始到目前历经13年的[资料](https://archive.fosdem.org/)都被保存着，如果你有需要可以自己去翻阅。干货很多，另外2015年的议题已经开始筹备了[官方地址](https://fosdem.org/2015/)
 
+*[《PostgreSQL Now Has Logical Decoding》](http://rhaas.blogspot.jp/2014/03/postgresql-now-has-logical-decoding.html)
 
+介绍：PostgreSQL Now Has Logical Decoding,此外作者也是一位enterpriseDB的工程师，他的其他[博文](http://rhaas.blogspot.jp/)也很精彩.
+
+* [《美国2014年pgconf paper》](http://www.pgconf.us/2014/schedule/)
+
+介绍：美国2014年pgconf paper。
 
 
 
