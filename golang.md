@@ -120,3 +120,7 @@
 * [《码农周刊分类整理Golang》](https://github.com/nemoTyrant/manong#GO)
 
 介绍：码农周刊分类整理Golang
+
+* [《Go语言诞生5周年！10大Go语言开源项目推荐》](http://code.csdn.net/news/2822941)
+
+介绍：Go语言诞生5周年！10大Go语言开源项目推荐
