@@ -150,5 +150,13 @@
 
 介绍：美国2014年pgconf paper。
 
+* [《mysql2postgres》](https://github.com/maxlapshin/mysql2postgres)
+
+介绍：把MySQL迁移至postgreSQL?不如试试这个工吧
+
+* [《What are the advantages and disadvantages of using PostgreSQL over MySQL?》](https://www.quora.com/What-are-the-advantages-and-disadvantages-of-using-PostgreSQL-over-MySQL)
+
+介绍：使用PG与MySQL比较有那些有点和缺点？
+
 
 
