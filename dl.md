@@ -635,3 +635,12 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Numerical Optimization: Understanding L-BFGS》](http://aria42.com/blog/2014/12/understanding-lbfgs/)
 
 介绍:加州伯克利大学博士Aria Haghighi写了一篇超赞的数值优化博文，从牛顿法讲到拟牛顿法，再讲到BFGS以及L-BFGS, 图文并茂，还有伪代码。强烈推荐。
+
+* [《简明深度学习方法概述（一）》](http://www.goldencui.org/2014/12/02/%E7%AE%80%E6%98%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E6%A6%82%E8%BF%B0%EF%BC%88%E4%B8%80%EF%BC%89/)
+
+介绍:还有续集[简明深度学习方法概述（二）](http://www.goldencui.org/2014/12/06/%E7%AE%80%E6%98%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E6%A6%82%E8%BF%B0%EF%BC%88%E4%BA%8C%EF%BC%89/)
+
+* [《R language for programmers》](http://www.johndcook.com/blog/r_language_for_programmers/)
+
+介绍:Ｒ语言程序员私人定制版
+
