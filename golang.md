@@ -124,3 +124,7 @@
 * [《Go语言诞生5周年！10大Go语言开源项目推荐》](http://code.csdn.net/news/2822941)
 
 介绍：Go语言诞生5周年！10大Go语言开源项目推荐
+
+* [《Interface Upgrades in Go》](http://avtok.com/2014/11/05/interface-upgrades.html)
+
+介绍：Interface的前世今生。
