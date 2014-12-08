@@ -158,5 +158,7 @@
 
 介绍：使用PG与MySQL比较有那些有点和缺点？
 
+* [《Postgres full-text search is Good Enough!》](http://blog.lostpropertyhq.com/postgres-full-text-search-is-good-enough/)
 
+介绍：Postgres的全文查询其实也很棒：多语言支持，模糊查询等，这篇文章说的很详细。而且里面有很多实际例子
 
