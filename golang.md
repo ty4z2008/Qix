@@ -128,3 +128,7 @@
 * [《Interface Upgrades in Go》](http://avtok.com/2014/11/05/interface-upgrades.html)
 
 介绍：Interface的前世今生。
+
+* [《Pool - 一个 Go 语言实现的网络连接池》](https://github.com/fatih/pool)
+
+介绍：一个 Go 语言实现的网络连接池
