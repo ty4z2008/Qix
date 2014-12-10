@@ -132,3 +132,7 @@
 * [《Pool - 一个 Go 语言实现的网络连接池》](https://github.com/fatih/pool)
 
 介绍：一个 Go 语言实现的网络连接池
+
+* [《Patchwork Toolkit》](http://patchwork-toolkit.github.io/)
+
+介绍：一个物联网相关的Go语言框架
