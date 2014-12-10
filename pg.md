@@ -8,6 +8,10 @@
 
 介绍：PG9.1中文翻译文档
 
+* [《PostgreSQL从菜鸟到专家(中译稿 by 洞庭湖的泥鳅)》](http://vdisk.weibo.com/s/ayG13we1Y4EA6)
+
+介绍：这篇文档是国内的一线postgreSQL专家所翻译。很经典
+
 * [《PostgreSQL vs. MS SQL Server》](http://www.pg-versus-ms.com/)
 
 介绍：PostgreSQL与 MS SQL Server的对比,[中文版](http://www.oschina.net/translate/postgresql-vs-ms-sql-server)
