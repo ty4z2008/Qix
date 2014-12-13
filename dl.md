@@ -4,7 +4,6 @@
 
 介绍:这是一篇介绍机器学习历史的文章，介绍很全面，从感知机、神经网络、决策树、SVM、Adaboost到随机森林、Deep Learning.
 
-
 * [《Deep Learning in Neural Networks: An Overview》](http://www.idsia.ch/~juergen/DeepLearning15May2014.pdf)
 
 介绍:这是瑞士人工智能实验室Jurgen Schmidhuber写的最新版本《神经网络与深度学习综述》本综述的特点是以时间排序，从1940年开始讲起，到60-80年代，80-90年代，一直讲到2000年后及最近几年的进展。涵盖了deep learning里各种tricks，引用非常全面.
@@ -644,3 +643,14 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:Ｒ语言程序员私人定制版
 
+* [《谷歌地图解密：大数据与机器学习的结合》](http://www.cheyun.com/content/news/4051)
+
+介绍:谷歌地图解密
+
+* [《空间数据挖掘常用方法》](http://blog.csdn.net/u012690204/article/details/41853731)
+
+介绍:空间数据挖掘常用方法
+
+* [《Use Google's Word2Vec for movie reviews》](https://www.kaggle.com/c/word2vec-nlp-tutorial)
+
+介绍:Kaggle新比赛 ”When bag of words meets bags of popcorn“ aka ”边学边用word2vec和deep learning做NLP“ 里面全套教程教一步一步用python和gensim包的word2vec模型，并在实际比赛里面比调参数和清数据。 如果已装过gensim不要忘升级
