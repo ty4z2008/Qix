@@ -169,3 +169,8 @@
 * [《PostgreSQL Security Audit》](http://security.stackexchange.com/a/2536)
 
 介绍：数据库安全问题一直是一个问题热门话题，PostgreSQL资料更是少之有少。这篇文章值得推荐。建议多多留意[postgresql security Vulnerabilities](http://www.cvedetails.com/vulnerability-list/vendor_id-336/product_id-575/Postgresql-Postgresql.html)、[Vulnerability handling in the PostgreSQL project](http://lwn.net/Articles/546550/)、[Security for PostgreSQL explain plans](https://docs.newrelic.com/docs/apm/traces/transaction-traces/security-postgresql-explain-plans)、[Row security in PostgreSQL](http://blog.2ndquadrant.com/postgresql-row-security-overview/)
+
+* [《使用oracle_fdw进行增量数据迁移的神奇方法》](http://blog.osdba.net/525.html)
+
+介绍:Oracle增量数据迁移到postgres方法，此外博主还有其他非常棒的文章。推荐也可以看看
+
