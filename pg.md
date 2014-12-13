@@ -156,7 +156,7 @@
 
 * [《mysql2postgres》](https://github.com/maxlapshin/mysql2postgres)
 
-介绍：把MySQL迁移至postgreSQL?不如试试这个工吧
+介绍：把MySQL迁移至postgreSQL?不如试试这个工具吧
 
 * [《What are the advantages and disadvantages of using PostgreSQL over MySQL?》](https://www.quora.com/What-are-the-advantages-and-disadvantages-of-using-PostgreSQL-over-MySQL)
 
@@ -174,3 +174,6 @@
 
 介绍:Oracle增量数据迁移到postgres方法，此外博主还有其他非常棒的文章。推荐也可以看看
 
+* [《Ware Yosemite? Possible PostgreSQL upgrade issues in OS X 10.10》](http://blog.2ndquadrant.com/ware-yosemite-possible-postgresql-upgrade-issues-os-x-10-10/)
+
+介绍:PostgreSQL升级在 Yosemite出现问题？可以参考一下这里。同样的也还有其他的文章也很不错
