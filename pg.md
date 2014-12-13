@@ -177,3 +177,7 @@
 * [《Ware Yosemite? Possible PostgreSQL upgrade issues in OS X 10.10》](http://blog.2ndquadrant.com/ware-yosemite-possible-postgresql-upgrade-issues-os-x-10-10/)
 
 介绍:PostgreSQL升级在 Yosemite出现问题？可以参考一下这里。同样的也还有其他的文章也很不错
+
+* [《Open source developer based in Japan》](http://michael.otacoo.com/)
+
+介绍:如题，是日本一个开源项目博客，里面有很多postgresql的最新特性介绍(截止目前2014.12.13已有pg9.5的特性预览了)
