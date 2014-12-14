@@ -181,3 +181,7 @@
 * [《Open source developer based in Japan》](http://michael.otacoo.com/)
 
 介绍:如题，是日本一个开源项目博客，里面有很多postgresql的最新特性介绍(截止目前2014.12.13已有pg9.5的特性预览了)
+
+* [《PGXN: PostgreSQL Extension Network》](http://pgxn.org/)
+
+介绍:一个存放PostgreSQL扩展库的资源库,很多扩展插件都能够在这个里面找到
