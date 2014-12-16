@@ -654,3 +654,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Use Google's Word2Vec for movie reviews》](https://www.kaggle.com/c/word2vec-nlp-tutorial)
 
 介绍:Kaggle新比赛 ”When bag of words meets bags of popcorn“ aka ”边学边用word2vec和deep learning做NLP“ 里面全套教程教一步一步用python和gensim包的word2vec模型，并在实际比赛里面比调参数和清数据。 如果已装过gensim不要忘升级
+
+* [《PyNLPIR》](http://pynlpir.readthedocs.org/en/latest/)
+
+介绍:PyNLPIR提供了NLPIR/ICTCLAS汉语分词的Python接口,此外[Zhon](http://zhon.readthedocs.org/en/latest/)提供了常用汉字常量，如CJK字符和偏旁，中文标点，拼音，和汉字正则表达式（如找到文本中的繁体字）
