@@ -658,3 +658,11 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《PyNLPIR》](http://pynlpir.readthedocs.org/en/latest/)
 
 介绍:PyNLPIR提供了NLPIR/ICTCLAS汉语分词的Python接口,此外[Zhon](http://zhon.readthedocs.org/en/latest/)提供了常用汉字常量，如CJK字符和偏旁，中文标点，拼音，和汉字正则表达式（如找到文本中的繁体字）
+
+* [《深度卷积神经网络下围棋》](http://www.technologyreview.com/view/533496/why-neural-networks-look-set-to-thrash-the-best-human-go-players-for-the-first-time/)
+
+介绍:这文章说把最近模型识别上的突破应用到围棋软件上，打16万张职业棋谱训练模型识别功能。想法不错。训练后目前能做到不用计算，只看棋盘就给出下一步，大约10级棋力。但这篇文章太过乐观，说什么人类的最后一块堡垒马上就要跨掉了。话说得太早。不过，如果与别的软件结合应该还有潜力可挖。@万精油墨绿
+
+* [《NIPS审稿实验》](http://mrtz.org/blog/the-nips-experiment/)
+
+介绍:UT Austin教授Eric Price关于今年NIPS审稿实验的详细分析,他表示，根据这次实验的结果，如果今年NIPS重新审稿的话，会有一半的论文被拒。
