@@ -666,3 +666,19 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《NIPS审稿实验》](http://mrtz.org/blog/the-nips-experiment/)
 
 介绍:UT Austin教授Eric Price关于今年NIPS审稿实验的详细分析,他表示，根据这次实验的结果，如果今年NIPS重新审稿的话，会有一半的论文被拒。
+
+* [《2014年最佳的大数据，数据科学文章》](http://www.kdnuggets.com/2014/12/top-kdnuggets-2014-analytics-big-data-science-stories.html)
+
+介绍:KDNuggets分别总结了2014年14个阅读最多以及分享最多的文章。我们从中可以看到多个主题——深度学习，数据科学家职业，教育和薪酬，学习数据科学的工具比如R和Python以及大众投票的最受欢迎的数据科学和数据挖掘语言
+
+* [《机器学习经典算法详解及Python实现--线性回归（Linear Regression）算法》](http://blog.csdn.net/suipingsp/article/details/42101139)
+
+介绍:Python实现线性回归,作者还有其他很棒的文章推荐可以看看
+
+* [《2014中国大数据技术大会33位核心专家演讲PDF》](http://download.csdn.net/album/detail/1367/1/1)
+
+介绍：2014中国大数据技术大会33位核心专家演讲PDF下载
+
+* [《使用RNN和Paragraph Vector做情感分析》](http://arxiv.org/abs/1412.5335)
+
+介绍：这是T. Mikolov & Y. Bengio最新论文Ensemble of Generative and Discriminative Techniques for Sentiment Analysis of Movie Reviews ，使用RNN和PV在情感分析效果不错，［项目代码］(https://github.com/mesnilgr/iclr15)公布在github(目前是空的)。这意味着Paragraph Vector终于揭开面纱了嘛。
