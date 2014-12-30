@@ -682,3 +682,19 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《使用RNN和Paragraph Vector做情感分析》](http://arxiv.org/abs/1412.5335)
 
 介绍：这是T. Mikolov & Y. Bengio最新论文Ensemble of Generative and Discriminative Techniques for Sentiment Analysis of Movie Reviews ，使用RNN和PV在情感分析效果不错，［项目代码］(https://github.com/mesnilgr/iclr15)公布在github(目前是空的)。这意味着Paragraph Vector终于揭开面纱了嘛。
+
+* [《NLPIR/ICTCLAS2015分词系统大会上的技术演讲:http://pan.baidu.com/s/1o6I9S18 》](http://pan.baidu.com/s/1o6I9S18)
+
+介绍:NLPIR/ICTCLAS2015分词系统发布与用户交流大会上的演讲，请更多朋友检阅新版分词吧。  我们实验室同学的演讲包括：[孙梦姝-基于评论观点挖掘的商品搜索技术研究](http://pan.baidu.com/s/1hqotVVm) [李然-主题模型](http://pan.baidu.com/s/1pJ9KuZh)
+
+* [《Machine Learning is Fun!》](https://medium.com/code-poet/80ea3ec3c471)
+
+介绍:Convex Neural Networks 解决维数灾难 
+
+* [《CNN的反向求导及练习》](http://dataunion.org/?p=5395)
+
+介绍:介绍CNN参数在使用bp算法时该怎么训练，毕竟CNN中有卷积层和下采样层，虽然和MLP的bp算法本质上相同，但形式上还是有些区别的，很显然在完成CNN反向传播前了解bp算法是必须的。此外作者也做了一个[资源集:机器学习，深度学习，视觉，数学等](http://www.cnblogs.com/tornadomeet/archive/2012/05/24/2515980.html)
+
+* [《正则表达式优化成Trie树 》](https://github.com/cloudflare/ahocorasick)
+
+介绍:如果要在一篇文章中匹配十万个关键词怎么办？[Aho-Corasick](https://github.com/cloudflare/ahocorasick) 算法利用添加了返回边的Trie树，能够在线性时间内完成匹配。 但如果匹配十万个正则表达式呢 ？ 这时候可以用到把多个正则优化成Trie树的方法，如日本人写的 [Regexp::Trie](http://search.cpan.org/~dankogai/Regexp-Trie-0.02/)
