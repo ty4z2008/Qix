@@ -698,3 +698,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《正则表达式优化成Trie树 》](https://github.com/cloudflare/ahocorasick)
 
 介绍:如果要在一篇文章中匹配十万个关键词怎么办？[Aho-Corasick](https://github.com/cloudflare/ahocorasick) 算法利用添加了返回边的Trie树，能够在线性时间内完成匹配。 但如果匹配十万个正则表达式呢 ？ 这时候可以用到把多个正则优化成Trie树的方法，如日本人写的 [Regexp::Trie](http://search.cpan.org/~dankogai/Regexp-Trie-0.02/)
+
+* [《Deep learning Reading List》](http://jmozah.github.io/links/)
+
+介绍:深度学习阅读清单
