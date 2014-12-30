@@ -185,3 +185,24 @@
 * [《PGXN: PostgreSQL Extension Network》](http://pgxn.org/)
 
 介绍:一个存放PostgreSQL扩展库的资源库,很多扩展插件都能够在这个里面找到
+
+* [《GP GPU  Accelerates PostgreSQL》](http://www.slideshare.net/kaigai/gpgpu-accelerates-postgresql)
+
+介绍：GPU对pg数据库的加速优化
+
+* [《Porting Oracle Applications to PostgreSQL》](http://www.slideshare.net/petereisentraut/porting-oracle-applications-to-postgresql)
+
+介绍：从Oracle迁移到pg，此外该作者还有一篇迁移的[ppt](http://www.slideshare.net/petereisentraut/porting-applications-from-oracle-to-postgre-sql).
+
+* [《Building and Distributing PostgreSQL Extensions Without Learning C》](http://www.slideshare.net/justatheory/building-and-distributing-postgresql-extensions-without-learning-c)
+
+介绍：即使没有C，你也可以扩展pg
+
+* [《PagerDuty analytics with Postgres》](https://stripe.com/blog/pagerduty-analytics-with-pd2pg)
+
+介绍：使用PagerDuty做pg分析
+
+* [《Syncing Postgres to Elasticsearch: lessons learned》](https://gocardless.com/blog/syncing-postgres-to-elasticsearch-lessons-learned/)
+
+介绍：Elasticsearch是一个实时的分布式搜索和分析引擎,这篇文章是讲述作者在做pg同步到Elasticsearch的时候的一些经验之谈，如果有相关需要的建议阅读．如果不明白什么是E[lasticsearch](http://www.elasticsearch.org/)，可以先看看[Elasticsearch权威指南](http://fuxiaopang.gitbooks.io/learnelasticsearch/)
+
