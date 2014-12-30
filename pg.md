@@ -206,3 +206,6 @@
 
 介绍：Elasticsearch是一个实时的分布式搜索和分析引擎,这篇文章是讲述作者在做pg同步到Elasticsearch的时候的一些经验之谈，如果有相关需要的建议阅读．如果不明白什么是E[lasticsearch](http://www.elasticsearch.org/)，可以先看看[Elasticsearch权威指南](http://fuxiaopang.gitbooks.io/learnelasticsearch/)
 
+* [《pypgTAP》](https://github.com/itissid/pypgTAP)
+
+介绍：Making Postgres coding and testing fun!
