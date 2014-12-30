@@ -136,3 +136,7 @@
 * [《Patchwork Toolkit》](http://patchwork-toolkit.github.io/)
 
 介绍：一个物联网相关的Go语言框架
+
+* [《Everyday hassles in Go》](http://crufter.com/2014/12/01/everyday-hassles-in-go/)
+
+介绍：作者的一些Go中的困扰，经验之谈
