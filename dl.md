@@ -683,7 +683,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍：这是T. Mikolov & Y. Bengio最新论文Ensemble of Generative and Discriminative Techniques for Sentiment Analysis of Movie Reviews ，使用RNN和PV在情感分析效果不错，［项目代码］(https://github.com/mesnilgr/iclr15)公布在github(目前是空的)。这意味着Paragraph Vector终于揭开面纱了嘛。
 
-* [《NLPIR/ICTCLAS2015分词系统大会上的技术演讲:http://pan.baidu.com/s/1o6I9S18 》](http://pan.baidu.com/s/1o6I9S18)
+* [《NLPIR/ICTCLAS2015分词系统大会上的技术演讲 》](http://pan.baidu.com/s/1o6I9S18)
 
 介绍:NLPIR/ICTCLAS2015分词系统发布与用户交流大会上的演讲，请更多朋友检阅新版分词吧。  我们实验室同学的演讲包括：[孙梦姝-基于评论观点挖掘的商品搜索技术研究](http://pan.baidu.com/s/1hqotVVm) [李然-主题模型](http://pan.baidu.com/s/1pJ9KuZh)
 
