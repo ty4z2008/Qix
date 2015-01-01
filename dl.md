@@ -702,3 +702,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Deep learning Reading List》](http://jmozah.github.io/links/)
 
 介绍:深度学习阅读清单
+
+* [《Caffe》](http://caffe.berkeleyvision.org/)
+
+介绍:Caffe是一个开源的深度学习框架，作者目前在google工作，作者主页[Yangqing Jia (贾扬清)](http://daggerfs.com/index.html)
