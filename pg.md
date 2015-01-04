@@ -209,3 +209,7 @@
 * [《pypgTAP》](https://github.com/itissid/pypgTAP)
 
 介绍：Making Postgres coding and testing fun!
+
+* [《Backuping PostgreSQL with Docker》](http://geoffrey.io/backuping-postgresql-in-docker.html)
+
+介绍：备份基于Docker的PostgreSQL数据库,国内有[中文版](http://dockerone.com/article/118)
