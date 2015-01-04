@@ -706,3 +706,25 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Caffe》](http://caffe.berkeleyvision.org/)
 
 介绍:Caffe是一个开源的深度学习框架，作者目前在google工作，作者主页[Yangqing Jia (贾扬清)](http://daggerfs.com/index.html)
+
+* [《GoogLeNet深度学习模型的Caffe复现 》](https://github.com/BVLC/caffe/blob/master/models/bvlc_googlenet/readme.md)
+
+介绍:2014 ImageNet冠军GoogLeNet深度学习模型的Caffe复现模型,[GoogleNet论文](http://arxiv.org/abs/1409.4842).
+
+* [《LambdaNet，Haskell实现的开源人工神经网络库 》](https://github.com/jbarrow/LambdaNet)
+
+介绍:LambdaNetLambdaNet是由Haskell实现的一个开源的人工神经网络库，它抽象了网络创建、训练并使用了高阶函数。该库还提供了一组预定义函数，用户可以采取多种方式组合这些函数来操作现实世界数据。
+
+* [《百度余凯&张潼机器学习视频》](http://wenku.baidu.com/course/view/49e8b8f67c1cfad6195fa705)
+
+介绍:如果你从事互联网搜索，在线广告，用户行为分析，图像识别，自然语言理解，或者生物信息学，智能机器人，金融预测，那么这门核心课程你必须深入了解。
+
+* [《杨强在TEDxNanjing谈智能的起源》](http://v.youku.com/v_show/id_XODQzNDM4MDg0.html)
+
+介绍:"人工智能研究分许多流派。其中之一以IBM为代表，认为只要有高性能计算就可得到智能，他们的‘深蓝’击败了世界象棋冠军；另一流派认为智能来自动物本能；还有个很强的流派认为只要找来专家，把他们的思维用逻辑一条条写下，放到计算机里就行……" 杨强在TEDxNanjing谈智能的起源
+
+* [《深度RNN/LSTM用于结构化学习 0)序列标注Connectionist Temporal ClassificationICML06》](http://www.machinelearning.org/proceedings/icml2006/047_Connectionist_Tempor.pdf)
+
+介绍:1)机器翻译[Sequence to Sequence NIPS14](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) 2)成分句法[GRAMMAR AS FOREIGN LANGUAGE](http://arxiv.org/pdf/1412.7449v1.pdf)
+
+
