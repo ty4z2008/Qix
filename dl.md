@@ -727,4 +727,6 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:1)机器翻译[Sequence to Sequence NIPS14](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) 2)成分句法[GRAMMAR AS FOREIGN LANGUAGE](http://arxiv.org/pdf/1412.7449v1.pdf)
 
+* [《Deep Learning实战之word2vec》](http://techblog.youdao.com/?p=915)
 
+介绍:网易有道的三位工程师写的word2vec的解析文档，从基本的词向量/统计语言模型->NNLM->Log-Linear/Log-Bilinear->层次化Log-Bilinear，到CBOW和Skip-gram模型，再到word2vec的各种tricks，公式推导与代码，基本上是网上关于word2vec资料的大合集，对word2vec感兴趣的朋友可以看看
