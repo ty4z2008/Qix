@@ -139,7 +139,7 @@
 
 * [《Awesome Machine Learning》](https://github.com/josephmisiti/awesome-machine-learning)
 
-介绍：一个超级完整的机器学习开源库总结，如果你认为这个碉堡了，那后面这个列表会更让你惊讶：【Awesome Awesomeness】,国内已经有热心的朋友进行了翻译[中文介绍](http://blog.jobbole.com/73806/)
+介绍：一个超级完整的机器学习开源库总结，如果你认为这个碉堡了，那后面这个列表会更让你惊讶：【Awesome Awesomeness】,国内已经有热心的朋友进行了翻译[中文介绍](http://blog.jobbole.com/73806/)，[机器学习数据挖掘免费电子书](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 
 * [斯坦福《自然语言处理》课程视频](http://see.stanford.edu/see/lecturelist.aspx?coll=63480b48-8819-4efd-8412-263f1a472f5a)
 
@@ -734,3 +734,6 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Machine learning open source software》](http://mloss.org/software/)
 
 介绍:机器学习开源软件,收录了各种机器学习的各种编程语言学术与商业的开源软件．与此类似的还有很多例如:[DMOZ - Computers: Artificial Intelligence: Machine Learning: Software](http://www.dmoz.org/Computers/Artificial_Intelligence/Machine_Learning/Software/),　[LIBSVM -- A Library for Support Vector Machines](http://www.csie.ntu.edu.tw/~cjlin/libsvm/),　[Weka 3: Data Mining Software in Java](http://www.cs.waikato.ac.nz/ml/weka/),　[scikit-learn:Machine Learning in Python](http://scikit-learn.org/stable/),　[Natural Language Toolkit:NLTK](www.nltk.org),　[MAchine Learning for LanguagE Toolkit](http://mallet.cs.umass.edu/),　[Data Mining - Fruitful and Fun](http://orange.biolab.si/),　[Open Source Computer Vision Library](http://opencv.willowgarage.com/wiki/)
+
+
+
