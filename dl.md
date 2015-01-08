@@ -730,3 +730,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Deep Learning实战之word2vec》](http://techblog.youdao.com/?p=915)
 
 介绍:网易有道的三位工程师写的word2vec的解析文档，从基本的词向量/统计语言模型->NNLM->Log-Linear/Log-Bilinear->层次化Log-Bilinear，到CBOW和Skip-gram模型，再到word2vec的各种tricks，公式推导与代码，基本上是网上关于word2vec资料的大合集，对word2vec感兴趣的朋友可以看看
+
+* [《Machine learning open source software》](http://mloss.org/software/)
+
+介绍:机器学习开源软件,收录了各种机器学习的各种编程语言学术与商业的开源软件．与此类似的还有很多例如:[DMOZ - Computers: Artificial Intelligence: Machine Learning: Software](http://www.dmoz.org/Computers/Artificial_Intelligence/Machine_Learning/Software/),[LIBSVM -- A Library for Support Vector Machines](http://www.csie.ntu.edu.tw/~cjlin/libsvm/),[Weka 3: Data Mining Software in Java](http://www.cs.waikato.ac.nz/ml/weka/),[scikit-learn:Machine Learning in Python](http://scikit-learn.org/stable/),[Natural Language Toolkit:NLTK](www.nltk.org),[MAchine Learning for LanguagE Toolkit](http://mallet.cs.umass.edu/),[Data Mining - Fruitful and Fun](http://orange.biolab.si/),[Open Source Computer Vision Library](http://opencv.willowgarage.com/wiki/)
