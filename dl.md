@@ -735,5 +735,11 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:机器学习开源软件,收录了各种机器学习的各种编程语言学术与商业的开源软件．与此类似的还有很多例如:[DMOZ - Computers: Artificial Intelligence: Machine Learning: Software](http://www.dmoz.org/Computers/Artificial_Intelligence/Machine_Learning/Software/),　[LIBSVM -- A Library for Support Vector Machines](http://www.csie.ntu.edu.tw/~cjlin/libsvm/),　[Weka 3: Data Mining Software in Java](http://www.cs.waikato.ac.nz/ml/weka/),　[scikit-learn:Machine Learning in Python](http://scikit-learn.org/stable/),　[Natural Language Toolkit:NLTK](www.nltk.org),　[MAchine Learning for LanguagE Toolkit](http://mallet.cs.umass.edu/),　[Data Mining - Fruitful and Fun](http://orange.biolab.si/),　[Open Source Computer Vision Library](http://opencv.willowgarage.com/wiki/)
 
+* [《机器学习入门者学习指南》](http://www.guokr.com/post/512037/)
 
+介绍:作者是计算机研二(写文章的时候，现在是2015年了应该快要毕业了)，专业方向自然语言处理．这是一点他的经验之谈．对于入门的朋友或许会有帮助
+
+* [《A Tour of Machine Learning Algorithms》](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+
+介绍:这是一篇关于机器学习算法分类的文章，非常好
 
