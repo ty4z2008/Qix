@@ -748,3 +748,15 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:这是一篇关于机器学习算法分类的文章，非常好
 
+* [《2014年的《机器学习日报》大合集》](http://ml.memect.com/download/2014.zip)
+
+介绍:机器学习日报里面推荐很多内容，在这里有一部分的优秀内容就是来自机器学习日报．
+
+* [《 Image classification with deep learning常用模型》](http://blog.csdn.net/abcjennifer/article/details/42493493)
+
+介绍:这是一篇关于图像分类在深度学习中的文章
+
+* [《自动语音识别：深度学习方法》](http://research.microsoft.com/en-us/people/deng/)
+
+介绍:作者与Bengio的兄弟Samy 09年合编《自动语音识别：核方法》 3）李开复1989年《自动语音识别》专著，其博导、94年图灵奖得主Raj Reddy作序
+
