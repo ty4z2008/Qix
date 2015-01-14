@@ -771,3 +771,9 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《书籍推荐:Advanced Structured Prediction》](http://www.amazon.cn/Advanced-Structured-Prediction-Nowozin-Sebastian/dp/0262028379)
 
 介绍: 由Sebastian Nowozin等人编纂MIT出版的新书《Advanced Structured Prediction》http://t.cn/RZxipKG ，汇集了结构化预测领域诸多牛文，涉及CV、NLP等领域，值得一读。网上公开的几章草稿:[一](http://www2.informatik.hu-berlin.de/~kloftmar/publications/strucBook.pdf),[二](http://mlg.eng.cam.ac.uk/yutian/Publications/ChenGelfandWelling14-HerdingBookChapter.pdf),[三](http://web.engr.oregonstate.edu/~sinisa/research/publications/StructPredictionChapter14.pdf),[四](http://ttic.uchicago.edu/~meshi/papers/smoothCD_chapter.pdf),[五](http://www.cs.ox.ac.uk/Stanislav.Zivny/homepage/publications/zwp14mit-draft.pdf)
+
+* [《An Introduction to Matrix Concentration Inequalities》](http://arxiv.org/pdf/1501.01571v1.pdf)
+
+介绍: Tropp把数学家用高深装逼的数学语言写的矩阵概率不等式用初等的方法写出来，是非常好的手册，领域内的paper各种证明都在用里面的结果。虽说是初等的，但还是非常的难
+
+
