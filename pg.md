@@ -220,4 +220,12 @@
 
 * [《postgresql 9.0 architecture》](http://raghavt.blogspot.com/2011/04/postgresql-90-architecture.html)
 
-介绍： 本篇文章讲述了PostgreSQL 9.0 构架，[中文版](http://raghavt.blogspot.com/2011/04/postgresql-90-architecture.html)
+介绍： 本篇文章讲述了PostgreSQL 9.0 构架，[中文版](http://dreamer-yzy.github.io/2015/01/08/-%E7%BF%BB%E8%AF%91-PostgreSQL-9-0-%E6%9E%84%E6%9E%B6/)
+
+* [《Deadlocks in PostgreSQL》](http://raghavt.blogspot.com/2011/11/deadlocks-in-postgresql.html)
+
+介绍： PostgreSQL中的死锁，[中文版](http://dreamer-yzy.github.io/2015/01/14/-%E7%BF%BB%E8%AF%91-PostgreSQL%E4%B8%AD%E7%9A%84%E6%AD%BB%E9%94%81/)
+
+* [《PostgreSQL 9.0 Backup & Recovery》](http://raghavt.blogspot.com/2011/05/postgresql-90-backup-recovery.html)
+
+介绍： 本篇文章讲述了PostgreSQL 9.0 备份 & 恢复架，[中文版](http://dreamer-yzy.github.io/2015/01/13/-%E7%BF%BB%E8%AF%91-PostgreSQL-9-0-%E5%A4%87%E4%BB%BD-%E6%81%A2%E5%A4%8D/)
