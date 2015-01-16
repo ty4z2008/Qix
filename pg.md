@@ -229,3 +229,7 @@
 * [《PostgreSQL 9.0 Backup & Recovery》](http://raghavt.blogspot.com/2011/05/postgresql-90-backup-recovery.html)
 
 介绍： 本篇文章讲述了PostgreSQL 9.0 备份 & 恢复架，[中文版](http://dreamer-yzy.github.io/2015/01/13/-%E7%BF%BB%E8%AF%91-PostgreSQL-9-0-%E5%A4%87%E4%BB%BD-%E6%81%A2%E5%A4%8D/)
+
+* [《将数据从PostgreSQL同步到Elasticsearch的经验总结》](http://www.infoq.com/cn/news/2015/01/postgresql-elasticsearch)
+
+介绍： 将数据从PostgreSQL同步到Elasticsearch的经验总结
