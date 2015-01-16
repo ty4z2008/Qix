@@ -787,3 +787,8 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《A Deep Dive into Recurrent Neural Nets》](http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/)
 
 介绍: 非常好的讨论递归神经网络的文章，覆盖了RNN的概念、原理、训练及优化等各个方面内容，强烈推荐！本文作者Nikhil Buduma还有一篇[Deep Learning in a Nutshell](http://nikhilbuduma.com/2014/12/29/deep-learning-in-a-nutshell/)值得推荐
+
+* [《机器学习：学习资源》](http://qianjiye.de/2014/11/machine-learning-resources/)
+
+介绍:里面融合了很多的资源，例如竞赛，在线课程，demo，数据整合等。有分类
+
