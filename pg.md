@@ -213,3 +213,11 @@
 * [《Backuping PostgreSQL with Docker》](http://geoffrey.io/backuping-postgresql-in-docker.html)
 
 介绍：备份基于Docker的PostgreSQL数据库,国内有[中文版](http://dockerone.com/article/118)
+
+* [《postgresql 9.0 memory processes》](http://raghavt.blogspot.com/2011/04/postgresql-90-memory-processes.html)
+
+介绍：PostgreSQL 9.0 内存 & 进程，感觉英语吃力的朋友可以阅读[中文版](http://dreamer-yzy.github.io/2015/01/09/-%E7%BF%BB%E8%AF%91-PostgreSQL-9-0-%E5%86%85%E5%AD%98-%E8%BF%9B%E7%A8%8B/)
+
+* [《postgresql 9.0 architecture》](http://raghavt.blogspot.com/2011/04/postgresql-90-architecture.html)
+
+介绍： 本篇文章讲述了PostgreSQL 9.0 构架，[中文版](http://raghavt.blogspot.com/2011/04/postgresql-90-architecture.html)
