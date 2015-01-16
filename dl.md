@@ -792,3 +792,18 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:里面融合了很多的资源，例如竞赛，在线课程，demo，数据整合等。有分类
 
+* [《Statistical foundations of machine learning》](https://www.otexts.org/book/sfml)
+
+介绍:《机器学习的统计基础》在线版，该手册希望在理论与实践之间找到平衡点，各主要内容都伴有实际例子及数据，书中的例子程序都是用R语言编写的。
+
+* [《A Deep Learning Tutorial: From Perceptrons to Deep Networks》](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
+
+介绍:IVAN VASILEV写的深度学习导引：从浅层感知机到深度网络。高可读
+
+* [《Research priorities for robust and beneficial artificial intelligence》](http://futureoflife.org/static/data/documents/research_priorities.pdf)
+
+介绍:鲁棒及有益的人工智能优先研究计划：一封公开信,目前已经有Stuart Russell, Tom Dietterich, Eric Horvitz, Yann LeCun, Peter Norvig, Tom Mitchell, Geoffrey Hinton, Elon Musk等人签署[The Future of Life Institute (FLI)](http://futureoflife.org/misc/open_letter).这封信的背景是最近霍金和Elon Musk提醒人们注意AI的潜在威胁。公开信的内容是AI科学家们站在造福社会的角度，展望人工智能的未来发展方向，提出开发AI系统的Verification，Validity, Security, Control四点要求，以及需要注意的社会问题。毕竟当前AI在经济领域，法律，以及道德领域相关研究较少。其实还有一部美剧[《疑犯追踪》](http://tv.sohu.com/20120925/n353925789.shtml),介绍了AI的演进从一开始的自我学习，过滤，图像识别，语音识别等判断危险，到第四季的时候出现了机器通过学习成长之后想控制世界的状态。说到这里推荐收看。
+
+* [《metacademy》](http://metacademy.org/)
+
+介绍:里面根据词条提供了许多资源，还有相关知识结构，路线图，用时长短等。号称是”机器学习“搜索引擎
