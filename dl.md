@@ -807,3 +807,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《metacademy》](http://metacademy.org/)
 
 介绍:里面根据词条提供了许多资源，还有相关知识结构，路线图，用时长短等。号称是”机器学习“搜索引擎
+
+* [《FAIR open sources deep-learning modules for Torch》](https://research.facebook.com/blog/879898285375829/fair-open-sources-deep-learning-modules-for-torch/)
+
+介绍:Facebook人工智能研究院（FAIR）开源了一系列软件库，以帮助开发者建立更大、更快的深度学习模型。开放的软件库在 Facebook 被称作模块。用它们替代机器学习领域常用的开发环境 Torch 中的默认模块，可以在更短的时间内训练更大规模的神经网络模型。
