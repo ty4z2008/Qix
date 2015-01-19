@@ -160,7 +160,7 @@
 
 * [《Neural Networks and Deep Learning》](http://neuralnetworksanddeeplearning.com/index.html)
 
-介绍：神经网络的免费在线书，已经写了三章了，还有对应的开源代码：https://github.com/mnielsen/neural-networks-and-deep-learning爱好者的福音。
+介绍：神经网络的免费在线书，已经写了三章了，还有对应的开源代码：https://github.com/mnielsen/neural-networks-and-deep-learning 爱好者的福音。
 
 * [《Java Machine Learning》](http://machinelearningmastery.com/java-machine-learning/)
 
