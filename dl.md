@@ -46,9 +46,9 @@
 
 介绍:作者是来自百度，不过他本人已经在2014年4月份申请离职了。但是这篇文章很不错如果你不知道深度学习与支持向量机/统计学习理论有什么联系？那么应该立即看看这篇文章.
 
-* [《计算机科学中的数学》](http://courses.csail.mit.edu/6.042/fall13/mcs.pdf)
+* [《计算机科学中的数学》](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf)
 
-介绍:这本书是由谷歌公司和MIT共同出品的计算机科学中的数学：Mathematics for Computer Science，Eric Lehman et al 2013 。分为5大部分：1）证明，归纳。2）结构，数论，图。3）计数，求和，生成函数。4）概率，随机行走。5）递归。等等
+介绍:这本书是由谷歌公司和MIT共同出品的计算机科学中的数学：[Mathematics for Computer Science](Mathematics for Computer Science)，Eric Lehman et al 2013 。分为5大部分：1）证明，归纳。2）结构，数论，图。3）计数，求和，生成函数。4）概率，随机行走。5）递归。等等
 
 * [《数据科学入门》](http://zh.scribd.com/doc/223731055/Data-Science-Book-v-2)
 
