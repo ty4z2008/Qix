@@ -835,3 +835,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Understanding Convolutions》](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
 
 介绍:帮你理解卷积神经网络，讲解很清晰，此外还有两篇[Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/)，[Groups & Group Convolutions](http://colah.github.io/posts/2014-12-Groups-Convolution/). 作者的其他的关于神经网络文章也很棒
+
+* [《Introduction to Deep Learning Algorithms》](http://www.iro.umontreal.ca/~pift6266/H10/notes/deepintro.html#introduction-to-deep-learning-algorithms)
+
+介绍:Deep Learning算法介绍，里面介绍了06年3篇让deep learning崛起的论文
