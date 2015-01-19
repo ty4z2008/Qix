@@ -839,3 +839,11 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Introduction to Deep Learning Algorithms》](http://www.iro.umontreal.ca/~pift6266/H10/notes/deepintro.html#introduction-to-deep-learning-algorithms)
 
 介绍:Deep Learning算法介绍，里面介绍了06年3篇让deep learning崛起的论文
+
+* [《Learning Deep Architectures for AI》](http://www.iro.umontreal.ca/~bengioy/papers/ftml_book.pdf)
+
+介绍:一本学习人工智能的书籍，作者是Yoshua Bengio，相关[国内报道](http://www.infoq.com/cn/articles/ask-yoshua-bengio)
+
+* [《Geoffrey E. Hinton个人主页》](http://www.cs.toronto.edu/~hinton/)
+
+介绍:Geoffrey Hinton是Deep Learning的大牛，他的主页放了一些介绍性文章和课件值得学习
