@@ -811,3 +811,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《FAIR open sources deep-learning modules for Torch》](https://research.facebook.com/blog/879898285375829/fair-open-sources-deep-learning-modules-for-torch/)
 
 介绍:Facebook人工智能研究院（FAIR）开源了一系列软件库，以帮助开发者建立更大、更快的深度学习模型。开放的软件库在 Facebook 被称作模块。用它们替代机器学习领域常用的开发环境 Torch 中的默认模块，可以在更短的时间内训练更大规模的神经网络模型。
+
+* [《浅析人脸检测之Haar分类器方法》](http://www.cnblogs.com/ello/archive/2012/04/28/2475419.html)
+
+介绍:本文虽然是写于2012年，但是这篇文章完全是作者的经验之作。
