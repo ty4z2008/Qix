@@ -828,6 +828,6 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:非常好的深度学习概述，对几种流行的深度学习模型都进行了介绍和讨论
 
-*[《Hands-On Data Science with R Text Mining》](http://onepager.togaware.com/TextMiningO.pdf)
+* [《Hands-On Data Science with R Text Mining》](http://onepager.togaware.com/TextMiningO.pdf)
 
 介绍:主要是讲述了利用R语言进行数据挖掘
