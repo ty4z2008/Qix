@@ -50,7 +50,11 @@
 
 介绍:这本书是由谷歌公司和MIT共同出品的计算机科学中的数学：[Mathematics for Computer Science](Mathematics for Computer Science)，Eric Lehman et al 2013 。分为5大部分：1）证明，归纳。2）结构，数论，图。3）计数，求和，生成函数。4）概率，随机行走。5）递归。等等
 
-* [《数据科学入门》](http://zh.scribd.com/doc/223731055/Data-Science-Book-v-2)
+* [《信息时代的计算机科学理论(Foundations of Data Science)》](http://research.microsoft.com/en-US/people/kannan/book-no-solutions-aug-21-2014.pdf)
+
+介绍：信息时代的计算机科学理论,目前国内有纸质书购买，[iTunes购买](https://itunes.apple.com/us/book/introduction-to-data-science/id529088127)
+
+* [《Data Science with R》](http://vdisk.weibo.com/s/ayG13we2vx5qg)
 
 介绍:这是一本由雪城大学新编的第二版《数据科学入门》教材：偏实用型，浅显易懂，适合想学习R语言的同学选读。
 
@@ -823,3 +827,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Deep learning from the bottom up》](http://www.metacademy.org/roadmaps/rgrosse/deep_learning)
 
 介绍:非常好的深度学习概述，对几种流行的深度学习模型都进行了介绍和讨论
+
+*[《Hands-On Data Science with R Text Mining》](http://onepager.togaware.com/TextMiningO.pdf)
+
+介绍:主要是讲述了利用R语言进行数据挖掘
