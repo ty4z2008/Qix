@@ -847,3 +847,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Geoffrey E. Hinton个人主页》](http://www.cs.toronto.edu/~hinton/)
 
 介绍:Geoffrey Hinton是Deep Learning的大牛，他的主页放了一些介绍性文章和课件值得学习
+
+* [《PROBABILITY THEORY: THE LOGIC OF SCIENCE》](http://omega.albany.edu:8008/JaynesBook.html)
+
+介绍:概率论：数理逻辑书籍
