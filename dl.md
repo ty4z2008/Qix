@@ -819,3 +819,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《如何成为一位数据科学家》](http://www.ituring.com.cn/article/55994)
 
 介绍:本文是对《机器学习实战》作者Peter Harrington做的一个访谈。包含了书中部分的疑问解答和一点个人学习建议
+
+* [《Deep learning from the bottom up》](http://www.metacademy.org/roadmaps/rgrosse/deep_learning)
+
+介绍:非常好的深度学习概述，对几种流行的深度学习模型都进行了介绍和讨论
