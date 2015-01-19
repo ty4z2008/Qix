@@ -831,3 +831,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Hands-On Data Science with R Text Mining》](http://onepager.togaware.com/TextMiningO.pdf)
 
 介绍:主要是讲述了利用R语言进行数据挖掘
+
+* [《Understanding Convolutions》](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
+
+介绍:帮你理解卷积神经网络，讲解很清晰，此外还有两篇[Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/)，[Groups & Group Convolutions](http://colah.github.io/posts/2014-12-Groups-Convolution/). 作者的其他的关于神经网络文章也很棒
