@@ -851,3 +851,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《PROBABILITY THEORY: THE LOGIC OF SCIENCE》](http://omega.albany.edu:8008/JaynesBook.html)
 
 介绍:概率论：数理逻辑书籍
+
+* [《H2O》](https://github.com/h2oai/h2o)
+
+介绍:一个用快速的统计，机器学习并且对于数据量大的数学库
