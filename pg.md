@@ -233,3 +233,7 @@
 * [《将数据从PostgreSQL同步到Elasticsearch的经验总结》](http://www.infoq.com/cn/news/2015/01/postgresql-elasticsearch)
 
 介绍： 将数据从PostgreSQL同步到Elasticsearch的经验总结
+
+* [《数据库相论文推荐》](http://www.vldb.org/pvldb/vol6/)
+
+介绍： 索引，查询，磁盘，优化，挖掘，集群，数据恢复，高可用，高性能等等
