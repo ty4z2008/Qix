@@ -854,4 +854,13 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 * [《H2O》](https://github.com/h2oai/h2o)
 
-介绍:一个用快速的统计，机器学习并且对于数据量大的数学库
+介绍:一个用来快速的统计，机器学习并且对于数据量大的数学库
+
+* [《ICLR 2015会议的arXiv稿件合集》](http://www.iclr.cc/doku.php?id=iclr2015:main)
+
+介绍:在这里你可以看到最近深度学习有什么新动向。
+
+* [《Introduction to Information Retrieval》](http://www-nlp.stanford.edu/IR-book/)
+
+介绍:此书在信息检索领域家喻户晓， 除提供该书的免费电子版外，还提供一个[IR资源列表](http://www-nlp.stanford.edu/IR-book/information-retrieval.html) ，收录了信息检索、网络信息检索、搜索引擎实现等方面相关的图书、研究中心、相关课程、子领域、会议、期刊等等，堪称全集，值得收藏
+
