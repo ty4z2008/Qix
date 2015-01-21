@@ -16,3 +16,6 @@
 
 介绍：很少人知道但很有用的数据结构
 
+* [《Open Data Structures》](http://opendatastructures.org/)
+
+介绍：《开放数据结构》，里面有C++.java相关实现的书籍
