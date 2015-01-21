@@ -868,9 +868,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:信息几何学及其在机器学习中的应用
 
-* [《Information Geometry and its Applications to Machine Learning》](http://yosinski.com/mlss12/MLSS-2012-Amari-Information-Geometry/)
 
-介绍:信息几何学及其在机器学习中的应用
 
 * [《Legal Analytics – Introduction to the Course》](http://computationallegalstudies.com/2015/01/legal-analytics-introduction-course-professors-daniel-martin-katz-michael-j-bommarito/)
 
@@ -883,3 +881,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《NeuralTalk》](https://github.com/karpathy/neuraltalk)
 
 介绍: NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.NeuralTalk是一个Python的从图像生成自然语言描述的工具。它实现了Google (Vinyals等，卷积神经网络CNN + 长短期记忆LSTM) 和斯坦福 (Karpathy and Fei-Fei， CNN + 递归神经网络RNN)的算法。NeuralTalk自带了一个训练好的动物模型，你可以拿狮子大象的照片来试试看
+
+* [《Deep Learning on Hadoop 2.0》](https://www.paypal-engineering.com/2015/01/12/deep-learning-on-hadoop-2-0-2/)
+
+介绍:本文主要介绍了在Hadoop2.0上使用深度学习 
