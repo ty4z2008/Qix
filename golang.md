@@ -140,3 +140,8 @@
 * [《Everyday hassles in Go》](http://crufter.com/2014/12/01/everyday-hassles-in-go/)
 
 介绍：作者的一些Go中的困扰，经验之谈
+
+* [《Using Go to improve your Ruby application's performance》](https://antoine.finkelstein.fr/go-in-ruby/)
+
+介绍：使用GO改善Ruby性能
+
