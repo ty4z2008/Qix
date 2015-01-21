@@ -864,3 +864,22 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:此书在信息检索领域家喻户晓， 除提供该书的免费电子版外，还提供一个[IR资源列表](http://www-nlp.stanford.edu/IR-book/information-retrieval.html) ，收录了信息检索、网络信息检索、搜索引擎实现等方面相关的图书、研究中心、相关课程、子领域、会议、期刊等等，堪称全集，值得收藏
 
+* [《Information Geometry and its Applications to Machine Learning》](http://yosinski.com/mlss12/MLSS-2012-Amari-Information-Geometry/)
+
+介绍:信息几何学及其在机器学习中的应用
+
+* [《Information Geometry and its Applications to Machine Learning》](http://yosinski.com/mlss12/MLSS-2012-Amari-Information-Geometry/)
+
+介绍:信息几何学及其在机器学习中的应用
+
+* [《Legal Analytics – Introduction to the Course》](http://computationallegalstudies.com/2015/01/legal-analytics-introduction-course-professors-daniel-martin-katz-michael-j-bommarito/)
+
+介绍:课程《法律分析》介绍幻灯片。用机器学习解决法律相关分析和预测问题，相关的法律应用包括预测编码、早期案例评估、案件整体情况的预测，定价和工作人员预测，司法行为预测等。法律领域大家可能都比较陌生，不妨了解下。
+
+* [《文本上的算法》](https://github.com/yanxionglu/text_pdf)
+
+介绍: 文中提到了最优，模型，最大熵等等理论，此外还有应用篇。推荐系统可以说是一本不错的阅读稿，关于模型还推荐一篇[Generative Model 与 Discriminative Model](http://blog.sina.com.cn/s/blog_6742eecd0100iqcv.html)
+
+* [《NeuralTalk》](https://github.com/karpathy/neuraltalk)
+
+介绍: NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.NeuralTalk是一个Python的从图像生成自然语言描述的工具。它实现了Google (Vinyals等，卷积神经网络CNN + 长短期记忆LSTM) 和斯坦福 (Karpathy and Fei-Fei， CNN + 递归神经网络RNN)的算法。NeuralTalk自带了一个训练好的动物模型，你可以拿狮子大象的照片来试试看
