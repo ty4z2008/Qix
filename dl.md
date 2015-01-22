@@ -884,8 +884,20 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 * [《Deep Learning on Hadoop 2.0》](https://www.paypal-engineering.com/2015/01/12/deep-learning-on-hadoop-2-0-2/)
 
-介绍:本文主要介绍了在Hadoop2.0上使用深度学习 
+介绍:本文主要介绍了在Hadoop2.0上使用深度学习,文章来自paypal
 
 * [《Practical recommendations for gradient-based training of deep architectures》](http://arxiv.org/abs/1206.5533)
 
 介绍:用基于梯度下降的方法训练深度框架的实践推荐指导,作者是[Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/research.html) .感谢@xuewei4d 推荐
+
+* [《Machine Learning With Statistical And Causal Methods》](http://machinelearningmastery.com/machine-learning-statistical-causal-methods/)
+
+介绍: 用统计和因果方法做机器学习（视频报告）
+
+* [《Machine Learning Course 180’》](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
+
+介绍: 一个讲机器学习的Youtube视频教程。160集。系统程度跟书可比拟。
+
+* [《回归(regression)、梯度下降(gradient descent)》](http://www.cnblogs.com/LeftNotEasy/archive/2010/12/05/mathmatic_in_machine_learning_1_regression_and_gradient_descent.html)
+
+介绍: 机器学习中的数学，作者的研究方向是机器学习，并行计算如果你还想了解一点其他的可以看看他[博客](http://www.cnblogs.com/LeftNotEasy/archive/2011/05/02/recommended-blogspots.html)的其他文章
