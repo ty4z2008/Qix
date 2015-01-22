@@ -885,3 +885,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Deep Learning on Hadoop 2.0》](https://www.paypal-engineering.com/2015/01/12/deep-learning-on-hadoop-2-0-2/)
 
 介绍:本文主要介绍了在Hadoop2.0上使用深度学习 
+
+* [《Practical recommendations for gradient-based training of deep architectures》](http://arxiv.org/abs/1206.5533)
+
+介绍:用基于梯度下降的方法训练深度框架的实践推荐指导,作者是[Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/research.html) .感谢@xuewei4d 推荐
