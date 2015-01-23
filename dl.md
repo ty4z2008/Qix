@@ -917,3 +917,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Awesome Public Datasets》](https://github.com/caesar0301/awesome-public-datasets)
 
 介绍: Awesome系列中的公开数据集
+
+* [《Search Engine & Community》](http://www.academics.io/)
+
+介绍: 一个学术搜索引擎
