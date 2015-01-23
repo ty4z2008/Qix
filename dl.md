@@ -901,3 +901,19 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《回归(regression)、梯度下降(gradient descent)》](http://www.cnblogs.com/LeftNotEasy/archive/2010/12/05/mathmatic_in_machine_learning_1_regression_and_gradient_descent.html)
 
 介绍: 机器学习中的数学，作者的研究方向是机器学习，并行计算如果你还想了解一点其他的可以看看他[博客](http://www.cnblogs.com/LeftNotEasy/archive/2011/05/02/recommended-blogspots.html)的其他文章
+
+* [《美团推荐算法实践》](http://tech.meituan.com/mt-recommend-practice.html)
+
+介绍: 美团推荐算法实践，从框架，应用，策略，查询等分析
+
+* [《Deep Learning for Answer Sentence Selection》](http://arxiv.org/abs/1412.1632)
+
+介绍: 深度学习用于问答系统答案句的选取 
+
+* [《Learning Semantic Representations Using Convolutional Neural Networks for Web Search 》](http://www.iro.umontreal.ca/~lisa/pointeurs/WWW2014.pdf)
+
+介绍: CNN用于WEB搜索，深度学习在文本计算中的应用
+
+* [《Awesome Public Datasets》](https://github.com/caesar0301/awesome-public-datasets)
+
+介绍: Awesome系列中的公开数据集
