@@ -945,3 +945,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Learning more like a human: 18 free eBooks on Machine Learning》](http://www.bigdata-madesimple.com/learning-more-like-a-human-18-free-ebooks-on-machine-learning/)
 
 介绍: 18 free eBooks on Machine Learning
+
+* [《Recommend :Hang Li Home》](http://www.hangli-hl.com/)
+
+介绍:Chief scientist of Noah's Ark Lab of Huawei Technologies.He worked at the Research Laboratories of NEC Corporation during 1990 and 2001 and Microsoft Research Asia during 2001 and 2012.
