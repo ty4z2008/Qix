@@ -938,3 +938,10 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍: 多伦多大学与Google合作的新论文，深度学习也可以用来下围棋，据说能达到六段水平
 
+* [《机器学习周刊第二期》](http://ztl2004.github.io/MachineLearningWeekly/issue2.html)
+
+介绍: 新闻，paper,课程，book，system,CES,Roboot，此外还推荐一个[深度学习入门与综述资料](http://blog.newitfarmer.com/ai/deep-learning/15302/repost-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E4%B8%8E%E7%BB%BC%E8%BF%B0%E8%B5%84%E6%96%99)
+
+* [《Learning more like a human: 18 free eBooks on Machine Learning》](http://www.bigdata-madesimple.com/learning-more-like-a-human-18-free-ebooks-on-machine-learning/)
+
+介绍: 18 free eBooks on Machine Learning
