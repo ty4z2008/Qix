@@ -948,4 +948,4 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 * [《Recommend :Hang Li Home》](http://www.hangli-hl.com/)
 
-介绍:Chief scientist of Noah's Ark Lab of Huawei Technologies.He worked at the Research Laboratories of NEC Corporation during 1990 and 2001 and Microsoft Research Asia during 2001 and 2012.
+介绍:Chief scientist of Noah's Ark Lab of Huawei Technologies.He worked at the Research Laboratories of NEC Corporation during 1990 and 2001 and Microsoft Research Asia during 2001 and 2012.[Paper](http://www.hangli-hl.com/recent-publications.html)
