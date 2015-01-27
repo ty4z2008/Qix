@@ -921,3 +921,20 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Search Engine & Community》](http://www.academics.io/)
 
 介绍: 一个学术搜索引擎
+
+* [《spaCy》](http://honnibal.github.io/spaCy/)
+
+介绍: 用Python和Cython写的工业级自然语言处理库，号称是速度最快的NLP库，快的原因一是用Cython写的，二是用了个很巧妙的hash技术，加速系统的瓶颈，NLP中稀松特征的存取
+
+* [《Collaborative Filtering with Spark》](http://fr.slideshare.net/MrChrisJohnson/collaborative-filtering-with-spark)
+
+介绍: [Fields](http://www.fields.utoronto.ca/video-archive/event/323/2014)是个数学研究中心,上面的这份ppt是来自Fields举办的活动中Russ Salakhutdinov带来的《大规模机器学习》分享
+
+* [《Topic modeling 的经典论文》](http://www.7300days.com/index.php/stds/topic/list/id/27/name/Topic%20modeling)
+
+介绍: Topic modeling 的经典论文,标注了关键点
+
+* [《Move Evaluation in Go Using Deep Convolutional Neural Networks》](http://arxiv.org/abs/1412.6564)
+
+介绍: 多伦多大学与Google合作的新论文，深度学习也可以用来下围棋，据说能达到六段水平
+
