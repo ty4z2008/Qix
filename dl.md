@@ -953,3 +953,15 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《DEEPLEARNING.UNIVERSITY – AN ANNOTATED DEEP LEARNING BIBLIOGRAPHY》](http://memkite.com/deep-learning-bibliography/)
 
 介绍: DEEPLEARNING.UNIVERSITY的论文库已经收录了963篇经过分类的深度学习论文了，很多经典论文都已经收录
+
+* [《MLMU.cz - Radim Řehůřek - Word2vec & friends (7.1.2015)》](https://www.youtube.com/watch?v=wTp3P2UnTfQ&hd=1)
+
+介绍: Radim Řehůřek(Gensim开发者)在一次机器学习聚会上的报告，关于word2vec及其优化、应用和扩展，很实用.[国内网盘](http://pan.baidu.com/s/1c03wd24)
+
+* [《Introducing streaming k-means in Spark 1.2》](http://databricks.com/blog/2015/01/28/introducing-streaming-k-means-in-spark-1-2.html)
+
+介绍:很多公司都用机器学习来解决问题，提高用户体验。那么怎么可以让机器学习更实时和有效呢？Spark MLlib 1.2里面的Streaming K-means，由斑马鱼脑神经研究的Jeremy Freeman脑神经科学家编写，最初是为了实时处理他们每半小时1TB的研究数据，现在发布给大家用了。
+
+* [《LDA入门与Java实现》](http://www.hankcs.com/nlp/lda-java-introduction-and-implementation.html)
+
+介绍: 这是一篇面向工程师的LDA入门笔记，并且提供一份开箱即用Java实现。本文只记录基本概念与原理，并不涉及公式推导。文中的LDA实现核心部分采用了arbylon的LdaGibbsSampler并力所能及地注解了，在搜狗分类语料库上测试良好，开源在[GitHub](https://github.com/hankcs/LDA4j)上。
