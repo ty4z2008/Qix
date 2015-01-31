@@ -965,3 +965,11 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《LDA入门与Java实现》](http://www.hankcs.com/nlp/lda-java-introduction-and-implementation.html)
 
 介绍: 这是一篇面向工程师的LDA入门笔记，并且提供一份开箱即用Java实现。本文只记录基本概念与原理，并不涉及公式推导。文中的LDA实现核心部分采用了arbylon的LdaGibbsSampler并力所能及地注解了，在搜狗分类语料库上测试良好，开源在[GitHub](https://github.com/hankcs/LDA4j)上。
+
+* [《AMiner - Open Science Platform》](http://aminer.org/)
+
+介绍: AMiner是一个学术搜索引擎，从学术网络中挖掘深度知识、面向科技大数据的挖掘。收集近4000万作者信息、8000万论文信息、1亿多引用关系、链接近8百万知识点；支持专家搜索、机构排名、科研成果评价、会议排名。
+
+* [《What are some interesting Word2Vec results?》](https://www.quora.com/What-are-some-interesting-Word2Vec-results)
+
+介绍: Quora上的主题，讨论Word2Vec的有趣应用，Omer Levy提到了他在CoNLL2014最佳论文里的分析结果和新方法，Daniel Hammack给出了找特异词的小应用并提供了[(Python)代码](https://github.com/dhammack/Word2VecExample)
