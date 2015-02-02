@@ -973,3 +973,11 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《What are some interesting Word2Vec results?》](https://www.quora.com/What-are-some-interesting-Word2Vec-results)
 
 介绍: Quora上的主题，讨论Word2Vec的有趣应用，Omer Levy提到了他在CoNLL2014最佳论文里的分析结果和新方法，Daniel Hammack给出了找特异词的小应用并提供了[(Python)代码](https://github.com/dhammack/Word2VecExample)
+
+* [《机器学习公开课汇总》](http://blog.coursegraph.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%AC%E5%BC%80%E8%AF%BE%E6%B1%87%E6%80%BB)
+
+介绍: 机器学习公开课汇总,虽然里面的有些课程已经归档过了，但是还有个别的信息没有。感谢课程图谱的小编
+
+* [《A First Course in Linear Algebra》](http://linear.ups.edu/download.html)
+
+介绍: 【A First Course in Linear Algebra】Robert Beezer 有答案 有移动版、打印版 使用GNU自由文档协议 引用了杰弗逊1813年的信
