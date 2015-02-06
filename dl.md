@@ -981,3 +981,19 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《A First Course in Linear Algebra》](http://linear.ups.edu/download.html)
 
 介绍: 【A First Course in Linear Algebra】Robert Beezer 有答案 有移动版、打印版 使用GNU自由文档协议 引用了杰弗逊1813年的信
+
+* [《libfacedetection》](https://github.com/ShiqiYu/libfacedetection)
+
+介绍:libfacedetection是深圳大学开源的一个人脸图像识别库。包含正面和多视角人脸检测两个算法.优点:速度快(OpenCV haar+adaboost的2-3倍), 准确度高 (FDDB非公开类评测排名第二），能估计人脸角度。
+
+* [《Inverting a Steady-State》](http://dl.acm.org/citation.cfm?doid=2684822.2685310)
+
+介绍:WSDM2015最佳论文 把马尔可夫链理论用在了图分析上面，比一般的propagation model更加深刻一些。通过全局的平稳分布去求解每个节点影响系数模型。假设合理（转移受到相邻的影响系数影响）。可以用来反求每个节点的影响系数
+
+* [《机器学习入门书单》](http://pan.baidu.com/s/1pJogO7x)
+
+介绍:机器学习入门书籍，[具体介绍](http://www.hankcs.com/ml/machine-learning-entry-list.html)
+
+* [《The Trouble with SVMs》](http://v1v3kn.tumblr.com/post/47193952400/the-trouble-with-svms)
+
+介绍: 非常棒的强调特征选择对分类器重要性的文章。情感分类中，根据互信息对复杂高维特征降维再使用朴素贝叶斯分类器，取得了比SVM更理想的效果，训练和分类时间也大大降低——更重要的是，不必花大量时间在学习和优化SVM上——特征也一样no free lunch
