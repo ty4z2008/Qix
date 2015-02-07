@@ -997,3 +997,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《The Trouble with SVMs》](http://v1v3kn.tumblr.com/post/47193952400/the-trouble-with-svms)
 
 介绍: 非常棒的强调特征选择对分类器重要性的文章。情感分类中，根据互信息对复杂高维特征降维再使用朴素贝叶斯分类器，取得了比SVM更理想的效果，训练和分类时间也大大降低——更重要的是，不必花大量时间在学习和优化SVM上——特征也一样no free lunch
+
+* [《Rise of the Machines》](http://www.stat.cmu.edu/~larry/Wasserman.pdf)
+
+介绍:CMU的统计系和计算机系知名教授Larry Wasserman 在《机器崛起》,对比了统计和机器学习的差异
