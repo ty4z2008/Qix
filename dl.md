@@ -1001,3 +1001,19 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Rise of the Machines》](http://www.stat.cmu.edu/~larry/Wasserman.pdf)
 
 介绍:CMU的统计系和计算机系知名教授Larry Wasserman 在《机器崛起》,对比了统计和机器学习的差异
+
+* [《实例详解机器学习如何解决问题》](http://tech.meituan.com/mt-mlinaction-how-to-ml.html)
+
+介绍:随着大数据时代的到来，机器学习成为解决问题的一种重要且关键的工具。不管是工业界还是学术界，机器学习都是一个炙手可热的方向，但是学术界和工业界对机器学习的研究各有侧重，学术界侧重于对机器学习理论的研究，工业界侧重于如何用机器学习来解决实际问题。这篇文章是美团的实际环境中的实战篇
+
+* [《Gaussian Processes for Machine Learning》](http://www.gaussianprocess.org/gpml/)
+
+介绍:面向机器学习的高斯过程，章节概要：回归、分类、协方差函数、模型选择与超参优化、高斯模型与其他模型关系、大数据集的逼近方法等,[微盘下载](http://vdisk.weibo.com/s/ayG13we2vfWuT)
+
+* [《FuzzyWuzzy: Fuzzy String Matching in Python》](http://chairnerd.seatgeek.com/fuzzywuzzy-fuzzy-string-matching-in-python/)
+
+介绍:Python下的文本模糊匹配库，老库新推，可计算串间ratio(简单相似系数)、partial_ratio(局部相似系数)、token_sort_ratio(词排序相似系数)、token_set_ratio(词集合相似系数)等 [github](https://github.com/seatgeek/fuzzywuzzy)
+
+* [《Blocks》](http://blocks.readthedocs.org/en/latest/)
+
+介绍:Blocks是基于Theano的神经网络搭建框架，集成相关函数、管道和算法，帮你更快地创建和管理NN模块
