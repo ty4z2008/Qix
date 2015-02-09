@@ -1016,4 +1016,24 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 * [《Blocks》](http://blocks.readthedocs.org/en/latest/)
 
-介绍:Blocks是基于Theano的神经网络搭建框架，集成相关函数、管道和算法，帮你更快地创建和管理NN模块
+介绍:Blocks是基于Theano的神经网络搭建框架，集成相关函数、管道和算法，帮你更快地创建和管理NN模块.
+
+* [《Introduction to Machine Learning》](http://alex.smola.org/teaching/10-701-15/)
+
+介绍:机器学习大神Alex Smola在CMU新一期的机器学习入门课程”Introduction to Machine Learning“近期刚刚开课，课程4K高清视频同步到Youtube上，目前刚刚更新到 2.4 Exponential Families,课程视频[playlist](https://www.youtube.com/playlist?list=PLZSO_6-bSqHTTV7w9u7grTXBHMH-mw3qn), 感兴趣的同学可以关注，非常适合入门.
+
+* [《Collaborative Feature Learning from Social Media》](http://arxiv.org/abs/1502.01423)
+
+介绍:用社交用户行为学习图片的协同特征，可更好地表达图片内容相似性。由于不依赖于人工标签(标注)，可用于大规模图片处理，难在用户行为数据的获取和清洗；利用社会化特征的思路值得借鉴.
+
+* [《Introducing practical and robust anomaly detection in a time series》](https://blog.twitter.com/2015/introducing-practical-and-robust-anomaly-detection-in-a-time-series)
+
+介绍:Twitter技术团队对前段时间开源的时间序列异常检测算法(S-H-ESD)R包的介绍，其中对异常的定义和分析很值得参考，文中也提到——异常是强针对性的，某个领域开发的异常检测在其他领域直接用可不行.
+
+* [《Empower Your Team to Deal with Data-Quality Issues》](http://www.destinationcrm.com/Articles/Web-Exclusives/Viewpoints/Empower-Your-Team-to-Deal-with-Data-Quality-Issues-101308.aspx)
+
+介绍:聚焦数据质量问题的应对，数据质量对各种规模企业的性能和效率都至关重要，文中总结出(不限于)22种典型数据质量问题显现的信号，以及典型的数据质量解决方案(清洗、去重、统一、匹配、权限清理等)
+
+* [《中文分词入门之资源》](http://www.52nlp.cn/%E4%B8%AD%E6%96%87%E5%88%86%E8%AF%8D%E5%85%A5%E9%97%A8%E4%B9%8B%E8%B5%84%E6%BA%90)
+
+介绍:中文分词入门之资源.
