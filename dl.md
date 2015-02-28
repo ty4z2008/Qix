@@ -1037,3 +1037,20 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《中文分词入门之资源》](http://www.52nlp.cn/%E4%B8%AD%E6%96%87%E5%88%86%E8%AF%8D%E5%85%A5%E9%97%A8%E4%B9%8B%E8%B5%84%E6%BA%90)
 
 介绍:中文分词入门之资源.
+
+* [《Deep Learning Summit, San Francisco, 2015》](https://www.youtube.com/playlist?list=PLnDbcXCpYZ8lCKExMs8k4PtIbani9ESX3)
+
+介绍:15年旧金山深度学习峰会视频集萃,[国内云盘](http://pan.baidu.com/s/1ntiLMcT)
+
+* [《Introduction to Conditional Random Fields》](http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/)
+
+介绍:很好的条件随机场(CRF)介绍文章,作者的学习笔记
+
+* [《A Fast and Accurate Dependency Parser using Neural Networks》](http://cs.stanford.edu/~danqi/papers/emnlp2014.pdf)
+
+介绍: 来自Stanford，用神经网络实现快速准确的依存关系解析器
+
+* [《Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning》](https://timdettmers.wordpress.com/2014/08/14/which-gpu-for-deep-learning/)
+
+介绍:做深度学习如何选择GPU的建议
+
