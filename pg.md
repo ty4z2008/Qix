@@ -241,3 +241,7 @@
 * [《pgloader》](http://pgloader.io/)
 
 介绍： postgresql的一数据导入工具，支持csv, 数据迁移
+
+* [《mysql schema to postgresql》](https://github.com/mihailShumilov/mysql2postgresql)
+
+介绍：Converter mysql schema and data to postgresql
