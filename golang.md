@@ -145,3 +145,11 @@
 
 介绍：使用GO改善Ruby性能
 
+* [《Why is Golang popular in China?》](http://herman.asia/why-is-go-popular-in-china)
+
+介绍：为什么golang在中国如此流行?
+
+* [《Tenus - Golang Powered Linux Networking》](http://containerops.org/2014/07/30/tenus-golang-powered-linux-networking/)
+
+介绍：Linux网络驱动
+
