@@ -284,7 +284,7 @@
 
 * [《机器学习&数据挖掘笔记_16（常见面试之机器学习算法思想简单梳理）》](http://www.cnblogs.com/tornadomeet/p/3395593.html)
 
-介绍:常见面试之机器学习算法思想简单梳理
+介绍:常见面试之机器学习算法思想简单梳理,此外作者还有一些其他的[机器学习与数据挖掘文章](http://www.cnblogs.com/tornadomeet/tag/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)和[深度学习文章](http://www.cnblogs.com/tornadomeet/tag/Deep%E3%80%80Learning/),不仅是理论还有源码。
 
 * [《文本与数据挖掘视频汇总》](http://www.kdnuggets.com/2014/09/most-viewed-web-mining-lectures-videolectures.html)
 
