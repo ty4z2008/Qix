@@ -1054,3 +1054,16 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:做深度学习如何选择GPU的建议
 
+* [《Sparse Linear Models》](http://new.livestream.com/accounts/10932136/events/3779068)
+
+介绍: Stanford的Trevor Hastie教授在H2O.ai Meet-Up上的报告，讲稀疏线性模型——面向“宽数据”(特征维数超过样本数)的线性模型,13年同[主题报告](http://pan.baidu.com/s/1jimPw) 、[讲义](http://pan.baidu.com/s/1o6wqW6u).
+
+* [《Awesome Computer Vision》](https://github.com/jbhuang0604/awesome-computer-vision)
+
+介绍: 分类整理的机器视觉相关资源列表，秉承Awesome系列风格，有质有量!作者的更新频率也很频繁
+
+* [《Adam Szeidl》](http://www.personal.ceu.hu/staff/Adam_Szeidl/)
+
+介绍: social networks course
+
+
