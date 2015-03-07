@@ -1066,4 +1066,26 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍: social networks course
 
+* [《Building and deploying large-scale machine learning pipelines》](http://radar.oreilly.com/2015/01/building-and-deploying-large-scale-machine-learning-pipelines.html/)
 
+介绍: 大规模机器学习流程的构建与部署.
+
+* [《人脸识别开发包》](http://download.csdn.net/detail/lswtzw/8469997)
+
+介绍: 人脸识别二次开发包，免费，可商用，有演示、范例、说明书.
+
+* [《Understanding Natural Language with Deep Neural Networks Using Torch》](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
+
+介绍: 采用Torch用深度学习网络理解NLP，来自Facebook 人工智能的文章.
+
+* [《The NLP Engine: A Universal Turing Machine for NLP》](http://arxiv.org/pdf/1503.00168.pdf)
+
+介绍: 来自CMU的Ed Hovy和Stanford的Jiwei Li一篇有意思的Arxiv文章,作者用Shannon Entropy来刻画NLP中各项任务的难度.
+
+* [《TThe Probabilistic Relevance Framework: BM25 and Beyond》](http://staff.city.ac.uk/~sb317/papers/foundations_bm25_review.pdf)
+
+介绍: 信息检索排序模型BM25(Besting Matching)。1）从经典概率模型演变而来 2）捕捉了向量空间模型中三个影响索引项权重的因子：IDF逆文档频率；TF索引项频率；文档长度归一化。3）并且含有集成学习的思想：组合了BM11和BM15两个模型。4）作者是BM25的提出者和Okapi实现者Robertson.
+
+* [《Introduction to ARMA Time Series Models – simplified》](http://www.analyticsvidhya.com/blog/2015/03/introduction-auto-regression-moving-average-time-series/)
+
+介绍: 自回归滑动平均(ARMA)时间序列的简单介绍，ARMA是研究时间序列的重要方法，由自回归模型（AR模型）与滑动平均模型（MA模型）为基础“混合”构成.
