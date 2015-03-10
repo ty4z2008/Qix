@@ -1089,3 +1089,27 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Introduction to ARMA Time Series Models – simplified》](http://www.analyticsvidhya.com/blog/2015/03/introduction-auto-regression-moving-average-time-series/)
 
 介绍: 自回归滑动平均(ARMA)时间序列的简单介绍，ARMA是研究时间序列的重要方法，由自回归模型（AR模型）与滑动平均模型（MA模型）为基础“混合”构成.
+
+* [《Encoding Source Language with Convolutional Neural Network for Machine Translation》](http://arxiv.org/pdf/1503.01838v1.pdf)
+
+介绍: 把来自target的attention signal加入source encoding CNN的输入，得到了比BBN的模型好的多neural network joint model
+
+* [《Spices form the basis of food pairing in Indian cuisine》](http://arxiv.org/abs/1502.03815)
+
+介绍: 揭开印度菜的美味秘诀——通过对大量食谱原料关系的挖掘，发现印度菜美味的原因之一是其中的味道互相冲突，很有趣的文本挖掘研究
+
+* [《HMM相关文章索引》](http://www.52nlp.cn/hmm%E7%9B%B8%E5%85%B3%E6%96%87%E7%AB%A0%E7%B4%A2%E5%BC%95)
+
+介绍: HMM相关文章
+
+* [《Zipf's and Heap's law》](http://www.ccs.neu.edu/home/ekanou/ISU535.09X2/Handouts/Review_Material/zipfslaw.pdf)
+
+介绍: 1)词频与其降序排序的关系,最著名的是语言学家齐夫(Zipf,1902-1950)1949年提出的Zipf‘s law,即二者成反比关系. 曼德勃罗(Mandelbrot,1924- 2010)引入参数修正了对甚高频和甚低频词的刻画 2)Heaps' law: 词汇表与语料规模的平方根(这是一个参数,英语0.4-0.6)成正比
+
+* [《I am Jürgen Schmidhuber, AMA》](http://www.reddit.com/r/MachineLearning/comments/2xcyrl/i_am_j%C3%BCrgen_schmidhuber_ama/)
+
+介绍: Jürgen Schmidhuber在Reddit上的AMA(Ask Me Anything)主题，有不少RNN和AI、ML的干货内容，关于开源&思想&方法&建议……耐心阅读，相信你也会受益匪浅.
+
+* [《学术种子网站：AcademicTorrents》](http://academictorrents.com/)
+
+介绍: 成G上T的学术数据，HN近期热议话题,主题涉及机器学习、NLP、SNA等。下载最简单的方法，通过BT软件，RSS订阅各集合即可
