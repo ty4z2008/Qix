@@ -1137,3 +1137,13 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《How to Choose a Neural Network》](http://deeplearning4j.org/neuralnetworktable.html)
 
 介绍:deeplearning4j官网提供的实际应用场景NN选择参考表，列举了一些典型问题建议使用的神经网络
+
+* [《Deep Learning (Python, C/C++, Java, Scala, Go)》](https://github.com/yusugomori/DeepLearning)
+
+介绍:一个深度学习项目,提供了Python, C/C++, Java, Scala, Go多个版本的代码
+
+* [《Deep Learning Tutorials》](http://deeplearning.net/tutorial/)
+
+介绍:深度学习教程
+
+
