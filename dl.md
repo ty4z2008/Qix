@@ -1113,3 +1113,27 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《学术种子网站：AcademicTorrents》](http://academictorrents.com/)
 
 介绍: 成G上T的学术数据，HN近期热议话题,主题涉及机器学习、NLP、SNA等。下载最简单的方法，通过BT软件，RSS订阅各集合即可
+
+* [《机器学习交互速查表》](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+
+介绍: Scikit-Learn官网提供，在原有的Cheat Sheet基础上加上了Scikit-Learn相关文档的链接，方便浏览
+
+* [《A Full Hardware Guide to Deep Learning》](https://timdettmers.wordpress.com/2015/03/09/deep-learning-hardware-guide/)
+
+介绍: 深度学习的全面硬件指南，从GPU到RAM、CPU、SSD、PCIe
+
+* [《行人检测(Pedestrian Detection)资源》](http://hi.baidu.com/susongzhi/item/085983081b006311eafe38e7)
+
+介绍:Pedestrian Detection paper & data
+
+* [《A specialized face-processing network consistent with the representational geometry of monkey face patches》](http://arxiv.org/abs/1502.01241)
+
+介绍: 【神经科学碰撞人工智能】在脸部识别上你我都是专家，即使细微的差别也能辨认。研究已证明人类和灵长类动物在面部加工上不同于其他物种，人类使用梭状回面孔区（FFA）。Khaligh-Razavi等通过计算机模拟出人脸识别的FFA活动，堪称神经科学与人工智能的完美结合。
+
+* [《Neural Net in C++ Tutorial》](https://vimeo.com/19569529)
+
+介绍: 神经网络C++教程,本文介绍了用可调节梯度下降和可调节动量法设计和编码经典BP神经网络，网络经过训练可以做出惊人和美妙的东西出来。此外作者博客的其他文章也很不错。
+
+* [《How to Choose a Neural Network》](http://deeplearning4j.org/neuralnetworktable.html)
+
+介绍:deeplearning4j官网提供的实际应用场景NN选择参考表，列举了一些典型问题建议使用的神经网络
