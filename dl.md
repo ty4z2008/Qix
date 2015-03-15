@@ -1146,4 +1146,22 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:深度学习教程
 
+* [《自然语言处理的发展趋势——访卡内基梅隆大学爱德华·霍威教授》](http://www.ccf.org.cn/resources/1190201776262/2015/03/12/15.pdf)
 
+介绍:自然语言处理的发展趋势——访卡内基梅隆大学爱德华·霍威教授.
+
+* [《FaceNet: A Unified Embedding for Face Recognition and Clustering》](http://arxiv.org/abs/1503.03832)
+
+介绍:Google对Facebook DeepFace的有力回击—— FaceNet，在LFW(Labeled Faces in the Wild)上达到99.63%准确率(新纪录)，FaceNet embeddings可用于人脸识别、鉴别和聚类.
+
+* [《MLlib中的Random Forests和Boosting》](http://databricks.com/blog/2015/01/21/random-forests-and-boosting-in-mllib.html)
+
+介绍:本文来自Databricks公司网站的一篇博客文章，由Joseph Bradley和Manish Amde撰写，文章主要介绍了Random Forests和Gradient-Boosted Trees（GBTs）算法和他们在MLlib中的分布式实现，以及展示一些简单的例子并建议该从何处上手.[中文版](http://www.csdn.net/article/2015-03-11/2824178).
+
+* [《Sum-Product Networks(SPN) 》](http://spn.cs.washington.edu/index.shtml)
+
+介绍:华盛顿大学Pedro Domingos团队的DNN，提供论文和实现代码.
+
+* [《Neural Network Dependency Parser》](http://nlp.stanford.edu/software/nndep.shtml)
+
+介绍:基于神经网络的自然语言依存关系解析器(已集成至Stanford CoreNLP)，特点是超快、准确，目前可处理中英文语料，基于[《A Fast and Accurate Dependency Parser Using Neural Networks》](http://cs.stanford.edu/~danqi/papers/emnlp2014.pdf) 思路实现.
