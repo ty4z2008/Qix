@@ -1165,3 +1165,52 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Neural Network Dependency Parser》](http://nlp.stanford.edu/software/nndep.shtml)
 
 介绍:基于神经网络的自然语言依存关系解析器(已集成至Stanford CoreNLP)，特点是超快、准确，目前可处理中英文语料，基于[《A Fast and Accurate Dependency Parser Using Neural Networks》](http://cs.stanford.edu/~danqi/papers/emnlp2014.pdf) 思路实现.
+
+* [《神经网络语言模型》](http://www.flickering.cn/nlp/2015/03/%E6%88%91%E4%BB%AC%E6%98%AF%E8%BF%99%E6%A0%B7%E7%90%86%E8%A7%A3%E8%AF%AD%E8%A8%80%E7%9A%84-3%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/)
+
+介绍:本文根据神经网络的发展历程，详细讲解神经网络语言模型在各个阶段的形式，其中的模型包含NNLM[Bengio,2003]、Hierarchical NNLM[Bengio, 2005], Log-Bilinear[Hinton, 2007],SENNA等重要变形，总结的特别好.
+
+* [《Classifying Spam Emails using Text and Readability Features》](http://www.elg.uottawa.ca/~nat/Courses/csi5387_Winter2014/paper13.pdf)
+
+介绍:经典问题的新研究：利用文本和可读性特征分类垃圾邮件。
+
+* [《BCI Challenge @ NER 2015》](https://github.com/alexandrebarachant/bci-challenge-ner-2015)
+
+介绍:[Kaggle脑控计算机交互(BCI)竞赛](https://www.kaggle.com/c/inria-bci-challenge)优胜方案源码及文档，包括完整的数据处理流程，是学习Python数据处理和Kaggle经典参赛框架的绝佳实例
+
+* [《IPOL Journal · Image Processing On Line》](http://www.ipol.im/)
+
+介绍:IPOL（在线图像处理）是图像处理和图像分析的研究期刊，每篇文章都包含一个算法及相应的代码、Demo和实验文档。文本和源码是经过了同行评审的。IPOL是开放的科学和可重复的研究期刊。我一直想做点类似的工作，拉近产品和技术之间的距离.
+
+* [《Machine learning classification over encrypted data》](http://eprint.iacr.org/2014/331)
+
+介绍:出自MIT，研究加密数据高效分类问题.
+
+* [《purine2》](https://github.com/purine/purine2)
+
+介绍:新加坡LV实验室的神经网络并行框架[Purine: A bi-graph based deep learning framework](http://arxiv.org/abs/1412.6249),支持构建各种并行的架构，在多机多卡，同步更新参数的情况下基本达到线性加速。12块Titan 20小时可以完成Googlenet的训练。
+
+* [《Machine Learning Resources》](http://michal.io/machine-learning-resources/)
+
+介绍:这是一个机器学习资源库,虽然比较少.但蚊子再小也是肉.有突出部分.此外还有一个由[zheng Rui整理的机器学习资源](http://zhengrui.github.io/zerryland/ML-CV-Resource.html).
+
+* [《Hands-on with machine learning》](https://github.com/cjdd3b/nicar2015/tree/master/machine-learning)
+
+介绍:Chase Davis在NICAR15上的主题报告材料，用Scikit-Learn做监督学习的入门例子.
+
+* [《The Natural Language Processing Dictionary》](http://www.cse.unsw.edu.au/~billw/nlpdict.html)
+
+介绍:这是一本自然语言处理的词典,从1998年开始到目前积累了成千上万的专业词语解释,如果你是一位刚入门的朋友.可以借这本词典让自己成长更快.
+
+* [《PageRank Approach to Ranking National Football Teams》](http://arxiv.org/abs/1503.01331)
+
+介绍:通过分析1930年至今的比赛数据，用PageRank计算世界杯参赛球队排行榜.
+
+* [《R Tutorial》](http://cyclismo.org/tutorial/R/)
+
+介绍:R语言教程,此外还推荐一个R语言教程[An Introduction to R](http://cran.r-project.org/doc/manuals/R-intro.html).
+
+* [《Fast unfolding of communities in large networks》](http://arxiv.org/abs/0803.0476)
+
+介绍:经典老文，复杂网络社区发现的高效算法，Gephi中的[Community detection](The Louvain method for community detection in large networks)即基于此.
+
