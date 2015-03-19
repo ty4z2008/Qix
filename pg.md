@@ -245,3 +245,7 @@
 * [《mysql schema to postgresql》](https://github.com/mihailShumilov/mysql2postgresql)
 
 介绍：Converter mysql schema and data to postgresql
+
+* [《Search PostgreSQL sites》](http://www.pgsql.ru/db/pgsearch/)
+
+介绍：一个PostgreSQL资料搜索引擎
