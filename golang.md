@@ -153,3 +153,11 @@
 
 介绍：Linux网络驱动
 
+* [《Go 语言入门教程 (Peter Bourgon)》](http://howistart.org/posts/go/1)
+
+介绍：Go 语言入门教程
+
+* [《GXUI》](https://github.com/google/gxui)
+
+介绍：一个 Go 语言跨平台 UI 库  
+
