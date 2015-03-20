@@ -8,7 +8,11 @@
 
 介绍:这是一篇介绍在动态网络里面实现分布式系统重构的paper.论文的作者(导师)是MIT读博的时候是做分布式系统的研究的,现在在NUS带学生,不仅仅是[分布式系统](http://www.comp.nus.edu.sg/~gilbert/biblio-projects.html#rambo),还有无线网络.如果感兴趣可以去他的主页了解.
 
-* [《Distributed porgramming liboratory 》](http://lpd.epfl.ch/site)
+* [《Distributed porgramming liboratory》](http://lpd.epfl.ch/site)
 
 介绍:分布式编程实验室,他们发表的很多的[paper](http://lpd.epfl.ch/site/Publications),其中不仅仅是学术研究,还有一些工业界应用的论文.
+
+* [《MIT Theory of Distributed Systems》](http://groups.csail.mit.edu/tds/)
+
+介绍:麻省理工的分布式系统理论主页,作者南希·林奇在2002年证明了[CAP理论](http://zh.wikipedia.org/wiki/CAP%E5%AE%9A%E7%90%86),并且著《分布式算法》一书.
 
