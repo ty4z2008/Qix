@@ -1214,3 +1214,8 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:经典老文，复杂网络社区发现的高效算法，Gephi中的[Community detection](The Louvain method for community detection in large networks)即基于此.
 
+* [《NUML》](http://numl.net/)
+
+介绍: 一个面向 .net 的开源机器学习库,[github地址](https://github.com/sethjuarez/numl)
+
+
