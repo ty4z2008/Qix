@@ -1218,4 +1218,11 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍: 一个面向 .net 的开源机器学习库,[github地址](https://github.com/sethjuarez/numl)
 
+* [《synaptic.Js》](http://synaptic.juancazala.com/)
+
+介绍: 支持node.js的JS神经网络库，可在客户端浏览器中运行，支持LSTM等 [github地址](https://github.com/cazala/synaptic)
+
+* [《Machine learning for package users with R (1): Decision Tree》](http://tjo-en.hatenablog.com/entry/2015/03/20/191614)
+
+介绍: 决策树
 
