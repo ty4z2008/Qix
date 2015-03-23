@@ -161,3 +161,6 @@
 
 介绍：一个 Go 语言跨平台 UI 库  
 
+* [《Go最新资料汇总》](http://studygolang.com/topics/node13)
+
+介绍：Go最新资料汇总
