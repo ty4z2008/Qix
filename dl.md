@@ -1226,3 +1226,11 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍: 决策树
 
+* [《Deep Learning, The Curse of Dimensionality, and Autoencoders》](http://www.kdnuggets.com/2015/03/deep-learning-curse-dimensionality-autoencoders.html)
+
+介绍:  讨论深度学习自动编码器如何有效应对维数灾难,[国内翻译](http://www.36dsj.com/archives/26223)
+
+* [《Advanced Optimization and Randomized Methods》](http://www.cs.cmu.edu/~suvrit/teach/)
+
+介绍: CMU的优化与随机方法课程，由A. Smola和S. Sra主讲，优化理论是机器学习的基石，值得深入学习 [国内云(视频)](http://pan.baidu.com/s/1c0cZtQC)
+
