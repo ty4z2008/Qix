@@ -1245,3 +1245,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Deep Learning for Multi-label Classification》](http://arxiv.org/abs/1502.05988)
 
 介绍: 基于深度学习的多标签分类,用基于RBM的DBN解决多标签分类(特征)问题
+
+* [《Google DeepMind publications》](http://deepmind.com/publications.html)
+
+介绍: DeepMind论文集锦
