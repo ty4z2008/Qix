@@ -1234,3 +1234,14 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍: CMU的优化与随机方法课程，由A. Smola和S. Sra主讲，优化理论是机器学习的基石，值得深入学习 [国内云(视频)](http://pan.baidu.com/s/1c0cZtQC)
 
+* [《CS231n: Convolutional Neural Networks for Visual Recognition》](http://cs231n.stanford.edu/reports.html)
+
+介绍: "面向视觉识别的CNN"课程设计报告集锦.近百篇，内容涉及图像识别应用的各个方面
+
+* [《Topic modeling with LDA: MLlib meets GraphX》](http://databricks.com/blog/2015/03/25/topic-modeling-with-lda-mllib-meets-graphx.html)
+
+介绍:用Spark的MLlib+GraphX做大规模LDA主题抽取.
+
+* [《Deep Learning for Multi-label Classification》](http://arxiv.org/abs/1502.05988)
+
+介绍: 基于深度学习的多标签分类,用基于RBM的DBN解决多标签分类(特征)问题
