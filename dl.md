@@ -1249,3 +1249,39 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Google DeepMind publications》](http://deepmind.com/publications.html)
 
 介绍: DeepMind论文集锦
+
+* [《kaldi》](http://kaldi-asr.org/)
+
+介绍: 一个开源语音识别工具包,它目前托管在[sourceforge](http://sourceforge.net/projects/kaldi/)上面
+
+* [《Data Journalism Handbook》](http://datajournalismhandbook.org/)
+
+介绍: 免费电子书《数据新闻手册》, 国内有热心的朋友翻译了[中文版](http://datajournalismhandbook.org/chinese/index.html),大家也可以[在线阅读](http://datajournalismhandbook.org/1.0/en/)
+
+* [《Data Mining Problems in Retail》](https://highlyscalable.wordpress.com/2015/03/10/data-mining-problems-in-retail/)
+
+介绍: 零售领域的数据挖掘文章.
+
+* [《Understanding Convolution in Deep Learning》](https://timdettmers.wordpress.com/2015/03/26/convolution-deep-learning/)
+
+介绍: 深度学习卷积概念详解,深入浅出.
+
+* [《pandas: powerful Python data analysis toolkit》](http://pandas.pydata.org/)
+
+介绍: 非常强大的Python的数据分析工具包.
+
+* [《Text Analytics 2015》](http://breakthroughanalysis.com/2015/03/23/text-analytics-2015/)
+
+介绍: 2015文本分析(商业)应用综述.
+
+* [《Deep Learning libraries and ﬁrst experiments with Theano》](http://www.slideshare.net/VincenzoLomonaco/deep-learning-libraries-and-rst-experiments-with-theano)
+
+介绍: 深度学习框架、库调研及Theano的初步测试体会报告.
+
+* [《DEEP learning》](http://www.iro.umontreal.ca/~bengioy/dlbook/)
+
+介绍:  MIT的Yoshua Bengio等人讲深度学习的新书，还未定稿，线上提供Draft chapters收集反馈，超赞！强烈推荐.
+
+* [《simplebayes》](https://github.com/hickeroar/simplebayes)
+
+介绍: Python下开源可持久化朴素贝叶斯分类库.
