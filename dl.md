@@ -1285,3 +1285,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《simplebayes》](https://github.com/hickeroar/simplebayes)
 
 介绍: Python下开源可持久化朴素贝叶斯分类库.
+
+* [《Paracel》](http://paracel.io/)
+
+介绍:Paracel is a distributed computational framework designed for machine learning problems, graph algorithms and scientific computing in C++.
