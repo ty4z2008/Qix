@@ -1297,3 +1297,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Simple Neural Network implementation in Ruby》](http://www.rubylab.io/2015/03/18/simple-neural-network-implenentation-in-ruby/)
 
 介绍: 使用Ruby实现简单的神经网络例子
+
+* [《Hacker's guide to Neural Networks》](https://karpathy.github.io/neuralnets/)
+
+介绍:神经网络黑客入门
