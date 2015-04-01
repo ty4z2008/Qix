@@ -1293,3 +1293,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《HanLP:Han Language processing》](http://hanlp.linrunsoft.com/)
 
 介绍: 开源汉语言处理包.
+
+* [《Simple Neural Network implementation in Ruby》](http://www.rubylab.io/2015/03/18/simple-neural-network-implenentation-in-ruby/)
+
+介绍: 使用Ruby实现简单的神经网络例子
