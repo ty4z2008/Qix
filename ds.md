@@ -16,3 +16,51 @@
 
 介绍:麻省理工的分布式系统理论主页,作者南希·林奇在2002年证明了[CAP理论](http://zh.wikipedia.org/wiki/CAP%E5%AE%9A%E7%90%86),并且著《分布式算法》一书.
 
+* [《Notes on Distributed Systems for Young Bloods》](http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
+
+介绍:分布式系统搭建初期的一些建议
+
+* [《Principles of Distributed Computing》](http://dcg.ethz.ch/lectures/podc_allstars/)
+
+介绍:分布式计算原理课程
+
+* [《Google's Globally-Distributed Database》](http://research.google.com/archive/spanner.html)
+
+介绍:Google全球分布式数据介绍
+
+* [《The Architecture Of Algolia’s Distributed Search Network》](http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html)
+
+介绍:Algolia的分布式搜索网络的体系架构介绍
+
+* [《Build up a High Availability Distributed Key-Value Store》](https://medium.com/@siddontang/build-up-a-high-availability-distributed-key-value-store-b4e02bc46e9e)
+
+介绍:构建高可用分布式Key-Value存储系统
+
+* [《Distributed Search Engine with Nanomsg and Bond》](https://daniel-j-h.github.io/post/distributed-search-nanomsg-bond/)
+
+介绍:Nanomsg和Bond的分布式搜索引擎
+
+* [《Distributed Processing With MongoDB And Mongothon》](http://tech.gc.com/distributed-processing-with-mongodb-and-mongothon/)
+
+介绍:使用MongoDB和Mongothon进行分布式处理
+
+* [《Salt: Combining ACID and BASE in a Distributed Database》](http://muratbuffalo.blogspot.jp/2015/02/salt-combining-acid-and-base-in.html)
+
+介绍:分布式数据库中把[ACID与BASE](http://www.sigma.me/2011/06/17/database-ACID-and-BASE.html)结合使用.
+
+* [《Makes it easy to understand Paxos for Distributed Systems》](http://paxos.systems/)
+
+介绍:理解的Paxos的分布式系统
+
+* [《There is No Now Problems with simultaneity in distributed systems》](http://queue.acm.org/detail.cfm?id=2745385)
+
+介绍:There is No Now Problems with simultaneity in distributed systems
+
+* [《Distributed Systems》](http://www0.cs.ucl.ac.uk/staff/ucacwxe/lectures/ds98-99/)
+
+介绍:伦敦大学学院分布式系统课程课件.
+
+* [《Distributed systems for fun and profit》](http://book.mixu.net/distsys/index.html)
+
+介绍:分布式系统电子书籍.
+
