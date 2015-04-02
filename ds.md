@@ -64,3 +64,7 @@
 
 介绍:分布式系统电子书籍.
 
+* [《Distributed Systems Spring 2015》](http://www.andrew.cmu.edu/course/95-702/)
+
+介绍:卡内基梅隆大学春季分布式课程主页
+
