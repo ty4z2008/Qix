@@ -68,3 +68,6 @@
 
 介绍:卡内基梅隆大学春季分布式课程主页
 
+* [《Distributed Systems: Concepts and Design (5th Edition)》](https://azmuri.files.wordpress.com/2013/09/george-coulouris-distributed-systems-concepts-and-design-5th-edition.pdf)
+
+介绍: 电子书,分布式系统概念与设计(第五版)
