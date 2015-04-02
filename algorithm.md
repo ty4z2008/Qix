@@ -19,3 +19,8 @@
 * [《Open Data Structures》](http://opendatastructures.org/)
 
 介绍：《开放数据结构》，里面有C++.java相关实现的书籍
+
+* [《Data Structure and Algorithms for Information Processing》](http://www.andrew.cmu.edu/user/mm6/95-771/schedule.html)
+
+介绍：卡内基梅隆大学的信息处理的数据结构与算法课程课件
+
