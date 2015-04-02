@@ -1301,3 +1301,15 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Hacker's guide to Neural Networks》](https://karpathy.github.io/neuralnets/)
 
 介绍:神经网络黑客入门
+
+* [《The Open-Source Data Science Masters》](http://datasciencemasters.org/)
+
+介绍:好多数据科学家名人推荐,还有资料
+
+* [《Text Understanding from Scratch》](http://arxiv.org/abs/1502.01710)
+
+介绍:实现项目已经开源在github上面[Crepe](https://github.com/zhangxiangxiao/Crepe)
+
+* [《 Improving Distributional Similarity with Lessons Learned from Word Embeddings》](https://levyomer.files.wordpress.com/2015/03/improving-distributional-similarity-tacl-2015.pdf)
+
+介绍:作者发现，经过调参，传统的方法也能和word2vec取得差不多的效果。另外，无论作者怎么试，GloVe都比不过word2vec。
