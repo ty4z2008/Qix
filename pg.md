@@ -1,4 +1,4 @@
-##PostgreSQL资源整理
+##PostgreSQL(数据库)资料
 
 * [《PG技术沙龙ppt》](http://wenku.it168.com/org/145)
 
