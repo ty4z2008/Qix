@@ -1317,3 +1317,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《CS224d: Deep Learning for Natural Language Processing》](http://cs224d.stanford.edu/index.html)
 
 介绍:Stanford深度学习与自然语言处理课程,Richard Socher主讲.
+
+* [《Math Essentials in Machine Learning》](http://courses.washington.edu/css490/2012.Winter/lecture_slides/02_math_essentials.pdf)
+
+介绍:机器学习中的重要数学概念.
