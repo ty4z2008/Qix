@@ -1321,3 +1321,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Math Essentials in Machine Learning》](http://courses.washington.edu/css490/2012.Winter/lecture_slides/02_math_essentials.pdf)
 
 介绍:机器学习中的重要数学概念.
+
+* [《Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks》](http://arxiv.org/abs/1503.00007)
+
+介绍:用于改进语义表示的树型LSTM递归神经网络,句子级相关性判断和情感分类效果很好.[实现代码](https://github.com/stanfordnlp/treelstm).
