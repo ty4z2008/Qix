@@ -1329,3 +1329,31 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Statistical Machine Learning》](http://www.stat.cmu.edu/~larry/=sml/)
 
 介绍:卡耐基梅隆Ryan Tibshirani和Larry Wasserman开设的机器学习课程，先修课程为机器学习(10-715)和中级统计学(36-705)，聚焦统计理论和方法在机器学习领域应用.
+
+* [《AM207: Monte Carlo Methods, Stochastic Optimization》](http://am207.org/)
+
+介绍:《哈佛大学蒙特卡洛方法与随机优化课程》是哈佛应用数学研究生课程，由V Kaynig-Fittkau、P Protopapas主讲，Python程序示例，对贝叶斯推理感兴趣的朋友一定要看看，提供授[课视频及课上IPN讲义](http://nbviewer.ipython.org/github/AM207/2015/tree/master/Lectures/).
+
+* [《生物医学的SPARK大数据应用》](http://spark-summit.org/wp-content/uploads/2015/03/SSE15-40-Danford.pdf)
+
+介绍:生物医学的SPARK大数据应用.并且伯克利开源了他们的big data genomics系统[ADAM](https://github.com/bigdatagenomics/adam)，其他的内容可以关注一下[官方主页](http://spark-summit.org/).
+
+* [《ACL Anthology》](http://aclanthology.info/)
+
+介绍:对自然语言处理技术或者机器翻译技术感兴趣的亲们，请在提出自己牛逼到无以伦比的idea（自动归纳翻译规律、自动理解语境、自动识别语义等等）之前，请通过谷歌学术简单搜一下，如果谷歌不可用，这个网址有这个领域几大顶会的论文列表,切不可断章取义,胡乱假设.
+
+* [《Twitter Sentiment Detection via Ensemble Classification Using Averaged Confidence Scores》](http://www.uni-weimar.de/medien/webis/publications/papers/stein_2015b.pdf)
+
+介绍:论文+代码:基于集成方法的Twitter情感分类,[实现代码](https://github.com/webis-de/ECIR-2015-and-SEMEVAL-2015).
+
+* [《NIPS 2014 CIML workshop》](http://ciml.chalearn.org/schedule)
+
+介绍:NIPS CiML 2014的PPT,NIPS是神经信息处理系统进展大会的英文简称.
+
+* [《CS231n: Convolutional Neural Networks for Visual Recognition》](http://cs231n.stanford.edu/reports.html)
+
+介绍:斯坦福的深度学习课程的Projects 每个人都要写一个论文级别的报告 里面有一些很有意思的应用 大家可以看看 .
+
+* [《A Speed Comparison Between Flexible Linear Regression Alternatives in R》](http://www.sumsar.net/blog/2015/03/a-speed-comparison-between-flexible-linear-regression-alternatives-in-r/)
+
+介绍:R语言线性回归多方案速度比较具体方案包括lm()、nls()、glm()、bayesglm()、nls()、mle2()、optim()和Stan’s optimizing()等
