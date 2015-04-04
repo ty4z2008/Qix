@@ -1325,3 +1325,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks》](http://arxiv.org/abs/1503.00007)
 
 介绍:用于改进语义表示的树型LSTM递归神经网络,句子级相关性判断和情感分类效果很好.[实现代码](https://github.com/stanfordnlp/treelstm).
+
+* [《Statistical Machine Learning》](http://www.stat.cmu.edu/~larry/=sml/)
+
+介绍:卡耐基梅隆Ryan Tibshirani和Larry Wasserman开设的机器学习课程，先修课程为机器学习(10-715)和中级统计学(36-705)，聚焦统计理论和方法在机器学习领域应用.
