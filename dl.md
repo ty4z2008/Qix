@@ -1356,4 +1356,8 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 * [《A Speed Comparison Between Flexible Linear Regression Alternatives in R》](http://www.sumsar.net/blog/2015/03/a-speed-comparison-between-flexible-linear-regression-alternatives-in-r/)
 
-介绍:R语言线性回归多方案速度比较具体方案包括lm()、nls()、glm()、bayesglm()、nls()、mle2()、optim()和Stan’s optimizing()等
+介绍:R语言线性回归多方案速度比较具体方案包括lm()、nls()、glm()、bayesglm()、nls()、mle2()、optim()和Stan’s optimizing()等.
+
+* [《Back-to-Basics Weekend Reading - Machine Learning》](http://www.allthingsdistributed.com/2015/04/machine-learning.html)
+
+介绍:文中提到的三篇论文（机器学习那些事、无监督聚类综述、监督分类综述）都很经典，Domnigos的机器学习课也很精彩
