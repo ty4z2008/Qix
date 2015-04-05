@@ -1361,3 +1361,11 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Back-to-Basics Weekend Reading - Machine Learning》](http://www.allthingsdistributed.com/2015/04/machine-learning.html)
 
 介绍:文中提到的三篇论文（机器学习那些事、无监督聚类综述、监督分类综述）都很经典，Domnigos的机器学习课也很精彩
+
+* [《A Probabilistic Theory of Deep Learning》](http://arxiv.org/abs/1504.00641)
+
+介绍:莱斯大学（Rice University）的深度学习的概率理论.
+
+* [《Nonsensical beer reviews via Markov chains》](http://www.gregreda.com/2015/03/30/beer-review-markov-chains/)
+
+介绍:基于马尔可夫链自动生成啤酒评论的开源Twitter机器人,[github地址](https://github.com/gjreda/beer-snob-says).
