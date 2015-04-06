@@ -1369,3 +1369,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Nonsensical beer reviews via Markov chains》](http://www.gregreda.com/2015/03/30/beer-review-markov-chains/)
 
 介绍:基于马尔可夫链自动生成啤酒评论的开源Twitter机器人,[github地址](https://github.com/gjreda/beer-snob-says).
+
+* [《Deep Learning for Natural Language Processing (without Magic)》](http://nlp.stanford.edu/courses/NAACL2013/)
+
+介绍:视频+讲义:深度学习用于自然语言处理教程(NAACL13).
