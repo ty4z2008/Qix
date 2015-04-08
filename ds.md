@@ -71,3 +71,7 @@
 * [《Distributed Systems: Concepts and Design (5th Edition)》](https://azmuri.files.wordpress.com/2013/09/george-coulouris-distributed-systems-concepts-and-design-5th-edition.pdf)
 
 介绍: 电子书,分布式系统概念与设计(第五版)
+
+* [《走向分布式》](http://ithelp.ithome.com.tw/profile/share?id=20060041)
+
+介绍:这是一位台湾网友 ccshih 的文字，短短的篇幅介绍了分布式系统的若干要点。[pdf](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)
