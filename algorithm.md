@@ -30,4 +30,4 @@
 
 * [《Sampling, or a faster LZ4》](http://fastcompression.blogspot.fr/2015/04/sampling-or-faster-lz4.html)
 
-介绍：高速数据压缩算法LZ4.
+介绍：高速数据压缩算法[LZ4](https://github.com/Cyan4973/lz4).
