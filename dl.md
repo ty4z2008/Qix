@@ -1373,3 +1373,11 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Deep Learning for Natural Language Processing (without Magic)》](http://nlp.stanford.edu/courses/NAACL2013/)
 
 介绍:视频+讲义:深度学习用于自然语言处理教程(NAACL13).
+
+* [《Introduction to Data Analysis using Machine Learning》](https://www.youtube.com/watch?v=U4IYsLgNgoY&hd=1)
+
+介绍:用机器学习做数据分析,David Taylor最近在McGill University研讨会上的报告，还提供了一系列讲机器学习方法的ipn，很有价值 [GitHub](https://github.com/Prooffreader/intro_machine_learning).[国内](http://pan.baidu.com/s/1mgtE9te)
+
+* [《Beyond Short Snippets: Deep Networks for Video Classification》](http://arxiv.org/abs/1503.08909)
+
+介绍:基于CNN+LSTM的视频分类,[google演示](http://pan.baidu.com/s/1c0cZS9E).
