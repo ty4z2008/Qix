@@ -27,3 +27,7 @@
 * [《CVonline: Applications》](http://homepages.inf.ed.ac.uk/rbf/CVonline/applic.htm)
 
 介绍：图像和视觉算法的应用领域概括，共包含了29个大类，从中可以看到图像视觉算法应用之广泛。例如人就分生物认证、身体、头、脸、脚、手等不同的领域。
+
+* [《Sampling, or a faster LZ4》](http://fastcompression.blogspot.fr/2015/04/sampling-or-faster-lz4.html)
+
+介绍：高速数据压缩算法LZ4.
