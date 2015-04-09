@@ -1381,3 +1381,8 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Beyond Short Snippets: Deep Networks for Video Classification》](http://arxiv.org/abs/1503.08909)
 
 介绍:基于CNN+LSTM的视频分类,[google演示](http://pan.baidu.com/s/1c0cZS9E).
+
+* [《How does Quora use machine learning in 2015?》](http://www.quora.com/How-does-Quora-use-machine-learning-in-2015/answer/Xavier-Amatriain)
+
+介绍:Quora怎么用机器学习.
+
