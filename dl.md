@@ -1386,3 +1386,6 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:Quora怎么用机器学习.
 
+* [《Amazon Machine Learning – Make Data-Driven Decisions at Scale》](https://aws.amazon.com/cn/blogs/aws/amazon-machine-learning-make-data-driven-decisions-at-scale/)
+
+介绍:亚马逊在机器学习上面的一些应用,[代码示例](https://github.com/awslabs/machine-learning-samples).
