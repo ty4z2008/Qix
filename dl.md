@@ -1389,3 +1389,11 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Amazon Machine Learning – Make Data-Driven Decisions at Scale》](https://aws.amazon.com/cn/blogs/aws/amazon-machine-learning-make-data-driven-decisions-at-scale/)
 
 介绍:亚马逊在机器学习上面的一些应用,[代码示例](https://github.com/awslabs/machine-learning-samples).
+
+* [《Parallel Machine Learning with scikit-learn and IPython》](https://github.com/ogrisel/parallel_ml_tutorial)
+
+介绍:并行机器学习指南(基于scikit-learn和IPython).[notebook](http://nbviewer.ipython.org/github/ogrisel/parallel_ml_tutorial/tree/master/notebooks/)
+
+* [《Intro to machine learning with scikit-learn》](http://blog.kaggle.com/2015/04/08/new-video-series-introduction-to-machine-learning-with-scikit-learn/)
+
+介绍:DataSchool的机器学习基本概念教学.
