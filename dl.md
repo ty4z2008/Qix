@@ -1397,3 +1397,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Intro to machine learning with scikit-learn》](http://blog.kaggle.com/2015/04/08/new-video-series-introduction-to-machine-learning-with-scikit-learn/)
 
 介绍:DataSchool的机器学习基本概念教学.
+
+* [《DeepCLn》](https://github.com/hughperkins/DeepCL)
+
+介绍:一个基于OpenGL实现的卷积神经网络，支持Linux及Windows系.
