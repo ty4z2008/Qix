@@ -1,5 +1,9 @@
 ##PostgreSQL(数据库)资料
 
+* [《PostgreSQL Documentation》](http://www.postgresql.org/docs/manuals/)
+
+介绍：PostgreSQL官方文档主页
+
 * [《PG技术沙龙ppt》](http://wenku.it168.com/org/145)
 
 介绍：2013年4月PG技术沙龙PPT
