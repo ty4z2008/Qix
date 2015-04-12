@@ -248,4 +248,8 @@
 
 * [《Search PostgreSQL sites》](http://www.pgsql.ru/db/pgsearch/)
 
-介绍：一个PostgreSQL资料搜索引擎
+介绍：一个PostgreSQL资料搜索引擎.
+
+* [《PostgreSQL Tutorial》](http://www.postgresqltutorial.com/)
+
+介绍：一个PostgreSQL入门教程站点，新手上路
