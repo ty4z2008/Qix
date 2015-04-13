@@ -1401,3 +1401,27 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《DeepCLn》](https://github.com/hughperkins/DeepCL)
 
 介绍:一个基于OpenGL实现的卷积神经网络，支持Linux及Windows系.
+
+* [《An Inside Look at the Components of a Recommendation Engine》](https://www.mapr.com/blog/inside-look-at-components-of-recommendation-engine)
+
+介绍:基于Mahout和Elasticsearch的推荐系统.
+
+* [《Forecasting in Economics, Business, Finance and Beyond》](http://www.ssc.upenn.edu/~fdiebold/Teaching221/econ221.html)
+
+介绍:Francis X. Diebold的《(经济|商业|金融等领域)预测方法.
+
+* [《Time Series Econometrics - A Concise Course》](http://www.ssc.upenn.edu/~fdiebold/Teaching706/econ706Penn.html)
+
+介绍:Francis X. Diebold的《时序计量经济学》.
+
+* [《A comparison of open source tools for sentiment analysis》](http://fotiad.is/blog/sentiment-analysis-comparison/)
+
+介绍:基于Yelp数据集的开源[情感分析工具](https://github.com/sfotiadis/yenlp)比较,评测覆盖Naive Bayes、SentiWordNet、CoreNLP等 .
+
+* [《Pattern Recognition And Machine Learning》](http://vdisk.weibo.com/s/ayG13we2u_sAZ)
+
+介绍:国内Pattern Recognition And Machine Learning读书会资源汇总,[各章pdf讲稿](http://vdisk.weibo.com/u/1841149974),[博客](http://www.cnblogs.com/Nietzsche/).
+
+* [《Probabilistic Data Structures for Web Analytics and Data Mining 》](https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/)
+
+介绍:用于Web分析和数据挖掘的概率数据结构.
