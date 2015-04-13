@@ -1426,6 +1426,6 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:用于Web分析和数据挖掘的概率数据结构.
 
-* [《How do I learn data mining?》](http://www.quora.com/How-do-I-learn-data-mining-1/answer/William-Chen-6)
+* [《Machine learning in navigation devices: detect maneuvers using accelerometer and gyroscope》](https://blindmotion.github.io/2015/04/11/ml-in-navigation/)
 
-介绍:来自quora的数据工程师回答新手如何学习数据挖掘的回答.
+介绍:机器学习在导航上面的应用.
