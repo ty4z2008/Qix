@@ -260,4 +260,12 @@
 
 * [《PostgreSQL Tutorial》](http://www.postgresqltutorial.com/)
 
-介绍：一个PostgreSQL入门教程站点，新手上路
+介绍：一个PostgreSQL入门教程站点，新手上路.
+
+* [《PostgreSQL: CLUSTER table USING index》](http://hans.io/blog/2014/03/25/postgresql_cluster/)
+
+介绍：对CLUSTER表使用索引.
+
+* [《When Postgres will not start》](http://blog.endpoint.com/2014/11/when-postgres-will-not-start.html)
+
+介绍：当数据库无法启动的时候,我们应该如何做.
