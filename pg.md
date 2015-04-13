@@ -40,6 +40,10 @@
 
 介绍：Python的PostgreSQL驱动。
 
+* [《Postgres-XL》](http://www.postgres-xl.org/)
+
+介绍： 一个构建PostgreSQL集群开源软件,Postgres-XL is a PostgreSQL-based scale-out cluster that handles both OLTP write intensive workloads as well as OLAP/BI type of workloads thanks to MPP parallelism.。
+
 * [《pgDesigner》](http://sourceforge.net/projects/pgdesigner/)
 
 介绍：pgDesigner 是一个为PostgreSQL数据库设计的建模工具.仅支持Linux。
