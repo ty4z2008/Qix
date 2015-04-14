@@ -1441,3 +1441,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Learning to Read with Recurrent Neural Networks 》](http://blog.terminal.com/recurrent-neural-networks-deep-net-optimization-lstm/)
 
 介绍:关于深度学习和RNN的讨论 [Sequence to Sequence Learning with Neural Networks](http://arxiv.org/abs/1409.3215).
+
+* [《深度强化学习（Deep Reinforcement Learning）的资源》](http://wanghaitao8118.blog.163.com/blog/static/13986977220153811210319/)
+
+介绍:Deep Reinforcement Learning.
