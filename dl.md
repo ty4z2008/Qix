@@ -1429,3 +1429,15 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Machine learning in navigation devices: detect maneuvers using accelerometer and gyroscope》](https://blindmotion.github.io/2015/04/11/ml-in-navigation/)
 
 介绍:机器学习在导航上面的应用.
+
+* [《Neural Networks Demystified 》](https://www.youtube.com/user/Taylorns34/videos)
+
+介绍:Neural Networks Demystified系列视频，Stephen Welch制作，纯手绘风格，浅显易懂,[国内云](http://pan.baidu.com/s/1i3AFURj).
+
+* [《swirl + DataCamp 》](https://www.datacamp.com/swirl-r-tutorial)
+
+介绍:{swirl}数据训练营:R&数据科学在线交互教程.
+
+* [《Learning to Read with Recurrent Neural Networks 》](http://blog.terminal.com/recurrent-neural-networks-deep-net-optimization-lstm/)
+
+介绍:关于深度学习和RNN的讨论 [Sequence to Sequence Learning with Neural Networks](http://arxiv.org/abs/1409.3215).
