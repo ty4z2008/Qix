@@ -1445,3 +1445,11 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《深度强化学习（Deep Reinforcement Learning）的资源》](http://wanghaitao8118.blog.163.com/blog/static/13986977220153811210319/)
 
 介绍:Deep Reinforcement Learning.
+
+* [《Machine Learning with Scikit-Learn》](https://github.com/jakevdp/sklearn_pycon2015)
+
+介绍:(PyCon2015)Scikit-Learn机器学习教程,[Parallel Machine Learning with scikit-learn and IPython](https://github.com/ogrisel/parallel_ml_tutorial).
+
+* [《PDNN》](http://www.cs.cmu.edu/~ymiao/pdnntk.html)
+
+介绍:PDNN: A Python Toolkit for Deep Learning.
