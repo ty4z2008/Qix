@@ -22,7 +22,7 @@
 
 * [《PostgreSQL 30天 培训视频》](http://blog.163.com/digoal@126/blog/static/16387704020141229159715/)
 
-介绍：作者从事pg截止目前大概有7-8年，长期活跃在国内的pg社区。这套PostgreSQL 30天 培训视频包含了SQL基础,备份恢复,HA,服务端编程,大数据,内核,应用案例等，非常适合新手
+介绍：作者[德哥@Digoal](http://blog.163.com/digoal@126/)从事pg截止目前大概有7-8年，长期活跃在国内的pg社区。这套PostgreSQL 30天 培训视频包含了SQL基础,备份恢复,HA,服务端编程,大数据,内核,应用案例等，非常适合新手
 
 * [《PostgreSQL爱好者的参考资料推荐》](http://blog.163.com/digoal@126/blog/static/163877040201172183022203/)
 
