@@ -164,3 +164,27 @@
 * [《Go最新资料汇总》](http://studygolang.com/topics/node13)
 
 介绍：Go最新资料汇总
+
+* [《猎豹移动技术博客:Golang》](http://dev.cmcm.com/archives/category/golang)
+
+介绍：猎豹移动技术博客文章
+
+* [《Gohugo》](http://gohugo.io/)
+
+介绍：A fast and modern static website engine.
+
+* [《Our Experience with Golang》](http://www.scriptrock.com/blog/our-experience-with-golang)
+
+介绍：[scriptrock](http://www.scriptrock.com/)公司使用Golang的经验,此外还推荐一个公司的应用[Golang at Runscope](http://blog.runscope.com/posts/go-at-runscope)
+
+* [《Open Sourcing Our Go Libraries》](https://blogs.dropbox.com/tech/2014/07/open-sourcing-our-go-libraries/)
+
+介绍：Dropbox开源Go开发包,[github](https://github.com/dropbox/godropbox).
+
+* [《Tutorial – Building Go Web Apps》](https://www.topcoder.com/blog/building-go-web-apps/)
+
+介绍：如何使用Go构建自己的Web应用教程,此外还推荐[GoLang Tutorials](http://golangtutorials.blogspot.com/2011/05/table-of-contents.html).
+
+* [《Dependency Injection with Go》](http://blog.parse.com/2014/05/13/dependency-injection-with-go/)
+
+介绍：Dependency Injection with Go.
