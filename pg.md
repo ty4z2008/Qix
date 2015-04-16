@@ -269,3 +269,7 @@
 * [《When Postgres will not start》](http://blog.endpoint.com/2014/11/when-postgres-will-not-start.html)
 
 介绍：当数据库无法启动的时候,我们应该如何做.
+
+* [《Postgres and Connection Pooling》](http://www.craigkerstiens.com/2014/05/22/on-connection-pooling/)
+
+介绍：作者的[博客](http://www.craigkerstiens.com/)还有很多干货.
