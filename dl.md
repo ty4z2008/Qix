@@ -1453,3 +1453,23 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《PDNN》](http://www.cs.cmu.edu/~ymiao/pdnntk.html)
 
 介绍:PDNN: A Python Toolkit for Deep Learning.
+
+* [《Introduction to Machine Learning》](http://alex.smola.org/teaching/10-701-15/index.html)
+
+介绍:15年春季学期CMU的机器学习课程，由Alex Smola主讲，提供讲义及授课视频，很不错.[国内镜像](http://pan.baidu.com/s/1pJxBePX).
+
+* [《Big Data Processing》](http://www.st.ewi.tudelft.nl/~hauff/TI2736-B.html)
+
+介绍:大数据处理课.内容覆盖流处理、MapReduce、图算法等.
+
+* [《Spark MLlib: Making Practical Machine Learning Easy and Scalable》](https://www.hakkalabs.co/articles/spark-mllib-making-practical-machine-learning-easy-and-scalable)
+
+介绍:用Spark MLlib实现易用可扩展的机器学习,[国内镜像](http://pan.baidu.com/s/1gdxSOZh).
+
+* [《Picture: A Probabilistic Programming Language for Scene Perception》](http://mrkulk.github.io/www_cvpr15/)
+
+介绍:以往上千行代码概率编程(语言)实现只需50行.
+
+* [《Beautiful plotting in R: A ggplot2 cheatsheet》](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
+
+介绍:ggplot2速查小册子,[另外一个](http://www.ling.upenn.edu/~joseff/avml2012/),此外还推荐[《A new data processing workflow for R: dplyr, magrittr, tidyr, ggplot2》](http://zevross.com/blog/2015/01/13/a-new-data-processing-workflow-for-r-dplyr-magrittr-tidyr-ggplot2/).
