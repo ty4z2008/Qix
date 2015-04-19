@@ -1473,3 +1473,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Beautiful plotting in R: A ggplot2 cheatsheet》](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
 
 介绍:ggplot2速查小册子,[另外一个](http://www.ling.upenn.edu/~joseff/avml2012/),此外还推荐[《A new data processing workflow for R: dplyr, magrittr, tidyr, ggplot2》](http://zevross.com/blog/2015/01/13/a-new-data-processing-workflow-for-r-dplyr-magrittr-tidyr-ggplot2/).
+
+* [《Using Structured Events to Predict Stock Price Movement: An Empirical Investigation》](http://emnlp2014.org/papers/pdf/EMNLP2014148.pdf)
+
+介绍:用结构化模型来预测实时股票行情等.
