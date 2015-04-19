@@ -1476,4 +1476,8 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 * [《Using Structured Events to Predict Stock Price Movement: An Empirical Investigation》](http://emnlp2014.org/papers/pdf/EMNLP2014148.pdf)
 
-介绍:用结构化模型来预测实时股票行情等.
+介绍:用结构化模型来预测实时股票行情.
+
+* [《International Joint Conference on Artificial Intelligence Accepted paper》](http://ijcai-15.org/index.php/accepted-papers)
+
+介绍:[国际人工智能联合会议](http://ijcai.org/)录取论文列表,大部分论文可使用Google找到.
