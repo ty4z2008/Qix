@@ -1481,3 +1481,15 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《International Joint Conference on Artificial Intelligence Accepted paper》](http://ijcai-15.org/index.php/accepted-papers)
 
 介绍:[国际人工智能联合会议](http://ijcai.org/)录取论文列表,大部分论文可使用Google找到.
+
+* [《Why GEMM is at the heart of deep learning》](http://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/)
+
+介绍:一般矩阵乘法(GEMM)对深度学习的重要性.
+
+* [《Distributed (Deep) Machine Learning Common》](https://github.com/dmlc)
+
+介绍:A Community of awesome Distributed Machine Learning C++ projects.
+
+* [《Reinforcement Learning: An Introduction》](http://webdocs.cs.ualberta.ca/~sutton/book/the-book.html)
+
+介绍:免费电子书<强化学习介绍>,[第一版(1998)](http://pan.baidu.com/s/1jkaMq),[第二版(2015草稿)](http://pan.baidu.com/s/1dDnNEnR),相关课程[资料](http://incompleteideas.net/rlai.cs.ualberta.ca/RLAI/RLAIcourse/2010.html),[Reinforcement Learning](http://www.inf.ed.ac.uk/teaching/courses/rl/).
