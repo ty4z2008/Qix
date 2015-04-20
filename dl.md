@@ -1493,3 +1493,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Reinforcement Learning: An Introduction》](http://webdocs.cs.ualberta.ca/~sutton/book/the-book.html)
 
 介绍:免费电子书<强化学习介绍>,[第一版(1998)](http://pan.baidu.com/s/1jkaMq),[第二版(2015草稿)](http://pan.baidu.com/s/1dDnNEnR),相关课程[资料](http://incompleteideas.net/rlai.cs.ualberta.ca/RLAI/RLAIcourse/2010.html),[Reinforcement Learning](http://www.inf.ed.ac.uk/teaching/courses/rl/).
+
+* [《Free ebook: Microsoft Azure Essentials: Azure Machine Learning》](http://blogs.msdn.com/b/microsoft_press/archive/2015/04/15/free-ebook-microsoft-azure-essentials-azure-machine-learning.aspx)
+
+介绍:免费书:Azure ML使用精要.
