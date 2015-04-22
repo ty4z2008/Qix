@@ -1497,3 +1497,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Free ebook: Microsoft Azure Essentials: Azure Machine Learning》](http://blogs.msdn.com/b/microsoft_press/archive/2015/04/15/free-ebook-microsoft-azure-essentials-azure-machine-learning.aspx)
 
 介绍:免费书:Azure ML使用精要.
+
+* [《A Deep Learning Tutorial: From Perceptrons to Deep Networks》](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
+
+介绍:A Deep Learning Tutorial: From Perceptrons to Deep Networks.
