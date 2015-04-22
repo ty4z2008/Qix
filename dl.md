@@ -1501,3 +1501,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《A Deep Learning Tutorial: From Perceptrons to Deep Networks》](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
 
 介绍:A Deep Learning Tutorial: From Perceptrons to Deep Networks.
+
+* [《Machine Learning is Fun! - The world’s easiest introduction to Machine Learning》](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+
+介绍:有趣的机器学习：最简明入门指南,[中文版](http://blog.jobbole.com/67616/).
