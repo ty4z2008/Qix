@@ -1509,3 +1509,11 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《A Brief Overview of Deep Learning》](yyue.blogspot.com/2015/01/a-brief-overview-of-deep-learning.html)
 
 介绍:深度学习简明介绍,[中文版](http://xhrwang.me/2015/01/16/a-brief-overview-of-deep-learning.html).
+
+* [《Wormhole》](https://github.com/dmlc/wormhole)
+
+介绍:Portable, scalable and reliable distributed machine learning.
+
+* [《convnet-benchmarks》](https://github.com/soumith/convnet-benchmarks)
+
+介绍:CNN开源实现横向评测,参评框架包括Caffe 、Torch-7、CuDNN 、cudaconvnet2 、fbfft、Nervana Systems等，NervanaSys表现突出.
