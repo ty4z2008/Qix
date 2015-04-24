@@ -1547,3 +1547,25 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Advanced Analytics with Spark, Early Release Edition》](http://pan.baidu.com/s/1jGot9qe)
 
 介绍:Ebook Advanced Analytics with Spark, Early Release Edition.
+
+* [《国内机器学习算法及应用领域人物篇:唐杰》](http://keg.cs.tsinghua.edu.cn/jietang/)
+
+介绍:清华大学副教授，是图挖掘方面的专家。他主持设计和实现的Arnetminer是国内领先的图挖掘系统，该系统也是多个会议的支持商.
+
+* [《国内机器学习算法及应用领域人物篇:杨强》](http://www.cse.ust.hk/~qyang/)
+
+介绍:迁移学习的国际领军人物.
+
+* [《国内机器学习算法及应用领域人物篇:周志华》](http://cs.nju.edu.cn/zhouzh/)
+
+介绍:在半监督学习，multi-label学习和集成学习方面在国际上有一定的影响力.
+
+* [《国内机器学习算法及应用领域人物篇:王海峰》](http://ir.hit.edu.cn/~wanghaifeng/whf_pub.htm)
+
+介绍:信息检索，自然语言处理，机器翻译方面的专家.
+
+* [《国内机器学习算法及应用领域人物篇:吴军》](http://www.cs.jhu.edu/~junwu/)
+
+介绍:吴军博士是当前Google中日韩文搜索算法的主要设计者。在Google其间，他领导了许多研发项目，包括许多与中文相关的产品和自然语言处理的项目,他的[新个人主页](https://sites.google.com/site/junwu02).
+
+
