@@ -1522,7 +1522,10 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:卡耐基梅隆大学计算机学院语言技术系的资源大全,包括大量的NLP开源软件工具包，基础数据集，论文集，数据挖掘教程，机器学习资源.
 
-
 * [《Sentiment Analysis on Twitter》](https://github.com/mayank93/Twitter-Sentiment-Analysis)
 
 介绍:Twitter情感分析工具SentiTweet,[视频+讲义](http://pan.baidu.com/s/1i3kXPlj).
+
+* [《Machine Learning Repository @ Wash U》](http://machinelearning.wustl.edu/mlpapers/venues)
+
+介绍:华盛顿大学的Machine Learning Paper Repository.
