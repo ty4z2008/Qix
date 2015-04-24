@@ -1529,3 +1529,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Machine Learning Repository @ Wash U》](http://machinelearning.wustl.edu/mlpapers/venues)
 
 介绍:华盛顿大学的Machine Learning Paper Repository.
+
+* [《Machine learning cheat sheet》](https://github.com/soulmachine/machine-learning-cheat-sheet)
+
+介绍:机器学习速查表.
