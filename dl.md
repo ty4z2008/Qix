@@ -868,8 +868,6 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:信息几何学及其在机器学习中的应用
 
-
-
 * [《Legal Analytics – Introduction to the Course》](http://computationallegalstudies.com/2015/01/legal-analytics-introduction-course-professors-daniel-martin-katz-michael-j-bommarito/)
 
 介绍:课程《法律分析》介绍幻灯片。用机器学习解决法律相关分析和预测问题，相关的法律应用包括预测编码、早期案例评估、案件整体情况的预测，定价和工作人员预测，司法行为预测等。法律领域大家可能都比较陌生，不妨了解下。
@@ -1533,3 +1531,19 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Machine learning cheat sheet》](https://github.com/soulmachine/machine-learning-cheat-sheet)
 
 介绍:机器学习速查表.
+
+* [《Spark summit east 2015 agenda》](http://spark-summit.org/east)
+
+介绍:最新的Spark summit会议资料.
+
+* [《Spark summit east 2015 agenda》](http://spark-summit.org/east)
+
+介绍:最新的Spark summit会议资料.
+
+* [《Learning Spark》](http://pan.baidu.com/s/1eQkybJG)
+
+介绍:Ebook Learning Spark.
+
+* [《Advanced Analytics with Spark, Early Release Edition》](http://pan.baidu.com/s/1jGot9qe)
+
+介绍:Ebook Advanced Analytics with Spark, Early Release Edition.
