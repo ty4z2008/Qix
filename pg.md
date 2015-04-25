@@ -273,3 +273,8 @@
 * [《Postgres and Connection Pooling》](http://www.craigkerstiens.com/2014/05/22/on-connection-pooling/)
 
 介绍：作者的[博客](http://www.craigkerstiens.com/)还有很多干货.
+
+* [《PgBouncer》](https://pgbouncer.github.io/)
+
+介绍：PGBouncer是一个轻量级的针对PostgreSQL的数据库连接池工具，能够给客户端提供一个统一的链接视图.
+
