@@ -1568,4 +1568,14 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:吴军博士是当前Google中日韩文搜索算法的主要设计者。在Google其间，他领导了许多研发项目，包括许多与中文相关的产品和自然语言处理的项目,他的[新个人主页](https://sites.google.com/site/junwu02).
 
+* [《Cat Paper Collection》](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 
+介绍:喵星人相关论文集.
+
+* [《How to Evaluate Machine Learning Models, Part 1: Orientation》](http://blog.dato.com/how-to-evaluate-machine-learning-models-part-1-orientation)
+
+介绍:如何评价机器学习模型系列文章,[How to Evaluate Machine Learning Models, Part 2a: Classification Metrics](http://blog.dato.com/how-to-evaluate-machine-learning-models-part-2a-classification-metrics),[How to Evaluate Machine Learning Models, Part 2b: Ranking and Regression Metrics](http://blog.dato.com/how-to-evaluate-machine-learning-models-part-2b-ranking-and-regression-metrics).
+
+* [《Building a new trends experience》](https://blog.twitter.com/2015/building-a-new-trends-experience)
+
+介绍:Twitter新trends的基本实现框架.
