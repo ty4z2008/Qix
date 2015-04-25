@@ -278,3 +278,6 @@
 
 介绍：PGBouncer是一个轻量级的针对PostgreSQL的数据库连接池工具，能够给客户端提供一个统一的链接视图.
 
+* [《PGQ 》](https://wiki.postgresql.org/wiki/PGQ_Tutorial)
+
+介绍：PGQ is the queueing solution from Skytools. The Londiste replication solution is a consumer daemon built on PGQ, and the API is accessible for you to create any asynchronous processing facility, based on queuing.[github](https://github.com/kostya/pgq).
