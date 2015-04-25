@@ -281,3 +281,7 @@
 * [《PGQ 》](https://wiki.postgresql.org/wiki/PGQ_Tutorial)
 
 介绍：PGQ is the queueing solution from Skytools. The Londiste replication solution is a consumer daemon built on PGQ, and the API is accessible for you to create any asynchronous processing facility, based on queuing.[github](https://github.com/kostya/pgq).
+
+* [《Implementing High Availability with PostgreSQL》](https://www.youtube.com/watch?v=j642n39oBgQ)
+
+介绍：实现一个高可用PostgreSQL集群,YoutuBe上更多[PostgreSQL cluster](https://www.youtube.com/results?search_query=postgresql+cluster)视频.
