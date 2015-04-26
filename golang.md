@@ -188,3 +188,7 @@
 * [《Dependency Injection with Go》](http://blog.parse.com/2014/05/13/dependency-injection-with-go/)
 
 介绍：Dependency Injection with Go.
+
+* [《Go Programming Language Resources》](http://go-lang.cat-v.org/)
+
+介绍：Go Programming Language Resources.
