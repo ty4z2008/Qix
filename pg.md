@@ -285,3 +285,24 @@
 * [《Implementing High Availability with PostgreSQL》](https://www.youtube.com/watch?v=j642n39oBgQ)
 
 介绍：实现一个高可用PostgreSQL集群,YoutuBe上更多[PostgreSQL cluster](https://www.youtube.com/results?search_query=postgresql+cluster)视频.
+
+* [《numtel:pg》](https://github.com/numtel/meteor-pg)
+
+介绍：Reactive PostgreSQL for Meteor.
+
+* [《Slow PostgreSQL Performance? Don't Forget to Vacuum your Database》](https://lob.com/blog/supercharge-your-postgresql-performance/)
+
+介绍：数据库性能优化之Vacuum.
+
+* [《select * from depesz;》](http://www.depesz.com/)
+
+介绍：里面有很多pg的最新资料,例如新版本的功能,技巧等.
+
+* [《BDR 0.10.0 Documentation》](http://bdr-project.org/docs/next/index.html)
+
+介绍：[BDR](http://2ndquadrant.com/en/resources/bdr/)新的文档,使用的数据库版本是9.4的,BDR可以帮助你更好的建立一个pg集群.
+
+* [《Managing big enough data in postgres》](http://blog.tarkalabs.com/2015/04/16/managing-big-enough-data-in-postgres/)
+
+介绍：pg中的大规模数据管理经验.
+
