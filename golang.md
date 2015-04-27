@@ -196,3 +196,7 @@
 * [《Gopher China Website Docs》](https://github.com/gopherchina/docs)
 
 介绍：2015年中国Gopher大会资料.
+
+* [《Structuring Applications in Go》](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
+
+介绍：新手使用Go构建应用建议.
