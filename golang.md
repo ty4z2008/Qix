@@ -192,3 +192,7 @@
 * [《Go Programming Language Resources》](http://go-lang.cat-v.org/)
 
 介绍：Go Programming Language Resources.
+
+* [《Gopher China Website Docs》](https://github.com/gopherchina/docs)
+
+介绍：2015年中国Gopher大会资料.
