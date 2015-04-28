@@ -8,9 +8,9 @@
 
 介绍：2013年4月PG技术沙龙PPT
 
-* [《PG9.1中文翻译文档》](https://wiki.postgresql.org/wiki/9.1%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91%E9%A1%B9%E7%9B%AE)
+* [《PG9.3中文翻译文档》](http://58.58.25.191:8079/doc/html/9.3.1_zh/)
 
-介绍：PG9.1中文翻译文档
+介绍：PG9.3中文翻译文档 谢谢@[skykiker](http://weibo.com/u/1691628242)提供
 
 * [《PostgreSQL从菜鸟到专家(中译稿 by 洞庭湖的泥鳅)》](http://vdisk.weibo.com/s/ayG13we1Y4EA6)
 
