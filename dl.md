@@ -1583,3 +1583,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Storm Blueprints: Patterns for Distributed Real-time Computation》](https://www.packtpub.com/big-data-and-business-intelligence/storm-blueprints-patterns-distributed-real-time-computation)
 
 介绍:Storm手册，国内有[中文翻译版本](https://github.com/cjie888/storm-trident),谢谢作者.
+
+* [《SmileMiner》](https://github.com/haifengl/smile)
+
+介绍:Java机器学习算法库SmileMiner.
