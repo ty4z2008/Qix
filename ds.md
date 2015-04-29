@@ -83,3 +83,25 @@
 * [《Distributed systems》](http://book.mixu.net/distsys/index.html)
 
 介绍:免费的在线分布式系统书籍
+
+* [《Some good resources for learning about distributed computing》](http://www.quora.com/What-are-some-good-resources-for-learning-about-distributed-computing-Why)
+
+介绍:Quora上面的一篇关于学习分布式计算的资源.
+
+* [《Spanner: Google’s Globally-Distributed Database》](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/es//archive/spanner-osdi2012.pdf)
+
+介绍:这个是第一个全球意义上的分布式数据库，也是Google的作品。其中介绍了很多一致性方面的设计考虑，为了简单的逻辑设计，还采用了原子钟，同样在分布式系统方面具有很强的借鉴意义.
+
+* [《The Chubby lock service for loosely-coupled distributed systems》](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/zh-CN//archive/chubby-osdi06.pdf)
+
+介绍:这篇论文详细介绍了Google的分布式锁实现机制Chubby。Chubby是一个基于文件实现的分布式锁，Google的Bigtable、Mapreduce和Spanner服务都是在这个基础上构建的，所以Chubby实际上是Google分布式事务的基础，具有非常高的参考价值。另外，著名的zookeeper就是基于Chubby的开源实现.
+
+* [《Sinfonia: a new paradigm for building scalable distributed systems》](http://www.sosp2007.org/papers/sosp064-aguilera.pdf)
+
+介绍:这篇论文是SOSP2007的Best Paper，阐述了一种构建分布式文件系统的范式方法，个人感觉非常有用。淘宝在构建TFS、OceanBase和Tair这些系统时都充分参考了这篇论文.
+
+* [《Data-Intensive Text Processing with MapReduce》](http://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf)
+
+介绍:Ebook:Data-Intensive Text Processing with MapReduce.
+
+
