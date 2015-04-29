@@ -310,3 +310,7 @@
 
 介绍：pg中的大规模数据管理经验.
 
+* [《Database System Concepts Sixth Edition》](http://codex.cs.yale.edu/avi/db-book/)
+
+介绍：耶鲁大学的数据库系统概念课件.
+
