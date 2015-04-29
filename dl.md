@@ -1587,3 +1587,19 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《SmileMiner》](https://github.com/haifengl/smile)
 
 介绍:Java机器学习算法库SmileMiner.
+
+* [《机器翻译学术论文写作方法和技巧》](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)
+
+介绍:机器翻译学术论文写作方法和技巧，Simon Peyton Jones的[How to write a good research paper](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/giving-a-talk.htm)同类视频[How to Write a Great Research Paper](https://www.youtube.com/watch?v=g3dkRsTqdDA),[how to paper talk](http://vdisk.weibo.com/s/ayG13we2volht).
+
+* [《神经网络训练中的Tricks之高效BP（反向传播算法）》](http://blog.csdn.net/zouxy09/article/details/45288129)
+
+介绍:神经网络训练中的Tricks之高效BP,博主的其他博客也挺精彩的.
+
+* [《我和NLP的故事》](http://www.52cs.org/?p=499)
+
+介绍:作者是NLP方向的硕士，短短几年内研究成果颇丰,推荐新入门的朋友阅读.
+
+* [《The h Index for Computer Science 》](http://www.cs.ucla.edu/~palsberg/h-number.html)
+
+介绍:UCLA的Jens Palsberg根据Google Scholar建立了一个计算机领域的H-index牛人列表,我们熟悉的各个领域的大牛绝大多数都在榜上，包括1位诺贝尔奖得主，35位图灵奖得主，近百位美国工程院/科学院院士，300多位ACM Fellow,在这里推荐的原因是大家可以在google通过搜索牛人的名字来获取更多的资源,这份资料很宝贵.
