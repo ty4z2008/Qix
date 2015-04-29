@@ -79,3 +79,7 @@
 * [《Introduction to Distributed Systems Spring 2013》](http://thu-cmu.cs.tsinghua.edu.cn/curriculum/dscourse/index.htm)
 
 介绍:清华大学分布式系统课程主页,里面的schedule栏目有很多宝贵的资源
+
+* [《Distributed systems》](http://book.mixu.net/distsys/index.html)
+
+介绍:免费的在线分布式系统书籍
