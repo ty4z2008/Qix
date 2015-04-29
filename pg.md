@@ -12,6 +12,10 @@
 
 介绍：PG9.3中文翻译文档 谢谢@[skykiker](http://weibo.com/u/1691628242)提供
 
+* [《Database System Concepts Sixth Edition》](http://codex.cs.yale.edu/avi/db-book/)
+
+介绍：数据库系统概念(第六版)
+
 * [《PostgreSQL从菜鸟到专家(中译稿 by 洞庭湖的泥鳅)》](http://vdisk.weibo.com/s/ayG13we1Y4EA6)
 
 介绍：这篇文档是国内的一线postgreSQL专家所翻译。很经典
