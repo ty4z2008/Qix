@@ -75,3 +75,7 @@
 * [《走向分布式》](http://ithelp.ithome.com.tw/profile/share?id=20060041)
 
 介绍:这是一位台湾网友 ccshih 的文字，短短的篇幅介绍了分布式系统的若干要点。[pdf](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)
+
+* [《Distributed Systems Spring 2015》](http://thu-cmu.cs.tsinghua.edu.cn/curriculum/dscourse/index.htm)
+
+介绍:清华大学分布式系统课程主页,里面的schedule栏目有很多宝贵的资源
