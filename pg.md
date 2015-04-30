@@ -314,3 +314,8 @@
 
 介绍：耶鲁大学的数据库系统概念课件.
 
+* [《Hooks in PostgreSQL》](https://wiki.postgresql.org/images/e/e3/Hooks_in_postgresql.pdf)
+
+介绍：PostgreSQL的hook机制介绍.如果有困难可以先看看[简单的使用介绍](http://www.cnblogs.com/gaojian/p/3259147.html)，此外这位博主的[其他pg文章](http://www.cnblogs.com/gaojian/p/topindex.html)也不错.
+
+
