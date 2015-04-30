@@ -108,3 +108,6 @@
 
 介绍:Design and Implementation of a Query Processor for a Trusted Distributed Data Base Management System.
 
+* [《Distributed Query Processing》](http://ogsa-dai.sourceforge.net/documentation/ogsadai4.0/ogsadai4.0-gt/DQPPart.html)
+
+介绍:分布式查询入门
