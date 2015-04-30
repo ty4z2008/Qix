@@ -104,4 +104,7 @@
 
 介绍:Ebook:Data-Intensive Text Processing with MapReduce.
 
+* [《Design and Implementation of a Query Processor for a Trusted Distributed Data Base Management System》](http://www.utdallas.edu/~bxt043000/Publications/Journal-Papers/DAS/J16_Design_and_Implementation_of_a_Distributed_Query_Processor.pdf)
+
+介绍:Design and Implementation of a Query Processor for a Trusted Distributed Data Base Management System.
 
