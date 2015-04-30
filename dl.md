@@ -1611,3 +1611,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Bayesian analysis》](http://www.stata.com/stata14/bayesian-analysis/)
 
 介绍: 这是一款贝叶斯分析的商业软件,官方写的[贝叶斯分析的手册](http://www.stata.com/manuals14/bayes.pdf)有250多页,虽然R语言 已经有类似的[项目](http://cran.r-project.org/web/views/Bayesian.html),但毕竟可以增加一个可选项.
+
+* [《deep net highlights from 2014》](http://www.quora.com/Boris-Babenko/Posts/deep-net-highlights-from-2014)
+
+介绍:deep net highlights from 2014.
