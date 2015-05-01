@@ -1615,3 +1615,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《deep net highlights from 2014》](http://www.quora.com/Boris-Babenko/Posts/deep-net-highlights-from-2014)
 
 介绍:deep net highlights from 2014.
+
+* [《Fast R-CNN》](http://arxiv.org/pdf/1504.08083v1.pdf)
+
+介绍:This paper proposes Fast R-CNN, a clean and fast framework for object detection.
