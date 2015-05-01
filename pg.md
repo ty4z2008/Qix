@@ -325,3 +325,12 @@
 * [《The design of the postgres》](http://www.postgresql.org.es/sites/default/files/ERL-M85-95.pdf)
 
 介绍：Postgres设计论文.
+
+* [《The Design of the POSTGRES Rules System》](http://www.postgresql.org.es/sites/default/files/ERL-M85-95.pdf)
+
+介绍：The Design of the POSTGRES Rules System.
+
+* [《PostgreSQL官方推荐文献》](http://www.postgresql.org/docs/devel/static/biblio.html)
+
+介绍：PostgreSQL官方推荐文献.
+
