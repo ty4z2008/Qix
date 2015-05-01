@@ -318,4 +318,10 @@
 
 介绍：PostgreSQL的hook机制介绍.如果有困难可以先看看[简单的使用介绍](http://www.cnblogs.com/gaojian/p/3259147.html)，此外这位博主的[其他pg文章](http://www.cnblogs.com/gaojian/p/topindex.html)也不错.
 
+* [《The design of the postgres storage system》](http://www.postgresql.org.es/sites/default/files/ERL-M87-06.pdf)
 
+介绍：Postgres存储系统设计论文.
+
+* [《The design of the postgres》](http://www.postgresql.org.es/sites/default/files/ERL-M85-95.pdf)
+
+介绍：Postgres设计论文.
