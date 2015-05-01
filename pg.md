@@ -334,3 +334,6 @@
 
 介绍：PostgreSQL官方推荐文献.
 
+* [《Anatomy of a Database System 》](http://wshan.net/bigdata/read1.pdf)
+
+介绍：数据库内部结构剖析.
