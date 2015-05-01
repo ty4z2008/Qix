@@ -334,6 +334,10 @@
 
 介绍：PostgreSQL官方推荐文献.
 
-* [《Anatomy of a Database System 》](http://wshan.net/bigdata/read1.pdf)
+* [《Anatomy of a Database System》](http://wshan.net/bigdata/read1.pdf)
 
 介绍：数据库内部结构剖析.
+
+* [《PGtune》](http://pgtune.leopard.in.ua/)
+
+介绍：PostgreSQL性能调优工具,只需要输入机器配置即可获得相应的推荐优化参数.
