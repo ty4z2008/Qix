@@ -345,3 +345,7 @@
 * [《PostgreSQL performance considerations》](https://robots.thoughtbot.com/postgresql-performance-considerations)
 
 介绍：很多讲 PostgreSQL 优化的文章都提到了 Partial indexes[Partial indexes](http://www.postgresql.org/docs/9.4/static/indexes-partial.html)，简单的说，它是一个通过 WHERE 过滤后的子集数据的索引，虽然 MySQL 里也有这个名词，但完全不是一个东西。案例：㈠ [Handling Growth with Postgres: 5 Tips From Instagram](http://instagram-engineering.tumblr.com/post/40781627982/handling-growth-with-postgres-5-tips-from) ㈡ [Speeding Up PostgreSQL With Partial Indexes](http://blog.heapanalytics.com/speeding-up-postgresql-queries-with-partial-indexes/).
+
+* [《Postgres Guide》](http://www.postgresguide.com/index.html)
+
+介绍：Postgres的指南主要强调在Postgre存在的最佳实践和强大的功能.
