@@ -1619,3 +1619,15 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Fast R-CNN》](http://arxiv.org/pdf/1504.08083v1.pdf)
 
 介绍:This paper proposes Fast R-CNN, a clean and fast framework for object detection.
+
+* [《Fingerprinting Images for Near-Duplicate Detection》](https://realpython.com/blog/python/fingerprinting-images-for-near-duplicate-detection/)
+
+介绍:图像指纹的重复识别,作者[源码](https://github.com/realpython/image-fingerprinting/blob/master/code/output.csv),国内[翻译版本](http://www.cnblogs.com/wing1995/p/4471034.html).
+
+* [《The Computer Vision Industry 》](http://www.cs.ubc.ca/~lowe/vision.html)
+
+介绍:提供计算机视觉、机器视觉应用的公司信息汇总.应用领域包括：自动辅助驾驶和交通管理、眼球和头部跟踪、影视运动分析、影视业、手势识别、通用视觉系统、各种工业自动化和检验、医药和生物、移动设备目标识别和AR、人群跟踪、摄像、安全监控、生物监控、三维建模、web和云应用.
+
+* [《Seaborn: statistical data visualization》](https://github.com/mwaskom/seaborn)
+
+介绍:Python版可视化数据统计开源库.
