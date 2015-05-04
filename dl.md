@@ -1635,3 +1635,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《IPython lecture notes for OCW MIT 18.06》](http://www.juanklopper.com/opencourseware/mathematics-2/ipython-lecture-notes/)
 
 介绍:麻省理工Gilbert Strang线性代数课程笔记,Gilbert Strang《Linear Algebra》课程主页[视频+讲义](http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm).
+
+* [《Canova: A Vectorization Lib for ML》](http://deeplearning4j.org/canova.html)
+
+介绍:面向机器学习/深度学习的数据向量化工具Canova,[github](https://github.com/deeplearning4j/Canova), 支持CSV文件、MNIST数据、TF-IDF/Bag of Words/word2vec文本向量化.
