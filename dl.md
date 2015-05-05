@@ -1639,3 +1639,15 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Canova: A Vectorization Lib for ML》](http://deeplearning4j.org/canova.html)
 
 介绍:面向机器学习/深度学习的数据向量化工具Canova,[github](https://github.com/deeplearning4j/Canova), 支持CSV文件、MNIST数据、TF-IDF/Bag of Words/word2vec文本向量化.
+
+* [《DZone Refcardz: Distributed Machine Learning with Apache Mahout》](http://java.dzone.com/articles/dzone-refcardz-distributed)
+
+介绍:快速入门：基于Apache Mahout的分布式机器学习.
+
+* [《Learning scikit-learn: Machine Learning in Python》](http://nbviewer.ipython.org/github/gmonce/scikit-learn-book/tree/master/)
+
+介绍:基于scikit-learn讲解了一些机器学习技术，如SVM，NB，PCA，DT，以及特征工程、特征选择和模型选择问题.
+
+* [《Lightning fast Machine Learning with Spark》](https://speakerdeck.com/nivdul/lightning-fast-machine-learning-with-spark)
+
+介绍:基于Spark的高效机器学习,[视频地址](https://www.parleys.com/tutorial/lightning-fast-machine-learning-spark).
