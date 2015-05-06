@@ -200,3 +200,7 @@
 * [《Structuring Applications in Go》](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
 
 介绍：新手使用Go构建应用建议.
+
+* [《A curated list of Golang books》](https://github.com/dariubs/GoBooks)
+
+介绍：Golang 图书列表.
