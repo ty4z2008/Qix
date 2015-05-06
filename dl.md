@@ -1651,3 +1651,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Lightning fast Machine Learning with Spark》](https://speakerdeck.com/nivdul/lightning-fast-machine-learning-with-spark)
 
 介绍:基于Spark的高效机器学习,[视频地址](https://www.parleys.com/tutorial/lightning-fast-machine-learning-spark).
+
+* [《How we’re using machine learning to fight shell selling》](http://blog.wepay.com/how-were-using-machine-learning-to-fight-shell-selling/)
+
+介绍:WePay用机器学习对抗信用卡"shell selling"诈骗.
