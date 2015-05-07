@@ -1660,3 +1660,6 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:16位数据科学家语录精选.
 
+* [《Deep learning applications and challenges in big data analytics》](http://www.journalofbigdata.com/content/2/1/1)
+
+介绍:深度学习在大数据分析领域的应用和挑战.
