@@ -204,3 +204,8 @@
 * [《A curated list of Golang books》](https://github.com/dariubs/GoBooks)
 
 介绍：Golang 图书列表.
+
+* [《Go crypto: bridging the performance gap》](https://blog.cloudflare.com/go-crypto-bridging-the-performance-gap/)
+
+介绍：CloudFlare的Go密码库crypto:弥合性能差距,[项目地址](https://github.com/cloudflare/go).
+
