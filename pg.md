@@ -353,3 +353,11 @@
 * [《PostgreSQL Performance Tuning》](http://linuxfinances.info/info/postgresqlperformance.html)
 
 介绍：PostgreSQL性能调优,作者的其他[关于PostgreSQL文章](http://linuxfinances.info/info/postgresql.html)也不错.
+
+* [《PostgreSQL Backend Flowchart》](http://www.postgresql.org/developer/backend/)
+
+介绍： PostgreSQL 内核学习.
+
+* [《PostgreSQL Vulnerability》](http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=postgresql)
+
+介绍： PostgreSQL漏洞库.
