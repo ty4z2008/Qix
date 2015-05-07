@@ -1655,3 +1655,8 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《How we’re using machine learning to fight shell selling》](http://blog.wepay.com/how-were-using-machine-learning-to-fight-shell-selling/)
 
 介绍:WePay用机器学习对抗信用卡"shell selling"诈骗.
+
+* [《Data Scientists Thoughts that Inspired Me》](http://www.datasciencecentral.com/profiles/blog/show?id=6448529:BlogPost:273276)
+
+介绍:16位数据科学家语录精选.
+
