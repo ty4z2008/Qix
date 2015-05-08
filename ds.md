@@ -110,4 +110,47 @@
 
 * [《Distributed Query Processing》](http://ogsa-dai.sourceforge.net/documentation/ogsadai4.0/ogsadai4.0-gt/DQPPart.html)
 
-介绍:分布式查询入门
+介绍:分布式查询入门.
+
+* [《Distributed Systems and the End of the API》](http://writings.quilt.org/2014/05/12/distributed-systems-and-the-end-of-the-api/)
+
+介绍:分布式系统和api总结.
+
+* [《Distributed Query Reading》](http://www.andrew.cmu.edu/course/15-749/READINGS/required/)
+
+介绍:分布式系统阅读论文，此外还推荐github上面的一个论文列表[The Distributed Reader](http://reiddraper.github.io/distreader/)。
+
+* [《Replication, atomicity and order in distributed systems》](http://afeinberg.github.io/2011/06/17/replication-atomicity-and-order-in-distributed-systems.html)
+
+介绍:Replication, atomicity and order in distributed systems
+
+* [《MIT course:Distributed Systems》](http://nil.csail.mit.edu/6.824/2015/)
+
+介绍:MIT分布式系统课程主页，这次用Golang作为授课语言。
+
+* [《Distributed systems for fun and profit》](http://book.mixu.net/distsys/)
+
+介绍:免费分布式系统电子书。
+
+* [《Ori：A Secure Distributed File System》](http://ori.scs.stanford.edu/)
+
+介绍:斯坦福开源的分布式文件系统。
+
+* [《Availability in Globally Distributed Storage Systems》](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/36737.pdf)
+
+介绍:Google论文：设计一个高可用的全球分布式存储系统。
+
+* [《Calvin: Fast Distributed Transactions For Partitioned Database Systems》](http://highscalability.com/blog/2013/5/23/paper-calvin-fast-distributed-transactions-for-partitioned-d.html)
+
+介绍:对于分区数据库的分布式事务处理。
+
+* [《Distributed Systems Building Block: Flake Ids》](http://yellerapp.com/posts/2015-02-09-flake-ids.html)
+
+介绍:Distributed Systems Building Block: Flake Ids.
+
+* [《Introduction to Distributed System Design》](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
+
+介绍:Google Code University课程，如何设计一个分布式系统。
+
+
+
