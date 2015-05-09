@@ -365,3 +365,7 @@
 * [《Full text search in milliseconds with PostgreSQL》](https://blog.lateral.io/2015/05/full-text-search-in-milliseconds-with-postgresql/)
 
 介绍： PostgreSQL毫秒级全文本搜索.
+
+* [《Annotated postgresql.conf and Global User Configuration (GUC) Guide》](http://www.varlena.com/GeneralBits/Tidbits/annotated_conf_e.html)
+
+介绍： postgresql.conf配置文件注释.
