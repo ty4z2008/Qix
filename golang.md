@@ -20,14 +20,13 @@
 
 介绍：Go语言作为一个现代化的编程语言以及支持垃圾内存的自动回收特性(GC). 这篇文章主要介的是非内存资源的自动回收技术.
 
-* [《	Go 语言包管理》](http://gopm.io/)
+* [《Go 语言包管理》](http://gopm.io/)
 
 介绍：无需 Git 和 Hg 等版本管理工具，就可以下载指定版本的 Go 语言包
 
 * [《Go 语言中的方法，接口和嵌入类型》](http://se77en.cc/2014/05/05/methods-interfaces-and-embedded-types-in-golang/)
 
 介绍：本文主介绍Go 语言中的方法，接口和嵌入类型。[原文地址](http://www.goinggo.net/2014/05/methods-interfaces-and-embedded-types.html)
-
 
 * [《golang: 详解interface和nil》](http://my.oschina.net/goal/blog/194233)
 
@@ -97,15 +96,15 @@
 
 介绍：Go 1.4 将支持 Android
 
-* [《 Making and Receiving Phone Calls With Golang》](https://www.twilio.com/blog/2014/10/making-and-receiving-phone-calls-with-golang.html)
+* [《Making and Receiving Phone Calls With Golang》](https://www.twilio.com/blog/2014/10/making-and-receiving-phone-calls-with-golang.html)
 
 介绍：使用Golang打电话,接电话
 
-* [《 introduce Resources for Go》](http://codecondo.com/golang-resources/)
+* [《introduce Resources for Go》](http://codecondo.com/golang-resources/)
 
 介绍：国外的Go资源
 
-* [《 introduce Resources for Go》](https://github.com/avelino/awesome-go)
+* [《introduce Resources for Go》](https://github.com/avelino/awesome-go)
 
 介绍：A curated list of awesome Go frameworks, libraries and software 
 
@@ -212,3 +211,7 @@
 * [《go-bootstrap》](http://go-bootstrap.io/)
 
 介绍：Generates a lean and mean Go web project.
+
+* [《gonix》](https://github.com/polegone/gonix)
+
+介绍：用Golang实现linux命令.
