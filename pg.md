@@ -361,3 +361,7 @@
 * [《PostgreSQL Vulnerability》](http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=postgresql)
 
 介绍： PostgreSQL漏洞库.
+
+* [《Full text search in milliseconds with PostgreSQL》](https://blog.lateral.io/2015/05/full-text-search-in-milliseconds-with-postgresql/)
+
+介绍： PostgreSQL毫秒级全文本搜索.
