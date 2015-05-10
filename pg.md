@@ -369,3 +369,7 @@
 * [《Annotated postgresql.conf and Global User Configuration (GUC) Guide》](http://www.varlena.com/GeneralBits/Tidbits/annotated_conf_e.html)
 
 介绍： postgresql.conf配置文件注释.
+
+* [《Bottled Water: Real-time integration of PostgreSQL and Kafka》](http://blog.confluent.io/2015/04/23/bottled-water-real-time-integration-of-postgresql-and-kafka/)
+
+介绍：利用Postgres 9.4的新功能Logical Decoding，实时stream所有SQL操作到Kafka，然后下游的各种consumer从Kafka中接收。其实就是Write-ahead logging的广义应用
