@@ -215,3 +215,7 @@
 * [《gonix》](https://github.com/polegone/gonix)
 
 介绍：用Golang实现linux命令.
+
+* [《深入解析Go》](https://github.com/tiancaiamao/go-internals)
+
+介绍：深入解析Go书籍.
