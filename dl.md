@@ -1675,3 +1675,11 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《A Statistical View of Deep Learning (V): Generalisation and Regularisation》](http://blog.shakirm.com/2015/05/a-statistical-view-of-deep-learning-v-generalisation-and-regularisation/)
 
 介绍:深度学习的统计分析V:泛化和正则化.
+
+* [《Highway Networks》](http://arxiv.org/abs/1505.00387)
+
+介绍:用SGD能高效完成训练的大规模(多层)深度网络HN.
+
+* [《What I Read For Deep-Learning》](http://www.erogol.com/what-i-read-for-deep-learning/)
+
+介绍:深度学习解读文章.
