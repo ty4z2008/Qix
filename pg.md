@@ -373,3 +373,15 @@
 * [《Bottled Water: Real-time integration of PostgreSQL and Kafka》](http://blog.confluent.io/2015/04/23/bottled-water-real-time-integration-of-postgresql-and-kafka/)
 
 介绍：利用Postgres 9.4的新功能Logical Decoding，实时stream所有SQL操作到Kafka，然后下游的各种consumer从Kafka中接收。其实就是Write-ahead logging的广义应用
+
+* [《Is PostgreSQL Your Next JSON Database?》](https://www.compose.io/articles/is-postgresql-your-next-json-database/)
+
+介绍： Is PostgreSQL Your Next JSON Database?.
+
+* [《NoSQL with PostgreSQL 9.4 and JSONB》](http://blog.2ndquadrant.com/nosql-postgresql-9-4-jsonb/)
+
+介绍： NoSQL with PostgreSQL 9.4 and JSONB.
+
+* [《PostgreSQL, the NoSQL Database》](http://www.linuxjournal.com/content/postgresql-nosql-database)
+
+介绍： PostgreSQL, the NoSQL Database.
