@@ -1663,3 +1663,15 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Deep learning applications and challenges in big data analytics》](http://www.journalofbigdata.com/content/2/1/1)
 
 介绍:深度学习在大数据分析领域的应用和挑战.
+
+* [《Free book:Machine Learning,Mathematics》](http://resrc.io/list/10/list-of-free-programming-books/#machine-learning)
+
+介绍:免费的机器学习与数学书籍,除此之外还有其他的[免费编程书籍](https://github.com/vhf/resrc),编程语言,设计,操作系统等.
+
+* [《Object detection via a multi-region & semantic segmentation-aware CNN model》](http://arxiv.org/pdf/1505.01749.pdf)
+
+介绍:一篇关于CNN模型对象识别Paper.
+
+* [《A Statistical View of Deep Learning (V): Generalisation and Regularisation》](http://blog.shakirm.com/2015/05/a-statistical-view-of-deep-learning-v-generalisation-and-regularisation/)
+
+介绍:深度学习的统计分析V:泛化和正则化.
