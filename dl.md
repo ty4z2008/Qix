@@ -1683,3 +1683,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《What I Read For Deep-Learning》](http://www.erogol.com/what-i-read-for-deep-learning/)
 
 介绍:深度学习解读文章.
+
+* [《An Introduction to Recommendation Engines》](http://dataconomy.com/an-introduction-to-recommendation-engines)
+
+介绍:Coursera上的推荐系统导论（Introduction to Recommender Systems）公开课.
