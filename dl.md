@@ -1687,3 +1687,21 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《An Introduction to Recommendation Engines》](http://dataconomy.com/an-introduction-to-recommendation-engines)
 
 介绍:Coursera上的推荐系统导论（Introduction to Recommender Systems）公开课.
+
+* [《Stanford Machine Learning》](http://www.holehouse.org/mlclass/index.html)
+
+介绍:Andrew Ng经典机器学习课程笔记.
+
+* [《ICLR 2015》](http://yaroslavvb.blogspot.de/2015/05/iclr-2015_12.html)
+
+介绍:ICLR 2015见闻录,[博客](http://yaroslavvb.blogspot.de/)的其他机器学习文章也不错.
+
+* [《Stanford Machine Learning》](http://www.cripac.ia.ac.cn/People/sw/Xu2015PSR.pdf)
+
+介绍:推荐系统"个性化语义排序"模型.
+
+* [《The More Excited We Are, The Shorter We Tweet》](http://senseable.mit.edu/tweetbursts/)
+
+介绍:激情时分更惜字——MIT的最新Twitter研究结果.
+
+
