@@ -31,3 +31,7 @@
 * [《Sampling, or a faster LZ4》](http://fastcompression.blogspot.fr/2015/04/sampling-or-faster-lz4.html)
 
 介绍：高速数据压缩算法[LZ4](https://github.com/Cyan4973/lz4).
+
+* [《Fundraising Roadmap Algorithm》](http://codingvc.com/fundraising-roadmap-algorithm/)
+
+介绍：融资路线图算法.
