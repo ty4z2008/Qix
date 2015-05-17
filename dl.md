@@ -1704,4 +1704,14 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:激情时分更惜字——MIT的最新Twitter研究结果.
 
+* [《苏州大学人类语言技术研究论文主页》](http://hlt.suda.edu.cn/paper.html)
 
+介绍:苏州大学人类语言技术研究相关论文.
+
+* [《Neural Turing Machines implementation》](http://arxiv.org/abs/1505.00387)
+
+介绍:实现神经图灵机(NTM),[项目地址](https://github.com/fumin/ntm),此外推荐相关神经图灵机[算法](http://www.i-programmer.info/news/105-artificial-intelligence/7923-neural-turing-machines-learn-their-algorithms.html).
+
+* [《Computer Vision - CSE 559A, Spring 2015》](http://www.cse.wustl.edu/~furukawa/cse559a/2015_spring/)
+
+介绍:华盛顿大学的机器视觉(2015),参考资料[Computer Vision: Algorithms and Applications](http://szeliski.org/Book/).
