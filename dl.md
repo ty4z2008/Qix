@@ -1,7 +1,7 @@
 ##机器学习(Machine Learning)&深度学习(Deep Learning)资料
 
 ---
-#####希望转载的朋友，你可以不用联系我．但是**一定要保留原文链接**，因为这个项目还在继续也在不定期更新．希望看到文章的朋友能够学到更多．
+#####希望转载的朋友，你可以不用联系我．但是**一定要保留原文链接**，因为这个项目还在继续也在不定期更新．希望看到文章的朋友能够学到更多．此外:某些资料在中国访问需要梯子.
 ---
 
 
@@ -1719,3 +1719,15 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Mining of Massive Datasets》](http://www.mmds.org/)
 
 介绍:"Mining of Massive Datasets"发布第二版,Jure Leskovec, Anand Rajaraman, Jeff Ullman 新版增加Jure Leskovec作为合作作者，新增社交网络图数据挖掘、降维和大规模机器学习三章,[电子版](http://pan.baidu.com/s/1GvtpG)依旧免费.
+
+* [《Learning Deep Learning》](http://rt.dgyblog.com/ref/ref-learning-deep-learning.html)
+
+介绍:一个深度学习资源页,资料很丰富.
+
+* [《Learning Deep Learning》](http://vdisk.weibo.com/s/ayG13we2ler9b)
+
+介绍:免费电子书"Learning Deep Learning".
+
+* [《Tutorial: Machine Learning for Astronomy with Scikit-learn》](http://www.astroml.org/sklearn_tutorial/index.html)
+
+介绍:Machine Learning for Astronomy with scikit-learn.
