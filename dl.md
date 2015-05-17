@@ -1715,3 +1715,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Computer Vision - CSE 559A, Spring 2015》](http://www.cse.wustl.edu/~furukawa/cse559a/2015_spring/)
 
 介绍:华盛顿大学的机器视觉(2015),参考资料[Computer Vision: Algorithms and Applications](http://szeliski.org/Book/).
+
+* [《Mining of Massive Datasets》](http://www.mmds.org/)
+
+介绍:"Mining of Massive Datasets"发布第二版,Jure Leskovec, Anand Rajaraman, Jeff Ullman 新版增加Jure Leskovec作为合作作者，新增社交网络图数据挖掘、降维和大规模机器学习三章,[电子版](http://pan.baidu.com/s/1GvtpG)依旧免费.
