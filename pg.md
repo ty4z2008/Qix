@@ -385,3 +385,15 @@
 * [《PostgreSQL, the NoSQL Database》](http://www.linuxjournal.com/content/postgresql-nosql-database)
 
 介绍： PostgreSQL, the NoSQL Database.
+
+* [《How to update large tables in PostgreSQL》](http://blog.codacy.com/2015/05/14/how-to-update-large-tables-in-postgresql/)
+
+介绍： PostgreSQL如何更新大表.
+
+* [《PostgreSQL:Error Message Style Guide》](http://www.postgresql.org/docs/devel/static/error-style-guide.html)
+
+介绍： PostgreSQL错误信息编码指南.
+
+* [《Compressing PostgreSQL JSONB data 12x using cstore_fdw》](https://www.citusdata.com/blog/156-compressing-jsonb-using-cstore-fdw)
+
+介绍： cstore_fdw压缩PostgreSQL数据.
