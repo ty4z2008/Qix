@@ -1731,3 +1731,31 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Tutorial: Machine Learning for Astronomy with Scikit-learn》](http://www.astroml.org/sklearn_tutorial/index.html)
 
 介绍:Machine Learning for Astronomy with scikit-learn.
+
+* [《An Introduction to Random Forests for Beginners》](http://info.salford-systems.com/an-introduction-to-random-forests-for-beginners)
+
+介绍:免费电子书"随机森林入门指南".
+
+* [《Top 10 data mining algorithms in plain English》](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
+
+介绍:白话数据挖掘十大算法.
+
+* [《An Inside Look at the Components of a Recommendation Engine》](https://www.mapr.com/blog/inside-look-at-components-of-recommendation-engine#.VVmZ5vmqqko)
+
+介绍:基于Mahout和Elasticsearch的推荐系统,[国内译版](http://www.csdn.net/article/2015-05-14/2824676).
+
+* [《Advances in Extreme Learning Machines》](https://aaltodoc.aalto.fi/bitstream/handle/123456789/15585/isbn9789526061498.pdf)
+
+介绍:博士学位论文:ELM研究进展.
+
+* [《10-minute tour of pandas》](https://vimeo.com/59324550)
+
+介绍:Pandas十分钟速览,[ipn](http://nbviewer.ipython.org/urls/gist.github.com/wesm/4757075/raw/a72d3450ad4924d0e74fb57c9f62d1d895ea4574/PandasTour.ipynb).
+
+* [《Data doesn't grow in tables: harvesting journalistic insight from documents》](http://pudo.org/blog/2015/05/15/document-mining.html)
+
+介绍:面向数据新闻的文本挖掘.
+
+* [《Time-lapse Mining from Internet Photos》](http://grail.cs.washington.edu/projects/timelapse/)
+
+介绍:用网络图片合成延时视频(SIGGRAPH 2015).
