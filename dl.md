@@ -1759,3 +1759,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Time-lapse Mining from Internet Photos》](http://grail.cs.washington.edu/projects/timelapse/)
 
 介绍:用网络图片合成延时视频(SIGGRAPH 2015).
+
+* [《The Curse of Dimensionality in classification》](http://www.visiondummy.com/2014/04/curse-dimensionality-affect-classification/)
+
+介绍:分类系统的维数灾难.
