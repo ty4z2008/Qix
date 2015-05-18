@@ -219,3 +219,12 @@
 * [《深入解析Go》](https://github.com/tiancaiamao/go-internals)
 
 介绍：深入解析Go书籍.
+
+* [《50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs》](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
+
+介绍：Go编程陷阱.
+
+* [《Gb, a project based Golang build tool》](https://github.com/constabulary/gb)
+
+介绍：a project based Golang build tool.
+
