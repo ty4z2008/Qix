@@ -35,3 +35,7 @@
 * [《Fundraising Roadmap Algorithm》](http://codingvc.com/fundraising-roadmap-algorithm/)
 
 介绍：融资路线图算法.
+
+* [《Weak Learning, Boosting, and the AdaBoost algorithm》](http://jeremykun.com/2015/05/18/boosting-census/)
+
+介绍：弱学习/Boosting/AdaBoost算法.
