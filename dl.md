@@ -1763,3 +1763,23 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《The Curse of Dimensionality in classification》](http://www.visiondummy.com/2014/04/curse-dimensionality-affect-classification/)
 
 介绍:分类系统的维数灾难.
+
+* [《Deep Learning vs Big Data: Who owns what?》](http://www.computervisionblog.com/2015/05/deep-learning-vs-big-data-who-owns-what.html)
+
+介绍:深度学习vs.大数据——从数据到知识：版权的思考,[翻译版](http://www.csdn.net/article/2015-05-19/2824707
+
+* [《A Primer on Predictive Models》](http://www.nature.com/ctg/journal/v5/n1/abs/ctg201319a.html)
+
+介绍:预测模型入门.
+
+* [《Demistifying LSTM Neural Networks》](http://blog.terminal.com/demistifying-long-short-term-memory-lstm-recurrent-neural-networks/)
+
+介绍:深入浅出LSTM.
+
+* [《ICLR 2015》](https://www.youtube.com/playlist?list=PLhiWXaTdsWB8PnrVZquVyqlRFWXM4ijYz)
+
+介绍:2015年ICLR会议[视频](http://pan.baidu.com/s/1bnbbRyR)与[讲义](http://www.iclr.cc/doku.php?id=iclr2015:main).
+
+* [《EM算法原理详解与高斯混合模型》](http://blog.csdn.net/lansatiankongxxc/article/details/45646677)
+
+介绍:EM算法原理详解与高斯混合模型.
