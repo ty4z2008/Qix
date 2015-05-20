@@ -1795,3 +1795,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《DopeLearning: A Computational Approach to Rap Lyrics Generation》](http://arxiv.org/abs/1505.04771)
 
 介绍:基于RankSVM和DNN自动(重组)生成Rap歌词.
+
+* [《An Introduction to Random Indexing 》](https://www.sics.se/~mange/papers/RI_intro.pdf)
+
+介绍:随机索引RI词空间模型专题.
