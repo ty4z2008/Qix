@@ -1780,6 +1780,18 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:2015年ICLR会议[视频](http://pan.baidu.com/s/1bnbbRyR)与[讲义](http://www.iclr.cc/doku.php?id=iclr2015:main).
 
-* [《EM算法原理详解与高斯混合模型》](http://blog.csdn.net/lansatiankongxxc/article/details/45646677)
+* [《On Visualizing Data Well》](http://dataremixed.com/2015/05/on-visualizing-data-well/)
 
-介绍:EM算法原理详解与高斯混合模型.
+介绍:Ben Jones的数据可视化建议.
+
+* [《Decoding Dimensionality Reduction, PCA and SVD》](http://bigdata-madesimple.com/decoding-dimensionality-reduction-pca-and-svd/)
+
+介绍:解读数据降维/PCA/SVD.
+
+* [《Supervised learning superstitions cheat sheet》](http://ryancompton.net/assets/ml_cheat_sheet/supervised_learning.html)
+
+介绍:IPN:监督学习方法示例/对比参考表,覆盖logistic回归, 决策树, SVM, KNN, Naive Bayes等方法.
+
+* [《DopeLearning: A Computational Approach to Rap Lyrics Generation》](http://arxiv.org/abs/1505.04771)
+
+介绍:基于RankSVM和DNN自动(重组)生成Rap歌词.
