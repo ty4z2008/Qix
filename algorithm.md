@@ -39,3 +39,7 @@
 * [《Weak Learning, Boosting, and the AdaBoost algorithm》](http://jeremykun.com/2015/05/18/boosting-census/)
 
 介绍：弱学习/Boosting/AdaBoost算法.
+
+* [《The easy way to implement a Red-Black tree》](http://www.garrisonjensen.com/programming/2015/05/15/easy-red-black-tree.html)
+
+介绍：红黑树最容易的实现方式.
