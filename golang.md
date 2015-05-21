@@ -228,3 +228,6 @@
 
 介绍：a project based Golang build tool.
 
+* [《Fundamentals of concurrent programming》](http://www.nada.kth.se/~snilsson/concurrency/)
+
+介绍：Go并发编程基础,[译版](http://blog.xiayf.cn/2015/05/20/fundamentals-of-concurrent-programming/).
