@@ -397,3 +397,7 @@
 * [《Compressing PostgreSQL JSONB data 12x using cstore_fdw》](https://www.citusdata.com/blog/156-compressing-jsonb-using-cstore-fdw)
 
 介绍： cstore_fdw压缩PostgreSQL数据.
+
+* [《PostgreSQL: the good, the bad, and the ugly》](http://lwn.net/SubscriberLink/645020/e1ba36cff8248df0/)
+
+介绍： PostgreSQL评价.
