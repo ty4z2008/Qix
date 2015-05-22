@@ -1796,6 +1796,14 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:基于RankSVM和DNN自动(重组)生成Rap歌词.
 
-* [《An Introduction to Random Indexing 》](https://www.sics.se/~mange/papers/RI_intro.pdf)
+* [《An Introduction to Random Indexing》](https://www.sics.se/~mange/papers/RI_intro.pdf)
 
 介绍:随机索引RI词空间模型专题.
+
+* [《VDiscover》](http://www.vdiscover.org/)
+
+介绍:基于机器学习的漏洞检测工具VDiscover.
+
+* [《Minerva》](https://github.com/dmlc/minerva)
+
+介绍:深度学习系统minerva。拥有python编程接口。多GPU几乎达到线性加速。在4块GPU上能在4天内将GoogLeNet训练到68.7%的top-1以及89.0%的top-5准确率。和同为dmlc项目的cxxnet相比，采用动态数据流引擎，提供更多灵活性。未来将和cxxnet一起整合为mxnet项目，互取优势.
