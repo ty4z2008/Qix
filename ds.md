@@ -171,3 +171,7 @@
 * [《Distributed Systems Reading List》](https://github.com/notgary/distributed-systems-reading-list)
 
 介绍:分布式系统资料,此外还推荐[Various articles about distributed systems](https://github.com/hiremaga/readings).
+
+* [《Designs, Lessons and Advice from Building Large Distributed Systems》](http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
+
+介绍:Designs, Lessons and Advice from Building Large Distributed Systems.
