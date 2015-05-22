@@ -152,5 +152,22 @@
 
 介绍:Google Code University课程，如何设计一个分布式系统。
 
+* [《Sheepdog: Distributed Storage System for KVM》](http://sheepdog.github.io/sheepdog/)
 
+介绍:KVM的分布式存储系统.
 
+* [《Readings in Distributed Systems Systems》](http://henryr.github.io/distributed-systems-readings/)
+
+介绍:分布式系统课程列表,包括数据库、算法等.
+
+* [《Tera》](https://github.com/BaiduPS/tera)
+
+介绍:分布式表格系统.
+
+* [《Distributed systems: for fun and profit》](https://github.com/mixu/distsysbook)
+
+介绍:分布式系统的在线电子书.
+
+* [《Distributed Systems Reading List》](https://github.com/notgary/distributed-systems-reading-list)
+
+介绍:分布式系统资料,此外还推荐[Various articles about distributed systems](https://github.com/hiremaga/readings).
