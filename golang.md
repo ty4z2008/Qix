@@ -231,3 +231,7 @@
 * [《Fundamentals of concurrent programming》](http://www.nada.kth.se/~snilsson/concurrency/)
 
 介绍：Go并发编程基础,[译版](http://blog.xiayf.cn/2015/05/20/fundamentals-of-concurrent-programming/).
+
+* [《fleet》](https://github.com/coreos/fleet)
+
+介绍：fleet 绑定了systemd 和etcd 到一个分布式init 系统，可以认为是systemd 的扩展，但是并不是机器级别的，而是集群级别的。.
