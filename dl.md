@@ -1807,3 +1807,23 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Minerva》](https://github.com/dmlc/minerva)
 
 介绍:深度学习系统minerva。拥有python编程接口。多GPU几乎达到线性加速。在4块GPU上能在4天内将GoogLeNet训练到68.7%的top-1以及89.0%的top-5准确率。和同为dmlc项目的cxxnet相比，采用动态数据流引擎，提供更多灵活性。未来将和cxxnet一起整合为mxnet项目，互取优势.
+
+* [《CVPR 2015 paper》](http://www.cv-foundation.org/openaccess/CVPR2015.py)
+
+介绍:2015年国际计算机视觉与模式识别会议paper.
+
+* [《What are the advantages of different classification algorithms?》](http://www.quora.com/What-are-the-advantages-of-different-classification-algorithms/answer/Xavier-Amatriain)
+
+介绍:Netflix工程总监眼中的分类算法：深度学习优先级最低,[中文版](http://www.csdn.net/article/2015-05-24/2824758).
+
+* [《Results for Microsoft COCO Image Captioning Challenge》](https://www.codalab.org/competitions/3221#results)
+
+介绍:Codalab图像标注竞赛排行+各家论文,Reddit上flukeskywalker整理了各家技术[相关论文](http://www.reddit.com/r/MachineLearning/comments/376b28/comparison_of_official_test_scores_of_current/).
+
+* [《Caffe con Troll: Shallow Ideas to Speed Up Deep Learning》](http://arxiv.org/abs/1504.04343)
+
+介绍:基于Caffe的加速深度学习系统CcT.
+
+* [《Low precision storage for deep learning》](http://arxiv.org/abs/1412.7024)
+
+介绍:深度学习(模型)低精度(训练与)存储.
