@@ -1827,3 +1827,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Low precision storage for deep learning》](http://arxiv.org/abs/1412.7024)
 
 介绍:深度学习(模型)低精度(训练与)存储.
+
+* [《Model-Based Machine Learning (Early Access)》](http://www.mbmlbook.com/index.html)
+
+介绍:新书预览:模型机器学习.
