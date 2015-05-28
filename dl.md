@@ -1831,3 +1831,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Model-Based Machine Learning (Early Access)》](http://www.mbmlbook.com/index.html)
 
 介绍:新书预览:模型机器学习.
+
+* [《Regret Analysis of Stochastic and Nonstochastic Multi-armed Bandit Problems》](http://www.princeton.edu/~sbubeck/SurveyBCB12.pdf)
+
+介绍:免费电子书多臂老虎机,此外推荐[Introduction to Bandits: Algorithms and Theory](https://sites.google.com/site/banditstutorial/).
