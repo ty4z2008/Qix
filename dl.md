@@ -1847,3 +1847,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Introduction to Neural Machine Translation with GPUs 》](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/)
 
 介绍:神经(感知)机器翻译介绍.
+
+* [《Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning》](https://www.youtube.com/watch?v=n1ViNeWhC24&hd=1)
+
+介绍:Andrew Ng关于深度学习/自学习/无监督特征学习的报告,[国内云](http://pan.baidu.com/s/1jG8DUN8).
