@@ -1851,3 +1851,39 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning》](https://www.youtube.com/watch?v=n1ViNeWhC24&hd=1)
 
 介绍:Andrew Ng关于深度学习/自学习/无监督特征学习的报告,[国内云](http://pan.baidu.com/s/1jG8DUN8).
+
+* [《Recurrent Neural Network Training with Dark Knowledge Transfer》](http://arxiv.org/abs/1505.04630)
+
+介绍:论文:通过潜在知识迁移训练RNN.
+
+* [《Show Me The Money》](https://github.com/chrischris292/ShowMeTheMoney)
+
+介绍:面向金融数据的情感分析工具.
+
+* [《pyLDAvis》](https://github.com/bmabey/pyLDAvis)
+
+介绍:(Python)主题模型交互可视化库pyLDAvis.
+
+* [《Logistic Regression and Gradient Descent》](http://nbviewer.ipython.org/github/tfolkman/learningwithdata/blob/master/Logistic%20Gradient%20Descent.ipynb)
+
+介绍:Logistic回归与优化实例教程.
+
+* [《贾扬清微信讲座记录》](http://pan.baidu.com/s/1dDGVL53)
+
+介绍:贾扬清（谷歌大脑科学家、caffe缔造者）微信讲座记录.
+
+* [《sketch》](https://github.com/udibr/sketch)
+
+介绍:Theano/Blocks实现RNN手写字符串生成sketch.
+
+* [《Web Scale Document Clustering: Clustering 733 Million Web Pages》](http://chris.de-vries.id.au/2015/05/web-scale-document-clustering.html)
+
+介绍:基于TopSig的海量(7亿+)网页聚类.
+
+* [《NAACL 2015 Proceedings on ACL Anthology》](http://aclweb.org/anthology/N/N15/)
+
+介绍:NAACL 2015 论文paper.
+
+* [《Stock Forecasting With Machine Learning - Seven Possible Errors》](http://www.anlytcs.com/2015/05/stock-forecasting-with-machine-learning.html)
+
+介绍:机器学习预测股市的七个问题.
