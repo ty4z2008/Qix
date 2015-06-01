@@ -1887,3 +1887,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Stock Forecasting With Machine Learning - Seven Possible Errors》](http://www.anlytcs.com/2015/05/stock-forecasting-with-machine-learning.html)
 
 介绍:机器学习预测股市的七个问题.
+
+* [《Are there any good resources for learning about neural networks?》](http://www.reddit.com/r/MachineLearning/comments/378but/are_there_any_good_resources_for_learning_about/)
+
+介绍:神经网络学习资料推荐.
