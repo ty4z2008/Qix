@@ -1895,3 +1895,27 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《A Critical Review of Recurrent Neural Networks for Sequence Learning》](http://arxiv.org/abs/1506.00019v1)
 
 介绍:面向序列学习的RNN综述.
+
+* [《Handling and Processing Strings in R》](http://gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf)
+
+介绍:R文本处理手册.
+
+* [《Must-watch videos about Python》](https://github.com/s16h/py-must-watch)
+
+介绍:“必看”的Python视频集锦.
+
+* [《The Google Stack》](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
+
+介绍:Google(基础结构)栈.
+
+* [《Randomized Algorithms for Matrices and Data》](http://cs.stanford.edu/people/mmahoney/f13-stat260-cs294/)
+
+介绍:矩阵和数据的随机算法(UC Berkeley 2013).
+
+* [《Intermediate R》](https://www.datacamp.com/courses/intermediate-r)
+
+介绍:DataCamp中级R语言教程.
+
+* [《Topology Without Tears》](http://www.topologywithouttears.net/)
+
+介绍:免费电子书:轻松掌握拓扑学,[中文版](http://www.topologywithouttears.net/topbookchinese.pdf).
