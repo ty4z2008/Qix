@@ -401,3 +401,19 @@
 * [《PostgreSQL: the good, the bad, and the ugly》](http://lwn.net/SubscriberLink/645020/e1ba36cff8248df0/)
 
 介绍： PostgreSQL评价.
+
+* [《SQLPro for PostgresSQL》](http://www.hankinsoft.com/SQLProPostgres/)
+
+介绍： Mac OS X上的PostgreSQL管理器.
+
+* [《PostgreSQL 9.5's Upsert Feature Explained》](https://www.youtube.com/watch?v=pbg97bkxbbY&utm_source=postgresweekly&utm_medium=email)
+
+介绍： PostgreSQL 9.5新特性Upsert解释 .
+
+* [《PostgreSQL database replication》](http://www.vertabelo.com/blog/technical-articles/postgresql-database-replication)
+
+介绍： PostgreSQL的复制.
+
+* [《YeSQL: Battling the NoSQL Hype Cycle with Postgres》](http://momjian.us/main/blogs/pgblog/2015.html)
+
+介绍： YeSQL: Battling the NoSQL Hype Cycle with Postgres,博客的[其他内容](http://momjian.us/main/blogs/pgblog/2015.html)也不错.
