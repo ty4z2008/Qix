@@ -2007,3 +2007,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Dimension Reduction》](http://forum.memect.com/thread/dimension-reduction/)
 
 介绍:电子书降维方法,此外还推荐[Dimensionality Reduction A Short Tutorial](http://www.stat.washington.edu/courses/stat539/spring14/Resources/tutorial_nonlin-dim-red.pdf)、[Matlab Toolbox for Dimensionality Reduction](http://lvdmaaten.github.io/drtoolbox/)、[Unsupervised Kernel Dimension Reduction](http://www.cs.berkeley.edu/~jordan/papers/wang-sha-jordan-nips11.pdf)
+
+* [《Datasets Used For Benchmarking Deep Learning Algorithms》](http://deeplearning.net/datasets/)
+
+介绍:deeplearning.net整理的深度学习数据集列表。
