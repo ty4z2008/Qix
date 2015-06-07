@@ -1919,3 +1919,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Topology Without Tears》](http://www.topologywithouttears.net/)
 
 介绍:免费电子书:轻松掌握拓扑学,[中文版](http://www.topologywithouttears.net/topbookchinese.pdf).
+
+* [《Information Theory, Pattern Recognition, and Neural Networks》](http://www.inference.phy.cam.ac.uk/itprnn_lectures/)
+
+介绍:[Book](http://www.inference.phy.cam.ac.uk/itprnn/book.pdf),[video](https://www.youtube.com/user/jakobfoerster/videos).
