@@ -242,7 +242,7 @@
 
 介绍:下集在这里[神奇的伽玛函数(下)](http://www.flickering.cn/%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/2014/06/%E7%A5%9E%E5%A5%87%E7%9A%84%E4%BC%BD%E7%8E%9B%E5%87%BD%E6%95%B0%E4%B8%8A/)
 
-* [《分布式机器学习的故事》](http://cxwangyi.github.io/2014/01/20/distributed-machine-learning/)
+* [《分布式机器学习的故事》](http://cxwangyi.github.io/notes/2014-01-20-distributed-machine-learning.html)
 
 介绍:作者王益目前是腾讯广告算法总监，王益博士毕业后在google任研究。这篇文章王益博士7年来从谷歌到腾讯对于分布机器学习的所见所闻。值得细读
 
