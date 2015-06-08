@@ -2019,3 +2019,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Rehabilitation of Count-based Models for Word Vector Representations》](http://arxiv.org/abs/1412.4930)
 
 介绍:词频模型对词向量的反击,参考[Improving Distributional Similarity with Lessons Learned from Word Embeddings ](https://levyomer.files.wordpress.com/2015/03/improving-distributional-similarity-tacl-2015.pdf)。
+
+* [《Three Aspects of Predictive Modeling》](http://static1.squarespace.com/static/51156277e4b0b8b2ffe11c00/t/55344152e4b0ff30bb9ec163/1429487954122/ASA_Kuhn.pdf)
+
+介绍:预测模型的三个方面.
