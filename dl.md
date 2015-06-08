@@ -1098,7 +1098,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 * [《HMM相关文章索引》](http://www.52nlp.cn/hmm%E7%9B%B8%E5%85%B3%E6%96%87%E7%AB%A0%E7%B4%A2%E5%BC%95)
 
-介绍: HMM相关文章
+介绍: HMM相关文章,此外推荐[中文分词之HMM模型详解](http://yanyiwu.com/work/2014/04/07/hmm-segment-xiangjie.html)
 
 * [《Zipf's and Heap's law》](http://www.ccs.neu.edu/home/ekanou/ISU535.09X2/Handouts/Review_Material/zipfslaw.pdf)
 
@@ -2010,11 +2010,11 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 * [《Datasets Used For Benchmarking Deep Learning Algorithms》](http://deeplearning.net/datasets/)
 
-介绍:deeplearning.net整理的深度学习数据集列表。
+介绍:deeplearning.net整理的深度学习数据集列表.
 
 * [《Golang Natural Language Processing》](https://github.com/advancedlogic/go-freeling)
 
-介绍:Go语言编写的自然语言处理工具。
+介绍:Go语言编写的自然语言处理工具.
 
 * [《Rehabilitation of Count-based Models for Word Vector Representations》](http://arxiv.org/abs/1412.4930)
 
@@ -2023,3 +2023,11 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Three Aspects of Predictive Modeling》](http://static1.squarespace.com/static/51156277e4b0b8b2ffe11c00/t/55344152e4b0ff30bb9ec163/1429487954122/ASA_Kuhn.pdf)
 
 介绍:预测模型的三个方面.
+
+* [《CS224d: Deep Learning for Natural Language Processing》](http://cs224d.stanford.edu/)
+
+介绍:斯坦福大学深度学习与自然语言处理课程,部分课程笔记[词向量](http://www.52nlp.cn/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%8E%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%AC%AC%E4%BA%8C%E8%AE%B2%E8%AF%8D%E5%90%91%E9%87%8F)、[引言](http://www.52nlp.cn/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%8E%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%AC%AC%E4%B8%80%E8%AE%B2%E5%BC%95%E8%A8%80)
+
+* [《Google Computer Vision research at CVPR 2015》](http://googleresearch.blogspot.jp/2015/06/google-computer-vision-research-at-cvpr.html)
+
+介绍:CVPR2015上Google的CV研究列表.
