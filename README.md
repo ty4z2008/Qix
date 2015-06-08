@@ -20,6 +20,7 @@ node-mysql中文文档:https://github.com/ty4z2008/Qix/blob/master/node.md
 ##机器学习资料
 
 篇目1:https://github.com/ty4z2008/Qix/blob/master/dl.md
+
 篇目2:https://github.com/ty4z2008/Qix/blob/master/dl2.md
 
 ##Golang学习资料
