@@ -2011,3 +2011,11 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Datasets Used For Benchmarking Deep Learning Algorithms》](http://deeplearning.net/datasets/)
 
 介绍:deeplearning.net整理的深度学习数据集列表。
+
+* [《Golang Natural Language Processing》](https://github.com/advancedlogic/go-freeling)
+
+介绍:Go语言编写的自然语言处理工具。
+
+* [《Rehabilitation of Count-based Models for Word Vector Representations》](http://arxiv.org/abs/1412.4930)
+
+介绍:词频模型对词向量的反击,参考[Improving Distributional Similarity with Lessons Learned from Word Embeddings ](https://levyomer.files.wordpress.com/2015/03/improving-distributional-similarity-tacl-2015.pdf)。
