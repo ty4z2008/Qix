@@ -9,3 +9,7 @@
 * [《Image Scaling using Deep Convolutional Neural Networks》](http://engineering.flipboard.com/2015/05/scaling-convnets/)
 
 介绍:使用卷积神经网络的图像缩放.
+
+* [《Proceedings of The 32nd International Conference on Machine Learning》](http://jmlr.org/proceedings/papers/v37/)
+
+介绍:ICML2015 论文集,优化4个+稀疏优化1个；强化学习4个，深度学习3个+深度学习计算1个；贝叶斯非参、高斯过程和学习理论3个；还有计算广告和社会选择.[ICML2015 Sessions](http://icml.cc/2015/?page_id=825).
