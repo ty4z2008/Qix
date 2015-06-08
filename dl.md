@@ -2031,3 +2031,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Google Computer Vision research at CVPR 2015》](http://googleresearch.blogspot.jp/2015/06/google-computer-vision-research-at-cvpr.html)
 
 介绍:CVPR2015上Google的CV研究列表.
+
+* [《Using Deep Learning to Find Basketball Highlights》](http://public.hudl.com/bits/archives/2015/06/05/highlights/)
+
+介绍:利用(Metamind)深度学习自动发现篮球赛精彩片段.
