@@ -14,3 +14,7 @@
 * [《FreeBSD Documentation and Resources 》](http://freebsd.active-venture.com/)
 
 介绍:FreeBSD文档和资源：安装，配置，源码分析
+
+* [《Linux Documentation and Resources 》](http://linux.die.net/)
+
+介绍:Linux：安装，配置，源码分析,还有在线电子书[Bash Guide for Beginners](http://linux.die.net/Bash-Beginners-Guide/)等等
