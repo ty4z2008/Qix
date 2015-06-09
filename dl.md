@@ -458,11 +458,11 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍：本项目利用了Microsoft Azure，可以在几分种内完成NLP on Azure Website的部署，立即开始对FNLP各种特性的试用，或者以REST API的形式调用FNLP的语言分析功能
 
-* [《吴立德《概率主题模型&数据科学基础》》](http://www.youku.com/playlist_show/id_22935176.html)
+* [《吴立德《概率主题模型&数据科学基础》](http://www.youku.com/playlist_show/id_22935176.html)
 
 介绍：现任复旦大学首席教授、计算机软件博士生导师。计算机科学研究所副所长.内部课程
 
-* [《机器学习入门资源不完全汇总》》](http://ml.memect.com/article/machine-learning-guide.html)
+* [《机器学习入门资源不完全汇总》](http://ml.memect.com/article/machine-learning-guide.html)
 
 介绍：好东西的干货真的很多
 
