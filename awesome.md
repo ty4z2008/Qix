@@ -10,3 +10,7 @@
 * [《Over API》](http://overapi.com/ )
 
 介绍:OverAPI：网罗所有编程语言和框架的速查表干货大全.基本上把所能见到的编程语言、框架、数据库、操作系统、设计模式等等东西都包含了，覆盖范围相当广泛.
+
+* [《FreeBSD Documentation and Resources 》](http://freebsd.active-venture.com/)
+
+介绍:FreeBSD文档和资源：安装，配置，源码分析
