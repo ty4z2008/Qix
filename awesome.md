@@ -22,3 +22,7 @@
 * [《Learn X in Y minutes》](http://learnxinyminutes.com/)
 
 介绍:编程语言快速学习指南,主要是对编程语言代码的分析
+
+* [《Search Code》](https://searchcode.com/)
+
+介绍:Search Code是一个在线代码检索引擎,正所谓:源码之下了无痕！是一个进行源码分析与学习的好工具
