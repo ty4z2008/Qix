@@ -43,3 +43,7 @@
 * [《The easy way to implement a Red-Black tree》](http://www.garrisonjensen.com/programming/2015/05/15/easy-red-black-tree.html)
 
 介绍：红黑树最容易的实现方式.
+
+* [《Algorithmic Game Theory》](http://www.cambridge.org/journals/nisan/downloads/Nisan_Non-printable.pdf)
+
+介绍:这是一本关于游戏算法的电子书,讲述了相关的算法,应用与网络.
