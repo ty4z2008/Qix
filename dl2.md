@@ -13,3 +13,15 @@
 * [《Proceedings of The 32nd International Conference on Machine Learning》](http://jmlr.org/proceedings/papers/v37/)
 
 介绍:ICML2015 论文集,优化4个+稀疏优化1个；强化学习4个，深度学习3个+深度学习计算1个；贝叶斯非参、高斯过程和学习理论3个；还有计算广告和社会选择.[ICML2015 Sessions](http://icml.cc/2015/?page_id=825).
+
+* [《Image Scaling using Deep Convolutional Neural Networks》](http://engineering.flipboard.com/2015/05/scaling-convnets/)
+
+介绍:使用卷积神经网络的图像缩放.
+
+* [《Microsoft researchers accelerate computer vision accuracy and improve 3D scanning models》](http://blogs.technet.com/b/inside_microsoft_research/archive/2015/06/08/microsoft-researchers-accelerate-computer-vision-accuracy-and-improve-3d-scanning-models.aspx)
+
+介绍:，第28届IEEE计算机视觉与模式识别(CVPR)大会在美国波士顿举行。微软研究员们在大会上展示了比以往更快更准的计算机视觉图像分类新模型，并介绍了如何使用Kinect等传感器实现在动态或低光环境的快速大规模3D扫描技术.
+
+* [《Algorithms, Games, and Networks》](http://www.cs.cmu.edu/~arielpro/15896s15/index.html)
+
+介绍:这本电子书的作者是Ariel Procaccia(希伯来大学博士,CMU助理教授)研究计算社会选择、博弈论和机制设计, 交接于计算机科学和经济学,讲述了机器学习相关的算法，游戏应用与网络
