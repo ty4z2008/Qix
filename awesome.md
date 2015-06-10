@@ -11,10 +11,14 @@
 
 介绍:OverAPI：网罗所有编程语言和框架的速查表干货大全.基本上把所能见到的编程语言、框架、数据库、操作系统、设计模式等等东西都包含了，覆盖范围相当广泛.
 
-* [《FreeBSD Documentation and Resources 》](http://freebsd.active-venture.com/)
+* [《FreeBSD Documentation and Resources》](http://freebsd.active-venture.com/)
 
 介绍:FreeBSD文档和资源：安装，配置，源码分析
 
-* [《Linux Documentation and Resources 》](http://linux.die.net/)
+* [《Linux Documentation and Resources》](http://linux.die.net/)
 
 介绍:Linux：安装，配置，源码分析,还有在线电子书[Bash Guide for Beginners](http://linux.die.net/Bash-Beginners-Guide/)等等
+
+* [《Learn X in Y minutes》](http://learnxinyminutes.com/)
+
+介绍:编程语言快速学习指南,主要是对编程语言代码的分析
