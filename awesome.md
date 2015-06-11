@@ -29,4 +29,4 @@
 
 * [《Search Code》](https://searchcode.com/)
 
-介绍:Search Code是一个在线代码检索引擎,正所谓:源码之下了无痕！是一个进行源码分析与学习的好工具
+介绍:Search Code是一个在线代码检索引擎,正所谓:源码之下了无痕！是一个进行源码分析与学习的好工具,此外还有一个代码搜索引擎,比search code稳定,是[openhub](https://code.openhub.net/)
