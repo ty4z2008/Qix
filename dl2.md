@@ -22,3 +22,6 @@
 
 介绍:，第28届IEEE计算机视觉与模式识别(CVPR)大会在美国波士顿举行。微软研究员们在大会上展示了比以往更快更准的计算机视觉图像分类新模型，并介绍了如何使用Kinect等传感器实现在动态或低光环境的快速大规模3D扫描技术.
 
+* [《Machine Learning for Humans》](https://github.com/marcotcr/mlforhumans)
+
+介绍:(文本)机器学习可视化分析工具.
