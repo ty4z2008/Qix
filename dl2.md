@@ -25,3 +25,19 @@
 * [《Machine Learning for Humans》](https://github.com/marcotcr/mlforhumans)
 
 介绍:(文本)机器学习可视化分析工具.
+
+* [《A Plethora of Tools for Machine Learning》](http://knowm.org/machine-learning-tools-an-overview/)
+
+介绍:机器学习工具包/库的综述/比较.
+
+* [《The art of visualizing visualizations: a best practice guide》](http://sapblog.be/en/the-art-of-visualizing-visualizations-a-best-practice-guide/)
+
+介绍:数据可视化最佳实践指南.
+
+* [《MIT Machine Learning for Big Data and Text Processing Class Notes - Day 1》](http://blog.adnanmasood.com/2015/06/08/mit-machine-learning-for-big-data-and-text-processing-class-notes-day-1/)
+
+介绍:[Day 1](http://blog.adnanmasood.com/2015/06/08/mit-machine-learning-for-big-data-and-text-processing-class-notes-day-1/)、[Day 2](http://blog.adnanmasood.com/2015/06/09/mit-machine-learning-for-big-data-and-text-processing-class-notes-day-2/)、[Day 3](http://blog.adnanmasood.com/2015/06/11/mit-machine-learning-for-big-data-and-text-processing-class-notes-day-3/)、[Day 4](http://blog.adnanmasood.com/2015/06/12/mit-machine-learning-for-big-data-and-text-processing-class-notes-day-4/)、[Day 5](http://blog.adnanmasood.com/2015/06/12/mit-machine-learning-for-big-data-and-text-processing-class-notes-day-5/).
+
+* [《Getting “deep” about “deep learning”》](http://whatsnext.nuance.com/in-the-labs/what-is-deep-machine-learning/)
+
+介绍:深度学习之“深”——DNN的隐喻分析.
