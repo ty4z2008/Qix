@@ -49,3 +49,7 @@
 * [《Interview Questions for Data Scientist Positions》](https://medium.com/@D33B/interview-questions-for-data-scientist-positions-5ad3c5d5b8bd)
 
 介绍:数据科学家职位面试题.
+
+* [《Accurately Measuring Model Prediction Error》](http://scott.fortmann-roe.com/docs/MeasuringError.html)
+
+介绍:准确评估模型预测误差.
