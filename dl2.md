@@ -41,3 +41,11 @@
 * [《Getting “deep” about “deep learning”》](http://whatsnext.nuance.com/in-the-labs/what-is-deep-machine-learning/)
 
 介绍:深度学习之“深”——DNN的隐喻分析.
+
+* [《Mixture Density Networks》](http://blog.otoro.net/2015/06/14/mixture-density-networks/)
+
+介绍:混合密度网络.
+
+* [《Interview Questions for Data Scientist Positions》](https://medium.com/@D33B/interview-questions-for-data-scientist-positions-5ad3c5d5b8bd)
+
+介绍:数据科学家职位面试题.
