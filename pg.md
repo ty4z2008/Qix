@@ -417,3 +417,7 @@
 * [《YeSQL: Battling the NoSQL Hype Cycle with Postgres》](http://momjian.us/main/blogs/pgblog/2015.html)
 
 介绍： YeSQL: Battling the NoSQL Hype Cycle with Postgres,博客的[其他内容](http://momjian.us/main/blogs/pgblog/2015.html)也不错.
+
+* [《pgTAP》](http://pgtap.org/)
+
+介绍： pgTAP is a unit testing framework for PostgreSQL written in PL/pgSQL and PL/SQL.
