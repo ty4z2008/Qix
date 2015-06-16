@@ -39,3 +39,6 @@
 
 介绍:个人学习git的资料整理
 
+* [《awsome-speaking》](https://github.com/matteofigus/awesome-speaking)
+
+介绍:一些关于公众演讲的资源整理
