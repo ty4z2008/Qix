@@ -53,3 +53,11 @@
 * [《Accurately Measuring Model Prediction Error》](http://scott.fortmann-roe.com/docs/MeasuringError.html)
 
 介绍:准确评估模型预测误差.
+
+* [《Continually updated Data Science Python Notebooks》](https://github.com/donnemartin/data-science-ipython-notebooks)
+
+介绍:Continually updated Data Science Python Notebooks.
+
+* [《How to share data with a statistician》](https://github.com/jtleek/datasharing)
+
+介绍:How to share data with a statistician.
