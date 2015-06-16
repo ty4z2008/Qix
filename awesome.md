@@ -42,3 +42,7 @@
 * [《awsome-speaking》](https://github.com/matteofigus/awesome-speaking)
 
 介绍:一些关于公众演讲的资源整理
+
+* [《waifu2x》](https://github.com/nagadomi/waifu2x)
+
+介绍:一个图片放大项目
