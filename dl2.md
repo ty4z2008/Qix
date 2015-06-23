@@ -73,3 +73,7 @@
 * [《A Neural Conversational Model》](http://arxiv.org/abs/1506.05869)
 
 介绍:(Google)神经(感知)会话模型.
+
+* [《The 50 Best Masters in Data Science》](http://www.datasciencecentral.com/profiles/blogs/the-50-best-masters-in-data-science)
+
+介绍:The 50 Best Masters in Data Science.
