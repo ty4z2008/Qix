@@ -53,4 +53,4 @@
 
 * [《Python spider》](https://github.com/binux/pyspider)
 
-介绍:一个强大的爬虫系统
+介绍:一个强大的爬虫系统,[相关介绍](http://blog.binux.me/2014/11/introduction-to-pyspider/)
