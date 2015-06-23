@@ -69,3 +69,7 @@
 * [《How to share data with a statistician》](https://github.com/jtleek/datasharing)
 
 介绍:How to share data with a statistician.
+
+* [《A Neural Conversational Model》](http://arxiv.org/abs/1506.05869)
+
+介绍:(Google)神经(感知)会话模型.
