@@ -61,3 +61,11 @@
 * [《How to share data with a statistician》](https://github.com/jtleek/datasharing)
 
 介绍:How to share data with a statistician.
+
+* [《The Eyescream Project NeuralNets dreaming natural images》](http://soumith.ch/eyescream/)
+
+介绍:来自Facebook的图像自动生成.
+
+* [《How to share data with a statistician》](https://github.com/jtleek/datasharing)
+
+介绍:How to share data with a statistician.
