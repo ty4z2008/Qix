@@ -50,3 +50,7 @@
 * [《The Official raywenderlich.com Swift Style Guide.》](https://github.com/raywenderlich/swift-style-guide)
 
 介绍:Swift编码指南
+
+* [《Python spider》](https://github.com/binux/pyspider)
+
+介绍:一个强大的爬虫系统
