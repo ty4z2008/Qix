@@ -77,3 +77,7 @@
 * [《The 50 Best Masters in Data Science》](http://www.datasciencecentral.com/profiles/blogs/the-50-best-masters-in-data-science)
 
 介绍:The 50 Best Masters in Data Science.
+
+* [《NLP常用信息资源》](http://forum.memect.com/thread/nlp%E5%B8%B8%E7%94%A8%E4%BF%A1%E6%81%AF%E8%B5%84%E6%BA%90/)
+
+介绍:NLP常用信息资源.
