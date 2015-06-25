@@ -81,3 +81,7 @@
 * [《NLP常用信息资源》](http://forum.memect.com/thread/nlp%E5%B8%B8%E7%94%A8%E4%BF%A1%E6%81%AF%E8%B5%84%E6%BA%90/)
 
 介绍:NLP常用信息资源.
+
+* [《Conditional Random Fields as Recurrent Neural Networks》](http://www.robots.ox.ac.uk/~szheng/papers/CRFasRNN.pdf)
+
+介绍:语义图像分割的实况[演示](http://www.robots.ox.ac.uk/~szheng/crfasrnndemo),通过深度学习技术和概率图模型的语义图像分割.
