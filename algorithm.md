@@ -51,3 +51,7 @@
 * [《Algorithms for Hyper-Parameter Optimization》](http://papers.nips.cc/paper/4443-algorithms-for-hyper-parameter-optimization.pdf)
 
 介绍：参数优化算法.
+
+* [《A guide to Algorithmic Complexity》](http://algosaur.us/)
+
+介绍:Introduce Algorithmic Complexity with images.
