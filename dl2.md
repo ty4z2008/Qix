@@ -122,3 +122,10 @@
 
 介绍:神经网络入门.
 
+* [《A Nearly-Linear Time Framework for Graph-Structured Sparsity》](http://jmlr.org/proceedings/papers/v37/hegde15.pdf)
+
+介绍:来自麻省理工的结构化稀疏论文.
+
+* [《Optimal and Adaptive Algorithms for Online Boosting》](http://jmlr.org/proceedings/papers/v37/beygelzimer15.pdf)
+
+介绍:来自雅虎的机器学习小组关于在线Boosting的论文 .
