@@ -85,3 +85,40 @@
 * [《Conditional Random Fields as Recurrent Neural Networks》](http://www.robots.ox.ac.uk/~szheng/papers/CRFasRNN.pdf)
 
 介绍:语义图像分割的实况[演示](http://www.robots.ox.ac.uk/~szheng/crfasrnndemo),通过深度学习技术和概率图模型的语义图像分割.
+
+* [《Fully Convolutional Networks for Semantic Segmentation》](http://www.cs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf)
+
+介绍:Caffe模型/代码:面向图像语义分割的全卷积网络,[模型代码](https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn).
+
+* [《Growing Pains for Deep Learning》](http://cacm.acm.org/news/188737-growing-pains-for-deep-learning/fulltext)
+
+介绍:深度学习——成长的烦恼.
+
+* [《Clustering Text Data Streams – A Tree based Approach with Ternary Function and Ternary Feature Vector 》](http://www.sciencedirect.com/science/article/pii/S1877050914005274)
+
+介绍:基于三元树方法的文本流聚类.
+
+* [《Foundations and Advances in Data Mining》](http://cs.ucla.edu/~wwc/course/cs245a/mining%20book.pdf)
+
+介绍:Free Ebook:数据挖掘基础及最新进展.
+
+* [《The Deep Learning Revolution: Rethinking Machine Learning Pipelines》](http://www.infoq.com/presentations/deep-learning)
+
+介绍:深度学习革命.
+
+* [《The Definitive Guide to Do Data Science for Good》](http://blog.datalook.io/definitive-guide-data-science-good/)
+
+介绍:数据科学(实践)权威指南.
+
+* [《Microsoft Academic Graph》](http://research.microsoft.com/en-us/projects/mag/)
+
+介绍:37G的微软学术图谱数据集.
+
+* [《Challenges and Opportunities Of Machine Learning In Production》](https://www.youtube.com/watch?v=UEwDwTkWwdc&hd=1)
+
+介绍:生产环境(产品级)机器学习的机遇与挑战.
+
+* [《Neural Nets for Newbies》](https://www.youtube.com/watch?v=Cu6A96TUy_o)
+
+介绍:神经网络入门.
+
