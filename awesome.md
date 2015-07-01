@@ -54,3 +54,7 @@
 * [《Python spider》](https://github.com/binux/pyspider)
 
 介绍:一个强大的爬虫系统,[相关介绍](http://blog.binux.me/2014/11/introduction-to-pyspider/)
+
+* [《The Art of Command Line》](https://github.com/jlevy/the-art-of-command-line)
+
+介绍:命令行的艺术,学习Linux命令的好资源,此外文中提到的[explain shell](http://explainshell.com/)很赞
