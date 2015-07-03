@@ -175,3 +175,7 @@
 * [《Designs, Lessons and Advice from Building Large Distributed Systems》](http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
 
 介绍:Designs, Lessons and Advice from Building Large Distributed Systems.
+
+* [《Testing a Distributed System》](http://queue.acm.org/detail.cfm?ref=rss&id=2800697)
+
+介绍:Testing a distributed system can be trying even under the best of circumstances..
