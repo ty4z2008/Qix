@@ -129,3 +129,20 @@
 * [《Optimal and Adaptive Algorithms for Online Boosting》](http://jmlr.org/proceedings/papers/v37/beygelzimer15.pdf)
 
 介绍:来自雅虎的机器学习小组关于在线Boosting的论文 .
+
+* [《Top 20 Python Machine Learning Open Source Projects》](http://www.kdnuggets.com/2015/06/top-20-python-machine-learning-open-source-projects.html)
+
+介绍:20个最热门的开源(Python)机器学习项目.
+
+* [《The Parallel C++ Statistical Library for Bayesian Inference: QUESO》](http://arxiv.org/abs/1507.00398)
+
+介绍:C++并行贝叶斯推理统计库QUESO,[github code](http://libqueso.com/).
+
+* [《《Deep learning》Yann LeCun, Yoshua Bengio, Geoffrey Hinton (2015) 》](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
+
+介绍:Nature:LeCun/Bengio/Hinton的最新文章《深度学习》,Jürgen Schmidhuber的最新评论文章[《Critique of Paper by "Deep Learning Conspiracy" (Nature 521 p 436)》](http://people.idsia.ch/~juergen/deep-learning-conspiracy.html).
+
+* [《Palladium》](https://github.com/ottogroup/palladium)
+
+介绍:基于Scikit-Learn的预测分析服务框架Palladium.
+
