@@ -421,3 +421,7 @@
 * [《pgTAP》](http://pgtap.org/)
 
 介绍： pgTAP is a unit testing framework for PostgreSQL written in PL/pgSQL and PL/SQL.
+
+* [《Practical PostgreSQL》](http://www.commandprompt.com/ppbook/?page=ppbook)
+
+介绍： 免费的pg电子书《PostgreSQL实践》,书虽然有点老,但是很多知识点是可以通用的.
