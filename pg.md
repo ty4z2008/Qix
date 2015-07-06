@@ -428,7 +428,7 @@
 
 * [《PostgreSQL: Introduction and Concepts》](http://momjian.us/main/writings/pgsql/aw_pgsql_book/)
 
-介绍:PostgreSQL介绍与入门,免费在线电子书,[pdf版](http://momjian.us/main/writings/pgsql/bookfigs.pdf).
+介绍:PostgreSQL介绍与入门,免费在线电子书,[pdf版](http://momjian.us/main/writings/pgsql/bookfigs.pdf),入门的还有[Get to know PostgreSQL](http://momjian.us/main/writings/pgsql/Get_to_know_PostgreSQL.pdf).
 
 * [《Mastering PostgreSQL Administration》](http://momjian.us/main/writings/pgsql/administration.pdf)
 
