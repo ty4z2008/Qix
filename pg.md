@@ -433,3 +433,23 @@
 * [《Mastering PostgreSQL Administration》](http://momjian.us/main/writings/pgsql/administration.pdf)
 
 介绍:PostgreSQL管理入门,非常全,此外作者写了很多关于pg的[ppt和文档](http://momjian.us/main/writings/pgsql/),也很精彩.
+
+* [《Postgres-XC》](https://wiki.postgresql.org/wiki/Postgres-XC)
+
+介绍: Postgres-XC 是一种提供写可靠性,多主节点数据同步,数据传输的开源集群方案.
+
+* [《PGCon 2015 演讲稿》](http://www.pgcon.org/2015/schedule/)
+
+介绍: PGCon 2015 演讲稿下载.
+
+* [《Postgres Internals Presentations》](http://momjian.us/main/presentations/internals.html)
+
+介绍: PG内部机制分析.
+
+* [《PostgreSQL Shutdown》](http://www.enterprisedb.com/postgres-plus-edb-blog/robert-haas/postgresql-shutdown)
+
+介绍: PG停止服务评析.
+
+* [《First Rule in Securing Postgres: Don’t Be Dumb》](http://www.enterprisedb.com/postgres-plus-edb-blog/robert-haas/first-rule-securing-postgres-don-t-be-dumb)
+
+介绍: pg的安全规则建议,共5点,第一点就是Don’t be dumb!,enterprisedb的[官方博客](http://www.enterprisedb.com/postgres-plus-edb-blog)资源还真的比较丰富,例如还有中文版的[Postgres Plus Advanced Server与oracle兼容文档](http://www.enterprisedb.com/docs/cn/8.3R2/oracompat/EnterpriseDB_OraCompat_8.3_CN-01.htm).
