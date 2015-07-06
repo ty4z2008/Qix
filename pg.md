@@ -408,11 +408,11 @@
 
 * [《PostgreSQL 9.5's Upsert Feature Explained》](https://www.youtube.com/watch?v=pbg97bkxbbY&utm_source=postgresweekly&utm_medium=email)
 
-介绍： PostgreSQL 9.5新特性Upsert解释 .
+介绍: PostgreSQL 9.5新特性Upsert解释 .
 
 * [《PostgreSQL database replication》](http://www.vertabelo.com/blog/technical-articles/postgresql-database-replication)
 
-介绍： PostgreSQL的复制.
+介绍:PostgreSQL的复制.
 
 * [《YeSQL: Battling the NoSQL Hype Cycle with Postgres》](http://momjian.us/main/blogs/pgblog/2015.html)
 
@@ -420,9 +420,12 @@
 
 * [《pgTAP》](http://pgtap.org/)
 
-介绍： pgTAP is a unit testing framework for PostgreSQL written in PL/pgSQL and PL/SQL.
+介绍:pgTAP is a unit testing framework for PostgreSQL written in PL/pgSQL and PL/SQL.
 
 * [《Practical PostgreSQL》](http://www.commandprompt.com/ppbook/?page=ppbook)
 
-介绍： 免费的pg电子书《PostgreSQL实践》,书虽然有点老,但是很多知识点是可以通用的.
+介绍: 免费的pg电子书《PostgreSQL实践》,书虽然有点老,但是很多知识点是可以通用的.
 
+* [《PostgreSQL: Introduction and Concepts》](http://momjian.us/main/writings/pgsql/aw_pgsql_book/)
+
+介绍:PostgreSQL介绍与入门,免费在线电子书.
