@@ -8,7 +8,7 @@
 
 介绍：2013年4月PG技术沙龙PPT
 
-* [《PG9.3中文翻译文档》](http://58.58.25.191:8079/doc/html/9.3.1_zh/)
+* [《PG9.3中文翻译文档》](http://www.postgres.cn/docs/9.3/index.html)
 
 介绍：PG9.3中文翻译文档 谢谢@[skykiker](http://weibo.com/u/1691628242)提供
 
@@ -428,4 +428,8 @@
 
 * [《PostgreSQL: Introduction and Concepts》](http://momjian.us/main/writings/pgsql/aw_pgsql_book/)
 
-介绍:PostgreSQL介绍与入门,免费在线电子书.
+介绍:PostgreSQL介绍与入门,免费在线电子书,[pdf版](http://momjian.us/main/writings/pgsql/bookfigs.pdf).
+
+* [《Mastering PostgreSQL Administration》](http://momjian.us/main/writings/pgsql/administration.pdf)
+
+介绍:PostgreSQL管理入门,非常全,此外作者写了很多关于pg的[ppt和文档](http://momjian.us/main/writings/pgsql/),也很精彩.
