@@ -146,3 +146,6 @@
 
 介绍:基于Scikit-Learn的预测分析服务框架Palladium.
 
+* [《Advances in Structured Prediction》](http://hunch.net/~l2s/merged.pdf)
+
+介绍:John Langford和Hal Daume III在ICML2015上关于Learning to Search的教学讲座幻灯片.
