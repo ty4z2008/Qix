@@ -457,3 +457,7 @@
 * [《Serializable Snapshot Isolation in PostgreSQL》](http://arxiv.org/pdf/1208.4179v1.pdf)
 
 介绍: PG中的可串行化快照隔离.
+
+* [《Converting from other Databases to PostgreSQL》](https://wiki.postgresql.org/wiki/Converting_from_other_Databases_to_PostgreSQL)
+
+介绍: 其他数据库向psotgresql迁移数据的工具,官方出品，包括 MySQL, MS SQL Server, SQL Azure, Oracle, MS Access.等.
