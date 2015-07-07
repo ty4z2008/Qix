@@ -149,3 +149,7 @@
 * [《Advances in Structured Prediction》](http://hunch.net/~l2s/merged.pdf)
 
 介绍:John Langford和Hal Daume III在ICML2015上关于Learning to Search的教学讲座幻灯片.
+
+* [《100 open source Big Data architecture papers for data professionals》](https://www.linkedin.com/pulse/100-open-source-big-data-architecture-papers-anil-madan)
+
+介绍:读完这100篇论文 就能成大数据高手,[国内翻译](http://www.csdn.net/article/2015-07-07/2825148/1).
