@@ -453,3 +453,7 @@
 * [《First Rule in Securing Postgres: Don’t Be Dumb》](http://www.enterprisedb.com/postgres-plus-edb-blog/robert-haas/first-rule-securing-postgres-don-t-be-dumb)
 
 介绍: pg的安全规则建议,共5点,第一点就是Don’t be dumb!,enterprisedb的[官方博客](http://www.enterprisedb.com/postgres-plus-edb-blog)资源还真的比较丰富,例如还有中文版的[Postgres Plus Advanced Server与oracle兼容文档](http://www.enterprisedb.com/docs/cn/8.3R2/oracompat/EnterpriseDB_OraCompat_8.3_CN-01.htm).
+
+* [《Serializable Snapshot Isolation in PostgreSQL》](http://arxiv.org/pdf/1208.4179v1.pdf)
+
+介绍: PG中的可串行化快照隔离.
