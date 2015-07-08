@@ -153,3 +153,7 @@
 * [《100 open source Big Data architecture papers for data professionals》](https://www.linkedin.com/pulse/100-open-source-big-data-architecture-papers-anil-madan)
 
 介绍:读完这100篇论文 就能成大数据高手,[国内翻译](http://www.csdn.net/article/2015-07-07/2825148/1).
+
+* [《Social Media & Text Analytics》](http://socialmedia-class.org/syllabus.html)
+
+介绍:NLP课程《社交媒体与文本分析》精选阅读列表.
