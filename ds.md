@@ -221,4 +221,26 @@
 
 介绍:分布式存储系统架构.
 
+* [《The Chirp Distributed Filesystem》](http://ccl.cse.nd.edu/software/chirp/)
 
+介绍:开源分布式文件系统Chirp,对于想深入研究的开发者可以阅读文章的相关Papers.
+
+* [《Time, Clocks, and the Ordering of Events in a Distributed System》](http://research.microsoft.com/en-us/um/people/lamport/pubs/time-clocks.pdf)
+
+介绍:经典论文分布式时钟顺序的实现原理.
+
+* [《Making reliable distributed systems in the presence of sodware errors》](http://www.erlang.org/download/armstrong_thesis_2003.pdf)
+
+介绍:面向软件错误构建可靠的分布式系统,[中文笔记](http://www.cnblogs.com/me-sa/archive/2012/05/20/2510564.html).
+
+* [《MapReduce: Simplified Data Processing on Large Clusters》](https://research.google.com/archive/mapreduce-osdi04.pdf)
+
+介绍:MapReduce:超大集群的简单数据处理.
+
+* [《Distributed Computer Systems Engineering》](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-824-distributed-computer-systems-engineering-spring-2006/index.htm)
+
+介绍:麻省理工的分布式计算课程主页,里面的ppt和阅读列表很多干货.
+
+* [《The Styx Architecture for Distributed Systems》](http://www.vitanuova.com/inferno/papers/styx.html)
+
+介绍:分布式系统Styx的架构剖析.
