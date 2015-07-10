@@ -248,3 +248,7 @@
 * [《What are some good resources for learning about distributed computing? Why?》](https://www.quora.com/What-are-some-good-resources-for-learning-about-distributed-computing-Why)
 
 介绍:Quora上面的一个问答:有哪些关于分布式计算学习的好资源.
+
+* [《RebornDB: The Next Generation Distributed Key-Value Store》](http://highscalability.com/blog/2015/7/8/reborndb-the-next-generation-distributed-key-value-store.html)
+
+介绍:下一代分布式k-v存储数据库.
