@@ -180,42 +180,45 @@
 
 介绍:Testing a distributed system can be trying even under the best of circumstances.
 
-* [《Tera》](https://github.com/BaiduPS/tera)
+* [《The Google File System》](https://research.google.com/archive/gfs-sosp2003.pdf)
 
-介绍:分布式表格系统.
+介绍: 基于普通服务器构建超大规模文件系统的典型案例，主要面向大文件和批处理系统， 设计简单而实用。 GFS是google的重要基础设施， 大数据的基石， 也是Hadoop HDFS的参考对象。 主要技术特点包括： 假设硬件故障是常态（容错能力强）， 64MB大块， 单Master设计，Lease/链式复制， 支持追加写不支持随机写.
 
-* [《Tera》](https://github.com/BaiduPS/tera)
+* [《Bigtable: A Distributed Storage System for Structured Data》](https://research.google.com/archive/bigtable-osdi06.pdf)
 
-介绍:分布式表格系统.
+介绍:支持PB数据量级的多维非关系型大表， 在google内部应用广泛，大数据的奠基作品之一 ， Hbase就是参考BigTable设计。 Bigtable的主要技术特点包括： 基于GFS实现数据高可靠， 使用非原地更新技术（LSM树）实现数据修改， 通过range分区并实现自动伸缩等.
 
-* [《Tera》](https://github.com/BaiduPS/tera)
+* [《PacificA: Replication in Log-Based Distributed Storage Systems》](http://research.microsoft.com:8082/pubs/66814/tr-2008-25.pdf)
 
-介绍:分布式表格系统.
+介绍:面向log-based存储的强一致的主从复制协议， 具有较强实用性。 这篇文章系统地讲述了主从复制系统应该考虑的问题， 能加深对主从强一致复制的理解程度。 技术特点： 支持强一致主从复制协议， 允许多种存储实现， 分布式的故障检测/Lease/集群成员管理方法.
 
-* [《Tera》](https://github.com/BaiduPS/tera)
+* [《Object Storage on CRAQ, High-throughput chain replication for read-mostly workloads》](http://sns.cs.princeton.edu/docs/craq-usenix09.pdf)
 
-介绍:分布式表格系统.
+介绍:分布式存储论文:支持强一直的链式复制方法， 支持从多个副本读取数据,实现[code](https://github.com/jterrace/craq).
 
-* [《Tera》](https://github.com/BaiduPS/tera)
+* [《Finding a needle in Haystack: Facebook’s photo storage》](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)
 
-介绍:分布式表格系统.
-
-
-* [《Tera》](https://github.com/BaiduPS/tera)
-
-介绍:分布式表格系统.
-
-* [《Tera》](https://github.com/BaiduPS/tera)
-
-介绍:分布式表格系统.
-
-* [《Tera》](https://github.com/BaiduPS/tera)
-
-介绍:分布式表格系统.
+介绍:Facebook分布式Blob存储,主要用于存储图片. 主要技术特色:小文件合并成大文件,小文件元数据放在内存因此读写只需一次IO.
 
 
-* [《Tera》](https://github.com/BaiduPS/tera)
+* [《Windows Azure Storage: A Highly Available Cloud Storage Service with Strong Consistency》](http://www-bcf.usc.edu/~minlanyu/teach/csci599-fall12/papers/11-calder.pdf)
 
-介绍:分布式表格系统.
+介绍: 微软的分布式存储平台, 除了支持类S3对象存储，还支持表格、队列等数据模型. 主要技术特点：采用Stream/Partition两层设计（类似BigTable）;写错（写满）就封存Extent,使得副本字节一致, 简化了选主和恢复操作; 将S3对象存储、表格、队列、块设备等融入到统一的底层存储架构中.
+
+* [《Paxos Made Live – An Engineering Perspective》](http://www.eecs.harvard.edu/cs262/Readings/paxosmadelive.pdf)
+
+介绍:从工程实现角度说明了Paxo在chubby系统的应用， 是理解Paxo协议及其应用场景的必备论文。 主要技术特点： paxo协议， replicated log， multi-paxo.
+
+* [《Dynamo: Amazon’s Highly Available Key-Value Store》](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+
+介绍:Amazon设计的高可用的kv系统,主要技术特点：综和运用一致性哈希,vector clock,最终一致性构建一个高可用的kv系统， 可应用于amazon购物车场景.
+
+* [《Efficient Replica Maintenance for Distributed Storage Systems》](http://oceanstore.cs.berkeley.edu/publications/papers/pdf/carbonite06.pdf)
+
+介绍:分布式存储系统中的副本存储问题.
+
+* [《PADS: A Policy Architecture for Distributed Storage Systems》](https://www.cs.nyu.edu/rgrimm/papers/nsdi09.pdf)
+
+介绍:分布式存储系统架构.
 
 
