@@ -178,4 +178,44 @@
 
 * [《Testing a Distributed System》](http://queue.acm.org/detail.cfm?ref=rss&id=2800697)
 
-介绍:Testing a distributed system can be trying even under the best of circumstances..
+介绍:Testing a distributed system can be trying even under the best of circumstances.
+
+* [《Tera》](https://github.com/BaiduPS/tera)
+
+介绍:分布式表格系统.
+
+* [《Tera》](https://github.com/BaiduPS/tera)
+
+介绍:分布式表格系统.
+
+* [《Tera》](https://github.com/BaiduPS/tera)
+
+介绍:分布式表格系统.
+
+* [《Tera》](https://github.com/BaiduPS/tera)
+
+介绍:分布式表格系统.
+
+* [《Tera》](https://github.com/BaiduPS/tera)
+
+介绍:分布式表格系统.
+
+
+* [《Tera》](https://github.com/BaiduPS/tera)
+
+介绍:分布式表格系统.
+
+* [《Tera》](https://github.com/BaiduPS/tera)
+
+介绍:分布式表格系统.
+
+* [《Tera》](https://github.com/BaiduPS/tera)
+
+介绍:分布式表格系统.
+
+
+* [《Tera》](https://github.com/BaiduPS/tera)
+
+介绍:分布式表格系统.
+
+
