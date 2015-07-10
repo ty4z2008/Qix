@@ -244,3 +244,7 @@
 * [《The Styx Architecture for Distributed Systems》](http://www.vitanuova.com/inferno/papers/styx.html)
 
 介绍:分布式系统Styx的架构剖析.
+
+* [《What are some good resources for learning about distributed computing? Why?》](https://www.quora.com/What-are-some-good-resources-for-learning-about-distributed-computing-Why)
+
+介绍:Quora上面的一个问答:有哪些关于分布式计算学习的好资源.
