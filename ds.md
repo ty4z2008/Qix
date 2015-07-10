@@ -211,7 +211,7 @@
 
 * [《Dynamo: Amazon’s Highly Available Key-Value Store》](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 
-介绍:Amazon设计的高可用的kv系统,主要技术特点：综和运用一致性哈希,vector clock,最终一致性构建一个高可用的kv系统， 可应用于amazon购物车场景.
+介绍:Amazon设计的高可用的kv系统,主要技术特点：综和运用一致性哈希,vector clock,最终一致性构建一个高可用的kv系统， 可应用于amazon购物车场景.新内容来自[分布式存储必读论文](http://50vip.com/423.html)
 
 * [《Efficient Replica Maintenance for Distributed Storage Systems》](http://oceanstore.cs.berkeley.edu/publications/papers/pdf/carbonite06.pdf)
 
