@@ -157,3 +157,23 @@
 * [《Social Media & Text Analytics》](http://socialmedia-class.org/syllabus.html)
 
 介绍:NLP课程《社交媒体与文本分析》精选阅读列表.
+
+* [《Machine Learning for Developers》](http://xyclade.github.io/MachineLearning/)
+
+介绍:写给开发者的机器学习指南.
+
+* [《Hot news detection using Wikipedia》](http://hameddaily.blogspot.com/2015/06/hot-news-detection-using-wikipedia_29.html)
+
+介绍:基于维基百科的热点新闻发现.
+
+* [《Harvard Intelligent Probabilistic Systems Group》](https://github.com/HIPS)
+
+介绍:(Harvard)HIPS将发布可扩展/自动调参贝叶斯推理神经网络.
+
+* [《An Empirical Exploration of Recurrent Network Architectures》](http://jmlr.org/proceedings/papers/v37/jozefowicz15.html)
+
+介绍:面向上下文感知查询建议的层次递归编解码器.
+
+* [《Efficient Training of LDA on a GPU by Mean-for-Mode Estimation》](http://jmlr.org/proceedings/papers/v37/tristan15.html)
+
+介绍:GPU上基于Mean-for-Mode估计的高效LDA训练.
