@@ -177,3 +177,15 @@
 * [《Efficient Training of LDA on a GPU by Mean-for-Mode Estimation》](http://jmlr.org/proceedings/papers/v37/tristan15.html)
 
 介绍:GPU上基于Mean-for-Mode估计的高效LDA训练.
+
+* [《From the Lab to the Factory: Building a Production Machine Learning Infrastructure》](https://www.youtube.com/watch?v=v-91JycaKjc&hd=1)
+
+介绍:从实验室到工厂——构建机器学习生产架构.
+
+* [《6 Useful Databases to Dig for Data (and 100 more)》](http://piktochart.com/6-useful-databases-to-dig-for-data/)
+
+介绍:适合做数据挖掘的6个经典数据集(及另外100个列表).
+
+* [《Deep Networks for Computer Vision at Google – ILSVRC2014》](http://www.computervisiontalks.com/deep-networks-for-computer-vision-at-google/)
+
+介绍:Google面向机器视觉的深度学习.
