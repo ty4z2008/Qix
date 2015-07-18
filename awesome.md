@@ -62,3 +62,7 @@
 * [《C++ 资源》](http://codecloud.net/c-plus-plus-resource-2983.html)
 
 介绍:涉及到了标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等，C++程序员学习必备！
+
+* [《A First Course in Database Systems》](http://infolab.stanford.edu/~ullman/fcdb.html)
+
+介绍:斯坦福数据库系统基础教程课程主页,干货丰富
