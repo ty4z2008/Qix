@@ -461,3 +461,8 @@
 * [《Converting from other Databases to PostgreSQL》](https://wiki.postgresql.org/wiki/Converting_from_other_Databases_to_PostgreSQL)
 
 介绍: 其他数据库向psotgresql迁移数据的工具,官方出品，包括 MySQL, MS SQL Server, SQL Azure, Oracle, MS Access.等.
+
+* [《深度学习PostgreSQL》](http://pan.baidu.com/s/1bnnqEHx)
+
+介绍: 从安装到双机热备再到内核分析,内容丰富网盘提取密码`fmby`.
+
