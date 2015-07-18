@@ -66,3 +66,7 @@
 * [《A First Course in Database Systems》](http://infolab.stanford.edu/~ullman/fcdb.html)
 
 介绍:斯坦福数据库系统基础教程课程主页,干货丰富
+
+* [《架构学习资料整理（2013）》](http://www.diguage.com/archives/41.htmll)
+
+介绍:资料虽然是2013年的,但'味道'并没有变
