@@ -252,3 +252,7 @@
 * [《RebornDB: The Next Generation Distributed Key-Value Store》](http://highscalability.com/blog/2015/7/8/reborndb-the-next-generation-distributed-key-value-store.html)
 
 介绍:下一代分布式k-v存储数据库.
+
+* [《Operating System Concepts Ninth Edition》](http://codex.cs.yale.edu/avi/os-book/OS9/)
+
+介绍:分布式系统归根结底还是需要操作系统的知识,这是耶鲁大学的操作系统概念书籍首页,里面有提供了第8版的在线电子版和最新的学习操作系统指南,学习分布式最好先学习操作系统.
