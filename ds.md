@@ -256,3 +256,7 @@
 * [《Operating System Concepts Ninth Edition》](http://codex.cs.yale.edu/avi/os-book/OS9/)
 
 介绍:分布式系统归根结底还是需要操作系统的知识,这是耶鲁大学的操作系统概念书籍首页,里面有提供了第8版的在线电子版和最新的学习操作系统指南,学习分布式最好先学习操作系统.
+
+* [《The Log: What every software engineer should know about real-time data's unifying abstraction》](http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+
+介绍:分布式系统Log剖析,非常的详细与精彩.[中文版笔记](http://www.cnblogs.com/foreach-break/p/notes_about_distributed_system_and_The_log.html).
