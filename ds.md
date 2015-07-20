@@ -260,3 +260,7 @@
 * [《The Log: What every software engineer should know about real-time data's unifying abstraction》](http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 
 介绍:分布式系统Log剖析,非常的详细与精彩.[中文版笔记](http://www.cnblogs.com/foreach-break/p/notes_about_distributed_system_and_The_log.html).
+
+* [《Operating Systems Study Guide》](http://faculty.salina.k-state.edu/tim/ossg/index.html)
+
+介绍:分布式系统基础之操作系统学习指南.
