@@ -264,3 +264,7 @@
 * [《Operating Systems Study Guide》](http://faculty.salina.k-state.edu/tim/ossg/index.html)
 
 介绍:分布式系统基础之操作系统学习指南.
+
+* [《分布式系统领域经典论文翻译集》](http://duanple.blog.163.com/blog/static/709717672011330101333271/)
+
+介绍:分布式系统领域经典论文翻译集.
