@@ -189,3 +189,19 @@
 * [《Deep Networks for Computer Vision at Google – ILSVRC2014》](http://www.computervisiontalks.com/deep-networks-for-computer-vision-at-google/)
 
 介绍:Google面向机器视觉的深度学习.
+
+* [《How to choose a machine learning API to build predictive apps》](https://medium.com/@louisdorard/developer-considerations-for-choosing-a-machine-learning-api-20e2de15eb3a)
+
+介绍:构建预测类应用时如何选择机器学习API.
+
+* [《Exploring the shapes of stories using Python and sentiment APIs》](https://indico.io/blog/plotlines/)
+
+介绍:Python+情感分析API实现故事情节(曲线)分析.
+
+* [《Movie selection using R》](http://melodywolk.com/2015/07/21/movie-selection-using-r/)
+
+介绍:(R)基于Twitter/情感分析的口碑电影推荐,此外推荐[分类算法的实证比较分析](http://freakonometrics.hypotheses.org/20002).
+
+* [《A Tutorial on Graph-based Semi-Supervised Learning Algorithms for NLP》](http://graph-ssl.wdfiles.com/local--files/blog%3A_start/graph_ssl_acl12_tutorial_slides_final.pdf)
+
+介绍:CMU(ACL 2012)(500+页)面向NLP基于图的半监督学习算法.
