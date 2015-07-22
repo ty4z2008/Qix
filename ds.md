@@ -269,3 +269,7 @@
 
 介绍:分布式系统领域经典论文翻译集.
 
+* [《Maintaining performance in distributed systems》](https://speakerdeck.com/elasticsearch/maintaining-performance-in-distributed-systems)
+
+介绍:分布式系统性能维护.
+
