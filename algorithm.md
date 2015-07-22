@@ -55,3 +55,7 @@
 * [《A guide to Algorithmic Complexity》](http://algosaur.us/)
 
 介绍:Introduce Algorithmic Complexity with images.
+
+* [《The real 10 algorithms that dominate our world》](https://medium.com/@_marcos_otero/the-real-10-algorithms-that-dominate-our-world-e95fa9f16c04)
+
+介绍:真正统治世界的十大算法,[译版](http://blog.jobbole.com/70639/).
