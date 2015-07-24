@@ -1,5 +1,9 @@
 ##PostgreSQL(数据库)资料
 
+![PostgreSQL](https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png)
+
+About:[PostgreSQL About](http://www.postgresql.org/about/)
+
 * [《PostgreSQL Documentation》](http://www.postgresql.org/docs/manuals/)
 
 介绍：PostgreSQL官方文档主页
