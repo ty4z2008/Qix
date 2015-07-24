@@ -470,3 +470,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍: 从安装到双机热备再到内核分析,内容丰富网盘提取密码`fmby`.
 
+* [《Postgres CLI with autocompletion and syntax highlighting》](http://pgcli.com/)
+
+介绍: pgcli是一个PostgreSQL命令行工具,提供了语法高亮以及自动补全的功能.
+
