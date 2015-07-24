@@ -205,3 +205,7 @@
 * [《A Tutorial on Graph-based Semi-Supervised Learning Algorithms for NLP》](http://graph-ssl.wdfiles.com/local--files/blog%3A_start/graph_ssl_acl12_tutorial_slides_final.pdf)
 
 介绍:CMU(ACL 2012)(500+页)面向NLP基于图的半监督学习算法.
+
+* [《Arbitrariness of peer review: A Bayesian analysis of the NIPS experiment》](http://arxiv.org/abs/1507.06411)
+
+介绍:从贝叶斯分析NIPS，看同行评审的意义.
