@@ -273,3 +273,7 @@
 
 介绍:分布式系统性能维护.
 
+* [《Computer Science from the Bottom Up》](http://www.bottomupcs.com/)
+
+介绍:计算机科学，自底向上,小到机器码,大到操作系统内部体系架构,学习操作系统的另一个在线好材料.
+
