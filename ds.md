@@ -277,3 +277,7 @@
 
 介绍:计算机科学，自底向上,小到机器码,大到操作系统内部体系架构,学习操作系统的另一个在线好材料.
 
+* [《Operating Systems: Three Easy Pieces》](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+
+介绍:<操作系统:三部曲>在线电子书,虚拟、并发‘持续.
+
