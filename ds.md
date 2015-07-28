@@ -279,5 +279,10 @@
 
 * [《Operating Systems: Three Easy Pieces》](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
-介绍:<操作系统:三部曲>在线电子书,虚拟、并发‘持续.
+介绍:<操作系统:三部曲>在线电子书,虚拟、并发、持续.
+
+* [《Database Systems: reading list》](http://www.cs286.net/home/reading-list)
+
+介绍:数据库系统经典论文阅读列,此外推送github上面的[db reading](https://github.com/rxin/db-readings).
+
 
