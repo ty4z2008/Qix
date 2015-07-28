@@ -67,6 +67,11 @@
 
 介绍:斯坦福数据库系统基础教程课程主页,干货丰富
 
-* [《架构学习资料整理（2013）》](http://www.diguage.com/archives/41.htmll)
+* [《架构学习资料整理（2013》](http://www.diguage.com/archives/41.html)
 
 介绍:资料虽然是2013年的,但'味道'并没有变
+
+* [《The Benchmark Handbook》](http://research.microsoft.com/en-us/um/people/gray/benchmarkhandbook/toc.htm)
+
+介绍:图灵奖获得者,数据库专家Jim Gray (Ed.)的电子书《The Benchmark Handbook for Database and Transaction Systems (2nd Edition)》
+
