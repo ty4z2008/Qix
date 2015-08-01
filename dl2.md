@@ -209,3 +209,19 @@
 * [《Arbitrariness of peer review: A Bayesian analysis of the NIPS experiment》](http://arxiv.org/abs/1507.06411)
 
 介绍:从贝叶斯分析NIPS，看同行评审的意义.
+
+* [《Basics of Computational Reinforcement Learning》](http://videolectures.net/rldm2015_littman_computational_reinforcement/)
+
+介绍:(RLDM 2015)计算强化学习入门.
+
+* [《Deep Reinforcement Learning》](http://videolectures.net/rldm2015_silver_reinforcement_learning/)
+
+介绍:David Silver的深度强化学习教程.
+
+* [《On Explainability of Deep Neural Networks》](http://blog.adnanmasood.com/2015/07/31/on-explainability-of-deep-neural-networks/)
+
+介绍:深度神经网络的可解释性.
+
+* [《The Essential Spark Cheat Sheet》](http://info.mapr.com/rs/mapr/images/rd204-010d-spark_0.pdf)
+
+介绍:Spark快速入门.
