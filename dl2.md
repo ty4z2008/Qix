@@ -225,3 +225,15 @@
 * [《The Essential Spark Cheat Sheet》](http://info.mapr.com/rs/mapr/images/rd204-010d-spark_0.pdf)
 
 介绍:Spark快速入门.
+
+* [《Machine Learning for Sports and Real Time Predictions》](http://www.thetalkingmachines.com/blog/2015/7/30/machine-learning-for-sports-and-real-time-predictions)
+
+介绍:TalkingMachines:面向体育/政治和实时预测的机器学习.
+
+* [《CS224W: Social and Information Network Analysis Autumn 2014》](http://web.stanford.edu/class/cs224w/index.html)
+
+介绍:Stanford社交网络与信息网络分析课程[资料](http://web.stanford.edu/class/cs224w/handouts.html)+[课设](http://web.stanford.edu/class/cs224w/projects.html)+[数据](http://web.stanford.edu/class/cs224w/resources.html).
+
+* [《RL Course by David Silver》](https://www.youtube.com/playlist?list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa)
+
+介绍:David Silver(DeeMind)的强化学习课程,[slide](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html).
