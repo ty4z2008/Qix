@@ -285,4 +285,7 @@
 
 介绍:数据库系统经典论文阅读列,此外推送github上面的[db reading](https://github.com/rxin/db-readings).
 
+* [《Unix System Administration》](http://www.washington.edu/R870/)
+
+介绍:Unix System Administration ebook.
 
