@@ -237,3 +237,15 @@
 * [《RL Course by David Silver》](https://www.youtube.com/playlist?list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa)
 
 介绍:David Silver(DeeMind)的强化学习课程,[slide](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html).
+
+* [《Faster deep learning with GPUs and Theano》](http://blog.dominodatalab.com/gpu-computing-and-deep-learning/)
+
+介绍:基于Theano/GPU的高效深度学习.
+
+* [《Introduction to R Programming》](https://www.edx.org/course/introduction-r-programming-microsoft-dat204x)
+
+介绍:来自微软的<R编程入门>.
+
+* [《Golang:Web Server For Performing Sentiment Analysis》](https://github.com/cdipaolo/sentiment-server)
+
+介绍:(Go)情感分析API服务Sentiment Server.
