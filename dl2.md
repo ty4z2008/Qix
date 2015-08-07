@@ -249,3 +249,7 @@
 * [《Golang:Web Server For Performing Sentiment Analysis》](https://github.com/cdipaolo/sentiment-server)
 
 介绍:(Go)情感分析API服务Sentiment Server.
+
+* [《A Beginner’s Guide to Restricted Boltzmann Machines》](http://deeplearning4j.org/restrictedboltzmannmachine.html)
+
+介绍:受限波尔兹曼机初学者指南.
