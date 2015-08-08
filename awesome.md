@@ -79,3 +79,7 @@
 
 介绍:计算机科学在线课堂
 
+* [《编程语言入门视频教程》](https://github.com/buckyroberts/Source-Code-from-Tutorials)
+
+介绍:编程语言入门视频,比较基础
+
