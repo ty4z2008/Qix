@@ -474,3 +474,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍: pgcli是一个PostgreSQL命令行工具,提供了语法高亮以及自动补全的功能.
 
+* [《Postgres Guid》](http://postgresguide.com/)
+
+介绍: Postgres入门指南,从安装到优化,也讲到了非标准数据类型JSON,hstor等.
+
