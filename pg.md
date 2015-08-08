@@ -482,3 +482,4 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍: 本文介绍了如何高效的使用pg的索引,很详细.讲到了很多容易被初学者容易疏忽的地方.
 
+
