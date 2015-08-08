@@ -478,3 +478,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍: Postgres入门指南,从安装到优化,也讲到了非标准数据类型JSON,hstor等.
 
+* [《Efficient Use of PostgreSQL Indexes》](https://devcenter.heroku.com/articles/postgresql-indexes#partial-indexes)
+
+介绍: 本文介绍了如何高效的使用pg的索引,很详细.讲到了很多容易被初学者容易疏忽的地方.
+
