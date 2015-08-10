@@ -253,3 +253,7 @@
 * [《A Beginner’s Guide to Restricted Boltzmann Machines》](http://deeplearning4j.org/restrictedboltzmannmachine.html)
 
 介绍:受限波尔兹曼机初学者指南.
+
+* [《KDD2015十年最佳论文》](http://www.kdd.org/kdd2015/program.html)
+
+介绍:[Mining and Summarizing Customer Reviews ](http://www.cs.uic.edu/~liub/publications/kdd04-revSummary.pdf),[Mining High-Speed Data Streams](http://homes.cs.washington.edu/~pedrod/papers/kdd00.pdf),[Optimizing Search Engines using Clickthrough Data](http://www.cs.cornell.edu/people/tj/publications/joachims_02c.pdf).
