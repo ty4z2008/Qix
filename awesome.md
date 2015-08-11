@@ -83,3 +83,7 @@
 
 介绍:编程语言入门视频,比较基础
 
+* [《[ebook]CS for All》](http://www.cs.hmc.edu/csforall/)
+
+介绍:国外的计算机科学入门课程配套书籍
+
