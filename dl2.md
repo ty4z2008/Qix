@@ -257,3 +257,7 @@
 * [《KDD2015十年最佳论文》](http://www.kdd.org/kdd2015/program.html)
 
 介绍:[Mining and Summarizing Customer Reviews ](http://www.cs.uic.edu/~liub/publications/kdd04-revSummary.pdf),[Mining High-Speed Data Streams](http://homes.cs.washington.edu/~pedrod/papers/kdd00.pdf),[Optimizing Search Engines using Clickthrough Data](http://www.cs.cornell.edu/people/tj/publications/joachims_02c.pdf).
+
+* [《Nvidia Deep Learning Courses》](http://www.hellophp.cn/archives/733)
+
+介绍:Nvidia深度学习课程.
