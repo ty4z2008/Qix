@@ -261,3 +261,11 @@
 * [《Nvidia Deep Learning Courses》](http://www.hellophp.cn/archives/733)
 
 介绍:Nvidia深度学习课程.
+
+* [《Neural Networks and Deep Learning》](http://neuralnetworksanddeeplearning.com/)
+
+介绍:神经网络与深度学习课程.
+
+* [《Deep Learning Summer School 2015》](https://sites.google.com/site/deeplearningsummerschool/)
+
+介绍:2015年深度学习暑期课程，推荐[讲师主页](http://www.iro.umontreal.ca/~memisevr).
