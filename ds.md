@@ -289,3 +289,22 @@
 
 介绍:Unix System Administration ebook.
 
+* [《The Amoeba Distributed Operating System》](https://www.cs.vu.nl/~ast/publications/compcom-1991.pdf)
+
+介绍:分布式系统经典论文.
+
+* [《Principles of Computer Systems》](http://web.mit.edu/6.826/archive/S04/)
+
+介绍:计算机系统概念，以分布式为主.
+
+* [《Person page of EMİN GÜN SİRER》](http://www.cs.cornell.edu/People/egs/)
+
+介绍:推荐康奈尔大学的教授EMİN GÜN SİRER的主页,他的研究项目有分布式,数据存储。例如[HyperDex](http://hyperdex.org/papers/)数据库就是他的其中一个项目之一.
+
+* [《Scalable, Secure, and Highly Available Distributed File Access》](http://www.cs.cmu.edu/afs/cs/project/coda-www/ResearchWebPages/docdir/scalable90.pdf)
+
+介绍:来自卡内基梅隆如何构建可扩展的、安全、高可用性的分布式文件系统,[其他papers](http://www.cs.cmu.edu/afs/cs/project/coda-www/ResearchWebPages/docdir/).
+
+* [《Distributed (Deep) Machine Learning Common》](http://dmlc.github.io/)
+
+介绍:分布式机器学习常用库.
