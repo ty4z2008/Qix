@@ -269,3 +269,7 @@
 * [《Deep Learning Summer School 2015》](https://sites.google.com/site/deeplearningsummerschool/)
 
 介绍:2015年深度学习暑期课程，推荐[讲师主页](http://www.iro.umontreal.ca/~memisevr).
+
+* [《百度深度学习的图像识别进展》](http://www.cvrobot.net/image-recognition-progression-based-on-deep-learning-by-baidu/)
+
+介绍:这是一篇关于百度文章[《基于深度学习的图像识别进展：百度的若干实践》](http://www.ccf.org.cn/sites/ccf/xhdtnry.jsp?contentId=2857471255804)的摘要,建议两篇文章结合起来阅读.
