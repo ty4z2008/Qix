@@ -273,3 +273,11 @@
 * [《百度深度学习的图像识别进展》](http://www.cvrobot.net/image-recognition-progression-based-on-deep-learning-by-baidu/)
 
 介绍:这是一篇关于百度文章[《基于深度学习的图像识别进展：百度的若干实践》](http://www.ccf.org.cn/sites/ccf/xhdtnry.jsp?contentId=2857471255804)的摘要,建议两篇文章结合起来阅读.
+
+* [《Machine Learning Methods in Video Annotation》](http://rnd.azoft.com/machine-learning-methods-video-annotation/)
+
+介绍:视频标注中的机器学习技术.
+
+* [《Training Recurrent Neural Networks》](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)
+
+介绍:博士论文:(Ilya Sutskever)RNN训练.
