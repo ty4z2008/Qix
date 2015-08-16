@@ -486,4 +486,8 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍: PostgreSQL学习手册,虽然是2012年的,但里面的内容与现在的最新版pg是兼容,可以正常使用的.
 
+* [《"Big data" features coming in PostgreSQL 9.5》](http://lwn.net/Articles/653411/)
+
+介绍: PostgreSQL9.5中对于大数据的有利特性介绍.
+
 
