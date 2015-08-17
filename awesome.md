@@ -87,3 +87,7 @@
 
 介绍:国外的计算机科学入门课程配套书籍
 
+* [《Diagrams for InnoDB data structures and behaviors》](https://github.com/jeremycole/innodb_diagrams)
+
+介绍:MySQL数据库的数据库引擎InnoDB内部结构分析
+
