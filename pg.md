@@ -490,4 +490,6 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍: PostgreSQL9.5中对于大数据的有利特性介绍.
 
+* [《PostgreSQL-The Bits You Haven't Found》](http://postgres-bits.herokuapp.com/)
 
+介绍: PostgreSQL中可能你还不知道的秘密,可以用作知识梳理.
