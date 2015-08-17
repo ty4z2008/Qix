@@ -234,4 +234,8 @@
 
 * [《fleet》](https://github.com/coreos/fleet)
 
-介绍：fleet 绑定了systemd 和etcd 到一个分布式init 系统，可以认为是systemd 的扩展，但是并不是机器级别的，而是集群级别的。.
+介绍：fleet 绑定了systemd 和etcd 到一个分布式init 系统，可以认为是systemd 的扩展，但是并不是机器级别的，而是集群级别的.
+
+* [《Go资料汇总》](http://studygolang.com/topics/node13)
+
+介绍：Golang中国社区golang资料汇总.
