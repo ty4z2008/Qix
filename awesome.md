@@ -91,3 +91,7 @@
 
 介绍:MySQL数据库的数据库引擎InnoDB内部结构分析
 
+* [《Architectural Styles and the Design of Network-based Software Architectures》](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+
+介绍:架构风格与基于网络的软件架构设计.[中文版](https://mysql-udf-http.googlecode.com/files/REST_cn.pdf)
+
