@@ -308,3 +308,7 @@
 * [《Distributed (Deep) Machine Learning Common》](http://dmlc.github.io/)
 
 介绍:分布式机器学习常用库.
+
+* [《The Chubby lock service for loosely-coupled distributed systems》](http://static.googleusercontent.com/media/research.google.com/zh-CN//archive/chubby-osdi06.pdf)
+
+介绍:Google的统面向松散耦合的分布式系统的锁服务,推荐[The google stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf).
