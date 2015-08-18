@@ -319,4 +319,4 @@
 
 * [《helsinki:Distributed Systems Course slider》](http://www.cs.helsinki.fi/u/jakangas/Teaching/)
 
-介绍:来自芬兰赫尔辛基的分布式系统课程课件.
+介绍:来自芬兰赫尔辛基的分布式系统课程课件:什么是分布式,复制,一致性,容错,同步,通信.
