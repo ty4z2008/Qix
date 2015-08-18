@@ -312,3 +312,7 @@
 * [《The Chubby lock service for loosely-coupled distributed systems》](http://static.googleusercontent.com/media/research.google.com/zh-CN//archive/chubby-osdi06.pdf)
 
 介绍:Google的统面向松散耦合的分布式系统的锁服务,推荐[The google stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf).
+
+* [《The Datacenter as a Computer》](http://www.cs.berkeley.edu/~rxin/db-papers/WarehouseScaleComputing.pdf)
+
+介绍:介绍了如何构建仓储式数据中心,尤其是对于现在的云计算,分布式学习来说很有帮助.本书是[Synthesis Lectures on Computer Architecture](http://www.morganclaypool.com/toc/cac/1/1)系列的书籍之一,这套丛书还有 《The Memory System》,《Automatic Parallelization》,《Computer Architecture Techniques for Power Efficiency》,《Performance Analysis and Tuning for General Purpose Graphics Processing Units》,《Introduction to Reconfigurable Supercomputing》 等
