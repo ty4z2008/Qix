@@ -281,3 +281,7 @@
 * [《Training Recurrent Neural Networks》](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)
 
 介绍:博士论文:(Ilya Sutskever)RNN训练.
+
+* [《On Explainability of Deep Neural Networks》](http://blog.adnanmasood.com/2015/07/31/on-explainability-of-deep-neural-networks/)
+
+介绍:深度神经网络的灰色区域：可解释性问题，[中文版](http://www.csdn.net/article/2015-08-17/2825471).
