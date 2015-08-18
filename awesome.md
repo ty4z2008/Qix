@@ -83,7 +83,7 @@
 
 介绍:编程语言入门视频,比较基础
 
-* [《[ebook]CS for All》](http://www.cs.hmc.edu/csforall/)
+* [《CS for All》](http://www.cs.hmc.edu/csforall/)
 
 介绍:国外的计算机科学入门课程配套书籍
 
@@ -95,3 +95,6 @@
 
 介绍:架构风格与基于网络的软件架构设计.[中文版](https://mysql-udf-http.googlecode.com/files/REST_cn.pdf)
 
+* [《	What does it take to make Google work at scale?》](https://docs.google.com/presentation/d/1OvJStE8aohGeI3y5BcYX8bBHwoHYCPu99A3KTTZElr0/preview?sle=true&slide=id.p)
+
+介绍:Google究竟是如何运作的.幻灯片中提到的[google stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
