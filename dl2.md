@@ -285,3 +285,7 @@
 * [《On Explainability of Deep Neural Networks》](http://blog.adnanmasood.com/2015/07/31/on-explainability-of-deep-neural-networks/)
 
 介绍:深度神经网络的灰色区域：可解释性问题，[中文版](http://www.csdn.net/article/2015-08-17/2825471).
+
+* [《Machine Learning Libraries in GoLang by Category》](http://www.fodop.com/ar-1002)
+
+介绍:Golang 实现的机器学习库资源汇总.
