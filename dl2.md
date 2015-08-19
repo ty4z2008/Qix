@@ -289,3 +289,15 @@
 * [《Machine Learning Libraries in GoLang by Category》](http://www.fodop.com/ar-1002)
 
 介绍:Golang 实现的机器学习库资源汇总.
+
+* [《A Statistical View of Deep Learning》](http://blog.shakirm.com/wp-content/uploads/2015/07/SVDL.pdf)
+
+介绍:深度学习的统计分析.
+
+* [《Deep Learning For NLP - Tips And Techniques》](http://www.researchgate.net/publication/279853751_DEEP_LEARNING_FOR_NLP_-_TIPS_AND_TECHNIQUES)
+
+介绍:面向NLP的深度学习技术与技巧.
+
+* [《CrowdFlower Competition Scripts: Approaching NLP》](http://blog.kaggle.com/2015/08/18/crowdflower-scripts-approaching-nlp/)
+
+介绍:Kaggle's CrowdFlower竞赛NLP代码集锦.
