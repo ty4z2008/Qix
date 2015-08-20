@@ -301,3 +301,7 @@
 * [《CrowdFlower Competition Scripts: Approaching NLP》](http://blog.kaggle.com/2015/08/18/crowdflower-scripts-approaching-nlp/)
 
 介绍:Kaggle's CrowdFlower竞赛NLP代码集锦.
+
+* [《CS224U: Natural Language Understanding》](http://web.stanford.edu/class/cs224u/index.html)
+
+介绍:斯坦福的自然语言理解课程.
