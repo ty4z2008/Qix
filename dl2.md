@@ -305,3 +305,7 @@
 * [《CS224U: Natural Language Understanding》](http://web.stanford.edu/class/cs224u/index.html)
 
 介绍:斯坦福的自然语言理解课程.
+
+* [《A First Encounter with Machine Learning》](http://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf)
+
+介绍:这是一本机器学习的电子书,作者[Max Welling](http://www.ics.uci.edu/~welling/)先生在机器学习教学上面有着丰富的经验,这本书小但精致.
