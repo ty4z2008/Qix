@@ -98,3 +98,7 @@
 * [《	What does it take to make Google work at scale?》](https://docs.google.com/presentation/d/1OvJStE8aohGeI3y5BcYX8bBHwoHYCPu99A3KTTZElr0/preview?sle=true&slide=id.p)
 
 介绍:Google究竟是如何运作的.幻灯片中提到的[google stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf).还推荐[Cambridge Systems at Scale (CamSaS)](http://www.cl.cam.ac.uk/research/srg/netos/camsas/)
+
+* [《Linux inside》](https://github.com/0xAX/linux-insides)
+
+介绍:深入Linux系统内部
