@@ -493,3 +493,11 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《PostgreSQL-The Bits You Haven't Found》](http://postgres-bits.herokuapp.com/)
 
 介绍: PostgreSQL中可能你还不知道的秘密,可以用作知识梳理.
+
+* [《Designing A PostgreSQL Document API》](http://rob.conery.io/2015/08/20/designing-a-postgresql-document-api/)
+
+介绍: 自己动手设计一个PostgreSQL文档api.
+
+* [《10 beginner's PostgreSQL tasks you should know》](https://eye.raze.mx/10-beginner-postgresql-tasks-you-should-know/)
+
+介绍: PostgreSQL初学者快速入门要点
