@@ -500,4 +500,8 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 * [《10 beginner's PostgreSQL tasks you should know》](https://eye.raze.mx/10-beginner-postgresql-tasks-you-should-know/)
 
-介绍: PostgreSQL初学者快速入门要点
+介绍: PostgreSQL初学者快速入门要点.
+
+* [《SQL vs NoSQL KO. Postgres vs Mongo》](https://www.airpair.com/postgresql/posts/sql-vs-nosql-ko-postgres-vs-mongo)
+
+介绍: 关系型数据库Postgres vs NoSQL 数据库Mongo的对决,这篇文章比较客观
