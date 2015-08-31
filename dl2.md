@@ -313,3 +313,7 @@
 * [《Click Models for Web Search》](http://clickmodels.weebly.com/uploads/5/2/2/5/52257029/mc2015-clickmodels.pdf)
 
 介绍:由荷兰阿姆斯特丹大学 & 谷歌瑞士著.
+
+* [《Hinton CSC321课程/Deep Learning/Notes on CNN/Python/Theano/CUDA/OpenCV/...》](http://www.cnblogs.com/shouhuxianjian/p/4529235.html)
+
+介绍:介绍个乐于总结和翻译机器学习和计算机视觉类资料的博客,包含的内容：Hinton的CSC321课程的总结；Deep Learning综述；Notes on CNN的总结；python的原理总结；Theano基础知识和练习总结；CUDA原理和编程；OpenCV一些总结.
