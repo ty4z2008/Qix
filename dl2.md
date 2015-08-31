@@ -309,3 +309,7 @@
 * [《A First Encounter with Machine Learning》](http://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf)
 
 介绍:这是一本机器学习的电子书,作者[Max Welling](http://www.ics.uci.edu/~welling/)先生在机器学习教学上面有着丰富的经验,这本书小但精致.
+
+* [《Click Models for Web Search》](http://clickmodels.weebly.com/uploads/5/2/2/5/52257029/mc2015-clickmodels.pdf)
+
+介绍:由荷兰阿姆斯特丹大学 & 谷歌瑞士著.
