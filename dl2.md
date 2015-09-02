@@ -317,3 +317,11 @@
 * [《Hinton CSC321课程/Deep Learning/Notes on CNN/Python/Theano/CUDA/OpenCV/...》](http://www.cnblogs.com/shouhuxianjian/p/4529235.html)
 
 介绍:介绍个乐于总结和翻译机器学习和计算机视觉类资料的博客,包含的内容：Hinton的CSC321课程的总结；Deep Learning综述；Notes on CNN的总结；python的原理总结；Theano基础知识和练习总结；CUDA原理和编程；OpenCV一些总结.
+
+* [《Which Algorithm Family Can Answer My Question?》](http://blogs.technet.com/b/machinelearning/archive/2015/09/01/which-algorithm-family-can-answer-my-question.aspx)
+
+介绍:针对具体问题(应用场景)如何选择机器学习算法(系列).
+
+* [《Free Data Science Books》](http://www.learndatasci.stfi.re/free-books/?sf=rooxyl)
+
+介绍:数据科学免费书分类集合
