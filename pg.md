@@ -12,9 +12,9 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍：2013年4月PG技术沙龙PPT
 
-* [《PG9.3中文翻译文档》](http://www.postgres.cn/docs/9.3/index.html)
+* [《PG9.4.4中文翻译文档》](http://postgres.cn/docs/9.4/)
 
-介绍：PG9.3中文翻译文档 谢谢@[skykiker](http://weibo.com/u/1691628242)提供
+介绍：PG9.4.4中文翻译文档
 
 * [《Database System Concepts Sixth Edition》](http://codex.cs.yale.edu/avi/db-book/)
 
