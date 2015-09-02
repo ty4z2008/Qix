@@ -504,4 +504,8 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 * [《SQL vs NoSQL KO. Postgres vs Mongo》](https://www.airpair.com/postgresql/posts/sql-vs-nosql-ko-postgres-vs-mongo)
 
-介绍: 关系型数据库Postgres vs NoSQL 数据库Mongo的对决,这篇文章比较客观
+介绍: 关系型数据库Postgres vs NoSQL 数据库Mongo的对决,这篇文章比较客观.
+
+* [《EnterpriseDB认证通关攻略》](http://blog.chinaunix.net/uid-20726500-id-4454943.html)
+
+介绍:如果你想考EnterpriseDB认证,推荐阅读此篇文章.
