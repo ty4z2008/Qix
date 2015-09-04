@@ -329,3 +329,7 @@
 * [《Tutorial 4: Deep Learning for Speech Generation and Synthesis》](http://www.superlectures.com/iscslp2014/tutorial-4-deep-learning-for-speech-generation-and-synthesis)
 
 介绍:深度学习在语音合成最新进展有哪些？推荐MSRA的Frank Soong老师关于语音合成的深度学习方法的录像和幻灯片与以及谷歌的LSTM-RNN合成[介绍](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42624.pdf),[论文](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43893.pdf)
+
+* [《The Art of Data Science》](https://leanpub.com/artofdatascience)
+
+介绍:新书(可免费下载):数据科学的艺术
