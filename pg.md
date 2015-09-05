@@ -512,5 +512,8 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 * [《sql_firewall: a SQL Firewall Extension for PostgreSQL》](https://github.com/uptimejp/sql_firewall)
 
-介绍:这个插件可以更好的帮助你防止黑客攻击你的数据库.
+介绍:这个插件可以更好的帮助你防御黑客攻击你的数据库.
 
+* [《Aquameta Layer 0: meta - Writable System Catalog for PostgreSQL》](http://blog.aquameta.com/2015/08/29/intro-meta/)
+
+介绍:Aquameta的pg实践.
