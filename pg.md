@@ -509,3 +509,8 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《EnterpriseDB认证通关攻略》](http://blog.chinaunix.net/uid-20726500-id-4454943.html)
 
 介绍:如果你想考EnterpriseDB认证,推荐阅读此篇文章.
+
+* [《sql_firewall: a SQL Firewall Extension for PostgreSQL》](https://github.com/uptimejp/sql_firewall)
+
+介绍:这个插件可以更好的帮助你防止黑客攻击你的数据库.
+
