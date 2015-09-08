@@ -333,3 +333,7 @@
 * [《The Art of Data Science》](https://leanpub.com/artofdatascience)
 
 介绍:新书(可免费下载):数据科学的艺术
+
+* [《an introduction to visualizing DATA》](http://piksels.com/wp-content/uploads/2009/01/visualizingdata.pdf)
+
+介绍:数据可视化介绍(23页袖珍小册子)
