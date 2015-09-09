@@ -295,7 +295,7 @@
 
 * [《Principles of Computer Systems》](http://web.mit.edu/6.826/archive/S04/)
 
-介绍:计算机系统概念，以分布式为主.
+介绍:计算机系统概念，以分布式为主.此外推荐[Introduction to Operating Systems](http://www2.cs.uregina.ca/~hamilton/courses/330/notes/index.html)笔记
 
 * [《Person page of EMİN GÜN SİRER》](http://www.cs.cornell.edu/People/egs/)
 
@@ -324,3 +324,5 @@
 * [《TiDB is a distributed SQL database》](https://github.com/pingcap/tidb)
 
 介绍:分布式数据库TiDB,Golang开发.
+
+
