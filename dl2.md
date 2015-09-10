@@ -341,3 +341,7 @@
 * [《an introduction to visualizing DATA》](http://piksels.com/wp-content/uploads/2009/01/visualizingdata.pdf)
 
 介绍:数据可视化介绍(23页袖珍小册子)
+
+* [《That’s So Annoying!!!: A Lexical and Frame-Semantic Embedding Based Data Augmentation Approach to Automatic Categorization of Annoying Behaviors using #petpeeve Tweets ∗》](https://www.cs.cmu.edu/~yww/papers/emnlp2015petpeeves.pdf)
+
+介绍:这篇论文荣获EMNLP2015的最佳数据/资源奖优秀奖,[标注的推特数据集](https://www.cs.cmu.edu/~yww/data/petpeeves.zip)
