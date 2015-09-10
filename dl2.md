@@ -334,6 +334,10 @@
 
 介绍:新书(可免费下载):数据科学的艺术
 
+* [《Pattern Recognition and Machine Learning》](http://research.microsoft.com/en-us/um/people/cmbishop/prml/)
+
+介绍:模式识别与机器学习书籍推荐,[中文版](https://www.dropbox.com/s/sx95jq7n7zerrjl/PRML_Translation.pdf?dl=0) or [备份](http://pan.baidu.com/s/1hqheD5E)
+
 * [《an introduction to visualizing DATA》](http://piksels.com/wp-content/uploads/2009/01/visualizingdata.pdf)
 
 介绍:数据可视化介绍(23页袖珍小册子)
