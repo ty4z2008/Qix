@@ -345,3 +345,7 @@
 * [《That’s So Annoying!!!: A Lexical and Frame-Semantic Embedding Based Data Augmentation Approach to Automatic Categorization of Annoying Behaviors using #petpeeve Tweets ∗》](https://www.cs.cmu.edu/~yww/papers/emnlp2015petpeeves.pdf)
 
 介绍:这篇论文荣获EMNLP2015的最佳数据/资源奖优秀奖,[标注的推特数据集](https://www.cs.cmu.edu/~yww/data/petpeeves.zip)
+
+* [《26 Things I Learned in the Deep Learning Summer School》](http://www.marekrei.com/blog/26-things-i-learned-in-the-deep-learning-summer-school/)
+
+介绍:作者在深度学习的思考
