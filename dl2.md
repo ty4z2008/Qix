@@ -361,3 +361,7 @@
 * [《Understanding Machine Learning: From Theory to Algorithms》](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html)
 
 介绍:耶路撒冷希伯来大学教授Shai Shalev-Shwartz和滑铁卢大学教授Shai Ben-David的新书Understanding Machine Learning: From Theory to Algorithms,此书写的比较偏理论，适合对机器学习理论有兴趣的同学选读
+
+* [《Machine Learning Checklist》](http://machinelearningmastery.com/machine-learning-checklist/)
+
+介绍:机器学习学习清单
