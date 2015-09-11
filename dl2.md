@@ -353,3 +353,11 @@
 * [《Data-Visualization Tools & Books》](http://keshif.me/demo/VisTools)
 
 介绍:数据可视化常用工具软件资源汇总
+
+* [《Machine Learning and Probabilistic Graphical Models Course》](http://www.cedar.buffalo.edu/~srihari/CSE574/)
+
+介绍:Buffalo大学教授Sargur Srihari的“机器学习和概率图模型”的视频课程
+
+* [《Understanding Machine Learning: From Theory to Algorithms》](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html)
+
+介绍:耶路撒冷希伯来大学教授Shai Shalev-Shwartz和滑铁卢大学教授Shai Ben-David的新书Understanding Machine Learning: From Theory to Algorithms,此书写的比较偏理论，适合对机器学习理论有兴趣的同学选读
