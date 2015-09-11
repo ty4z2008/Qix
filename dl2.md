@@ -348,4 +348,8 @@
 
 * [《26 Things I Learned in the Deep Learning Summer School》](http://www.marekrei.com/blog/26-things-i-learned-in-the-deep-learning-summer-school/)
 
-介绍:作者在深度学习的思考
+介绍:作者在深度学习的思考.
+
+* [《Data-Visualization Tools & Books》](http://keshif.me/demo/VisTools)
+
+介绍:数据可视化常用工具软件资源汇总
