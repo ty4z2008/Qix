@@ -365,3 +365,7 @@
 * [《Machine Learning Checklist》](http://machinelearningmastery.com/machine-learning-checklist/)
 
 介绍:机器学习学习清单
+
+* [《[ebook]Neural Networks and Deep Learning》](http://neuralnetworksanddeeplearning.com/)
+
+介绍:Michael Nielsen的免费在线电子书"Neural Networks and Deep Learning",深入浅出，但内容涵盖更广：从经典的NN到CNN，从BP到梯度消失问题都有所覆盖，还有示范代码
