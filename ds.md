@@ -325,4 +325,7 @@
 
 介绍:分布式数据库TiDB,Golang开发.
 
+* [《S897: Large-Scale Systems》](http://people.csail.mit.edu/matei/courses/2015/6.S897/)
+
+介绍:课程资料:大规模系统.
 
