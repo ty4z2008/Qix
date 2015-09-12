@@ -521,3 +521,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《Postgres Weekly》](http://postgresweekly.com/)
 
 介绍:国外的PostgreSQL周刊,每周的pg新鲜事.
+
+* [《PostgreSQL, pg_shard, and what we learned from our failures》](https://www.citusdata.com/blog/19-ozgun/265-postgresql-pgshard-and-what-we-learned-our-failures)
+
+介绍:pg_shard的经验分享.
