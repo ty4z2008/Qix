@@ -366,6 +366,10 @@
 
 介绍:机器学习学习清单
 
-* [《[ebook]Neural Networks and Deep Learning》](http://neuralnetworksanddeeplearning.com/)
+* [《Neural Networks and Deep Learning》](http://neuralnetworksanddeeplearning.com/)
 
 介绍:Michael Nielsen的免费在线电子书"Neural Networks and Deep Learning",深入浅出，但内容涵盖更广：从经典的NN到CNN，从BP到梯度消失问题都有所覆盖，还有示范代码
+
+* [《NLP界有哪些神级人物？》](http://www.zhihu.com/question/32318281)
+
+介绍:知乎上面的一篇关于NLP界有哪些神级人物？提问。首推Michael Collins 
