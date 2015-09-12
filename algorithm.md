@@ -59,3 +59,7 @@
 * [《The real 10 algorithms that dominate our world》](https://medium.com/@_marcos_otero/the-real-10-algorithms-that-dominate-our-world-e95fa9f16c04)
 
 介绍:真正统治世界的十大算法,[译版](http://blog.jobbole.com/70639/).
+
+* [《What is the importance of this algorithm?》](http://www.quora.com/What-is-the-importance-of-this-algorithm)
+
+介绍:Quora上的一篇关于有哪些重要的算法提问.
