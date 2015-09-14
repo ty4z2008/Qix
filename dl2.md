@@ -373,3 +373,7 @@
 * [《NLP界有哪些神级人物？》](http://www.zhihu.com/question/32318281)
 
 介绍:知乎上面的一篇关于NLP界有哪些神级人物？提问。首推Michael Collins 
+
+* [《机器学习温和指南》](http://www.csdn.net/article/2015-09-08/2825647)
+
+介绍:机器学习与NLP专家、MonkeyLearn联合创始人&CEO Raúl Garreta面向初学者大体概括使用机器学习过程中的重要概念，应用程序和挑战，旨在让读者能够继续探寻机器学习知识。
