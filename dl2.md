@@ -377,3 +377,7 @@
 * [《机器学习温和指南》](http://www.csdn.net/article/2015-09-08/2825647)
 
 介绍:机器学习与NLP专家、MonkeyLearn联合创始人&CEO Raúl Garreta面向初学者大体概括使用机器学习过程中的重要概念，应用程序和挑战，旨在让读者能够继续探寻机器学习知识。
+
+* [《Gradient Boosted Regression Trees》](http://nbviewer.ipython.org/github/pprett/pydata-gbrt-tutorial/blob/master/gbrt-tutorial.ipynb)
+
+介绍:(IPN)基于Scikit-Learn的GBRT(Gradient Boost Regression Tree)教程，[slide](http://orbi.ulg.ac.be/bitstream/2268/163521/1/slides.pdf)
