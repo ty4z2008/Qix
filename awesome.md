@@ -106,3 +106,7 @@
 * [《LDatabase System Implementation》](https://web.stanford.edu/class/cs346/2015/)
 
 介绍:斯坦福大学的数据库系统实现课程
+
+* [《Percona eBooks》](https://www.percona.com/resources/ebooks)
+
+介绍:Percona出品的MySQL电子书籍
