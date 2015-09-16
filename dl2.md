@@ -381,3 +381,7 @@
 * [《Gradient Boosted Regression Trees》](http://nbviewer.ipython.org/github/pprett/pydata-gbrt-tutorial/blob/master/gbrt-tutorial.ipynb)
 
 介绍:(IPN)基于Scikit-Learn的GBRT(Gradient Boost Regression Tree)教程，[slide](http://orbi.ulg.ac.be/bitstream/2268/163521/1/slides.pdf)
+
+* [《Apache SINGA : Distributed Deep Learning System》](http://www.comp.nus.edu.sg/~dbsystem/singa/)
+
+介绍: 无需做深度学习就能用的分布式深度学习软件
