@@ -329,3 +329,7 @@
 
 介绍:课程资料:大规模系统.
 
+* [《Large-scale L-BFGS using MapReduce》](http://papers.nips.cc/paper/5333-consistency-of-weighted-majority-votes)
+
+介绍:使用MapReduce进行大规模分布式集群环境下并行L-BFGS.
+
