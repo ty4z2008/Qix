@@ -110,3 +110,7 @@
 * [《Percona eBooks》](https://www.percona.com/resources/ebooks)
 
 介绍:Percona出品的MySQL电子书籍
+
+* [《Linux Performance and Tuning Guidelines》](http://www.brendangregg.com/linuxperf.html)
+
+介绍:Linux性能与调优指南
