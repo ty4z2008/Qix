@@ -28,7 +28,8 @@ var mysql      = require('mysql');
 var connection = mysql.createConnection({
   host     : 'localhost',
   user     : 'me',
-  password : 'secret'
+  password : 'secret',
+  database : 'my_db'
 });
 connection.connect();//建立连接
 connection.query('SELECT 1 + 1 AS solution', function(err, rows, fields) {
@@ -140,9 +141,11 @@ connection.query('SELECT 1', function(err, rows) {
 
 ```
 除了把这些选项写成对象的样式以外，你也可以用一个字符串来表示。例如：
+
 ```js
 var connection = mysql.createConnection('mysql://user:pass@host/db?debug=true&charset=BIG5_CHINESE_CI&timezone=-0700');
 ```
+
 注意：查询出来的值第一会尝试转换为json格式,如果转换失败.那么就会转换成纯文本的字符串.
 ###SSL
 ``ssl``参数在连接的选项里面可以是字符串或对象，当是一个字符串的时候它会使用已经存在的ssl证书。例如：
@@ -156,7 +159,17 @@ var connection = mysql.createConnection({
   }
 });
 ```
-
+你也可以不使用证书来建立数据库连接,但是你得把`rejectUnauthorized`设置为false
+```js
+var connection = mysql.createConnection({
+  host : 'localhost',
+  ssl  : {
+    // DO NOT DO THIS
+    // 设置正确的连接方式
+    rejectUnauthorized: false
+  }
+});
+```
 ##关闭连接
 有两种关闭连接的方式，当查询完成后最优雅关闭连接方式是调用end()方法,例如：
  
