@@ -114,3 +114,7 @@
 * [《Linux Performance and Tuning Guidelines》](http://www.brendangregg.com/linuxperf.html)
 
 介绍:Linux性能与调优指南
+
+* [《Steve's Bourne-- Bash shell scripting tutorial》](http://steve-parker.org/sh/sh.shtml)
+
+介绍:Linux bash脚本编程教程
