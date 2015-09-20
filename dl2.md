@@ -388,4 +388,8 @@
 
 * [《Apache SINGA : Distributed Deep Learning System》](http://www.comp.nus.edu.sg/~dbsystem/singa/)
 
-介绍: 无需做深度学习就能用的分布式深度学习软件
+介绍: 无需做深度学习就能用的分布式深度学习软件.
+
+* [《E-commerce Recommendation with Personalized Promotion》](http://dl.acm.org/citation.cfm?id=2800178)
+
+介绍: 在亚马逊数据和众包Mechanical Turk上，实现了来自彩票和拍卖的机制，以收集用户对产品的乐意购买价格（WTP，willingness-to-pay）训练集。 E-commerce Recommendation with Personalized Promotion [Zhao,RecSys15] 回归模型预测未知WTP，提升卖家利润和消费者满意度
