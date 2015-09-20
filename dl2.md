@@ -306,6 +306,10 @@
 
 介绍:斯坦福的自然语言理解课程.
 
+* [《Deep Learning and Shallow Learning》](http://freemind.pluskid.org/machine-learning/deep-learning-and-shallow-learning/)
+
+介绍:Deep Learning与Shallow Learning 介绍
+
 * [《A First Encounter with Machine Learning》](http://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf)
 
 介绍:这是一本机器学习的电子书,作者[Max Welling](http://www.ics.uci.edu/~welling/)先生在机器学习教学上面有着丰富的经验,这本书小但精致.
