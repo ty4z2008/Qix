@@ -63,3 +63,7 @@
 * [《What is the importance of this algorithm?》](http://www.quora.com/What-is-the-importance-of-this-algorithm)
 
 介绍:Quora上的一篇关于有哪些重要的算法提问.
+
+* [《Clever Algorithms: Nature-Inspired Programming Recipes》](http://www.cleveralgorithms.com/nature-inspired/index.html)
+
+介绍:智能算法手册(7类/45个之智能相关算法及示例).
