@@ -396,4 +396,8 @@
 
 * [《Scalable Machine Learning》](https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x)
 
-介绍:来自伯克利分校的大规模机器学习 .
+介绍:来自伯克利分校的大规模机器学习.
+
+* [《机器学习资料大汇总》](http://www.52ml.net/star)
+
+介绍:来自52ml的机器学习资料大汇总.
