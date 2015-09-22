@@ -243,3 +243,7 @@
 * [《Heim-A real-time community platform》](https://github.com/euphoria-io/heim)
 
 介绍：用go开发的实时通讯平台,数据库使用的pgsql.
+
+* [《Golang Performance Tips》](https://joshrendek.com/2015/09/golang-performance-tips/)
+
+介绍：Golang Performance Tips.
