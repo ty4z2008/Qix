@@ -118,3 +118,7 @@
 * [《Steve's Bourne-- Bash shell scripting tutorial》](http://steve-parker.org/sh/sh.shtml)
 
 介绍:Linux bash脚本编程教程
+
+* [《ProgrammableWeb - APIs, Mashups and the Web as Platform》](http://www.programmableweb.com/)
+
+介绍:这是一个API资源站,专业的事情交给专业人做.让工程师更加的注重业务逻辑
