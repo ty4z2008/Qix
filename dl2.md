@@ -401,3 +401,11 @@
 * [《机器学习资料大汇总》](http://www.52ml.net/star)
 
 介绍:来自52ml的机器学习资料大汇总.
+
+* [《Automatic Summarization》](http://www.cis.upenn.edu/~nenkova/1500000015-Nenkova.pdf)
+
+介绍:这本书的作[者McKeown](http://www.cis.upenn.edu/~nenkova/)是2013年世界首个数据科学院（位于哥伦比亚大学）主任，她亦是ACL、AAAI和ACM Fellow .
+
+* [《Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing》](http://www.emnlp2015.org/proceedings/EMNLP/index.html)
+
+介绍:EMNLP-15文本摘要若干.
