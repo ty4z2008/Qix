@@ -67,3 +67,8 @@
 * [《Clever Algorithms: Nature-Inspired Programming Recipes》](http://www.cleveralgorithms.com/nature-inspired/index.html)
 
 介绍:智能算法手册(7类/45个之智能相关算法及示例).
+
+* [《Data Structure Visualizations》](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+
+介绍:数据结构可视化图形.
+
