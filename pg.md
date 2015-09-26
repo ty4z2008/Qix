@@ -525,3 +525,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《PostgreSQL, pg_shard, and what we learned from our failures》](https://www.citusdata.com/blog/19-ozgun/265-postgresql-pgshard-and-what-we-learned-our-failures)
 
 介绍:pg_shard的经验分享.
+
+* [《REST API for any Postgres database》](https://github.com/begriffs/postgrest)
+
+介绍:pg的一个非官方REST API.
