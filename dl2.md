@@ -437,3 +437,11 @@
 * [《Large Scale Distributed Deep Learning on Hadoop Clusters》](http://yahoohadoop.tumblr.com/post/129872361846/large-scale-distributed-deep-learning-on-hadoop/)
 
 介绍:Hadoop集群上的大规模分布式机器学习.
+
+* [《Top Deep Learning Employers Based On LinkedIn Data》](http://www.vordot.com/deep-learning-employers-w-12020/)
+
+介绍:基于LinkedIn数据得出的深度学习热门"东家"排行.
+
+* [《Neural Net in C++ Tutorial》](https://vimeo.com/19569529)
+
+介绍:(c++)神经网络手把手实现教程.
