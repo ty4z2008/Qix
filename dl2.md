@@ -409,3 +409,31 @@
 * [《Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing》](http://www.emnlp2015.org/proceedings/EMNLP/index.html)
 
 介绍:EMNLP-15文本摘要若干.
+
+* [《Recommender Systems (Machine Learning Summer School 2014 @ CMU)》](http://www.slideshare.net/xamat/recommender-systems-machine-learning-summer-school-2014-cmu)
+
+介绍:来自Netflix的Xavier Amatriain在Summer School 2014 @ CMU上长达4小时的报告，共248页，是对推荐系统发展的一次全面综述，其中还包括Netflix在个性化推荐方面的一些经验介绍.
+
+* [《BigData Stream Mining》](http://www.ecmlpkdd2015.org/sites/default/files/ECMLPKDD2015Slides.pdf)
+
+介绍:(ECML PKDD 2015)大数据流挖掘教程,此外推荐[ECML PKDD 2015 Tutorial列表](http://www.ecmlpkdd2015.org/program/tutorial-list).
+
+* [《Deep learning on Spark with Keras》](https://github.com/maxpumperla/elephas)
+
+介绍:Spark上的Keras深度学习框架Elephas.
+
+* [《Prof. Surya Ganguli - The statistical physics of deep learning》](https://www.youtube.com/watch?v=7KCWcx-YIRI&hd=1)
+
+介绍:Surya Ganguli深度学习统计物理学.
+
+* [《(系统/算法/机器学习/深度学习/图模型/优化/...)在线视频课程列表》](http://cmlakhan.github.io/courses/videos.html)
+
+介绍:(系统/算法/机器学习/深度学习/图模型/优化/...)在线视频课程列表.
+
+* [《Introduction to Topic Modeling in Python》](http://chdoig.github.io/pytexas2015-topic-modeling/)
+
+介绍:(PyTexas 2015)Python主题建模.
+
+* [《Large Scale Distributed Deep Learning on Hadoop Clusters》](http://yahoohadoop.tumblr.com/post/129872361846/large-scale-distributed-deep-learning-on-hadoop/)
+
+介绍:Hadoop集群上的大规模分布式机器学习.
