@@ -247,3 +247,7 @@
 * [《Golang Performance Tips》](https://joshrendek.com/2015/09/golang-performance-tips/)
 
 介绍：Golang Performance Tips.
+
+* [《go, web, go ---On the web, Go, and building things》](https://elithrar.github.io/)
+
+介绍：推荐一个博客,以go开发为主,文如其名.
