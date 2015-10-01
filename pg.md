@@ -529,3 +529,11 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《REST API for any Postgres database》](https://github.com/begriffs/postgrest)
 
 介绍:pg的一个非官方REST API.
+
+* [《Pg_clog异步提交一致性、原子操作与fsync》](http://mysql.taobao.org/monthly/2015/09/02/)
+
+介绍:Pg_clog分析.
+
+* [《Pg的checkpoint的调度》](http://mysql.taobao.org/monthly/2015/09/06/)
+
+介绍:同步机制分析.
