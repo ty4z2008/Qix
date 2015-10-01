@@ -445,3 +445,7 @@
 * [《Neural Net in C++ Tutorial》](https://vimeo.com/19569529)
 
 介绍:(c++)神经网络手把手实现教程.
+
+* [《Large-scale CelebFaces Attributes (CelebA) Dataset》](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
+
+介绍:香港中文大学汤晓鸥教授实验室公布的大型人脸识别数据集： Large-scale CelebFaces Attributes (CelebA) Dataset 10K 名人，202K 脸部图像，每个图像40余标注属性.
