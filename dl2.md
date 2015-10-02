@@ -453,3 +453,7 @@
 * [《Unsupervised Feature Learning in Computer Vision》](https://www.cs.nyu.edu/web/Research/Theses/goroshin_ross.pdf)
 
 介绍:面向机器视觉的无监督特征学习,[Ross Goroshin's webpage](https://cs.nyu.edu/~goroshin/).
+
+* [《Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks》](http://arxiv.org/pdf/1506.03099v3.pdf)
+
+介绍:谷歌研究院Samy Bengio等人最近写的RNN的Scheduled Sampling训练方法论文.
