@@ -449,3 +449,7 @@
 * [《Large-scale CelebFaces Attributes (CelebA) Dataset》](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
 介绍:香港中文大学汤晓鸥教授实验室公布的大型人脸识别数据集： Large-scale CelebFaces Attributes (CelebA) Dataset 10K 名人，202K 脸部图像，每个图像40余标注属性.
+
+* [《Unsupervised Feature Learning in Computer Vision》](https://www.cs.nyu.edu/web/Research/Theses/goroshin_ross.pdf)
+
+介绍:面向机器视觉的无监督特征学习,[Ross Goroshin's webpage](https://cs.nyu.edu/~goroshin/).
