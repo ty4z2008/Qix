@@ -537,3 +537,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《Pg的checkpoint的调度》](http://mysql.taobao.org/monthly/2015/09/06/)
 
 介绍:同步机制分析.
+
+* [《PostgreSQL Foreign Data Wrappers》](https://www.kentik.com/postgresql-foreign-data-wrappers/)
+
+介绍:PostgreSQL外部数据封装器介绍.
