@@ -251,3 +251,7 @@
 * [《go, web, go ---On the web, Go, and building things》](https://elithrar.github.io/)
 
 介绍：推荐一个博客,以go开发为主,文如其名.
+
+* [《GoLang Books》](https://github.com/dariubs/GoBooks)
+
+介绍：GoLang 书籍集合.
