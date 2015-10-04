@@ -457,3 +457,15 @@
 * [《Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks》](http://arxiv.org/pdf/1506.03099v3.pdf)
 
 介绍:谷歌研究院Samy Bengio等人最近写的RNN的Scheduled Sampling训练方法论文.
+
+* [《Essential Machine Learning Algorithms in a nutshell》](https://manish.wordpress.com/2015/10/02/essential-machine-learning-algorithms-in-a-nutshell/)
+
+介绍:机器学习基本算法简要入门.
+
+* [《A Huge List of Machine Learning And Statistics Repositories》](http://blog.josephmisiti.com/a-huge-list-of-machine-learning-repositories/)
+
+介绍:Github机器学习/数学/统计/可视化/深度学习相关项目大列表.
+
+* [《Information Processing and Learning》](http://www.cs.cmu.edu/~aarti/Class/10704_Spring15/lecs.html)
+
+介绍:CMU的信息论课程.
