@@ -469,3 +469,7 @@
 * [《Information Processing and Learning》](http://www.cs.cmu.edu/~aarti/Class/10704_Spring15/lecs.html)
 
 介绍:CMU的信息论课程.
+
+* [《Scheduled sampling for sequence prediction with recurrent neural networks》](http://arxiv.org/pdf/1506.03099v3.pdf)
+
+介绍:谷歌研究院[Samy Bengio](http://bengio.abracadoudou.com/)等人最近写的RNN的Scheduled Sampling训练方法论文.
