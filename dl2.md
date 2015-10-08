@@ -473,3 +473,7 @@
 * [《Scheduled sampling for sequence prediction with recurrent neural networks》](http://arxiv.org/pdf/1506.03099v3.pdf)
 
 介绍:谷歌研究院[Samy Bengio](http://bengio.abracadoudou.com/)等人最近写的RNN的Scheduled Sampling训练方法论文.
+
+* [《基于Hadoop集群的大规模分布式深度学习》](http://www.csdn.net/article/2015-10-01/2825840)
+
+介绍:基于Hadoop集群的大规模分布式深度学习.
