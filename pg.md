@@ -541,3 +541,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《PostgreSQL Foreign Data Wrappers》](https://www.kentik.com/postgresql-foreign-data-wrappers/)
 
 介绍:PostgreSQL外部数据封装器介绍.
+
+* [《Following a Select Statement Through Postgres Internals》](http://patshaughnessy.net/2014/10/13/following-a-select-statement-through-postgres-internals)
+
+介绍:SELECT查询如何在PostgreSQL内部工作的.
