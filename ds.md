@@ -259,7 +259,7 @@
 
 * [《The Log: What every software engineer should know about real-time data's unifying abstraction》](http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 
-介绍:分布式系统Log剖析,非常的详细与精彩.[中文版笔记](http://www.cnblogs.com/foreach-break/p/notes_about_distributed_system_and_The_log.html).
+介绍:分布式系统Log剖析,非常的详细与精彩. [中文翻译](https://github.com/oldratlee/translations/blob/master/log-what-every-software-engineer-should-know-about-real-time-datas-unifying/README.md) |  [中文版笔记](http://www.cnblogs.com/foreach-break/p/notes_about_distributed_system_and_The_log.html).
 
 * [《Operating Systems Study Guide》](http://faculty.salina.k-state.edu/tim/ossg/index.html)
 
@@ -332,4 +332,3 @@
 * [《Large-scale L-BFGS using MapReduce》](http://papers.nips.cc/paper/5333-consistency-of-weighted-majority-votes)
 
 介绍:使用MapReduce进行大规模分布式集群环境下并行L-BFGS.
-
