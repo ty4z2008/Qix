@@ -126,3 +126,7 @@
 * [《Docker Resources All In One》](https://github.com/hangyan/docker-resources)
 
 介绍:大量 Docker 学习资源
+
+* [《Awesome Images》](https://github.com/heyalexej/awesome-images)
+
+介绍:常用图片库
