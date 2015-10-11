@@ -477,3 +477,7 @@
 * [《基于Hadoop集群的大规模分布式深度学习》](http://www.csdn.net/article/2015-10-01/2825840)
 
 介绍:基于Hadoop集群的大规模分布式深度学习.
+
+* [《Learning both Weights and Connections for Efficient Neural Networks习》](http://arxiv.org/abs/1506.02626)
+
+介绍:来自斯坦福大学及NVIDIA的工作，很实在很实用。采用裁剪网络连接及重训练方法，可大幅度减少CNN模型参数。针对AlexNet、VGG等模型及ImageNet数据，不损失识别精度情况下，模型参数可大幅度减少9-13倍.
