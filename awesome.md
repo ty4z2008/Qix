@@ -130,3 +130,7 @@
 * [《Awesome Images》](https://github.com/heyalexej/awesome-images)
 
 介绍:常用图片库
+
+* [《Mathematical and scientific symbols》](http://www.uefap.com/speaking/symbols/symbols.htm)
+
+介绍:数学符号英文发音，此外推荐一个更全的[Handbook for Spoken Mathematics](http://web.efzg.hr/dok/MAT/vkojic/Larrys_speakeasy.pdf)
