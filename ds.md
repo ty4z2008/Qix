@@ -332,3 +332,7 @@
 * [《Large-scale L-BFGS using MapReduce》](http://papers.nips.cc/paper/5333-consistency-of-weighted-majority-votes)
 
 介绍:使用MapReduce进行大规模分布式集群环境下并行L-BFGS.
+
+* [《Twitter是如何构建高性能分布式日志的》](http://www.infoq.com/cn/news/2015/09/BookKeeper-Twitter)
+
+介绍:Twitter是如何构建高性能分布式日志的.
