@@ -485,3 +485,15 @@
 * [《Apache Singa --A General Distributed Deep Learning Platform》](http://www.comp.nus.edu.sg/~dbsystem/singa/)
 
 介绍:无需做深度学习就能用的分布式深度学习软件,[github](https://github.com/apache/incubator-singa).
+
+* [《24 Ultimate Data Scientists To Follow in the World Today》](http://www.analyticsvidhya.com/blog/2015/09/ultimate-data-scientists-world-today/)
+
+介绍:当今世界最NB的25位大数据科学家,通过他们的名字然后放在google中搜索肯定能找到很多很棒的资源[译文](http://blog.csdn.net/heyongluoyao8/article/details/48598169).
+
+* [《Deep Learning for NLP - Lecture October 2015》](https://github.com/nreimers/deeplearning4nlp-tutorial/tree/master/2015-10_Lecture/)
+
+介绍:Nils Reimers面向NLP的深度学习(Theano/Lasagne)系列教程.
+
+* [《Connection between probability theory and real analysis》](https://ccle.ucla.edu/mod/page/view.php?id=834267)
+
+介绍:主讲人是[陶哲轩](https://ccle.ucla.edu/mod/page/view.php?id=834267),资料[Probability: Theory and Examples](http://www.math.duke.edu/~rtd/PTE/PTE4_1.pdf),[笔记](https://terrytao.wordpress.com/category/275a-probability-theory/).
