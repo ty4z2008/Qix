@@ -255,3 +255,11 @@
 * [《GoLang Books》](https://github.com/dariubs/GoBooks)
 
 介绍：GoLang 书籍集合.
+
+* [《50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs》](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
+
+介绍：Go开发新手常犯的50个错误.
+
+* [《GoLang By Eaxmples》](https://gobyexample.com/)
+
+介绍：GoLang基本代码实例.
