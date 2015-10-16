@@ -528,7 +528,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 * [《REST API for any Postgres database》](https://github.com/begriffs/postgrest)
 
-介绍:pg的一个非官方REST API.
+介绍:pg的一个非官方REST API,此外推荐[RADIP RESTful API for PostgreSQL](https://github.com/QBisConsult/psql-api).
 
 * [《Pg_clog异步提交一致性、原子操作与fsync》](http://mysql.taobao.org/monthly/2015/09/02/)
 
@@ -545,3 +545,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《Following a Select Statement Through Postgres Internals》](http://patshaughnessy.net/2014/10/13/following-a-select-statement-through-postgres-internals)
 
 介绍:SELECT查询如何在PostgreSQL内部工作的.
+
+* [《PipelineDB—The Streaming SQL Database》](https://www.pipelinedb.com/)
+
+介绍:PipelineDB是基于PostgreSQL研发的一种流式关系数据库.
