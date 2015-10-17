@@ -497,3 +497,7 @@
 * [《Connection between probability theory and real analysis》](https://ccle.ucla.edu/mod/page/view.php?id=834267)
 
 介绍:主讲人是[陶哲轩](https://ccle.ucla.edu/mod/page/view.php?id=834267),资料[Probability: Theory and Examples](http://www.math.duke.edu/~rtd/PTE/PTE4_1.pdf),[笔记](https://terrytao.wordpress.com/category/275a-probability-theory/).
+
+* [《Data Science Learning Resources》](http://www.districtdatalabs.com/#!resources/c21hq)
+
+介绍:数据科学(学习)资源列表.
