@@ -501,3 +501,7 @@
 * [《Data Science Learning Resources》](http://www.districtdatalabs.com/#!resources/c21hq)
 
 介绍:数据科学(学习)资源列表.
+
+* [Top 20 Data Science MOOCs》](https://datarithms.wordpress.com/2015/08/16/top-20-data-science-moocs/)
+
+介绍:重点推荐的20个数据科学相关课程.
