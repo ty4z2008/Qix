@@ -502,6 +502,10 @@
 
 介绍:数据科学(学习)资源列表.
 
+* [《8 Tactics to Combat Imbalanced Classes in Your Machine Learning Dataset》](http://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/)
+
+介绍:应对非均衡数据集分类问题的八大策略.
+
 * [Top 20 Data Science MOOCs》](https://datarithms.wordpress.com/2015/08/16/top-20-data-science-moocs/)
 
 介绍:重点推荐的20个数据科学相关课程.
