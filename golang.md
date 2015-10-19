@@ -263,3 +263,7 @@
 * [《GoLang By Eaxmples》](https://gobyexample.com/)
 
 介绍：GoLang基本代码实例.
+
+* [《Golang News News for Go programmers》](http://golangnews.com/)
+
+介绍：GoLang news.
