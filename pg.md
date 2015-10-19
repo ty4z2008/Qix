@@ -549,3 +549,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《PipelineDB—The Streaming SQL Database》](https://www.pipelinedb.com/)
 
 介绍:PipelineDB是基于PostgreSQL研发的一种流式关系数据库.
+
+* [《PostgreSQL：A Platform for Multiple Sources Data Retrieval》](https://abdulyadi.files.wordpress.com/2015/10/ictvetpaper.pdf)
+
+介绍:使用pg完成多平台数据源检索,[幻灯片](https://abdulyadi.files.wordpress.com/2015/10/presentation.pdf).
