@@ -134,3 +134,7 @@
 * [《Mathematical and scientific symbols》](http://www.uefap.com/speaking/symbols/symbols.htm)
 
 介绍:数学符号英文发音，此外推荐一个更全的[Handbook for Spoken Mathematics](http://web.efzg.hr/dok/MAT/vkojic/Larrys_speakeasy.pdf)
+
+* [《Open Source Society University:Path to a free self-taught education in Computer Science!》](https://github.com/open-source-society/computer-science)
+
+介绍:一个人自学计算机科学之路
