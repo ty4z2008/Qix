@@ -506,6 +506,10 @@
 
 介绍:应对非均衡数据集分类问题的八大策略.
 
-* [Top 20 Data Science MOOCs》](https://datarithms.wordpress.com/2015/08/16/top-20-data-science-moocs/)
+* [《Top 20 Data Science MOOCs》](https://datarithms.wordpress.com/2015/08/16/top-20-data-science-moocs/)
 
 介绍:重点推荐的20个数据科学相关课程.
+
+* [《Recurrent Neural Networks》](https://shapeofdata.wordpress.com/2015/10/20/recurrent-neural-networks/)
+
+介绍:递归神经网络.
