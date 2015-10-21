@@ -553,3 +553,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《PostgreSQL：A Platform for Multiple Sources Data Retrieval》](https://abdulyadi.files.wordpress.com/2015/10/ictvetpaper.pdf)
 
 介绍:使用pg完成多平台数据源检索,[幻灯片](https://abdulyadi.files.wordpress.com/2015/10/presentation.pdf).
+
+* [《Column-Stores vs. Row-Stores: How Different Are They Really?》](http://db.csail.mit.edu/projects/cstore/abadi-sigmod08.pdf)
+
+介绍:列式存储与行式存储数据库之间究竟有何区别？.
