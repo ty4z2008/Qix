@@ -340,3 +340,7 @@
 * [《Distributed Systems: When Limping Hardware Is Worse Than Dead Hardware》](http://danluu.com/limplock/)
 
 介绍:在分布式系统中某个组件彻底死了影响很小，但半死不活（网络/磁盘），对整个系统却是毁灭性的.
+
+* [《Tera - 高性能、可伸缩的结构化数据库》](https://github.com/baidu/tera)
+
+介绍:来自百度的分布式数据库.
