@@ -513,3 +513,19 @@
 * [《Recurrent Neural Networks》](https://shapeofdata.wordpress.com/2015/10/20/recurrent-neural-networks/)
 
 介绍:递归神经网络.
+
+* [《Histograms of Oriented Gradients》](http://www.cs.duke.edu/courses/fall15/compsci527/notes/hog.pdf)
+
+介绍:(HOG)学习笔记.
+
+* [《Computational modelling courses》](http://aidanhorner.blogspot.co.uk/2015/10/computational-modelling-courses.html)
+
+介绍:计算建模/计算神经学课程汇总.
+
+* [《How We Use Deep Learning to Classify Business Photos at Yelp》](http://engineeringblog.yelp.com/2015/10/how-we-use-deep-learning-to-classify-business-photos-at-yelp.html)
+
+介绍:(Yelp)基于深度学习的商业图片分类.
+
+* [《Neural Networks and Deep Learning》](http://neuralnetworksanddeeplearning.com/)
+
+介绍:免费在线书《Neural Networks and Deep Learning》神经网络与深度学习。目前提供了前四章的草稿，[第一章](http://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&mid=400067748&idx=1&sn=9c88eadfba5462281cd496e85ba3329c)通过手写数字识别的例子介绍NN，第二章讲反向传播算法，第三章讲反向传播算法的优化，第四章讲NN为什么能拟合任意函数。大量python代码例子和交互动画，生动有趣.
