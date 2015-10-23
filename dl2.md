@@ -529,3 +529,8 @@
 * [《Neural Networks and Deep Learning》](http://neuralnetworksanddeeplearning.com/)
 
 介绍:免费在线书《Neural Networks and Deep Learning》神经网络与深度学习。目前提供了前四章的草稿，[第一章](http://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&mid=400067748&idx=1&sn=9c88eadfba5462281cd496e85ba3329c)通过手写数字识别的例子介绍NN，第二章讲反向传播算法，第三章讲反向传播算法的优化，第四章讲NN为什么能拟合任意函数。大量python代码例子和交互动画，生动有趣.
+
+* [《Books to Read if You Might Be Interested in Data Science》](http://www.datasciguide.com/books-to-read-if-you-might-be-interested-in-data-science/)
+
+介绍:数据科学大咖荐书(入门).
+
