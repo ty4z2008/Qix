@@ -538,3 +538,8 @@
 
 介绍:NLP 深度学习资源列表.
 
+* [《GitXiv》](http://gitxiv.com/)
+
+介绍:很多arXiv上面知名论文可以在这个网站找到github的项目链接.
+
+
