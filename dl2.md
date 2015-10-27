@@ -534,3 +534,7 @@
 
 介绍:数据科学大咖荐书(入门).
 
+* [《Deep Learning for NLP resources》](https://github.com/andrewt3000/DL4NLP)
+
+介绍:NLP 深度学习资源列表.
+
