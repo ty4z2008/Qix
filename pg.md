@@ -557,3 +557,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《Column-Stores vs. Row-Stores: How Different Are They Really?》](http://db.csail.mit.edu/projects/cstore/abadi-sigmod08.pdf)
 
 介绍:列式存储与行式存储数据库之间究竟有何区别？.
+
+* [《Pivotal Greenplum Database has been open sourced》](https://github.com/greenplum-db/gpdb)
+
+介绍:基于PostgreSql的Greenplum Database数据仓库开源.
