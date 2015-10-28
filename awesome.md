@@ -138,3 +138,7 @@
 * [《Open Source Society University:Path to a free self-taught education in Computer Science!》](https://github.com/open-source-society/computer-science)
 
 介绍:一个人自学计算机科学之路
+
+* [《Software architecture for developers》](http://www.codingthearchitecture.com/)
+
+介绍:软件架构之路
