@@ -344,3 +344,7 @@
 * [《Tera - 高性能、可伸缩的结构化数据库》](https://github.com/baidu/tera)
 
 介绍:来自百度的分布式数据库.
+
+* [《SequoiaDB is a distributed document-oriented NoSQL Database.》](https://github.com/SequoiaDB/SequoiaDB)
+
+介绍:SequoiaDB分布式文档数据库开源.
