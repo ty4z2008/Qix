@@ -542,4 +542,6 @@
 
 介绍:很多arXiv上面知名论文可以在这个网站找到github的项目链接.
 
+* [《Learning Multi-Domain Convolutional Neural Networks for Visual Tracking》](http://arxiv.org/pdf/1510.07945v1.pdf)
 
+介绍:深度学习在视觉跟踪的探索.
