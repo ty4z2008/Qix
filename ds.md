@@ -345,6 +345,26 @@
 
 介绍:来自百度的分布式数据库.
 
-* [《SequoiaDB is a distributed document-oriented NoSQL Database.》](https://github.com/SequoiaDB/SequoiaDB)
+* [《SequoiaDB is a distributed document-oriented NoSQL Database》](https://github.com/SequoiaDB/SequoiaDB)
 
 介绍:SequoiaDB分布式文档数据库开源.
+
+* [《Readings in distributed systems》](http://henryr.github.io/distributed-systems-readings/)
+
+介绍:这个网址里收集了一堆各TOP大学分布式相关的课程.
+
+* [《Paxos vs Raft》](https://ramcloud.stanford.edu/~ongaro/userstudy/)
+
+介绍:这个网站是Raft算法的作者为教授Paxos和Raft算法做的，其中有两个视频链接，分别讲上述两个算法.
+
+* [《A Scalable Content-Addressable Network》](http://www.eecs.harvard.edu/~mema/courses/cs264/papers/p13-ratnasamy.pdf)
+
+介绍:A Scalable Content-Addressable Network.
+
+* [《500 Lines or Less》](https://github.com/aosabook/500lines)
+
+介绍:这个项目其实是一本书（ [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)）的源代码附录，是一堆大牛合写的.
+
+* [《MIT 6.824 Distributed System》](http://nil.csail.mit.edu/6.824/2015/schedule.html)
+
+介绍:这只是一个课程主页，没有上课的视频，但是并不影响你跟着它上课：每一周读两篇课程指定的论文，读完之后看lecture-notes里对该论文内容的讨论，回答里面的问题来加深理解，最后在课程lab里把所看的论文实现。当你把这门课的作业刷完后，你会发现自己实现了一个分布式数据库。.
