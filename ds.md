@@ -376,3 +376,7 @@
 * [《What are some good resources for learning about distributed computing? Why?》](https://www.quora.com/What-are-some-good-resources-for-learning-about-distributed-computing-Why)
 
 介绍:Quora上关于学习分布式的资源问答.
+
+* [《SeaweedFS is a simple and highly scalable distributed file system》](https://github.com/chrislusf/seaweedfs)
+
+介绍:SeaweedFS是使用go开发的分布式文件系统项目,代码简单，逻辑清晰.
