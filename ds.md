@@ -367,4 +367,12 @@
 
 * [《MIT 6.824 Distributed System》](http://nil.csail.mit.edu/6.824/2015/schedule.html)
 
-介绍:这只是一个课程主页，没有上课的视频，但是并不影响你跟着它上课：每一周读两篇课程指定的论文，读完之后看lecture-notes里对该论文内容的讨论，回答里面的问题来加深理解，最后在课程lab里把所看的论文实现。当你把这门课的作业刷完后，你会发现自己实现了一个分布式数据库。.
+介绍:这只是一个课程主页，没有上课的视频，但是并不影响你跟着它上课：每一周读两篇课程指定的论文，读完之后看lecture-notes里对该论文内容的讨论，回答里面的问题来加深理解，最后在课程lab里把所看的论文实现。当你把这门课的作业刷完后，你会发现自己实现了一个分布式数据库.
+
+* [《HDFS-alike in Go》](https://github.com/michaelmaltese/golang-distributed-filesystem)
+
+介绍:使用go开发的分布式文件系统.
+
+* [《What are some good resources for learning about distributed computing? Why?》](https://www.quora.com/What-are-some-good-resources-for-learning-about-distributed-computing-Why)
+
+介绍:Quora上关于学习分布式的资源问答.
