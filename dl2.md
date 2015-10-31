@@ -545,3 +545,7 @@
 * [《Learning Multi-Domain Convolutional Neural Networks for Visual Tracking》](http://arxiv.org/pdf/1510.07945v1.pdf)
 
 介绍:深度学习在视觉跟踪的探索.
+
+* [《Beginners Guide: Apache Spark Machine Learning Scenario With A Large Input Dataset》](http://fullstackml.com/2015/10/29/beginners-guide-apache-spark-machine-learning-scenario-with-a-large-input-dataset/)
+
+介绍:Spark机器学习入门实例——大数据集(30+g)二分类.
