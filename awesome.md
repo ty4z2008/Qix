@@ -142,3 +142,7 @@
 * [《Software architecture for developers》](http://www.codingthearchitecture.com/)
 
 介绍:软件架构之路
+
+* [《Learn how to beat the coding interview》](https://www.interviewcake.com/)
+
+介绍:interviewcake是国外的面试题挑战站点,不仅仅提供了国外有名公司的面试试题.还提供了面试题解析
