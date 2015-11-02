@@ -550,6 +550,4 @@
 
 介绍:Spark机器学习入门实例——大数据集(30+g)二分类.
 
-* [《Awesome Machine Learning》](https://github.com/josephmisiti/awesome-machine-learning)
 
-介绍:Awesome系列机器学习资源,[中文版](http://blog.jobbole.com/73806/).
