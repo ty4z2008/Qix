@@ -550,4 +550,10 @@
 
 介绍:Spark机器学习入门实例——大数据集(30+g)二分类.
 
+* [《Semantic Scholar》](https://www.semanticscholar.org/)
 
+介绍:保罗艾伦人工智能实验室表示，Google Scholar是十年前的产物，他们现在想要做进一步的提高。于是推出了全新的，专门针对科学家设计的学术搜索引擎Semantic Scholar.
+
+* [《Semi-Supervised Learning》](http://www.acad.bg/ebook/ml/MITPress-%20SemiSupervised%20Learning.pdf)
+
+介绍:半监督学习,Chapelle.篇篇都是经典,作者包括Vapnik,Bengio,Lafferty,Jordan.此外推荐[Xiaojin (Jerry) Zhu](http://pages.cs.wisc.edu/~jerryzhu/)编写的[Introduction to Semi-Supervised Learning](http://www.morganclaypool.com/doi/abs/10.2200/S00196ED1V01Y200906AIM006).
