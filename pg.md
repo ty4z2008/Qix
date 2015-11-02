@@ -560,4 +560,8 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 * [《Pivotal Greenplum Database has been open sourced》](https://github.com/greenplum-db/gpdb)
 
-介绍:基于PostgreSql的Greenplum Database数据仓库开源.
+介绍:基于PostgreSQL的Greenplum Database数据仓库开源.
+
+* [《PostgreSQL 数据库文档》](http://pgsqlcn.com/index.html)
+
+介绍:PostgreSQL数据库文档,文档内容基于9.5版本演示.
