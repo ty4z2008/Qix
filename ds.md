@@ -380,3 +380,7 @@
 * [《SeaweedFS is a simple and highly scalable distributed file system》](https://github.com/chrislusf/seaweedfs)
 
 介绍:SeaweedFS是使用go开发的分布式文件系统项目,代码简单，逻辑清晰.
+
+* [《Codis - yet another fast distributed solution for Redis》](https://github.com/wandoulabs/codis)
+
+介绍:Codis 是一个分布式 Redis 解决方案, 对于上层的应用来说, 连接到 Codis Proxy 和连接原生的 Redis Server 没有明显的区别 (不支持的命令列表).
