@@ -146,3 +146,7 @@
 * [《Learn how to beat the coding interview》](https://www.interviewcake.com/)
 
 介绍:interviewcake是国外的面试题挑战站点,不仅仅提供了国外有名公司的面试试题.还提供了面试题解析
+
+* [《Five Open-Source Slack Alternatives》](https://blog.okturtles.com/2015/11/five-open-source-slack-alternatives/)
+
+介绍:Slack 是企业级聊天工具，把可以把各种碎片化的企业沟通和协作集中到一起。目前有5个可替代Slack的开源产品：Friends，Let’s Chat，Mattermost，Rocket.Chat，Zulip。可作为企业选项时参考
