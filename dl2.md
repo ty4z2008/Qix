@@ -557,3 +557,9 @@
 * [《Semi-Supervised Learning》](http://www.acad.bg/ebook/ml/MITPress-%20SemiSupervised%20Learning.pdf)
 
 介绍:半监督学习,Chapelle.篇篇都是经典,作者包括Vapnik,Bengio,Lafferty,Jordan.此外推荐[Xiaojin (Jerry) Zhu](http://pages.cs.wisc.edu/~jerryzhu/)编写的[Introduction to Semi-Supervised Learning](http://www.morganclaypool.com/doi/abs/10.2200/S00196ED1V01Y200906AIM006).
+
+介绍:Spark机器学习入门实例——大数据集(30+g)二分类.
+
+* [《Free Resources for Beginners on Deep Learning and Neural Network》](http://www.analyticsvidhya.com/blog/2015/11/free-resources-beginners-deep-learning-neural-network/)
+
+介绍:为入门者准备的深度学习与神经网络免费资源.
