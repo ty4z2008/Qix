@@ -75,3 +75,7 @@
 * [《Paxos algorithm》](https://www.quora.com/Distributed-Systems/What-is-a-simple-explanation-of-the-Paxos-algorithm)
 
 介绍:如果简单的解释Paxos算法,此外推荐论文[Paxos Made Simple](https://pdos.csail.mit.edu/6.824/papers/paxos-simple.pdf),[Consensus Protocols: Paxos](http://the-paper-trail.org/blog/consensus-protocols-paxos/),[Consensus Protocols: Two-Phase Commit](http://the-paper-trail.org/blog/consensus-protocols-two-phase-commit/),[Consensus Protocols: Three-phase Commit](http://the-paper-trail.org/blog/consensus-protocols-three-phase-commit/)
+
+* [《Introduction to Algorithms》](http://courses.csail.mit.edu/6.006/fall11/staff.shtml)
+
+介绍:Introduction to Algorithms.
