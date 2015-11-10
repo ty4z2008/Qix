@@ -563,3 +563,7 @@
 * [《Free Resources for Beginners on Deep Learning and Neural Network》](http://www.analyticsvidhya.com/blog/2015/11/free-resources-beginners-deep-learning-neural-network/)
 
 介绍:为入门者准备的深度学习与神经网络免费资源.
+
+* [《TensorFlow is an Open Source Software Library for Machine Intelligence》](http://tensorflow.org/)
+
+介绍:Google 开源最新机器学习系统 TensorFlow.
