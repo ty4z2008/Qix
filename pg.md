@@ -570,3 +570,6 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍:pg高并发在锁方面的改善，[中文版](http://www.csdn.net/article/2015-11-07/2826143).
 
+* [《SQL Tabs 》](http://www.sqltabs.com/)
+
+介绍:PostgreSQL的跨平台终端.
