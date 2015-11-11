@@ -384,3 +384,7 @@
 * [《Codis - yet another fast distributed solution for Redis》](https://github.com/wandoulabs/codis)
 
 介绍:Codis 是一个分布式 Redis 解决方案, 对于上层的应用来说, 连接到 Codis Proxy 和连接原生的 Redis Server 没有明显的区别 
+
+* [《Paper: Coordination Avoidance In Distributed Databases By Peter Bailis》](http://www.bailis.org/papers/bailis-thesis.pdf)
+
+介绍:Coordination Avoidance In Distributed Databases.
