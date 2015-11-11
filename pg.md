@@ -565,3 +565,8 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《PostgreSQL 数据库文档》](http://pgsqlcn.com/index.html)
 
 介绍:PostgreSQL数据库文档,文档内容基于9.5版本演示.
+
+* [《More Concurrency: Improved Locking In PostgreSQL》](http://highscalability.com/blog/2015/10/13/more-concurrency-improved-locking-in-postgresql.html)
+
+介绍:pg高并发在锁方面的改善，[中文版](http://www.csdn.net/article/2015-11-07/2826143).
+
