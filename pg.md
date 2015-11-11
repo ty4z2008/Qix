@@ -573,3 +573,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《SQL Tabs 》](http://www.sqltabs.com/)
 
 介绍:PostgreSQL的跨平台终端.
+
+* [《Writing Postgres Extensions - Debugging》](http://big-elephants.com/2015-10/writing-postgres-extensions-part-iii/)
+
+介绍:PostgreSQL插件开发.
