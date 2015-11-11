@@ -566,4 +566,12 @@
 
 * [《TensorFlow is an Open Source Software Library for Machine Intelligence》](http://tensorflow.org/)
 
-介绍:Google 开源最新机器学习系统 TensorFlow,此外提供TensorFlow白皮书[white paper of tensorflow 2015](http://pan.baidu.com/s/1jGyFPki).
+介绍:Google 开源最新机器学习系统 TensorFlow,此外提供TensorFlow白皮书[white paper of tensorflow 2015](http://pan.baidu.com/s/1jGyFPki).[hacker news](https://news.ycombinator.com/item?id=10532957),[Google大牛解读TensorFlow](https://www.youtube.com/watch?v=90-S1M7Ny_o&t=21m2s)
+
+* [《Veles:Distributed machine learning platform》](https://github.com/samsung/veles)
+
+介绍:三星开源的快速深度学习应用程序开发分布式平台.
+
+* [《DMTK:Microsoft Distributed Machine Learning Tookit 》](https://github.com/Microsoft/DMTK)
+
+介绍:分布式机器学习工具包.
