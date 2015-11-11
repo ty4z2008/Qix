@@ -566,4 +566,4 @@
 
 * [《TensorFlow is an Open Source Software Library for Machine Intelligence》](http://tensorflow.org/)
 
-介绍:Google 开源最新机器学习系统 TensorFlow.
+介绍:Google 开源最新机器学习系统 TensorFlow,此外提供TensorFlow白皮书[white paper of tensorflow 2015](http://pan.baidu.com/s/1jGyFPki).
