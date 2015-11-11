@@ -579,3 +579,7 @@
 * [《Semantics Approach to Big Data and Event Processing》](http://wiki.knoesis.org/index.php/BigDataTutorial)
 
 介绍:语义大数据——大数据/事件处理的语义方法.
+
+* [《LSTM(Long Short Term Memory)和RNN(Recurrent)学习教程》](http://www.zhihu.com/question/29411132)
+
+介绍:LSTM(Long Short Term Memory)和RNN(Recurrent)学习教程.
