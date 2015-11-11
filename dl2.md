@@ -575,3 +575,7 @@
 * [《DMTK:Microsoft Distributed Machine Learning Tookit 》](https://github.com/Microsoft/DMTK)
 
 介绍:分布式机器学习工具包.
+
+* [《Semantics Approach to Big Data and Event Processing》](http://wiki.knoesis.org/index.php/BigDataTutorial)
+
+介绍:语义大数据——大数据/事件处理的语义方法.
