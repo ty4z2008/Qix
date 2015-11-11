@@ -583,3 +583,7 @@
 * [《LSTM(Long Short Term Memory)和RNN(Recurrent)学习教程》](http://www.zhihu.com/question/29411132)
 
 介绍:LSTM(Long Short Term Memory)和RNN(Recurrent)学习教程.
+
+* [《Marvin：A minimalist GPU-only N-dimensional ConvNet framework》](http://marvin.is/)
+
+介绍:Princeton Vision Group的深度学习库开源.
