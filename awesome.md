@@ -150,3 +150,7 @@
 * [《Five Open-Source Slack Alternatives》](https://blog.okturtles.com/2015/11/five-open-source-slack-alternatives/)
 
 介绍:Slack 是企业级聊天工具，把可以把各种碎片化的企业沟通和协作集中到一起。目前有5个可替代Slack的开源产品：Friends，Let’s Chat，Mattermost，Rocket.Chat，Zulip。可作为企业选项时参考
+
+* [《The Architecture of Open Source Applications》](http://aosabook.org/en/index.html)
+
+介绍:开源软件架构分析
