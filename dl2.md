@@ -587,3 +587,7 @@
 * [《Marvin：A minimalist GPU-only N-dimensional ConvNet framework》](http://marvin.is/)
 
 介绍:Princeton Vision Group的深度学习库开源.
+
+* [《Ufora is a compiled, automatically parallel subset of python for data science and numerical computing》](http://ufora.github.io/ufora/)
+
+介绍:基于AWS的自动分布式科学计算库Ufora,[Why I Open Sourced Five Years of Work](https://medium.com/art-marketing/why-i-open-sourced-five-years-of-work-c5b5e0e38a6d).
