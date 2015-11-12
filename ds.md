@@ -388,3 +388,7 @@
 * [《Paper: Coordination Avoidance In Distributed Databases By Peter Bailis》](http://www.bailis.org/papers/bailis-thesis.pdf)
 
 介绍:Coordination Avoidance In Distributed Databases.
+
+* [《从零开始写分布式数据库》](https://github.com/ngaut/builddatabase)
+
+介绍:本文以[TiDB](https://github.com/pingcap/tidb) 源码为例.
