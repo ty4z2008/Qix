@@ -598,4 +598,4 @@
 
 * [《Zhi-Hua Zhou Papers》](https://scholar.google.com/citations?user=rSVIHasAAAAJ&hl=zh-CN&oi=ao)
 
-介绍:推荐南京大学南京大学机器学习与数据挖掘研究所所长——周志华教授的主页.
+介绍:推荐南京大学机器学习与数据挖掘研究所所长——周志华教授的Google学术主页.
