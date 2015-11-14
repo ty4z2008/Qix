@@ -591,3 +591,11 @@
 * [《Ufora is a compiled, automatically parallel subset of python for data science and numerical computing》](http://ufora.github.io/ufora/)
 
 介绍:基于AWS的自动分布式科学计算库Ufora,[Why I Open Sourced Five Years of Work](https://medium.com/art-marketing/why-i-open-sourced-five-years-of-work-c5b5e0e38a6d).
+
+* [《Deep Learning and Deep Data Science - PyCon SE 2015》](https://www.youtube.com/watch?v=wBKfGaakFp8&hd=1)
+
+介绍:(PyCon SE 2015)深度学习与深度数据科学.
+
+* [《Zhi-Hua Zhou Papers》](https://scholar.google.com/citations?user=rSVIHasAAAAJ&hl=zh-CN&oi=ao)
+
+介绍:推荐南京大学南京大学机器学习与数据挖掘研究所所长——周志华教授的主页.
