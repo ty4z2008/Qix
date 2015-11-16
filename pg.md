@@ -577,3 +577,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《Writing Postgres Extensions - Debugging》](http://big-elephants.com/2015-10/writing-postgres-extensions-part-iii/)
 
 介绍:PostgreSQL插件开发.
+
+* [《PostgreSQL: A full text search engine》](http://shisaa.jp/postset/postgresql-full-text-search-part-1.html)
+
+介绍:PostgreSQL全文搜索引擎剖析[part2](http://shisaa.jp/postset/postgresql-full-text-search-part-2.html),[part3](http://shisaa.jp/postset/postgresql-full-text-search-part-3.html).
