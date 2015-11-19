@@ -603,3 +603,15 @@
 * [《Advanced Linear Models for Data Science》](https://leanpub.com/lm)
 
 介绍:免费书:面向数据科学的高级线性模型.
+
+* [《Net2Net: Accelerating Learning via Knowledge Transfer》](http://arxiv.org/abs/1511.05641)
+
+介绍:基于知识迁移的神经网络高效训练Net2Net.
+
+* [《徐亦达机器学习课程 Variational Inference》](https://www.youtube.com/playlist?list=PLFze15KrfxbF0n1zTNoFIaDpxnSyfgNgc)
+
+介绍:徐亦达机器学习课程 Variational Inference.
+
+* [《Learning the Architecture of Deep Neural Networks》](http://arxiv.org/abs/1511.05497v1)
+
+介绍:深度神经网络结构学习.
