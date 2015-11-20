@@ -592,4 +592,4 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 * [《Benchmarking Postgres-XL》](http://blog.2ndquadrant.com/benchmarking-postgres-xl/)
 
-介绍:Postgres-XL压力测试分析.
+介绍:Postgres-XL压力测试分析,博客中的[其他内容](http://blog.2ndquadrant.com/)也很有料.
