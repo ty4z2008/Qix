@@ -581,3 +581,11 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《PostgreSQL: A full text search engine》](http://shisaa.jp/postset/postgresql-full-text-search-part-1.html)
 
 介绍:PostgreSQL全文搜索引擎剖析[part2](http://shisaa.jp/postset/postgresql-full-text-search-part-2.html),[part3](http://shisaa.jp/postset/postgresql-full-text-search-part-3.html).
+
+* [《PostgreSQL-Consulting.com》](http://blog.postgresql-consulting.com/)
+
+介绍:这是一个PG商业顾问的博客，里面提供的pg性能调优，部署，迁移等博文.
+
+* [《PostgreSQL Planet》](http://planet.postgresql.org/)
+
+介绍:PostgreSQL官方的一个pg文章news.
