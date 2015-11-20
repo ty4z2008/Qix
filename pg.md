@@ -589,3 +589,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《PostgreSQL Planet》](http://planet.postgresql.org/)
 
 介绍:PostgreSQL官方的一个pg文章news.
+
+* [《Benchmarking Postgres-XL》](http://blog.2ndquadrant.com/benchmarking-postgres-xl/)
+
+介绍:Postgres-XL压力测试分析.
