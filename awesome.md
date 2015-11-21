@@ -154,3 +154,7 @@
 * [《The Architecture of Open Source Applications》](http://aosabook.org/en/index.html)
 
 介绍:开源软件架构分析
+
+* [《How to Have a Bad Career in Research/Academia》](http://pages.cs.wisc.edu/~markhill/patterson_bad_career_98.pdf)
+
+介绍:如何在学术界获得一个不好的职业生涯[地址](https://www.youtube.com/watch?v=Pbdo-ozuOug)
