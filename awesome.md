@@ -157,4 +157,4 @@
 
 * [《How to Have a Bad Career in Research/Academia》](http://pages.cs.wisc.edu/~markhill/patterson_bad_career_98.pdf)
 
-介绍:强烈推荐美国三院院士、ACM及IEEE Fellow、伯克利计算机系教授David Patterson昨天关于做学术研究的经典演讲《如何在学术界获得一个不好的职业生涯》 作者讲述了其从摔跤手开始，读研经费被砍，意外当上伯克利教授，成为RISC大神领悟到的各种体会。推荐本科和研究生学习。[地址](https://www.youtube.com/watch?v=Pbdo-ozuOug)
+介绍:强烈推荐美国三院院士、ACM及IEEE Fellow、伯克利计算机系教授[David Patterson](http://www.eecs.berkeley.edu/Faculty/Homepages/patterson.html)昨天关于做学术研究的经典演讲《如何在学术界获得一个不好的职业生涯》 作者讲述了其从摔跤手开始，读研经费被砍，意外当上伯克利教授，成为RISC大神领悟到的各种体会。推荐本科和研究生学习。[地址](https://www.youtube.com/watch?v=Pbdo-ozuOug)
