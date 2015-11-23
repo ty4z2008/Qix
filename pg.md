@@ -598,3 +598,6 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍:PostgreSQL视频教程.
 
+* [《PostgreSQL Replication Tutorial》](https://www.youtube.com/watch?v=GobQw9LMEaw)
+
+介绍：PostgreSQL Replication Tutorial
