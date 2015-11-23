@@ -615,3 +615,15 @@
 * [《Learning the Architecture of Deep Neural Networks》](http://arxiv.org/abs/1511.05497v1)
 
 介绍:深度神经网络结构学习.
+
+* [《Multimodal Deep Learning》](http://ai.stanford.edu/~ang/papers/icml11-MultimodalDeepLearning.pdf)
+
+介绍:来自斯坦福大学的Multimodal Deep Learning papers.
+
+* [《深度学习简析,TensorFlow,Torch,Theano,Mxnet》](http://chiffon.gitcafe.io/2015/11/16/long.html)
+
+介绍:深度学习简析,TensorFlow,Torch,Theano,Mxnet.
+
+* [《"Notes Essays —CS183C: Technology-enabled Blitzscaling — Stanford University》](https://medium.com/notes-essays-cs183c-technology-enabled-blitzscalin/latest)
+
+介绍:这个专栏是一个stanford学生做的CS183c课程的一个note，该课程是由Reid Hoffman等互联网boss级人物开设的，每节课请一位巨头公司的相关负责人来做访谈，讲述该公司是怎么scale的。最新两期分别请到了雅虎的梅姐和airbnb创始人Brian Chesky。.
