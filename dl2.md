@@ -627,3 +627,15 @@
 * [《"Notes Essays —CS183C: Technology-enabled Blitzscaling — Stanford University》](https://medium.com/notes-essays-cs183c-technology-enabled-blitzscalin/latest)
 
 介绍:这个专栏是一个stanford学生做的CS183c课程的一个note，该课程是由Reid Hoffman等互联网boss级人物开设的，每节课请一位巨头公司的相关负责人来做访谈，讲述该公司是怎么scale的。最新两期分别请到了雅虎的梅姐和airbnb创始人Brian Chesky。.
+
+* [《Natural Language Understanding with Distributed Representation》](https://github.com/nyu-dl/NLP_DL_Lecture_Note)
+
+介绍:基于分布式表示的自然语言理解(100+页),[论文](http://arxiv.org/abs/1511.07916).
+
+* [《Recommender Systems Handbook》](http://link.springer.com/book/10.1007/978-1-4899-7637-6)
+
+介绍:推荐系统手册.
+
+* [《Understanding LSTM Networks》](http://colah.github.io/posts/2015-08-Understanding-LSTMs/index.html)
+
+介绍:理解LSTM网络[翻译](http://www.csdn.net/article/2015-11-25/2826323).
