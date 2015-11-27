@@ -267,3 +267,7 @@
 * [《Golang News News for Go programmers》](http://golangnews.com/)
 
 介绍：GoLang news.
+
+* [《fasthttp:Fast HTTP package for Go》](https://github.com/valyala/fasthttp)
+
+介绍：Fast HTTP package for Go.
