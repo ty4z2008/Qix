@@ -639,3 +639,7 @@
 * [《Understanding LSTM Networks》](http://colah.github.io/posts/2015-08-Understanding-LSTMs/index.html)
 
 介绍:理解LSTM网络[翻译](http://www.csdn.net/article/2015-11-25/2826323).
+
+* [《Machine Learning at Quora》](https://www.linkedin.com/pulse/machine-learning-quora-xavier-amatriain)
+
+介绍:机器学习在quora中的应用.
