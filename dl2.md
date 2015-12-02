@@ -643,3 +643,12 @@
 * [《Machine Learning at Quora》](https://www.linkedin.com/pulse/machine-learning-quora-xavier-amatriain)
 
 介绍:机器学习在quora中的应用.
+
+* [《On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models》](http://arxiv.org/abs/1511.09249)
+
+介绍:思维学习——RL+RNN算法信息论.
+
+* [《The 5 Ways Data Scientists Keep Learning After College》](https://blog.rjmetrics.com/2015/12/01/the-5-ways-data-scientists-keep-learning-after-college/)
+
+介绍:数据科学家毕业后继续学习的5种方式.
+
