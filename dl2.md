@@ -652,7 +652,7 @@
 
 介绍:数据科学家毕业后继续学习的5种方式.
 
-* [《Advances in Neural Information Processing Systems 28 (NIPS 2015)》](https://papers.nips.cc/book/advances-in-neural-information-processing-systems-28-2015)
+* [《Deep Learning in Neural Networks: An Overview》](http://arxiv.org/abs/1404.7828)
 
-介绍:机器学习顶级会议之一的NIPS2015全部论文下载.
+介绍:深度学习在神经网络的应用.
 
