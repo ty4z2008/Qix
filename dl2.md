@@ -656,3 +656,6 @@
 
 介绍:深度学习在神经网络的应用.
 
+* [《Contextual Learning》](http://arxiv.org/abs/1511.06429)
+
+介绍:上下文学习,[代码](https://gitlab.tubit.tu-berlin.de/rbo-lab/concarne).
