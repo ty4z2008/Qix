@@ -659,3 +659,7 @@
 * [《Contextual Learning》](http://arxiv.org/abs/1511.06429)
 
 介绍:上下文学习,[代码](https://gitlab.tubit.tu-berlin.de/rbo-lab/concarne).
+
+* [《Machine Learning For Complete Beginners》](http://pythonforengineers.com/machine-learning-for-complete-beginners/)
+
+介绍:机器学习零基础入门,[代码](https://github.com/shantnu/Titanic-Machine-Learning).
