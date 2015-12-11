@@ -668,3 +668,6 @@
 
 介绍:2015年度CCF优秀博士学位论文奖论文列表.
 
+* [《Learning to Hash Paper, Code and Dataset》](http://cs.nju.edu.cn/lwj/L2H.html)
+
+介绍:Learning to Hash Paper, Code and Dataset.
