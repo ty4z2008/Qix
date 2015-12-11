@@ -663,3 +663,8 @@
 * [《Machine Learning For Complete Beginners》](http://pythonforengineers.com/machine-learning-for-complete-beginners/)
 
 介绍:机器学习零基础入门,[代码](https://github.com/shantnu/Titanic-Machine-Learning).
+
+* [《2015年中国计算机学会（CCF）优秀博士学位论文》](http://www.ccf.org.cn/sites/ccf/xhdtnry.jsp?contentId=2897719129810)
+
+介绍:2015年度CCF优秀博士学位论文奖论文列表.
+
