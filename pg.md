@@ -601,3 +601,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《PostgreSQL Replication Tutorial》](https://www.youtube.com/watch?v=GobQw9LMEaw)
 
 介绍：PostgreSQL Replication Tutorial
+
+* [《PostgreSQL锁机制分析》](http://mp.weixin.qq.com/s?__biz=MzIwNzEzNDkxNQ==&mid=400885298&idx=1&sn=76df79eff99131cf6e64991b1629e8c9&scene=7#wechat_redirect)
+
+介绍：PostgreSQL锁机制分析,[第二部分](http://mp.weixin.qq.com/s?__biz=MzIwNzEzNDkxNQ==&mid=400897914&idx=1&sn=e83f15ba1b62abfd9e01cd7b08b87cc7&scene=4#wechat_redirect)
