@@ -671,3 +671,11 @@
 * [《Learning to Hash Paper, Code and Dataset》](http://cs.nju.edu.cn/lwj/L2H.html)
 
 介绍:Learning to Hash Paper, Code and Dataset.
+
+* [《Neural networks with Theano and Lasagne》](https://www.youtube.com/watch?v=dtGhSE1PFh0)
+
+介绍:(PyData2015)基于Theano/Lasagne的CNN/RNN教程,[github](https://github.com/ebenolson/pydata2015).
+
+* [《神经网络与深度学习讲义》](http://vdisk.weibo.com/s/ayG13we2lUaEz)
+
+介绍:复旦大学[邱锡鹏](http://weibo.com/xpqiu)老师编写的神经网络与深度学习讲义.
