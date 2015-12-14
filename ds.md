@@ -401,3 +401,6 @@
 
 介绍:使用Redis实现分布式锁.
 
+* [《CS244b: Distributed Systems》](http://www.scs.stanford.edu/14au-cs244b/)
+
+介绍: 斯坦福2014年秋季分布式课程.
