@@ -392,3 +392,8 @@
 * [《从零开始写分布式数据库》](https://github.com/ngaut/builddatabase)
 
 介绍:本文以[TiDB](https://github.com/pingcap/tidb) 源码为例.
+
+* [《what we talk about when we talk about distributed systems》](http://videlalvaro.github.io/2015/12/learning-about-distributed-systems.html)
+
+介绍:分布式系统概念梳理,为分布式系统涉及的主要概念进行了梳理.
+
