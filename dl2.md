@@ -679,3 +679,7 @@
 * [《神经网络与深度学习讲义》](http://vdisk.weibo.com/s/ayG13we2lUaEz)
 
 介绍:复旦大学[邱锡鹏](http://weibo.com/xpqiu)老师编写的神经网络与深度学习讲义.
+
+* [《Microsoft Open Sources Distributed Machine Learning Toolkit》](http://www.dmtk.io/index.html)
+
+介绍:微软亚洲研究院开源分布式机器学习工具包.
