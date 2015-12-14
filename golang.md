@@ -271,3 +271,8 @@
 * [《fasthttp:Fast HTTP package for Go》](https://github.com/valyala/fasthttp)
 
 介绍：Fast HTTP package for Go.
+
+* [《fasthttp:Fast HTTP package for Go》](http://golang-china.github.io/gopl-zh/)
+
+介绍：[《The Go Programming Language》](http://gopl.io/) 的 读书笔记 和 习题解答.
+
