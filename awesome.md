@@ -165,4 +165,8 @@
 
 * [《How to Make a Computer Operating System》](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
 
-介绍:使用 C/C++写一个操作系统
+介绍:使用 C/C++写一个操作系统.
+
+* [《Freely available programming books》](https://github.com/vhf/free-programming-books)
+
+介绍:免费编程电子书
