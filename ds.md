@@ -404,3 +404,7 @@
 * [《CS244b: Distributed Systems》](http://www.scs.stanford.edu/14au-cs244b/)
 
 介绍: 斯坦福2014年秋季分布式课程.
+
+* [《RAMP Made Easy》](http://rustyrazorblade.com/2015/11/ramp-made-easy/)
+
+介绍: 分布式的“读原子性”.
