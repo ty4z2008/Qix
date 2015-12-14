@@ -397,3 +397,7 @@
 
 介绍:分布式系统概念梳理,为分布式系统涉及的主要概念进行了梳理.
 
+* [《Distributed locks with Redis》](http://redis.io/topics/distlock)
+
+介绍:使用Redis实现分布式锁.
+
