@@ -174,3 +174,7 @@
 * [《Awesome Interviews》](https://github.com/MaximAbramchuck/awesome-interviews)
 
 介绍:面试Awesome系列
+
+* [《You Don't Need jQuery》](https://github.com/oneuijs/You-Dont-Need-jQuery)
+
+介绍:jQuery替代方案
