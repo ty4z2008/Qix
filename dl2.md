@@ -676,7 +676,7 @@
 
 介绍:(PyData2015)基于Theano/Lasagne的CNN/RNN教程,[github](https://github.com/ebenolson/pydata2015).
 
-* [《神经网络与深度学习讲义》](http://vdisk.weibo.com/s/ayG13we2lUaEz)
+* [《神经网络与深度学习讲义》](http://vdisk.weibo.com/s/ayG13we2ltDAT)
 
 介绍:复旦大学[邱锡鹏](http://weibo.com/xpqiu)老师编写的神经网络与深度学习讲义.
 
