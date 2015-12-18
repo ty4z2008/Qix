@@ -683,3 +683,7 @@
 * [《Microsoft Open Sources Distributed Machine Learning Toolkit》](http://www.dmtk.io/index.html)
 
 介绍:微软亚洲研究院开源分布式机器学习工具包.
+
+* [《语音识别的技术原理是什么？》](https://www.zhihu.com/question/20398418)
+
+介绍:语音识别的技术原理浅析
