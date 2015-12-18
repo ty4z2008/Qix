@@ -10,6 +10,18 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍:PostgreSQL 源码分析系列
 
+* [《PG 内存上下文》](http://www.zhangxiaojian.name/?p=447)
+
+介绍：PG 内存上下文,[code](https://github.com/zhangxiaojian/memoryContext)
+
+* [《PostgreSQL 中的 Json —从使用到源码》](http://www.zhangxiaojian.name/?p=317)
+
+介绍：PostgreSQL 中的 Json —从使用到源码
+
+* [《PostgreSQL锁机制分析》](http://mp.weixin.qq.com/s?__biz=MzIwNzEzNDkxNQ==&mid=400885298&idx=1&sn=76df79eff99131cf6e64991b1629e8c9&scene=7#wechat_redirect)
+
+介绍：PostgreSQL锁机制分析,[第二部分](http://mp.weixin.qq.com/s?__biz=MzIwNzEzNDkxNQ==&mid=400897914&idx=1&sn=e83f15ba1b62abfd9e01cd7b08b87cc7&scene=4#wechat_redirect)
+
 >   :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:
 
 * [《PostgreSQL Documentation》](http://www.postgresql.org/docs/manuals/)
@@ -609,10 +621,6 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《PostgreSQL Replication Tutorial》](https://www.youtube.com/watch?v=GobQw9LMEaw)
 
 介绍：PostgreSQL Replication Tutorial
-
-* [《PostgreSQL锁机制分析》](http://mp.weixin.qq.com/s?__biz=MzIwNzEzNDkxNQ==&mid=400885298&idx=1&sn=76df79eff99131cf6e64991b1629e8c9&scene=7#wechat_redirect)
-
-介绍：PostgreSQL锁机制分析,[第二部分](http://mp.weixin.qq.com/s?__biz=MzIwNzEzNDkxNQ==&mid=400897914&idx=1&sn=e83f15ba1b62abfd9e01cd7b08b87cc7&scene=4#wechat_redirect)
 
 * [《PostgreSQL 9.3.4 文档》](http://totemdb.whu.edu.cn/personal/ywpeng/PGDOC/934/index.html)
 
