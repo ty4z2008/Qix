@@ -5,6 +5,11 @@
 About:[PostgreSQL About](http://www.postgresql.org/about/)
 [《PostgreSQL 源码分析系列》](#pg_kernel)
 
+* <a name="pg_kernel"/> PostgreSQL 源码分析系列
+
+介绍:PostgreSQL 源码分析系列
+
+
 * [《PostgreSQL Documentation》](http://www.postgresql.org/docs/manuals/)
 
 介绍：PostgreSQL官方文档主页
@@ -611,6 +616,4 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍:这份文档的译者是<PostgreSQL数据库内核分析>作者,翻译很专业
 
-* <a name="pg_kernel"/> PostgreSQL 源码分析系列
 
-介绍:PostgreSQL 源码分析系列
