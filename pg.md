@@ -605,3 +605,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《PostgreSQL锁机制分析》](http://mp.weixin.qq.com/s?__biz=MzIwNzEzNDkxNQ==&mid=400885298&idx=1&sn=76df79eff99131cf6e64991b1629e8c9&scene=7#wechat_redirect)
 
 介绍：PostgreSQL锁机制分析,[第二部分](http://mp.weixin.qq.com/s?__biz=MzIwNzEzNDkxNQ==&mid=400897914&idx=1&sn=e83f15ba1b62abfd9e01cd7b08b87cc7&scene=4#wechat_redirect)
+
+* [《PostgreSQL 9.3.4 文档》](http://totemdb.whu.edu.cn/personal/ywpeng/PGDOC/934/index.html)
+
+介绍:这份文档的译者是<PostgreSQL数据库内核分析>作者,翻译很专业
