@@ -626,4 +626,6 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍:这份文档的译者是<PostgreSQL数据库内核分析>作者,翻译很专业
 
+* [《ngx_postgres》](https://github.com/FRiCKLE/ngx_postgres)
 
+介绍:nginx访问Postgresql
