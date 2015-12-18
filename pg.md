@@ -3,6 +3,7 @@
 ![PostgreSQL](https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png)
 
 About:[PostgreSQL About](http://www.postgresql.org/about/)
+[《PostgreSQL 源码分析系列》](#pg_kernel)
 
 * [《PostgreSQL Documentation》](http://www.postgresql.org/docs/manuals/)
 
@@ -609,3 +610,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《PostgreSQL 9.3.4 文档》](http://totemdb.whu.edu.cn/personal/ywpeng/PGDOC/934/index.html)
 
 介绍:这份文档的译者是<PostgreSQL数据库内核分析>作者,翻译很专业
+
+* <a name="pg_kernel"/> PostgreSQL 源码分析系列
+
+介绍:PostgreSQL 源码分析系列
