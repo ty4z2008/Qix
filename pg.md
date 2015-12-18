@@ -10,7 +10,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍:PostgreSQL 源码分析系列
 
-> 分割线
+> 分割线 :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: 
 
 * [《PostgreSQL Documentation》](http://www.postgresql.org/docs/manuals/)
 
