@@ -38,9 +38,13 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍：文章包括pg_stat_statements源代码分析,PostgreSQL的hook机制初步学习,EDB*Plus的client_encoding问题,PostgreSQL的索引膨胀,libpq 与 fe-misc.c,libpq 练习的入口点,Autovacuum 的运行限制,autovacuum 与 vacuum full,autoanalyze 的注意事项,backuplabel file 初步学习,HOT（Heap-Only Tuples）,Checkpoint 发生的时机,checkpoint 活动,pg_buffercache 代码研究,内存结构图示,内存使用增长观察,使用cgroups来控制内存使用,调整内存与IO的参数说明,MVCC图示,ListenSocket 的研究
 
-* [《PostgreSQL源码分析之page》](http://blog.chinaunix.net/uid-24774106-id-3764606.html)
+* [《CreateLockFile》](http://blog.csdn.net/huguangshanse00/article/details/40479995)
 
-介绍：PostgreSQL源码分析之page
+介绍：PostgreSQL CreateLockFile分析
+
+* [《动态Hash》](http://blog.csdn.net/li_shugan1/article/details/7975571)
+
+介绍：动态Hash
 
 >   :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:
 
