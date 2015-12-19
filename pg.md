@@ -52,7 +52,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 
 
->   :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:
+>   :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: 
 
 * [《PostgreSQL Documentation》](http://www.postgresql.org/docs/manuals/)
 
@@ -658,4 +658,8 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 * [《ngx_postgres》](https://github.com/FRiCKLE/ngx_postgres)
 
-介绍:nginx访问Postgresql
+介绍:nginx访问Postgresql模块
+
+* [《How PostgreSQL Processes a Query》](http://anoncvs.postgresql.org/cvsweb.cgi/~checkout~/pgsql/src/tools/backend/index.html)
+
+介绍:pg是如何处理一个查询的？
