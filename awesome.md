@@ -178,3 +178,7 @@
 * [《You Don't Need jQuery》](https://github.com/oneuijs/You-Dont-Need-jQuery)
 
 介绍:jQuery替代方案
+
+* [《What source code is worth studying?》](https://news.ycombinator.com/item?id=879101)
+
+介绍:如何选择一些好的源码学习,[What source code is worth studying?02](https://news.ycombinator.com/item?id=879101),[What source code is worth studying?02](https://news.ycombinator.com/item?id=7602237)
