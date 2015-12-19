@@ -22,6 +22,26 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍：PostgreSQL锁机制分析,[第二部分](http://mp.weixin.qq.com/s?__biz=MzIwNzEzNDkxNQ==&mid=400897914&idx=1&sn=e83f15ba1b62abfd9e01cd7b08b87cc7&scene=4#wechat_redirect)
 
+* [《FSM》](http://blog.chinaunix.net/uid-24774106-id-3764994.html)
+
+介绍：PostgreSQL源码分析之FSM
+
+* [《page》](http://blog.chinaunix.net/uid-24774106-id-3764606.html)
+
+介绍：PostgreSQL源码分析之page
+
+* [《shared buffer状态信息及性能测量 》](http://blog.chinaunix.net/uid-24774106-id-3761861.html)
+
+介绍：PostgreSQL源码分析之shared buffer状态信息及性能测量,推荐[shared buffer的分配与替换](http://blog.chinaunix.net/uid-24774106-id-3761272.html),[shared buffer与磁盘文件 ](http://blog.chinaunix.net/uid-24774106-id-3761123.html),[database和table 与磁盘文件的对应](http://blog.chinaunix.net/uid-24774106-id-3757916.html)
+
+* [《PostgreSQL内部结构与源代码研究索引页》](http://www.cnblogs.com/gaojian/p/3261568.html)
+
+介绍：文章包括pg_stat_statements源代码分析,PostgreSQL的hook机制初步学习,EDB*Plus的client_encoding问题,PostgreSQL的索引膨胀,libpq 与 fe-misc.c,libpq 练习的入口点,Autovacuum 的运行限制,autovacuum 与 vacuum full,autoanalyze 的注意事项,backuplabel file 初步学习,HOT（Heap-Only Tuples）,Checkpoint 发生的时机,checkpoint 活动,pg_buffercache 代码研究,内存结构图示,内存使用增长观察,使用cgroups来控制内存使用,调整内存与IO的参数说明,MVCC图示,ListenSocket 的研究
+
+* [《PostgreSQL源码分析之page》](http://blog.chinaunix.net/uid-24774106-id-3764606.html)
+
+介绍：PostgreSQL源码分析之page
+
 >   :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:
 
 * [《PostgreSQL Documentation》](http://www.postgresql.org/docs/manuals/)
