@@ -695,3 +695,7 @@
 * [《Geoff Hinton》](http://www.cs.toronto.edu/~hinton/)
 
 介绍:杰弗里·埃弗里斯特·辛顿 FRS是一位英国出生的计算机学家和心理学家，以其在神经网络方面的贡献闻名。辛顿是反向传播算法和对比散度算法的发明人之一，也是深度学习的积极推动者.通过他的主页可以发掘到很多Paper以及优秀学生的paper,此外推荐他的学生[Yann Lecun](http://yann.lecun.com/)主页
+
+* [《Yoshua Bengio》](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html)
+
+介绍:Yoshua Bengio是机器学习方向的牛人,如果你不知道可以阅读[对话机器学习大神Yoshua Bengio（上）](http://www.infoq.com/cn/articles/ask-yoshua-bengio),[对话机器学习大神Yoshua Bengio（下）](http://www.infoq.com/cn/articles/ask-yoshua-bengio-2)
