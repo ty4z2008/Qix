@@ -8,7 +8,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 * <a name="pg_kernel"/> PostgreSQL 源码分析系列
 
-介绍:PostgreSQL 源码分析系列
+介绍:PostgreSQL 源码分析系列文章
 
 * [《PG 内存上下文》](http://www.zhangxiaojian.name/?p=447)
 
