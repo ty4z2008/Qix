@@ -699,3 +699,12 @@
 * [《Yoshua Bengio》](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html)
 
 介绍:Yoshua Bengio是机器学习方向的牛人,如果你不知道可以阅读[对话机器学习大神Yoshua Bengio（上）](http://www.infoq.com/cn/articles/ask-yoshua-bengio),[对话机器学习大神Yoshua Bengio（下）](http://www.infoq.com/cn/articles/ask-yoshua-bengio-2)
+
+* [《Large Scale Deep Learning within google》](http://static.googleusercontent.com/media/research.google.com/en/us/people/jeff/CIKM-keynote-Nov2014.pdf)
+
+介绍:google大规模深度学习应用演进
+
+* [《Deep Learning: An MIT Press Book in Preparation》](http://goodfeli.github.io/dlbook/)
+
+介绍:MIT出版的深度学习电子书,公开电子书
+
