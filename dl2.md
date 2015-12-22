@@ -708,3 +708,11 @@
 
 介绍:MIT出版的深度学习电子书,公开电子书
 
+* [《A Mathematical Theory of Deep Convolutional Neural Networks for Feature Extraction》](http://arxiv.org/abs/1512.06293)
+
+介绍:深度卷积神经网络(CNN)提取特征的数学理论
+
+* [《Microsoft Research Asia：Kaiming He》](http://research.microsoft.com/en-us/um/people/kahe/)
+
+介绍:推荐微软亚洲研究院何恺明主页
+
