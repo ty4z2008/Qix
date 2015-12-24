@@ -58,6 +58,11 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍: PG内部机制分析.
 
+* [《为PostgreSQL添加插件》](http://my.oschina.net/Suregogo/blog/550201)
+
+介绍: 利用pg的hook机制为pg添加插件.
+
+
 >   :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: 
 
 * [《PostgreSQL Documentation》](http://www.postgresql.org/docs/manuals/)
