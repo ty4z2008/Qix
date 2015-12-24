@@ -716,3 +716,11 @@
 
 介绍:推荐微软亚洲研究院何恺明主页
 
+* [《Speech and Language Processing (3rd ed. draft)》](http://web.stanford.edu/~jurafsky/slp3/)
+
+介绍:《语音与语言处理》第三版(草稿)
+
+* [《LSA 311: Computational Lexical Semantics - Summer 2015》](http://web.stanford.edu/~jurafsky/li15/)
+
+介绍:Stanford新课"计算词汇语义学"
+
