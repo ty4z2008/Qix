@@ -724,3 +724,6 @@
 
 介绍:Stanford新课"计算词汇语义学"
 
+* [《上海交大张志华老师的统计机器学习与机器学习导论视频》](http://ocw.sjtu.edu.cn/G2S/OCW/cn/CourseDetails.htm?Id=397)
+
+介绍:上海交大张志华老师的统计机器学习与机器学习导论视频[链接:](http://pan.baidu.com/s/1mgPi7jU )密码: r9ak .[概率基础](http://ocw.sjtu.edu.cn/G2S/OCW/cn/CourseDetails.htm?Id=398)
