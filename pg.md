@@ -675,3 +675,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《Common misconceptions about locking in PostgreSQL》](https://www.compose.io/articles/common-misconceptions-about-locking-in-postgresql/)
 
 介绍:pg中容易误解的锁
+
+* [《PostgreSQL Big SQL commponent》](http://www.bigsql.org/se/components.jsp)
+
+介绍:pg大数据工具箱
