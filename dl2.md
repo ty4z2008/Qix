@@ -731,3 +731,7 @@
 * [《Computational Linguistics and Deep Learning》](http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00239)
 
 介绍:computational linguistics and deep learning[视频](http://techtalks.tv/talks/computational-linguistics-and-deep-learning/61759/),推荐[Deep Learning: An Introduction from the NLP Perspective](https://speakerdeck.com/baojie/deep-learning-an-introduction-from-the-nlp-perspective-by-kevin-duh)
+
+* [《Black Hat USA 2015 - Deep Learning On Disassembly》](https://www.youtube.com/watch?v=zfVfpMcUkq8)
+
+介绍:(BlackHat2015)深度学习应用之流量鉴别(协议鉴别/异常检测),[slide])(https://www.blackhat.com/docs/us-15/materials/us-15-Wang-The-Applications-Of-Deep-Learning-On-Traffic-Identification.pdf),[material](https://www.blackhat.com/docs/us-15/materials/us-15-Wang-The-Applications-Of-Deep-Learning-On-Traffic-Identification-wp.pdf)
