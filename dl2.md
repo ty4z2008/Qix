@@ -678,7 +678,7 @@
 
 * [《神经网络与深度学习讲义》](http://vdisk.weibo.com/s/ayG13we2ltDAT)
 
-介绍:复旦大学[邱锡鹏](http://weibo.com/xpqiu)老师编写的神经网络与深度学习讲义.
+介绍:复旦大学[邱锡鹏](http://weibo.com/xpqiu)老师编写的神经网络与深度学习讲义,[ppt](http://vdisk.weibo.com/s/ayG13we2lDzcV).
 
 * [《Microsoft Open Sources Distributed Machine Learning Toolkit》](http://www.dmtk.io/index.html)
 
@@ -739,3 +739,7 @@
 * [《LibRec：A Java Library for Recommender Systems》](http://www.librec.net/)
 
 介绍:一个推荐系统的Java库
+
+* [《Multi-centrality Graph Spectral Decompositions and their Application to Cyber Intrusion Detection》](http://arxiv.org/abs/1512.07372)
+
+介绍:多中心图的谱分解及其在网络入侵检测中的应用(MC-GPCA&MC-GDL)
