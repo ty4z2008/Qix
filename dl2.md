@@ -735,3 +735,7 @@
 * [《Black Hat USA 2015 - Deep Learning On Disassembly》](https://www.youtube.com/watch?v=zfVfpMcUkq8)
 
 介绍:(BlackHat2015)深度学习应用之流量鉴别(协议鉴别/异常检测),[slide])(https://www.blackhat.com/docs/us-15/materials/us-15-Wang-The-Applications-Of-Deep-Learning-On-Traffic-Identification.pdf),[material](https://www.blackhat.com/docs/us-15/materials/us-15-Wang-The-Applications-Of-Deep-Learning-On-Traffic-Identification-wp.pdf)
+
+* [《LibRec：A Java Library for Recommender Systems》](http://www.librec.net/)
+
+介绍:一个推荐系统的Java库
