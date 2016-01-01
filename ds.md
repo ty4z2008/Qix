@@ -428,3 +428,7 @@
 * [《What is the best resource to learn about distributed systems?》](https://www.quora.com/What-is-the-best-resource-to-learn-about-distributed-systems)
 
 介绍: 分布式系统学习资源.
+
+* [《What are some high performance TCP hacks?》](https://www.quora.com/What-are-some-high-performance-TCP-hacks)
+
+介绍: 一些高性能TCP黑客技巧.
