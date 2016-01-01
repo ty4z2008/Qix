@@ -412,3 +412,7 @@
 * [《Strategies and Principles of Distributed Machine Learning on Big Data》](http://arxiv.org/abs/1512.09295)
 
 介绍: 大数据分布式机器学习的策略与原理.
+
+* [《Distributed Systems: What is the CAP theorem?》](https://www.quora.com/Distributed-Systems/What-is-the-CAP-theorem)
+
+介绍: 分布式CAP法则.
