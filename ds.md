@@ -408,3 +408,7 @@
 * [《RAMP Made Easy》](http://rustyrazorblade.com/2015/11/ramp-made-easy/)
 
 介绍: 分布式的“读原子性”.
+
+* [《Strategies and Principles of Distributed Machine Learning on Big Data》](http://arxiv.org/abs/1512.09295)
+
+介绍: 大数据分布式机器学习的策略与原理.
