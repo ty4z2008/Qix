@@ -420,3 +420,7 @@
 * [《How should I start to learn distributed storage system as a beginner?》](https://www.quora.com/How-should-I-start-to-learn-distributed-storage-system-as-a-beginner)
 
 介绍: 新手如何步入分布式存储系统.
+
+* [《Cassandra - A Decentralized Structured Storage System》](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
+
+介绍: 分布式存储系统Cassandra剖析,推荐白皮书[Introduction to Apache Cassandra](http://www.datastax.com/wp-content/uploads/2012/08/WP-IntrotoCassandra.pdf).
