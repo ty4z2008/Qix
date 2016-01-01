@@ -416,3 +416,7 @@
 * [《Distributed Systems: What is the CAP theorem?》](https://www.quora.com/Distributed-Systems/What-is-the-CAP-theorem)
 
 介绍: 分布式CAP法则.
+
+* [《How should I start to learn distributed storage system as a beginner?》](https://www.quora.com/How-should-I-start-to-learn-distributed-storage-system-as-a-beginner)
+
+介绍: 新手如何步入分布式存储系统.
