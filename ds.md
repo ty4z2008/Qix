@@ -162,7 +162,7 @@
 
 * [《Tera》](https://github.com/BaiduPS/tera)
 
-介绍:分布式表格系统.
+介绍:来自百度的分布式表格系统.
 
 * [《Distributed systems: for fun and profit》](https://github.com/mixu/distsysbook)
 
@@ -432,3 +432,11 @@
 * [《What are some high performance TCP hacks?》](https://www.quora.com/What-are-some-high-performance-TCP-hacks)
 
 介绍: 一些高性能TCP黑客技巧.
+
+* [《Maintaining performance in distributed systems》](https://speakerdeck.com/elasticsearch/maintaining-performance-in-distributed-systems)
+
+介绍:分布式系统性能提升.
+
+* [《Maintaining performance in distributed systems》](https://speakerdeck.com/elasticsearch/maintaining-performance-in-distributed-systems)
+
+介绍:分布式系统性能提升.
