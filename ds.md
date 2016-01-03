@@ -437,6 +437,6 @@
 
 介绍:分布式系统性能提升.
 
-* [《Maintaining performance in distributed systems》](https://speakerdeck.com/elasticsearch/maintaining-performance-in-distributed-systems)
+* [《A simple totally ordered broadcast protocol》](http://diyhpl.us/~bryan/papers2/distributed/distributed-systems/zab.totally-ordered-broadcast-protocol.2008.pdf)
 
-介绍:分布式系统性能提升.
+介绍:Benjamin Reed 和 Flavio P.Junqueira 所著论文,对 Zab 算法进行了介绍.
