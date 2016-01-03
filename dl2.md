@@ -751,3 +751,9 @@
 * [《New open-source Machine Learning Framework written in Java》](http://blog.datumbox.com/new-open-source-machine-learning-framework-written-in-java/)
 
 介绍:datumbox-framework——Java的开源机器学习框架，该框架重点是提供大量的机器学习算法和统计检验，并能够处理中小规模的数据集
+
+* [《Awesome Recurrent Neural Networks》](http://jiwonkim.org/awesome-rnn/)
+
+介绍:递归神经网络awesome系列,涵盖了书籍,项目,paper等
+
+
