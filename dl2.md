@@ -759,3 +759,7 @@
 * [《Pedro Domingos》](http://homes.cs.washington.edu/~pedrod/)
 
 介绍:Pedro Domingos是华盛顿大学的教授,主要研究方向是机器学习与数据挖掘.在2015年的ACM webinar会议,曾发表了关于[盘点机器学习领域的五大流派](http://www.almosthuman.cn/2015/11/28/t8ysa/)主题演讲.他的个人主页拥有很多相关研究的paper以及他的教授课程.
+
+* [《Video resources for machine learning》](http://dustintran.com/blog/video-resources-for-machine-learning/)
+
+介绍:机器学习视频集锦
