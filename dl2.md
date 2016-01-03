@@ -763,3 +763,7 @@
 * [《Video resources for machine learning》](http://dustintran.com/blog/video-resources-for-machine-learning/)
 
 介绍:机器学习视频集锦
+
+* [《Deep Machine Learning libraries and frameworks》](https://medium.com/@abduljaleel/deep-machine-learning-libraries-and-frameworks-5fdf2bb6bfbe#.lwn2iyjsn)
+
+介绍:深度机器学习库与框架
