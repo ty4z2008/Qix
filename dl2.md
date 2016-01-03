@@ -743,3 +743,11 @@
 * [《Multi-centrality Graph Spectral Decompositions and their Application to Cyber Intrusion Detection》](http://arxiv.org/abs/1512.07372)
 
 介绍:多中心图的谱分解及其在网络入侵检测中的应用(MC-GPCA&MC-GDL)
+
+* [《Computational Statistics in Python》](http://people.duke.edu/~ccc14/sta-663/)
+
+介绍:用Python学计算统计学
+
+* [《New open-source Machine Learning Framework written in Java》](http://blog.datumbox.com/new-open-source-machine-learning-framework-written-in-java/)
+
+介绍:datumbox-framework——Java的开源机器学习框架，该框架重点是提供大量的机器学习算法和统计检验，并能够处理中小规模的数据集
