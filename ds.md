@@ -439,4 +439,4 @@
 
 * [《A simple totally ordered broadcast protocol》](http://diyhpl.us/~bryan/papers2/distributed/distributed-systems/zab.totally-ordered-broadcast-protocol.2008.pdf)
 
-介绍:Benjamin Reed 和 Flavio P.Junqueira 所著论文,对 Zab 算法进行了介绍.
+介绍:Benjamin Reed 和 Flavio P.Junqueira 所著论文,对Zab算法进行了介绍,zab算法是Zookeeper保持数据一致性的核心,在国内有很多公司都使用zookeeper做为分布式的解决方案.推荐与此相关的一篇文章[ZooKeeper’s atomic broadcast protocol: Theory and practice](http://www.tcs.hut.fi/Studies/T-79.5001/reports/2012-deSouzaMedeiros.pdf).
