@@ -767,3 +767,7 @@
 * [《Deep Machine Learning libraries and frameworks》](https://medium.com/@abduljaleel/deep-machine-learning-libraries-and-frameworks-5fdf2bb6bfbe#.lwn2iyjsn)
 
 介绍:深度机器学习库与框架
+
+* [《大数据/数据挖掘/推荐系统/机器学习相关资源》](https://github.com/Flowerowl/Big-Data-Resources)
+
+介绍:这篇文章内的推荐系统资源很丰富,作者很有心,摘录了《推荐系统实战》内引用的论文.
