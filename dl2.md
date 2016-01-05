@@ -771,3 +771,7 @@
 * [《大数据/数据挖掘/推荐系统/机器学习相关资源》](https://github.com/Flowerowl/Big-Data-Resources)
 
 介绍:这篇文章内的推荐系统资源很丰富,作者很有心,摘录了《推荐系统实战》内引用的论文.
+
+* [《Bayesian Methods in Astronomy: Hands-on Statistics》](http://nbviewer.ipython.org/github/jakevdp/AAS227Workshop/blob/master/Index.ipynb)
+
+介绍:(天文学)贝叶斯方法/MCMC教程——统计实战
