@@ -775,3 +775,7 @@
 * [《Bayesian Methods in Astronomy: Hands-on Statistics》](http://nbviewer.ipython.org/github/jakevdp/AAS227Workshop/blob/master/Index.ipynb)
 
 介绍:(天文学)贝叶斯方法/MCMC教程——统计实战
+
+* [《Statistical Learning with Sparsity: The Lasso and Generalizations》](http://web.stanford.edu/~hastie/StatLearnSparsity/index.html)
+
+介绍:免费书:统计稀疏学习,作者[Trevor Hastie](http://web.stanford.edu/~hastie/)与[Rob Tibshirani](http://statweb.stanford.edu/~tibs/)都是斯坦福大学的教授,Trevor Hastie更是在统计学学习上建树很多
