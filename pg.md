@@ -679,3 +679,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《PostgreSQL Big SQL commponent》](http://www.bigsql.org/se/components.jsp)
 
 介绍:pg大数据工具箱
+
+* [《pglogical：A logical replication system for PostgreSQL》](http://2ndquadrant.com/en/resources/pglogical/)
+
+介绍:pg的逻辑复制扩展,兼顾了基于触发器复制技术的灵活性,同时又有基于日志复制技术的高效性
