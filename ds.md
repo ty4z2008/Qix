@@ -440,3 +440,7 @@
 * [《A simple totally ordered broadcast protocol》](http://diyhpl.us/~bryan/papers2/distributed/distributed-systems/zab.totally-ordered-broadcast-protocol.2008.pdf)
 
 介绍:Benjamin Reed 和 Flavio P.Junqueira 所著论文,对Zab算法进行了介绍,zab算法是Zookeeper保持数据一致性的核心,在国内有很多公司都使用zookeeper做为分布式的解决方案.推荐与此相关的一篇文章[ZooKeeper’s atomic broadcast protocol: Theory and practice](http://www.tcs.hut.fi/Studies/T-79.5001/reports/2012-deSouzaMedeiros.pdf).
+
+* [《zFS - A Scalable Distributed File System Using Object Disk》](http://storageconference.us/2003/papers/29-Rodeh-zFS.pdf)
+
+介绍:可扩展的分布式文件系统ZFS,[The Zettabyte File System](https://users.soe.ucsc.edu/~scott/courses/Fall04/221/zfs_overview.pdf),[End-to-end Data Integrity for File Systems: A ZFS Case Study](http://research.cs.wisc.edu/adsl/Publications/zfs-corruption-fast10.pdf).
