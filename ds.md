@@ -444,3 +444,9 @@
 * [《zFS - A Scalable Distributed File System Using Object Disk》](http://storageconference.us/2003/papers/29-Rodeh-zFS.pdf)
 
 介绍:可扩展的分布式文件系统ZFS,[The Zettabyte File System](https://users.soe.ucsc.edu/~scott/courses/Fall04/221/zfs_overview.pdf),[End-to-end Data Integrity for File Systems: A ZFS Case Study](http://research.cs.wisc.edu/adsl/Publications/zfs-corruption-fast10.pdf).
+
+* [《A Distributed Haskell for the Modern Web》](http://videlalvaro.github.io/2015/12/learning-about-distributed-systems.html)
+
+介绍:分布式Haskell在当前web中的应用.
+
+
