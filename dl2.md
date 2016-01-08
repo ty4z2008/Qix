@@ -779,3 +779,7 @@
 * [《Statistical Learning with Sparsity: The Lasso and Generalizations》](http://web.stanford.edu/~hastie/StatLearnSparsity/index.html)
 
 介绍:免费书:统计稀疏学习,作者[Trevor Hastie](http://web.stanford.edu/~hastie/)与[Rob Tibshirani](http://statweb.stanford.edu/~tibs/)都是斯坦福大学的教授,Trevor Hastie更是在统计学学习上建树很多
+
+* [《The Evolution of Distributed Programming in R》](http://www.mango-solutions.com/wp/2016/01/the-evolution-of-distributed-programming-in-r/)
+
+介绍:R分布式计算的进化,此外推荐[(R)气候变化可视化](https://aschinchon.wordpress.com/2016/01/07/climatic-change-at-a-glance/),[(R)马尔可夫链入门](http://blog.revolutionanalytics.com/2016/01/getting-started-with-markov-chains.html)
