@@ -165,4 +165,20 @@
 
 * [《How to Make a Computer Operating System》](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
 
-介绍:使用 C/C++写一个操作系统
+介绍:使用 C/C++写一个操作系统.
+
+* [《Freely available programming books》](https://github.com/vhf/free-programming-books)
+
+介绍:免费编程电子书
+
+* [《Awesome Interviews》](https://github.com/MaximAbramchuck/awesome-interviews)
+
+介绍:面试Awesome系列
+
+* [《You Don't Need jQuery》](https://github.com/oneuijs/You-Dont-Need-jQuery)
+
+介绍:jQuery替代方案
+
+* [《What source code is worth studying?》](https://news.ycombinator.com/item?id=879101)
+
+介绍:如何选择一些好的源码学习,[What source code is worth studying?02](https://news.ycombinator.com/item?id=879101),[What source code is worth studying?02](https://news.ycombinator.com/item?id=7602237)

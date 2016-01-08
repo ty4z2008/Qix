@@ -79,3 +79,7 @@
 * [《Introduction to Algorithms》](http://courses.csail.mit.edu/6.006/fall11/staff.shtml)
 
 介绍:Introduction to Algorithms.
+
+* [《An Open Source Reference Architecture For Real-Time Stock Prediction》](https://blog.pivotal.io/big-data-pivotal/case-studies/an-open-source-reference-architecture-for-real-time-stock-prediction)
+
+介绍:实时股票分析系统的架构与算法[译文](http://www.infoq.com/cn/news/2015/12/open-source-reference-architectu).

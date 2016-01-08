@@ -4,6 +4,67 @@
 
 About:[PostgreSQL About](http://www.postgresql.org/about/)
 
+[《PostgreSQL 源码分析系列》](#pg_kernel)
+
+* <a name="pg_kernel"/> PostgreSQL 源码分析系列
+
+介绍:PostgreSQL 源码分析系列文章
+
+* [《PG 内存上下文》](http://www.zhangxiaojian.name/?p=447)
+
+介绍：PG 内存上下文,[code](https://github.com/zhangxiaojian/memoryContext)
+
+* [《PostgreSQL及其代码的结构》](http://wiki.postgresql.org/wiki/Pgsrcstructure)
+
+介绍:PostgreSQL及其代码的结构
+
+* [《A Tour of PostgreSQL Internals》](http://www.postgresql.org/files/developer/tour.pdf)
+
+介绍:PostgreSQL内部的概览,可以结合上面的pg代码结构来阅读
+
+* [《PostgreSQL 中的 Json —从使用到源码》](http://www.zhangxiaojian.name/?p=317)
+
+介绍：PostgreSQL 中的 Json —从使用到源码
+
+* [《PostgreSQL锁机制分析》](http://mp.weixin.qq.com/s?__biz=MzIwNzEzNDkxNQ==&mid=400885298&idx=1&sn=76df79eff99131cf6e64991b1629e8c9&scene=7#wechat_redirect)
+
+介绍：PostgreSQL锁机制分析,[第二部分](http://mp.weixin.qq.com/s?__biz=MzIwNzEzNDkxNQ==&mid=400897914&idx=1&sn=e83f15ba1b62abfd9e01cd7b08b87cc7&scene=4#wechat_redirect)
+
+* [《FSM》](http://blog.chinaunix.net/uid-24774106-id-3764994.html)
+
+介绍：PostgreSQL源码分析之FSM
+
+* [《page》](http://blog.chinaunix.net/uid-24774106-id-3764606.html)
+
+介绍：PostgreSQL源码分析之page
+
+* [《shared buffer状态信息及性能测量 》](http://blog.chinaunix.net/uid-24774106-id-3761861.html)
+
+介绍：PostgreSQL源码分析之shared buffer状态信息及性能测量,推荐[shared buffer的分配与替换](http://blog.chinaunix.net/uid-24774106-id-3761272.html),[shared buffer与磁盘文件 ](http://blog.chinaunix.net/uid-24774106-id-3761123.html),[database和table 与磁盘文件的对应](http://blog.chinaunix.net/uid-24774106-id-3757916.html)
+
+* [《PostgreSQL内部结构与源代码研究索引页》](http://www.cnblogs.com/gaojian/p/3261568.html)
+
+介绍：文章包括pg_stat_statements源代码分析,PostgreSQL的hook机制初步学习,EDB*Plus的client_encoding问题,PostgreSQL的索引膨胀,libpq 与 fe-misc.c,libpq 练习的入口点,Autovacuum 的运行限制,autovacuum 与 vacuum full,autoanalyze 的注意事项,backuplabel file 初步学习,HOT（Heap-Only Tuples）,Checkpoint 发生的时机,checkpoint 活动,pg_buffercache 代码研究,内存结构图示,内存使用增长观察,使用cgroups来控制内存使用,调整内存与IO的参数说明,MVCC图示,ListenSocket 的研究
+
+* [《CreateLockFile》](http://blog.csdn.net/huguangshanse00/article/details/40479995)
+
+介绍：PostgreSQL CreateLockFile分析
+
+* [《动态Hash》](http://blog.csdn.net/li_shugan1/article/details/7975571)
+
+介绍：动态Hash
+
+* [《Postgres Internals Presentations》](http://momjian.us/main/presentations/internals.html)
+
+介绍: PG内部机制分析.
+
+* [《为PostgreSQL添加插件》](http://my.oschina.net/Suregogo/blog/550201)
+
+介绍: 利用pg的hook机制为pg添加插件.
+
+
+>   :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: 
+
 * [《PostgreSQL Documentation》](http://www.postgresql.org/docs/manuals/)
 
 介绍：PostgreSQL官方文档主页
@@ -446,9 +507,6 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍: PGCon 2015 演讲稿下载.
 
-* [《Postgres Internals Presentations》](http://momjian.us/main/presentations/internals.html)
-
-介绍: PG内部机制分析.
 
 * [《PostgreSQL Shutdown》](http://www.enterprisedb.com/postgres-plus-edb-blog/robert-haas/postgresql-shutdown)
 
@@ -601,3 +659,27 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《PostgreSQL Replication Tutorial》](https://www.youtube.com/watch?v=GobQw9LMEaw)
 
 介绍：PostgreSQL Replication Tutorial
+
+* [《PostgreSQL 9.3.4 文档》](http://totemdb.whu.edu.cn/personal/ywpeng/PGDOC/934/index.html)
+
+介绍:这份文档的译者是<PostgreSQL数据库内核分析>作者,翻译很专业
+
+* [《ngx_postgres》](https://github.com/FRiCKLE/ngx_postgres)
+
+介绍:nginx访问Postgresql模块
+
+* [《How PostgreSQL Processes a Query》](http://anoncvs.postgresql.org/cvsweb.cgi/~checkout~/pgsql/src/tools/backend/index.html)
+
+介绍:pg是如何处理一个查询的？
+
+* [《Common misconceptions about locking in PostgreSQL》](https://www.compose.io/articles/common-misconceptions-about-locking-in-postgresql/)
+
+介绍:pg中容易误解的锁
+
+* [《PostgreSQL Big SQL commponent》](http://www.bigsql.org/se/components.jsp)
+
+介绍:pg大数据工具箱
+
+* [《pglogical：A logical replication system for PostgreSQL》](http://2ndquadrant.com/en/resources/pglogical/)
+
+介绍:pg的逻辑复制扩展,兼顾了基于触发器复制技术的灵活性,同时又有基于日志复制技术的高效性

@@ -162,7 +162,7 @@
 
 * [《Tera》](https://github.com/BaiduPS/tera)
 
-介绍:分布式表格系统.
+介绍:来自百度的分布式表格系统.
 
 * [《Distributed systems: for fun and profit》](https://github.com/mixu/distsysbook)
 
@@ -392,3 +392,55 @@
 * [《从零开始写分布式数据库》](https://github.com/ngaut/builddatabase)
 
 介绍:本文以[TiDB](https://github.com/pingcap/tidb) 源码为例.
+
+* [《what we talk about when we talk about distributed systems》](http://videlalvaro.github.io/2015/12/learning-about-distributed-systems.html)
+
+介绍:分布式系统概念梳理,为分布式系统涉及的主要概念进行了梳理.
+
+* [《Distributed locks with Redis》](http://redis.io/topics/distlock)
+
+介绍:使用Redis实现分布式锁.
+
+* [《CS244b: Distributed Systems》](http://www.scs.stanford.edu/14au-cs244b/)
+
+介绍: 斯坦福2014年秋季分布式课程.
+
+* [《RAMP Made Easy》](http://rustyrazorblade.com/2015/11/ramp-made-easy/)
+
+介绍: 分布式的“读原子性”.
+
+* [《Strategies and Principles of Distributed Machine Learning on Big Data》](http://arxiv.org/abs/1512.09295)
+
+介绍: 大数据分布式机器学习的策略与原理.
+
+* [《Distributed Systems: What is the CAP theorem?》](https://www.quora.com/Distributed-Systems/What-is-the-CAP-theorem)
+
+介绍: 分布式CAP法则.
+
+* [《How should I start to learn distributed storage system as a beginner?》](https://www.quora.com/How-should-I-start-to-learn-distributed-storage-system-as-a-beginner)
+
+介绍: 新手如何步入分布式存储系统.
+
+* [《Cassandra - A Decentralized Structured Storage System》](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
+
+介绍: 分布式存储系统Cassandra剖析,推荐白皮书[Introduction to Apache Cassandra](http://www.datastax.com/wp-content/uploads/2012/08/WP-IntrotoCassandra.pdf).
+
+* [《What is the best resource to learn about distributed systems?》](https://www.quora.com/What-is-the-best-resource-to-learn-about-distributed-systems)
+
+介绍: 分布式系统学习资源.
+
+* [《What are some high performance TCP hacks?》](https://www.quora.com/What-are-some-high-performance-TCP-hacks)
+
+介绍: 一些高性能TCP黑客技巧.
+
+* [《Maintaining performance in distributed systems》](https://speakerdeck.com/elasticsearch/maintaining-performance-in-distributed-systems)
+
+介绍:分布式系统性能提升.
+
+* [《A simple totally ordered broadcast protocol》](http://diyhpl.us/~bryan/papers2/distributed/distributed-systems/zab.totally-ordered-broadcast-protocol.2008.pdf)
+
+介绍:Benjamin Reed 和 Flavio P.Junqueira 所著论文,对Zab算法进行了介绍,zab算法是Zookeeper保持数据一致性的核心,在国内有很多公司都使用zookeeper做为分布式的解决方案.推荐与此相关的一篇文章[ZooKeeper’s atomic broadcast protocol: Theory and practice](http://www.tcs.hut.fi/Studies/T-79.5001/reports/2012-deSouzaMedeiros.pdf).
+
+* [《zFS - A Scalable Distributed File System Using Object Disk》](http://storageconference.us/2003/papers/29-Rodeh-zFS.pdf)
+
+介绍:可扩展的分布式文件系统ZFS,[The Zettabyte File System](https://users.soe.ucsc.edu/~scott/courses/Fall04/221/zfs_overview.pdf),[End-to-end Data Integrity for File Systems: A ZFS Case Study](http://research.cs.wisc.edu/adsl/Publications/zfs-corruption-fast10.pdf).

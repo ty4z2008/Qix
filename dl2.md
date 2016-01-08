@@ -652,3 +652,130 @@
 
 介绍:数据科学家毕业后继续学习的5种方式.
 
+* [《Deep Learning in Neural Networks: An Overview》](http://arxiv.org/abs/1404.7828)
+
+介绍:深度学习在神经网络的应用.
+
+* [《Contextual Learning》](http://arxiv.org/abs/1511.06429)
+
+介绍:上下文学习,[代码](https://gitlab.tubit.tu-berlin.de/rbo-lab/concarne).
+
+* [《Machine Learning For Complete Beginners》](http://pythonforengineers.com/machine-learning-for-complete-beginners/)
+
+介绍:机器学习零基础入门,[代码](https://github.com/shantnu/Titanic-Machine-Learning).
+
+* [《2015年中国计算机学会（CCF）优秀博士学位论文》](http://www.ccf.org.cn/sites/ccf/xhdtnry.jsp?contentId=2897719129810)
+
+介绍:2015年度CCF优秀博士学位论文奖论文列表.
+
+* [《Learning to Hash Paper, Code and Dataset》](http://cs.nju.edu.cn/lwj/L2H.html)
+
+介绍:Learning to Hash Paper, Code and Dataset.
+
+* [《Neural networks with Theano and Lasagne》](https://www.youtube.com/watch?v=dtGhSE1PFh0)
+
+介绍:(PyData2015)基于Theano/Lasagne的CNN/RNN教程,[github](https://github.com/ebenolson/pydata2015).
+
+* [《神经网络与深度学习讲义》](http://vdisk.weibo.com/s/ayG13we2ltDAT)
+
+介绍:复旦大学[邱锡鹏](http://weibo.com/xpqiu)老师编写的神经网络与深度学习讲义,[ppt](http://vdisk.weibo.com/s/ayG13we2lDzcV).
+
+* [《Microsoft Open Sources Distributed Machine Learning Toolkit》](http://www.dmtk.io/index.html)
+
+介绍:微软亚洲研究院开源分布式机器学习工具包.
+
+* [《语音识别的技术原理是什么？》](https://www.zhihu.com/question/20398418)
+
+介绍:语音识别的技术原理浅析
+
+* [《Michael I. Jordan》](http://www.cs.berkeley.edu/~jordan/)
+
+介绍:迈克尔·I.乔丹的主页.根据主页可以找到很多资源。迈克尔·I.乔丹是知名的计算机科学和统计学学者，主要研究机器学习和人工智能。他的重要贡献包括指出了机器学习与统计学之间的联系，并推动机器学习界广泛认识到贝叶斯网络的重要性。
+
+* [《Geoff Hinton》](http://www.cs.toronto.edu/~hinton/)
+
+介绍:杰弗里·埃弗里斯特·辛顿 FRS是一位英国出生的计算机学家和心理学家，以其在神经网络方面的贡献闻名。辛顿是反向传播算法和对比散度算法的发明人之一，也是深度学习的积极推动者.通过他的主页可以发掘到很多Paper以及优秀学生的paper,此外推荐他的学生[Yann Lecun](http://yann.lecun.com/)主页
+
+* [《Yoshua Bengio》](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html)
+
+介绍:Yoshua Bengio是机器学习方向的牛人,如果你不知道可以阅读[对话机器学习大神Yoshua Bengio（上）](http://www.infoq.com/cn/articles/ask-yoshua-bengio),[对话机器学习大神Yoshua Bengio（下）](http://www.infoq.com/cn/articles/ask-yoshua-bengio-2)
+
+* [《Large Scale Deep Learning within google》](http://static.googleusercontent.com/media/research.google.com/en/us/people/jeff/CIKM-keynote-Nov2014.pdf)
+
+介绍:google大规模深度学习应用演进
+
+* [《Deep Learning: An MIT Press Book in Preparation》](http://goodfeli.github.io/dlbook/)
+
+介绍:MIT出版的深度学习电子书,公开电子书
+
+* [《A Mathematical Theory of Deep Convolutional Neural Networks for Feature Extraction》](http://arxiv.org/abs/1512.06293)
+
+介绍:深度卷积神经网络(CNN)提取特征的数学理论
+
+* [《Microsoft Research Asia：Kaiming He》](http://research.microsoft.com/en-us/um/people/kahe/)
+
+介绍:推荐微软亚洲研究院何恺明主页
+
+* [《Speech and Language Processing (3rd ed. draft)》](http://web.stanford.edu/~jurafsky/slp3/)
+
+介绍:《语音与语言处理》第三版(草稿)
+
+* [《LSA 311: Computational Lexical Semantics - Summer 2015》](http://web.stanford.edu/~jurafsky/li15/)
+
+介绍:Stanford新课"计算词汇语义学"
+
+* [《上海交大张志华老师的统计机器学习与机器学习导论视频》](http://ocw.sjtu.edu.cn/G2S/OCW/cn/CourseDetails.htm?Id=397)
+
+介绍:上海交大张志华老师的统计机器学习与机器学习导论视频[链接:](http://pan.baidu.com/s/1mgPi7jU )密码: r9ak .[概率基础](http://ocw.sjtu.edu.cn/G2S/OCW/cn/CourseDetails.htm?Id=398)
+
+* [《Computational Linguistics and Deep Learning》](http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00239)
+
+介绍:computational linguistics and deep learning[视频](http://techtalks.tv/talks/computational-linguistics-and-deep-learning/61759/),推荐[Deep Learning: An Introduction from the NLP Perspective](https://speakerdeck.com/baojie/deep-learning-an-introduction-from-the-nlp-perspective-by-kevin-duh)
+
+* [《Black Hat USA 2015 - Deep Learning On Disassembly》](https://www.youtube.com/watch?v=zfVfpMcUkq8)
+
+介绍:(BlackHat2015)深度学习应用之流量鉴别(协议鉴别/异常检测),[slide])(https://www.blackhat.com/docs/us-15/materials/us-15-Wang-The-Applications-Of-Deep-Learning-On-Traffic-Identification.pdf),[material](https://www.blackhat.com/docs/us-15/materials/us-15-Wang-The-Applications-Of-Deep-Learning-On-Traffic-Identification-wp.pdf)
+
+* [《LibRec：A Java Library for Recommender Systems》](http://www.librec.net/)
+
+介绍:一个推荐系统的Java库
+
+* [《Multi-centrality Graph Spectral Decompositions and their Application to Cyber Intrusion Detection》](http://arxiv.org/abs/1512.07372)
+
+介绍:多中心图的谱分解及其在网络入侵检测中的应用(MC-GPCA&MC-GDL)
+
+* [《Computational Statistics in Python》](http://people.duke.edu/~ccc14/sta-663/)
+
+介绍:用Python学计算统计学
+
+* [《New open-source Machine Learning Framework written in Java》](http://blog.datumbox.com/new-open-source-machine-learning-framework-written-in-java/)
+
+介绍:datumbox-framework——Java的开源机器学习框架，该框架重点是提供大量的机器学习算法和统计检验，并能够处理中小规模的数据集
+
+* [《Awesome Recurrent Neural Networks》](http://jiwonkim.org/awesome-rnn/)
+
+介绍:递归神经网络awesome系列,涵盖了书籍,项目,paper等
+
+* [《Pedro Domingos》](http://homes.cs.washington.edu/~pedrod/)
+
+介绍:Pedro Domingos是华盛顿大学的教授,主要研究方向是机器学习与数据挖掘.在2015年的ACM webinar会议,曾发表了关于[盘点机器学习领域的五大流派](http://www.almosthuman.cn/2015/11/28/t8ysa/)主题演讲.他的个人主页拥有很多相关研究的paper以及他的教授课程.
+
+* [《Video resources for machine learning》](http://dustintran.com/blog/video-resources-for-machine-learning/)
+
+介绍:机器学习视频集锦
+
+* [《Deep Machine Learning libraries and frameworks》](https://medium.com/@abduljaleel/deep-machine-learning-libraries-and-frameworks-5fdf2bb6bfbe#.lwn2iyjsn)
+
+介绍:深度机器学习库与框架
+
+* [《大数据/数据挖掘/推荐系统/机器学习相关资源》](https://github.com/Flowerowl/Big-Data-Resources)
+
+介绍:这篇文章内的推荐系统资源很丰富,作者很有心,摘录了《推荐系统实战》内引用的论文.
+
+* [《Bayesian Methods in Astronomy: Hands-on Statistics》](http://nbviewer.ipython.org/github/jakevdp/AAS227Workshop/blob/master/Index.ipynb)
+
+介绍:(天文学)贝叶斯方法/MCMC教程——统计实战
+
+* [《Statistical Learning with Sparsity: The Lasso and Generalizations》](http://web.stanford.edu/~hastie/StatLearnSparsity/index.html)
+
+介绍:免费书:统计稀疏学习,作者[Trevor Hastie](http://web.stanford.edu/~hastie/)与[Rob Tibshirani](http://statweb.stanford.edu/~tibs/)都是斯坦福大学的教授,Trevor Hastie更是在统计学学习上建树很多
