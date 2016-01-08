@@ -787,3 +787,11 @@
 * [《neon workshop at Startup.ML: Sentiment Analysis and Deep Reinforcement Learning》](http://www.nervanasys.com/neon-workshop-at-startup-ml-sentiment-analysis-and-deep-reinforcement-learning/)
 
 介绍:Nervana Systems在[Startup.ML](http://startup.ml/)的主题研讨会——情感分析与深度强化学习
+
+* [《Understanding Convolution in Deep Learning》](http://timdettmers.com/2015/03/26/convolution-deep-learning/)
+
+介绍:深度学习卷积概念详解.
+
+* [《Python libraries for building recommender systems》](http://faroba.com/2015/12/03/a-python-libraries-for-building-recommender-systems/)
+
+介绍:Python推荐系统开发库汇总.
