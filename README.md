@@ -10,6 +10,9 @@ Twitter:[@廖君](https://twitter.com/ty4z2008)
 
 
 **NOTE：** 不恰当的地方还希望不吝批评。联系方式可以直接微博AT我!
+
+## Pull Request welcome
+
 ##个人翻译项目
 
 ###node-mysql文档翻译项目
