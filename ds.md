@@ -451,5 +451,5 @@
 
 * [《Reasoning about Consistency Choices in Distributed Systems》](https://pages.lip6.fr/Marc.Shapiro/papers/CISE-POPL-2016.pdf)
 
-介绍:POPL2016的论文,关于分布式系统一致性选择的论述.
+介绍:POPL2016的论文,关于分布式系统一致性选择的论述,[POPL所接受的论文](http://conf.researchr.org/track/POPL-2016/POPL-2016-papers#event-overview),github上已经有人[整理](https://github.com/gasche/popl2016-papers).
 
