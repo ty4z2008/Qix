@@ -449,4 +449,7 @@
 
 介绍:分布式Haskell在当前web中的应用.
 
+* [《Reasoning about Consistency Choices in Distributed Systems》](https://pages.lip6.fr/Marc.Shapiro/papers/CISE-POPL-2016.pdf)
+
+介绍:POPL2016的论文,关于分布式系统一致性选择的论述.
 
