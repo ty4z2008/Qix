@@ -803,3 +803,7 @@
 * [《CS231n: Convolutional Neural Networks for Visual Recognition》](http://vision.stanford.edu/teaching/cs231n/index.html)
 
 介绍:斯坦福新课程,面向视觉识别的卷积神经网络(Fei-Fei Li & Andrej Karpathy),[slides+video](http://vision.stanford.edu/teaching/cs231n/syllabus.html),[homework](http://cs231n.github.io/).
+
+* [《NIPS 2015 Deep Learning Symposium Part I》](http://yanran.li/peppypapers/2015/12/11/nips-2015-deep-learning-symposium-part-i.html)
+
+介绍:NIPS 2015会议总结第一部分,[第二部分](http://yanran.li/peppypapers/2016/01/09/nips-2015-deep-learning-symposium-part-ii.html).
