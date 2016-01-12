@@ -795,3 +795,11 @@
 * [《Python libraries for building recommender systems》](http://faroba.com/2015/12/03/a-python-libraries-for-building-recommender-systems/)
 
 介绍:Python推荐系统开发库汇总.
+
+* [《Neural networks class - Université de Sherbrooke》](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
+
+介绍:超棒的神经网络课程，深入浅出介绍深度学习，由Hugo Larochelle（Yoshua Bengio的博士生，Geoffrey Hinton之前的博士后）主讲，强烈推荐.
+
+* [《CS231n: Convolutional Neural Networks for Visual Recognition》](http://vision.stanford.edu/teaching/cs231n/index.html)
+
+介绍:斯坦福新课程,面向视觉识别的卷积神经网络(Fei-Fei Li & Andrej Karpathy),[slides+video](http://vision.stanford.edu/teaching/cs231n/syllabus.html),[homework](http://cs231n.github.io/).
