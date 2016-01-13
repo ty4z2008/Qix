@@ -811,3 +811,15 @@
 * [《python机器学习入门资料梳理》](http://michaelxiang.me/2015/12/16/python-machine-learning-list/)
 
 介绍:python机器学习入门资料梳理.
+
+* [《Reading Text in the Wild with Convolutional Neural Networks》](http://www.robots.ox.ac.uk/~vgg/publications/2016/Jaderberg16/)
+
+介绍:牛津大学著名视觉几何组VGG在IJCV16年首卷首期: Reading Text in the Wild with Convolutional Neural Networks,Jaderberg。这篇期刊文章融合了之前两篇会议(ECCV14,NIPS14ws)，定位和识别图片中的文本(叫text spotting)。 端到端系统: 检测Region + 识别CNN。论文、数据和代码.
+
+* [《Yet Another Computer Vision Index To Datasets (YACVID)》](http://riemenschneider.hayko.at/vision/dataset/)
+
+介绍:计算机视觉的一个较大的数据集索引, 包含387个标签，共收录了314个数据集合，点击标签云就可以找到自己需要的库了.
+
+* [《Why SLAM Matters, The Future of Real-Time SLAM, and Deep Learning vs SLAM》](http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html)
+
+介绍:Tombone 对 ICCV SLAM workshop 的总结： the future of SLAM, SLAM vs deep learning  重点介绍了 monoSLAM 和 LSD-SLAM，而且讨论了 feature-based 和 feature-free method 的长短。在全民deep learning做visual perception的时候，再来读读CV中的 geometry.
