@@ -807,3 +807,7 @@
 * [《NIPS 2015 Deep Learning Symposium Part I》](http://yanran.li/peppypapers/2015/12/11/nips-2015-deep-learning-symposium-part-i.html)
 
 介绍:NIPS 2015会议总结第一部分,[第二部分](http://yanran.li/peppypapers/2016/01/09/nips-2015-deep-learning-symposium-part-ii.html).
+
+* [《python机器学习入门资料梳理》](http://michaelxiang.me/2015/12/16/python-machine-learning-list/)
+
+介绍:python机器学习入门资料梳理.
