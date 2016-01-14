@@ -50,7 +50,7 @@
 
 * [《Makes it easy to understand Paxos for Distributed Systems》](http://paxos.systems/)
 
-介绍:理解的Paxos的分布式系统
+介绍:理解的Paxos的分布式系统,[参考阅读:关于Paxos的历史](http://duanple.blog.163.com/blog/static/709717672012112203543166/)
 
 * [《There is No Now Problems with simultaneity in distributed systems》](http://queue.acm.org/detail.cfm?id=2745385)
 
@@ -207,7 +207,7 @@
 
 * [《Paxos Made Live – An Engineering Perspective》](http://www.eecs.harvard.edu/cs262/Readings/paxosmadelive.pdf)
 
-介绍:从工程实现角度说明了Paxo在chubby系统的应用， 是理解Paxo协议及其应用场景的必备论文。 主要技术特点： paxo协议， replicated log， multi-paxo.
+介绍:从工程实现角度说明了Paxo在chubby系统的应用， 是理解Paxo协议及其应用场景的必备论文。 主要技术特点： paxo协议， replicated log， multi-paxo.[参考阅读:关于Paxos的历史](http://duanple.blog.163.com/blog/static/709717672012112203543166/)
 
 * [《Dynamo: Amazon’s Highly Available Key-Value Store》](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 
@@ -355,7 +355,7 @@
 
 * [《Paxos vs Raft》](https://ramcloud.stanford.edu/~ongaro/userstudy/)
 
-介绍:这个网站是Raft算法的作者为教授Paxos和Raft算法做的，其中有两个视频链接，分别讲上述两个算法.
+介绍:这个网站是Raft算法的作者为教授Paxos和Raft算法做的，其中有两个视频链接，分别讲上述两个算法.[参考阅读:关于Paxos的历史](http://duanple.blog.163.com/blog/static/709717672012112203543166/)
 
 * [《A Scalable Content-Addressable Network》](http://www.eecs.harvard.edu/~mema/courses/cs264/papers/p13-ratnasamy.pdf)
 
@@ -455,11 +455,11 @@
 
 * [《Paxos Made Simple》](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
 
-介绍:Paxos让分布式更简单.[译文](http://dsdoc.net/paxosmadesimple/index.html).
+介绍:Paxos让分布式更简单.[译文](http://dsdoc.net/paxosmadesimple/index.html).[参考阅读:关于Paxos的历史](http://duanple.blog.163.com/blog/static/709717672012112203543166/)
 
 * [《Consensus Protocols: Paxos》](http://the-paper-trail.org/blog/consensus-protocols-paxos/)
 
-介绍:分布式系统一致性协议:Paxos.
+介绍:分布式系统一致性协议:Paxos.[参考阅读:关于Paxos的历史](http://duanple.blog.163.com/blog/static/709717672012112203543166/)
 
 * [《Consensus on Transaction Commit》](http://research.microsoft.com/pubs/64636/tr-2003-96.pdf)
 
@@ -467,7 +467,7 @@
 
 * [《The Part-Time Parliaments》](http://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-paxos.pdf)
 
-介绍:在《The Part-Time Parliament》中描述了基本协议的交互过程。在基本协议的基础上完善各种问题得到了最终的议会协议。 为了让人更容易理解《The Part-Time Parliament》中描述的Paxos算法，Lamport在2001发表了[《Paxos Made Simple》](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)，以更平直的口头语言描述了Paxos，而没有包含正式的证明和数学术语。[《Paxos Made Simple》](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)中，将算法的参与者更细致的划分成了几个角色：Proposer、Acceptor、Learner。另外还有Leader和Client。.
+介绍:在《The Part-Time Parliament》中描述了基本协议的交互过程。在基本协议的基础上完善各种问题得到了最终的议会协议。 为了让人更容易理解《The Part-Time Parliament》中描述的Paxos算法，Lamport在2001发表了[《Paxos Made Simple》](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)，以更平直的口头语言描述了Paxos，而没有包含正式的证明和数学术语。[《Paxos Made Simple》](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)中，将算法的参与者更细致的划分成了几个角色：Proposer、Acceptor、Learner。另外还有Leader和Client.[参考阅读:关于Paxos的历史](http://duanple.blog.163.com/blog/static/709717672012112203543166/)
 
 * [《Paxos Made Practical》](https://pdos.csail.mit.edu/archive/6.824-2007/papers/mazieres-paxos.pdf)
 
