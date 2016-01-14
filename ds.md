@@ -480,3 +480,15 @@
 * [《Paxos Made Moderately Complex》](https://people.csail.mit.edu/matei/courses/2015/6.S897/readings/paxos-moderately-complex.pdf)
 
 介绍：[Paxos算法](http://paxos.systems/)实现,[译文](http://dsdoc.net/paxosmademoderatelycomplex/index.html),同时推荐[42 Paxos Made Moderately Complex](http://www.cs.cornell.edu/courses/cs7412/2011sp/paxos.pdf).
+
+* [《Hadoop Reading List》](http://duanple.blog.163.com/blog/static/7097176720119791920962/)
+
+介绍：Hadoop学习清单.
+
+* [《Hadoop Reading List》](http://duanple.blog.163.com/blog/static/7097176720119791920962/)
+
+介绍：Hadoop学习清单.
+
+* [《2010 NoSQL Summer Reading List》](http://www.empiricalreality.com/2010/09/22/2010-nosql-summer-reading-list/)
+
+介绍：NoSQL知识清单,里面不仅仅包含了数据库阅读清单还包含了分布式系统资料.
