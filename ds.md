@@ -453,3 +453,22 @@
 
 介绍:POPL2016的论文,关于分布式系统一致性选择的论述,[POPL所接受的论文](http://conf.researchr.org/track/POPL-2016/POPL-2016-papers#event-overview),github上已经有人[整理](https://github.com/gasche/popl2016-papers).
 
+* [《Paxos Made Simple》](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
+
+介绍:Paxos让分布式更简单.[译文](http://dsdoc.net/paxosmadesimple/index.html).
+
+* [《Consensus Protocols: Paxos》](http://the-paper-trail.org/blog/consensus-protocols-paxos/)
+
+介绍:分布式系统一致性协议:Paxos.
+
+* [《Consensus on Transaction Commit》](http://research.microsoft.com/pubs/64636/tr-2003-96.pdf)
+
+介绍：事务提交的一致性探讨.
+
+* [《The Part-Time Parliaments》](http://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-paxos.pdf)
+
+介绍:在《The Part-Time Parliament》中描述了基本协议的交互过程。在基本协议的基础上完善各种问题得到了最终的议会协议。 为了让人更容易理解《The Part-Time Parliament》中描述的Paxos算法，Lamport在2001发表了[《Paxos Made Simple》](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)，以更平直的口头语言描述了Paxos，而没有包含正式的证明和数学术语。[《Paxos Made Simple》](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)中，将算法的参与者更细致的划分成了几个角色：Proposer、Acceptor、Learner。另外还有Leader和Client。.
+
+* [《Paxos Made Practical》](https://pdos.csail.mit.edu/archive/6.824-2007/papers/mazieres-paxos.pdf)
+
+介绍:看这篇论文时可以先看看[理解Paxos Made Practical](http://blog.csdn.net/bluecloudmatrix/article/details/41138363).
