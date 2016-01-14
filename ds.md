@@ -472,3 +472,11 @@
 * [《Paxos Made Practical》](https://pdos.csail.mit.edu/archive/6.824-2007/papers/mazieres-paxos.pdf)
 
 介绍:看这篇论文时可以先看看[理解Paxos Made Practical](http://blog.csdn.net/bluecloudmatrix/article/details/41138363).
+
+* [《PaxosLease: Diskless Paxos for Leases》](http://arxiv.org/pdf/1209.4187.pdf)
+
+介绍：PaxosLease：实现租约的无盘Paxos算法,[译文](http://dsdoc.net/paxoslease/index.html).
+
+* [《Paxos Made Moderately Complex》](https://people.csail.mit.edu/matei/courses/2015/6.S897/readings/paxos-moderately-complex.pdf)
+
+介绍：[Paxos算法](http://paxos.systems/)实现,[译文](http://dsdoc.net/paxosmademoderatelycomplex/index.html),同时推荐[42 Paxos Made Moderately Complex](http://www.cs.cornell.edu/courses/cs7412/2011sp/paxos.pdf).
