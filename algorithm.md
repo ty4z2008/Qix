@@ -83,3 +83,7 @@
 * [《An Open Source Reference Architecture For Real-Time Stock Prediction》](https://blog.pivotal.io/big-data-pivotal/case-studies/an-open-source-reference-architecture-for-real-time-stock-prediction)
 
 介绍:实时股票分析系统的架构与算法[译文](http://www.infoq.com/cn/news/2015/12/open-source-reference-architectu).
+
+* [《Overview of Recommender Algorithms part1》](https://buildingrecommenders.wordpress.com/2015/11/16/overview-of-recommender-algorithms-part-1/)
+
+介绍：推荐算法概览[part2](https://buildingrecommenders.wordpress.com/2015/11/18/overview-of-recommender-algorithms-part-2/),[part3](https://buildingrecommenders.wordpress.com/2015/11/19/overview-of-recommender-algorithms-part-3/),[part4](https://buildingrecommenders.wordpress.com/2015/11/20/overview-of-recommender-algorithms-part-4/),[part5](https://buildingrecommenders.wordpress.com/2015/11/23/overview-of-recommender-algorithms-part-5/),部分译文[part1](http://www.infoq.com/cn/articles/recommendation-algorithm-overview-part01),[part2](http://www.infoq.com/cn/articles/recommendation-algorithm-overview-part02),同时推荐[Recommender Systems in Netflix](https://buildingrecommenders.wordpress.com/2015/11/18/recommender-systems-in-netflix/)
