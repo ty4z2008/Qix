@@ -823,3 +823,7 @@
 * [《Why SLAM Matters, The Future of Real-Time SLAM, and Deep Learning vs SLAM》](http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html)
 
 介绍:Tombone 对 ICCV SLAM workshop 的总结： the future of SLAM, SLAM vs deep learning  重点介绍了 monoSLAM 和 LSD-SLAM，而且讨论了 feature-based 和 feature-free method 的长短。在全民deep learning做visual perception的时候，再来读读CV中的 geometry.
+
+* [《Python based Deep Learning Framework by Nervana™》](https://github.com/NervanaSystems/neon)
+
+介绍:Nervana Systems的开源深度学习框架neon发布.
