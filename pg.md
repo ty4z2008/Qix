@@ -677,6 +677,10 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍:pg大数据工具箱
 
+* [《PostgreSQL 9.3.4 文档》](http://www.postgres.cn/docs/9.3.4/)
+
+介绍:PostgreSQL 9.3.4 文档翻译,作者是《postgresql内核分析》作者
+
 * [《pglogical：A logical replication system for PostgreSQL》](http://2ndquadrant.com/en/resources/pglogical/)
 
 介绍:pg的逻辑复制扩展,兼顾了基于触发器复制技术的灵活性,同时又有基于日志复制技术的高效性
