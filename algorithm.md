@@ -87,3 +87,7 @@
 * [《Overview of Recommender Algorithms part1》](https://buildingrecommenders.wordpress.com/2015/11/16/overview-of-recommender-algorithms-part-1/)
 
 介绍：推荐算法概览[part2](https://buildingrecommenders.wordpress.com/2015/11/18/overview-of-recommender-algorithms-part-2/),[part3](https://buildingrecommenders.wordpress.com/2015/11/19/overview-of-recommender-algorithms-part-3/),[part4](https://buildingrecommenders.wordpress.com/2015/11/20/overview-of-recommender-algorithms-part-4/),[part5](https://buildingrecommenders.wordpress.com/2015/11/23/overview-of-recommender-algorithms-part-5/),部分译文[part1](http://www.infoq.com/cn/articles/recommendation-algorithm-overview-part01),[part2](http://www.infoq.com/cn/articles/recommendation-algorithm-overview-part02),同时推荐[Recommender Systems in Netflix](https://buildingrecommenders.wordpress.com/2015/11/18/recommender-systems-in-netflix/)
+
+* [《The Use of Machine Learning Algorithms in Recommender Systems: A Systematic Review》](http://arxiv.org/abs/1511.05263)
+
+介绍:推荐系统机器学习算法系统综述.
