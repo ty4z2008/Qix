@@ -827,3 +827,7 @@
 * [《Python based Deep Learning Framework by Nervana™》](https://github.com/NervanaSystems/neon)
 
 介绍:Nervana Systems的开源深度学习框架neon发布.
+
+* [《mageNet and MS COCO Visual Recognition Challenges video and slider》](http://image-net.org/challenges/ilsvrc+mscoco2015)
+
+介绍:ICCV 2015的ImageNet比赛以及MS COCO竞赛联合研讨会的幻灯片和视频.
