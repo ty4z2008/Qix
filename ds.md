@@ -544,3 +544,7 @@
 * [《Actors：A model Of Concurrent Cornputation In Distributed Systems》](https://www.cypherpunks.to/erights/history/actors/AITR-844.pdf)
 
 介绍：经典论文
+
+* [《Security Engineering: A Guide to Building Dependable Distributed Systems》](https://www.cl.cam.ac.uk/~rja14/Papers/)
+
+介绍：如何构建一个安全可靠的分布式系统,[About the Author](https://www.cl.cam.ac.uk/~rja14/Papers/SEv2-acks.pdf),[Bibliography:文献资料](https://www.cl.cam.ac.uk/~rja14/Papers/SEv2-biblio.pdf),章节访问把[链接](https://www.cl.cam.ac.uk/~rja14/Papers/SEv2-c01.pdf)最后的01换成01-27即可
