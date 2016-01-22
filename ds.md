@@ -504,3 +504,15 @@
 * [《Understanding Availability》](http://sysnet.ucsd.edu/recall/papers/iptps.pdf)
 
 介绍：理解peer-to-peer系统中的可用性究竟是指什么.同时推荐[基于 Peer-to-Peer 的分布式存储系统的设计](http://www.jos.org.cn/1000-9825/15/268.pdf)
+
+* [《Process structuring, synchronization, and recovery using atomic actions》](http://courses.cs.vt.edu/~cs5204/fall07-kafura/Papers/TransactionalMemory/Lomet.pdf)
+
+介绍：经典论文
+
+* [《Programming Languages for Parallel Processing》](http://www.eng.auburn.edu/files/file1358.pdf)
+
+介绍：并行处理的编程语音
+
+* [《Analysis of Six Distributed File Systems》](https://hal.inria.fr/hal-00789086/file/a_survey_of_dfs.pdf)
+
+介绍：此篇论文对HDFS,MooseFS,iRODS,Ceph,GlusterFS,Lustre六个存储系统做了详细分析.如果是自己研发对应的存储系统推荐先阅读此篇论文
