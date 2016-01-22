@@ -186,3 +186,7 @@
 * [《How to write a great research paper》](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/writing-a-paper-slides.pdf)
 
 介绍:如何写出高质的论文？7个基础建议：1.及时动笔，论文能帮你明确研究；2.理清你的核心想法；3.讲好一个故事，包括描述问题到解决问题；4.详述贡献；5.提供相关文献；6.铭记“读者至上”；7.倾听读者的看法[youtube](https://www.youtube.com/watch?v=g3dkRsTqdDA),[youku](http://v.youku.com/v_show/id_XMTQ0MzcwODM3Mg==.html)
+
+* [《Ph.D Useful Thoughts about Research》](http://www.eecs.harvard.edu/htk/phdadvice/)
+
+介绍:博士生如何在研究领域得心应手
