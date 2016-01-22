@@ -532,3 +532,15 @@
 * [《Distributed Systems - Concepts and Design 5th Edition》](https://azmuri.files.wordpress.com/2013/09/george-coulouris-distributed-systems-concepts-and-design-5th-edition.pdf)
 
 介绍：ebook分布式系统概念与设计
+
+* [《分布式系统设计的形式方法》](http://read.pudn.com/downloads51/ebook/174460/03.pdf)
+
+介绍：分布式系统设计的形式方法
+
+* [《互斥和选举算法》](http://read.pudn.com/downloads51/ebook/174460/04.pdf)
+
+介绍：互斥和选举算法
+
+* [《Actors：A model Of Concurrent Cornputation In Distributed Systems》](https://www.cypherpunks.to/erights/history/actors/AITR-844.pdf)
+
+介绍：经典论文
