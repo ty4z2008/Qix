@@ -548,3 +548,7 @@
 * [《Security Engineering: A Guide to Building Dependable Distributed Systems》](https://www.cl.cam.ac.uk/~rja14/Papers/)
 
 介绍：如何构建一个安全可靠的分布式系统,[About the Author](https://www.cl.cam.ac.uk/~rja14/Papers/SEv2-acks.pdf),[Bibliography:文献资料](https://www.cl.cam.ac.uk/~rja14/Papers/SEv2-biblio.pdf),章节访问把[链接](https://www.cl.cam.ac.uk/~rja14/Papers/SEv2-c01.pdf)最后的01换成01-27即可
+
+* [《15-712 Advanced and Distributed Operating Systems》](https://www.cs.cmu.edu/~15712/index.html)
+
+介绍：卡内基梅隆大学的分布式系统博士生课程主页,有很丰富的[资料](https://www.cs.cmu.edu/~15712/syllabus.html)
