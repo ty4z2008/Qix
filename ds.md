@@ -494,3 +494,7 @@
 * [《Raft: Understandable Distributed Consensus》](http://thesecretlivesofdata.com/raft/)
 
 介绍：Raft可视化图帮助理解分布式一致性
+
+* [《Etcd:Distributed reliable key-value store for the most critical data of a distributed system》](https://github.com/coreos/etcd)
+
+介绍：Etcd分布式Key-Value存储引擎
