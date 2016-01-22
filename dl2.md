@@ -850,5 +850,8 @@
 
 * [《Machine Learning: a Probabilistic Perspective》](http://www.cs.ubc.ca/~murphyk/MLbook/index.html)
 
-介绍:推荐书籍:<机器学习：概率视角>,样章[Undirected graphical models Markov
-random fields](http://www.cs.ubc.ca/~murphyk/MLbook/pml-print3-ch19.pdf).
+介绍:推荐书籍:<机器学习：概率视角>,样章[Undirected graphical models Markov random fields](http://www.cs.ubc.ca/~murphyk/MLbook/pml-print3-ch19.pdf).
+
+* [《Deep learning Book》](http://www.deeplearningbook.org/)
+
+介绍:这是一本在线的深度学习书籍,合著者有Ian Goodfellow, Yoshua Bengio 和 Aaron Courville.如果你是一位新入门的学员可以先看这本书籍[Yoshua Bengio: How can one get started with machine learning?](https://www.quora.com/How-can-one-get-started-with-machine-learning-1)
