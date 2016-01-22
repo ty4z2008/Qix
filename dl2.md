@@ -843,3 +843,7 @@
 * [《Deep Learning - Taking machine learning to the next level》](https://www.udacity.com/course/deep-learning--ud730)
 
 介绍:[Google]基于TensorFlow的深度学习/机器学习课程.
+
+* [《100 “must read” R-bloggers’ posts for 2015》](http://www.r-bloggers.com/100-must-read-r-bloggers-posts-for-2015/)
+
+介绍:R-bloggers网站2015"必读"的100篇文章,R语言学习的福音.
