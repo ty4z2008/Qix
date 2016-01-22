@@ -847,3 +847,8 @@
 * [《100 “must read” R-bloggers’ posts for 2015》](http://www.r-bloggers.com/100-must-read-r-bloggers-posts-for-2015/)
 
 介绍:R-bloggers网站2015"必读"的100篇文章,R语言学习的福音.
+
+* [《Machine Learning: a Probabilistic Perspective》](http://www.cs.ubc.ca/~murphyk/MLbook/index.html)
+
+介绍:推荐书籍:<机器学习：概率视角>,样章[Undirected graphical models Markov
+random fields](http://www.cs.ubc.ca/~murphyk/MLbook/pml-print3-ch19.pdf).
