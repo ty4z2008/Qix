@@ -182,3 +182,7 @@
 * [《What source code is worth studying?》](https://news.ycombinator.com/item?id=879101)
 
 介绍:如何选择一些好的源码学习,[What source code is worth studying?02](https://news.ycombinator.com/item?id=879101),[What source code is worth studying?02](https://news.ycombinator.com/item?id=7602237)
+
+* [《How to write a great research paper》](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/writing-a-paper-slides.pdf)
+
+介绍:[youtube](https://www.youtube.com/watch?v=g3dkRsTqdDA),[youku](http://v.youku.com/v_show/id_XMTQ0MzcwODM3Mg==.html)
