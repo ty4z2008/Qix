@@ -855,3 +855,11 @@
 * [《Deep learning Book》](http://www.deeplearningbook.org/)
 
 介绍:这是一本在线的深度学习书籍,合著者有Ian Goodfellow, Yoshua Bengio 和 Aaron Courville.如果你是一位新入门的学员可以先看这本书籍[Yoshua Bengio: How can one get started with machine learning?](https://www.quora.com/How-can-one-get-started-with-machine-learning-1)
+
+* [《UFLDL Recommended Readings》](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Recommended_Readings)
+
+介绍:UFLDL推荐的深度学习阅读列表.
+
+* [《CSE 705: Deep Learning (Spring 2015)》](http://www.cse.buffalo.edu/~hungngo/classes/2015/705/)
+
+介绍:纽约州立大学布法罗分校2015年春季机器学习课程主页.
