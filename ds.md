@@ -516,3 +516,19 @@
 * [《Analysis of Six Distributed File Systems》](https://hal.inria.fr/hal-00789086/file/a_survey_of_dfs.pdf)
 
 介绍：此篇论文对HDFS,MooseFS,iRODS,Ceph,GlusterFS,Lustre六个存储系统做了详细分析.如果是自己研发对应的存储系统推荐先阅读此篇论文
+
+* [《A Survey of Distributed File Systems》](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=A106388C6F04609BCA27DE6DF9C917A6?doi=10.1.1.35.4793&rep=rep1&type=pdf)
+
+介绍：分布式文件系统综述
+
+* [《Concepts of Concurrent Programming》](ftp://ftp.sei.cmu.edu/pub/education/cm24.pdf)
+
+介绍：并行编程的概念,同时推荐[卡内基梅隆FTP](ftp://ftp.sei.cmu.edu/pub/education/)
+
+* [《Concurrency Control Performance Modeling:Alternatives and Implications》](https://www.cs.berkeley.edu/~brewer/cs262/ConcControl.pdf)
+
+介绍：并发控制性能建模：选择与意义
+
+* [《Distributed Systems - Concepts and Design 5th Edition》](https://azmuri.files.wordpress.com/2013/09/george-coulouris-distributed-systems-concepts-and-design-5th-edition.pdf)
+
+介绍：ebook分布式系统概念与设计
