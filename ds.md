@@ -490,3 +490,7 @@
 * [《2010 NoSQL Summer Reading List》](http://www.empiricalreality.com/2010/09/22/2010-nosql-summer-reading-list/)
 
 介绍：NoSQL知识清单,里面不仅仅包含了数据库阅读清单还包含了分布式系统资料.
+
+* [《Raft: Understandable Distributed Consensus》](http://thesecretlivesofdata.com/raft/)
+
+介绍：Raft可视化图帮助理解分布式一致性
