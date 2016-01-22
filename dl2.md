@@ -831,3 +831,15 @@
 * [《mageNet and MS COCO Visual Recognition Challenges video and slider》](http://image-net.org/challenges/ilsvrc+mscoco2015)
 
 介绍:ICCV 2015的ImageNet比赛以及MS COCO竞赛联合研讨会的幻灯片和视频.
+
+* [《An Introduction to Machine Learning with Python》](http://blog.districtdatalabs.com/an-introduction-to-machine-learning-with-python)
+
+介绍:Python机器学习入门.
+
+* [《Neural Enquirer: Learning to Query Tables with Natural Language》](http://arxiv.org/abs/1512.00965)
+
+介绍:Neural Enquirer 第二版.
+
+* [《Deep Learning - Taking machine learning to the next level》](https://www.udacity.com/course/deep-learning--ud730)
+
+介绍:[Google]基于TensorFlow的深度学习/机器学习课程.
