@@ -500,3 +500,7 @@
 * [《Etcd:Distributed reliable key-value store for the most critical data of a distributed system》](https://github.com/coreos/etcd)
 
 介绍：Etcd分布式Key-Value存储引擎
+
+* [《Understanding Availability》](http://sysnet.ucsd.edu/recall/papers/iptps.pdf)
+
+介绍：理解peer-to-peer系统中的可用性究竟是指什么.同时推荐[基于 Peer-to-Peer 的分布式存储系统的设计](http://www.jos.org.cn/1000-9825/15/268.pdf)
