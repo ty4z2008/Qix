@@ -190,3 +190,8 @@
 * [《Ph.D Useful Thoughts about Research》](http://www.eecs.harvard.edu/htk/phdadvice/)
 
 介绍:博士生如何在研究领域得心应手
+
+* [《资料汇集》](http://dirlt.com/)
+
+介绍:内容分涵盖面之广：APUE(Unix环境高级编程),UNP(Unix网络编程),tcmalloc,gperftools,tcmalloc,ubuntu,之前有过痛苦的经历,macosx,docker,libev,muduo,kylin,linsd(百度首席架构师林仕鼎),zeromq,netty,finagle,gunicorn,leveldb,mongodb,redis,mysql,rcfile,orcfile,parquet,Cracking The Coding Interview,Bitcoin: A Peer-to-Peer Electronic Cash System,snappy,lzf,redis,sklearn,caffe,机器学习基石 on Coursera,机器学习技法 on Coursera,The Django Book
+
