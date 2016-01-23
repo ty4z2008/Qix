@@ -552,3 +552,7 @@
 * [《15-712 Advanced and Distributed Operating Systems》](https://www.cs.cmu.edu/~15712/index.html)
 
 介绍：卡内基梅隆大学的分布式系统博士生课程主页,有很丰富的[资料](https://www.cs.cmu.edu/~15712/syllabus.html)
+
+* [《Dapper, Google's Large-Scale Distributed Systems Tracing Infrastructure》](http://static.googleusercontent.com/media/research.google.com/zh-CN//archive/papers/dapper-2010-1.pdf)
+
+介绍：Dapper，大规模分布式系统的跟踪系统,[译文](http://bigbully.github.io/Dapper-translation/),[译文对照](http://dirlt.com/dapper.html)
