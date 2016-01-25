@@ -867,3 +867,7 @@
 * [《Theano is a Deep learning Python library 》](https://github.com/Theano/Theano)
 
 介绍: Theano是主流的深度学习Python库之一，亦支持GPU,入门比较难.推荐[Theano tutorial](https://github.com/marekrei/theano-tutorial),[Document](http://deeplearning.net/software/theano/tutorial/)
+
+* [《Statistical Language Models Based On Neural Networks》](http://www.fit.vutbr.cz/~imikolov/rnnlm/thesis.pdf)
+
+介绍:博士论文:神经网络统计语言模型.
