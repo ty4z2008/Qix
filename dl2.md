@@ -863,3 +863,7 @@
 * [《CSE 705: Deep Learning (Spring 2015)》](http://www.cse.buffalo.edu/~hungngo/classes/2015/705/)
 
 介绍:纽约州立大学布法罗分校2015年春季机器学习课程主页.
+
+* [《Theano is a Deep learning Python library 》](https://github.com/Theano/Theano)
+
+介绍: Theano是主流的深度学习Python库之一，亦支持GPU,入门比较难.推荐[Theano tutorial](https://github.com/marekrei/theano-tutorial),[Document](http://deeplearning.net/software/theano/tutorial/)
