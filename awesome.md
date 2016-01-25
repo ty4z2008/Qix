@@ -199,6 +199,26 @@
 
 介绍:老师是<数学思维导论:学会像数学家一样思考>作者
 
-* [《Front-end Developer Handboo》](http://www.frontendhandbook.com/)
+* [《Front-end Developer Handbook》](http://www.frontendhandbook.com/)
 
 介绍:前端工程师开发手册
+
+* [《Front-end Developer Handbook》](https://y2468101216.gitbooks.io/node-wiki-book/content/)
+
+介绍:這是一本关于Node.js 技术的开放源码电子书
+
+* [《Shell 编程范例》](https://tinylab.gitbooks.io/shellbook/content/)
+
+介绍:不同于传统 Shell 书籍，本书并未花大篇幅去介绍 Shell 语法，而是以面向“对象” 的方式引入大量的实例介绍 Shell 日常操作，“对象” 涵盖数值、逻辑值、字符串、文件、进程、文件系统等。这样有助于学以致用，并在用的过程中提高兴趣。也可以作为 Shell 编程索引，在需要的时候随时检索。
+
+* [《Linux socket 网络程序设计》](http://beej-zhcn.netdpi.net/)
+
+介绍:本書是 Linux socket 网络程序设计的敲门砖，对初学者而言是一份好的开始,尤其是第七章介绍了重要的Linux scoket网络编程的技巧与理念
+
+* [《Linux kernel coding style》](https://tinylab.gitbooks.io/linux-doc/content/en/CodingStyle.html)
+
+介绍:Linux内核编码规范,大家都知道Linus Torvalds对于编码格式要求非常严格.因为好的代码就像一件工艺品.既有美又有价值
+
+* [《C 语言编程透视》](https://tinylab.gitbooks.io/cbook/content/)
+
+介绍:本书与[《深入淺出 Hello World》](http://blog.linux.org.tw/~jserv/archives/001844.html)有着类似的心路历程，旨在以实验的方式去探究类似 Hello World 这样的小程序在开发与执行过程中的微妙变化，一层层揭开 C 语言程序开发过程的神秘面纱，透视背后的秘密，不断享受醍醐灌顶的美妙。
