@@ -276,3 +276,10 @@
 
 介绍：[《The Go Programming Language》](http://gopl.io/) 的 读书笔记 和 习题解答.
 
+* [《The Go Programming Language》](https://wizardforcel.gitbooks.io/gopl-zh/content/)
+
+介绍：Go 语言圣经 中文版
+
+* [《Network Programming with Go》](https://jannewmarch.gitbooks.io/network-programming-with-go-golang-/content/)
+
+介绍：这是一本关于使用golang写网络程序的电子书.
