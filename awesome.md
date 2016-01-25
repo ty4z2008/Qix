@@ -201,9 +201,13 @@
 
 * [《Front-end Developer Handbook》](http://www.frontendhandbook.com/)
 
-介绍:前端工程师开发手册
+介绍:前端工程师手册
 
-* [《Front-end Developer Handbook》](https://y2468101216.gitbooks.io/node-wiki-book/content/)
+* [《前端工程师手册》](https://leohxj.gitbooks.io/front-end-database/content/)
+
+介绍:这本书与 [《Front-end Developer Handbook》](http://www.frontendhandbook.com/)不同，前者是技术，后者是整个前端工程师之路
+
+* [《Node wiki book》](https://y2468101216.gitbooks.io/node-wiki-book/content/)
 
 介绍:這是一本关于Node.js 技术的开放源码电子书
 
