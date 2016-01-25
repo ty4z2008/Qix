@@ -198,3 +198,7 @@
 * [《斯坦福：数学思维导论》](https://www.coursera.org/course/maththink)
 
 介绍:老师是<数学思维导论:学会像数学家一样思考>作者
+
+* [《Front-end Developer Handboo》](http://www.frontendhandbook.com/)
+
+介绍:前端工程师开发手册
