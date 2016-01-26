@@ -871,3 +871,16 @@
 * [《Statistical Language Models Based On Neural Networks》](http://www.fit.vutbr.cz/~imikolov/rnnlm/thesis.pdf)
 
 介绍:博士论文:神经网络统计语言模型.
+
+* [《文本数据的机器学习自动分类方法(上)》](http://www.infoq.com/cn/articles/machine-learning-automatic-classification-of-text-data)
+
+介绍:[文本数据的机器学习自动分类方法(下)](http://www.infoq.com/cn/articles/machine-learning-automatic-classification-of-text-data-part2).
+
+* [《Pixel Recurrent Neural Networks》](http://arxiv.org/abs/1601.06759)
+
+介绍:用RNN预测像素，可以把被遮挡的图片补充完整.
+
+* [《Computational Network Toolkit (CNTK)》](https://github.com/Microsoft/CNTK)
+
+介绍:微软研究院把其深度学习工具包CNTK,想进一步了解和学习CNTK的同学可以看前几天公布的《CNTK白皮书》[An Introduction to Computational Networks and the Computational Network Toolkit](http://research.microsoft.com/pubs/226641/CNTKBook-20160121.pdf).
+
