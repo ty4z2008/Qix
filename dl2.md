@@ -884,3 +884,6 @@
 
 介绍:微软研究院把其深度学习工具包CNTK,想进一步了解和学习CNTK的同学可以看前几天公布的《CNTK白皮书》[An Introduction to Computational Networks and the Computational Network Toolkit](http://research.microsoft.com/pubs/226641/CNTKBook-20160121.pdf).
 
+* [《Kalman and Bayesian Filters in Python》](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+
+介绍: 卡尔曼滤波器教材，用尽量少的数学和推导，传授直觉和经验，全部Python示例，内容覆盖卡尔曼滤波器、扩展卡尔曼滤波，无迹卡尔曼滤波等，包括练习和参考答案
