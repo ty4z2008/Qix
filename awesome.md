@@ -226,3 +226,7 @@
 * [《C 语言编程透视》](https://tinylab.gitbooks.io/cbook/content/)
 
 介绍:本书与[《深入淺出 Hello World》](http://blog.linux.org.tw/~jserv/archives/001844.html)有着类似的心路历程，旨在以实验的方式去探究类似 Hello World 这样的小程序在开发与执行过程中的微妙变化，一层层揭开 C 语言程序开发过程的神秘面纱，透视背后的秘密，不断享受醍醐灌顶的美妙。
+
+* [《Marvin Minsky：A Framework for Representing Knowledge》](http://web.media.mit.edu/~minsky/papers/Frames/frames.html)
+
+介绍:人工智能研究巨擘，1969年图灵奖得主，1991年IJCAI终身成就奖得主，MIT计算机学科奠基人马文.闵斯基之作,他诸多成就中最广为人知的是作为神经网络研究先驱，他构建了世界上第一个神经网络仿真工具，而他在1969年的著作又直接导致了此后15年的神经网络“冰河期”.[Steps Toward Artificial Intelligence](http://web.media.mit.edu/~minsky/papers/steps.html),[部分论文](http://web.media.mit.edu/~minsky/abstracts.html)
