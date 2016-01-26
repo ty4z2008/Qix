@@ -213,7 +213,7 @@
 
 * [《Shell 编程范例》](https://tinylab.gitbooks.io/shellbook/content/)
 
-介绍:不同于传统 Shell 书籍，本书并未花大篇幅去介绍 Shell 语法，而是以面向“对象” 的方式引入大量的实例介绍 Shell 日常操作，“对象” 涵盖数值、逻辑值、字符串、文件、进程、文件系统等。这样有助于学以致用，并在用的过程中提高兴趣。也可以作为 Shell 编程索引，在需要的时候随时检索。
+介绍:不同于传统 Shell 书籍，本书并未花大篇幅去介绍 Shell 语法，而是以面向“对象” 的方式引入大量的实例介绍 Shell 日常操作，“对象” 涵盖数值、逻辑值、字符串、文件、进程、文件系统等。这样有助于学以致用，并在用的过程中提高兴趣。也可以作为 Shell 编程索引，在需要的时候随时检索。推荐[bash handbook](https://github.com/denysdovhan/bash-handbook)
 
 * [《Linux socket 网络程序设计》](http://beej-zhcn.netdpi.net/)
 
