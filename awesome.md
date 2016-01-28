@@ -230,3 +230,7 @@
 * [《Marvin Minsky：A Framework for Representing Knowledge》](http://web.media.mit.edu/~minsky/papers/Frames/frames.html)
 
 介绍:人工智能研究巨擘，1969年图灵奖得主，1991年IJCAI终身成就奖得主，MIT计算机学科奠基人马文.闵斯基之作,他诸多成就中最广为人知的是作为神经网络研究先驱，他构建了世界上第一个神经网络仿真工具，而他在1969年的著作又直接导致了此后15年的神经网络“冰河期”.[Steps Toward Artificial Intelligence](http://web.media.mit.edu/~minsky/papers/steps.html),[部分论文](http://web.media.mit.edu/~minsky/abstracts.html)
+
+* [《The Only UX Reading List Ever》](https://medium.com/interactive-mind/the-only-ux-reading-list-ever-d420edb3f4ff)
+
+介绍:与用户打交道的工作都不容易,对象不是一台冷冰冰的机器。而是一位热情澎湃的客人,好的产品总是会留在用户的记忆里。推荐用户体验阅读列表，此外推荐[goodui](http://goodui.org)
