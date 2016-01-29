@@ -891,3 +891,8 @@
 * [《Statistical inference for data science》](https://leanpub.com/LittleInferenceBook)
 
 介绍:在线免费书:面向数据科学的统计推断，R示例代码，很不错[GitHub](https://github.com/bcaffo/LittleInferenceBook).
+
+* [《Learning Deep Architectures for AI》](http://www.iro.umontreal.ca/~bengioy/papers/ftml_book.pdf)
+
+介绍:这本书是由Yoshua Bengio撰写的教程,其内容包含了学习人工智能所使用的深度学习架构的学习资源,书中的项目`已停止更新`[DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox).
+
