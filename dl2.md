@@ -887,3 +887,7 @@
 * [《Kalman and Bayesian Filters in Python》](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 
 介绍: 卡尔曼滤波器教材，用尽量少的数学和推导，传授直觉和经验，全部Python示例，内容覆盖卡尔曼滤波器、扩展卡尔曼滤波，无迹卡尔曼滤波等，包括练习和参考答案
+
+* [《Statistical inference for data science》](https://leanpub.com/LittleInferenceBook)
+
+介绍:在线免费书:面向数据科学的统计推断，R示例代码，很不错[GitHub](https://github.com/bcaffo/LittleInferenceBook).
