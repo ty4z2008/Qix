@@ -911,3 +911,7 @@
 * [《Data Mining, Analytics, Big Data, and Data Science》](http://www.kdnuggets.com/)
 
 介绍:这是国外的一个科技频道,涵盖了数据挖掘,分析以及数据科学类的文章.偶尔还有机器学习精选.
+
+* [《Data Mining And Statistics: What's The Connection?》](http://docs.salford-systems.com/dm-stat.pdf)
+
+介绍:经典论文:数据挖掘与统计学.
