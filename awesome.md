@@ -234,3 +234,7 @@
 * [《The Only UX Reading List Ever》](https://medium.com/interactive-mind/the-only-ux-reading-list-ever-d420edb3f4ff)
 
 介绍:与用户打交道的工作都不容易,对象不是一台冷冰冰的机器。而是一位热情澎湃的客人,好的产品总是会留在用户的记忆里。推荐用户体验阅读列表，此外推荐[goodui](http://goodui.org)
+
+* [《Introducing JavaScript Tips》](https://github.com/loverajoel/jstips)
+
+介绍:每日一js tip
