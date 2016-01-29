@@ -420,7 +420,7 @@
 
 * [《Deep learning on Spark with Keras》](https://github.com/maxpumperla/elephas)
 
-介绍:Spark上的Keras深度学习框架Elephas.
+介绍:Spark上的[Keras](https://github.com/fchollet/keras)深度学习框架Elephas.
 
 * [《Prof. Surya Ganguli - The statistical physics of deep learning》](https://www.youtube.com/watch?v=7KCWcx-YIRI&hd=1)
 
@@ -622,7 +622,7 @@
 
 * [《深度学习简析,TensorFlow,Torch,Theano,Mxnet》](http://chiffon.gitcafe.io/2015/11/16/long.html)
 
-介绍:深度学习简析,TensorFlow,Torch,Theano,Mxnet.
+介绍:深度学习简析,TensorFlow,Torch,Theano,[Mxnet](https://github.com/dmlc/mxnet).
 
 * [《"Notes Essays —CS183C: Technology-enabled Blitzscaling — Stanford University》](https://medium.com/notes-essays-cs183c-technology-enabled-blitzscalin/latest)
 
@@ -896,3 +896,10 @@
 
 介绍:这本书是由Yoshua Bengio撰写的教程,其内容包含了学习人工智能所使用的深度学习架构的学习资源,书中的项目`已停止更新`[DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox).
 
+* [《Machine Learning Tutorials》](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+
+介绍:这是一份机器学习和深度学习教程，文章和资源的清单。这张清单根据各个主题进行撰写，包括了许多与深度学习有关的类别、计算机视觉、加强学习以及各种架构.
+
+* [《Data science ipython notebooks》](https://github.com/donnemartin/data-science-ipython-notebooks)
+
+介绍:这是由Donne Martin策划收集的IPython笔记本。话题涵盖大数据、Hadoop、scikit-learn和科学Python堆栈以及很多其他方面的内容。至于深度学习，像是TensorFlow、Theano和Caffe之类的框架也均被涵盖其中，当然还有相关的特定构架和概念等.
