@@ -1144,7 +1144,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 * [《Deep Learning Tutorials》](http://deeplearning.net/tutorial/)
 
-介绍:深度学习教程
+介绍:深度学习教程,[github](https://github.com/lisa-lab/DeepLearningTutorials)
 
 * [《自然语言处理的发展趋势——访卡内基梅隆大学爱德华·霍威教授》](http://www.ccf.org.cn/resources/1190201776262/2015/03/12/15.pdf)
 
