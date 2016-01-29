@@ -907,3 +907,7 @@
 * [《Open Source Deep Learning Server》](http://www.deepdetect.com/)
 
 介绍:开源的深度学习服务器,可以让初学者更容易上手[github](https://github.com/beniz/deepdetect).
+
+* [《Data Mining, Analytics, Big Data, and Data Science》](http://www.kdnuggets.com/)
+
+介绍:这是国外的一个科技频道,涵盖了数据挖掘,分析以及数据科学类的文章.偶尔还有机器学习精选.
