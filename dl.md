@@ -419,7 +419,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 * [《Hacker's guide to Neural Networks》](http://karpathy.github.io/neuralnets/)
 
-介绍：【神经网络黑客指南】现在，最火莫过于深度学习（Deep Learning），怎样更好学习它？可以让你在浏览器中，跑起深度学习效果的超酷开源项目convnetjs作者karpathy告诉你，最佳技巧是，当你开始写代码，一切将变得清晰。他刚发布了一本图书，不断在线更新
+介绍：【神经网络黑客指南】现在，最火莫过于深度学习（Deep Learning），怎样更好学习它？可以让你在浏览器中，跑起深度学习效果的超酷开源项目[ConvNetJS](https://github.com/karpathy/convnetjs)作者karpathy告诉你，最佳技巧是，当你开始写代码，一切将变得清晰。他刚发布了一本图书，不断在线更新
 
 * [《Building a Production Machine Learning Infrastructure》](http://machinelearningmastery.com/building-a-production-machine-learning-infrastructure/)
 
