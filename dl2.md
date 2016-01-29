@@ -903,3 +903,7 @@
 * [《Data science ipython notebooks》](https://github.com/donnemartin/data-science-ipython-notebooks)
 
 介绍:这是由Donne Martin策划收集的IPython笔记本。话题涵盖大数据、Hadoop、scikit-learn和科学Python堆栈以及很多其他方面的内容。至于深度学习，像是TensorFlow、Theano和Caffe之类的框架也均被涵盖其中，当然还有相关的特定构架和概念等.
+
+* [《Open Source Deep Learning Server》](http://www.deepdetect.com/)
+
+介绍:开源的深度学习服务器,可以让初学者更容易上手[github](https://github.com/beniz/deepdetect).
