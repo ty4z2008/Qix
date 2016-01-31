@@ -283,3 +283,7 @@
 * [《Network Programming with Go》](https://jannewmarch.gitbooks.io/network-programming-with-go-golang-/content/)
 
 介绍：这是一本关于使用golang写网络程序的电子书.
+
+* [《Seesaw:Google Open Source Load Balancer (Written in Go》](https://github.com/google/seesaw)
+
+介绍：谷歌开源的一款负载均衡器,[官方介绍](http://google-opensource.blogspot.com/2016/01/seesaw-scalable-and-robust-load.html).
