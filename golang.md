@@ -286,4 +286,4 @@
 
 * [《Seesaw:Google Open Source Load Balancer (Written in Go》](https://github.com/google/seesaw)
 
-介绍：谷歌开源的一款负载均衡器,[官方介绍](http://google-opensource.blogspot.com/2016/01/seesaw-scalable-and-robust-load.html).
+介绍：谷歌开源的一款负载均衡器,[官方介绍](http://google-opensource.blogspot.com/2016/01/seesaw-scalable-and-robust-load.html).注意：非官方项目
