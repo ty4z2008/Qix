@@ -906,7 +906,7 @@
 
 * [《Open Source Deep Learning Server》](http://www.deepdetect.com/)
 
-介绍:开源的深度学习服务器,可以让初学者更容易上手[github](https://github.com/beniz/deepdetect).
+介绍:开源的深度学习服务,DeepDetect是C++实现的基于外部机器学习/深度学习库（目前是Caffe）的API。给出了图片训练（ILSVRC）和文本训练（基于字的情感分析，NIPS15）的样例，以及根据图片标签索引到ElasticSearch中[github](https://github.com/beniz/deepdetect).
 
 * [《Data Mining, Analytics, Big Data, and Data Science》](http://www.kdnuggets.com/)
 
