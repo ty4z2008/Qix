@@ -91,3 +91,7 @@
 * [《The Use of Machine Learning Algorithms in Recommender Systems: A Systematic Review》](http://arxiv.org/abs/1511.05263)
 
 介绍:推荐系统机器学习算法系统综述.
+
+* [《Top 10 data mining algorithms in plain English》](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
+
+介绍:白话数据挖掘十大算法
