@@ -238,3 +238,7 @@
 * [《Introducing JavaScript Tips》](https://github.com/loverajoel/jstips)
 
 介绍:每日一js tip
+
+* [《xss；Google Code Playground - Path Traversal》](http://blog.bentkowski.info/2014/04/google-code-playground-path-traversal.html?view=sidebar)
+
+介绍:xss教程
