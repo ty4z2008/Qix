@@ -915,3 +915,7 @@
 * [《Data Mining And Statistics: What's The Connection?》](http://docs.salford-systems.com/dm-stat.pdf)
 
 介绍:经典论文:数据挖掘与统计学.
+
+* [《(NIPS’2015 Tutorial)Yoshua Bengio深度学习》](https://drive.google.com/file/d/0BxKBnD5y2M8NVnBpbWVwYUpQTjg/view)
+
+介绍:NIPS’2015 Tutorial by Yoshua Bengio.
