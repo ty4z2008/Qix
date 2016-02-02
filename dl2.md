@@ -919,3 +919,11 @@
 * [《(NIPS’2015 Tutorial)Yoshua Bengio深度学习》](https://drive.google.com/file/d/0BxKBnD5y2M8NVnBpbWVwYUpQTjg/view)
 
 介绍:NIPS’2015 Tutorial by Yoshua Bengio.
+
+* [《(NENO:Python based Deep Learning Framework》](https://github.com/NervanaSystems/neon)
+
+介绍:Nervana Systems的开源深度学习框架neon发布.
+
+* [《(Matt Might:Reading for graduate students》](http://matt.might.net/articles/books-papers-materials-for-graduate-students/)
+
+介绍:犹他州大学Matt Might教授推荐的研究生阅读清单.
