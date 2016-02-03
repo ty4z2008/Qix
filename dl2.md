@@ -927,3 +927,7 @@
 * [《(Matt Might:Reading for graduate students》](http://matt.might.net/articles/books-papers-materials-for-graduate-students/)
 
 介绍:犹他州大学Matt Might教授推荐的研究生阅读清单.
+
+* [《Awesome Public Datasets》](https://github.com/caesar0301/awesome-public-datasets)
+
+介绍:开放数据集.
