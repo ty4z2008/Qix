@@ -684,3 +684,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《pglogical：A logical replication system for PostgreSQL》](http://2ndquadrant.com/en/resources/pglogical/)
 
 介绍:pg的逻辑复制扩展,兼顾了基于触发器复制技术的灵活性,同时又有基于日志复制技术的高效性
+
+* [《Postgres EXPLAIN Visualizer》](http://tatiyants.com/pev)
+
+介绍:Postgres的EXPLAIN查看执行计划已经非常的直观、全面，不过有人更钟情于图形化的展示，现在有了这样一个项目就是干这个的：Postgres EXPLAIN Visualizer (Pev)。
