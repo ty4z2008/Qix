@@ -947,3 +947,19 @@
 * [《Deeplearning4j 中文主页》](http://deeplearning4j.org/zh-index.html/)
 
 介绍:英文[主页](http://deeplearning4j.org)
+
+* [《Big Data Analysis Learning Resources: 50 Courses, Blogs, Tutorials, And More For Mastering Big Data Analytics》](http://www.ngdata.com/big-data-analysis-resources/)
+
+介绍:50个大数据分析最佳学习资源(课程、博客、教程等)
+
+* [《A Full Hardware Guide to Deep Learning》](http://timdettmers.com/2015/03/09/deep-learning-hardware-guide/)
+
+介绍:深度学习的全面硬件指南，从GPU到RAM、CPU、SSD、PCIe,[译文](http://www.almosthuman.cn/2016/02/04/bqrzz/)
+
+* [《Deep Residual Networks》](https://github.com/KaimingHe/deep-residual-networks)
+
+介绍:kaiming开源作品
+
+* [《The Definitive Guide to Natural Language Processing》](https://blog.monkeylearn.com/the-definitive-guide-to-natural-language-processing/)
+
+介绍:自然语言处理(NLP)权威指南
