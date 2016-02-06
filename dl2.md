@@ -931,3 +931,19 @@
 * [《Awesome Public Datasets》](https://github.com/caesar0301/awesome-public-datasets)
 
 介绍:开放数据集.
+
+* [《Introduction to Probability - The Science of Uncertainty》](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-1)
+
+介绍:(edX)不确定性的科学——概率论导论(MITx).
+
+* [《R software and tools for everyday use》](http://xrds.acm.org/blog/2016/02/r-software-and-tools-for-everyday-use/)
+
+介绍:R语言开发常用软件/工具推荐.
+
+* [《Implementing Dynamic memory networks》](http://yerevann.github.io//2016/02/05/implementing-dynamic-memory-networks/)
+
+介绍:动态记忆网络实现.
+
+* [《Deeplearning4j 中文主页》](http://deeplearning4j.org/zh-index.html/)
+
+介绍:英文[主页](http://deeplearning4j.org)
