@@ -963,3 +963,7 @@
 * [《The Definitive Guide to Natural Language Processing》](https://blog.monkeylearn.com/the-definitive-guide-to-natural-language-processing/)
 
 介绍:自然语言处理(NLP)权威指南
+
+* [《Evaluating language identification performance》](https://blog.twitter.com/2015/evaluating-language-identification-performance)
+
+介绍:如何在社会媒体上做语言检测？没有数据怎么办？推特官方公布了一个十分难得的数据集：12万标注过的Tweets，有70种语言
