@@ -975,3 +975,7 @@
 * [《Machine Learning: An In-Depth, Non-Technical Guide - Part 1》](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
 
 介绍:机器学习——深度非技术指南
+
+* [《Data Storytelling 101: Helpful Tools for Gathering Ideas, Designing Content & More》](http://blog.hubspot.com/marketing/toolbox-for-data-storytelling)
+
+介绍:数据叙事入门指南——创意生成/数据采集/内容设计相关资源推荐
