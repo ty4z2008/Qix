@@ -967,3 +967,11 @@
 * [《Evaluating language identification performance》](https://blog.twitter.com/2015/evaluating-language-identification-performance)
 
 介绍:如何在社会媒体上做语言检测？没有数据怎么办？推特官方公布了一个十分难得的数据集：12万标注过的Tweets，有70种语言
+
+* [《ICLR 2016 Accepted Papers》](http://www.iclr.cc/doku.php?id=iclr2016:main&#accepted_papers_conference_track)
+
+介绍:深度学习和机器学习重要会议ICLR 2016录取文章
+
+* [《Machine Learning: An In-Depth, Non-Technical Guide - Part 1》](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
+
+介绍:机器学习——深度非技术指南
