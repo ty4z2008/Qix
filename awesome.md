@@ -245,4 +245,4 @@
 
 * [《Sci-Hub》](http://sci-hub.io)
 
-介绍:论文全文下载——学术界的"海盗湾"
+介绍:论文全文下载——学术界的"海盗湾",[mirror](http://sci-hub.cc/)
