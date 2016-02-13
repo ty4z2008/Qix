@@ -242,3 +242,7 @@
 * [《xss；Google Code Playground - Path Traversal》](http://blog.bentkowski.info/2014/04/google-code-playground-path-traversal.html?view=sidebar)
 
 介绍:xss教程
+
+* [《Sci-Hub》](http://sci-hub.io)
+
+介绍:论文全文下载——学术界的"海盗湾"
