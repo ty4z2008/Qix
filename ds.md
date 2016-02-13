@@ -556,3 +556,7 @@
 * [《Dapper, Google's Large-Scale Distributed Systems Tracing Infrastructure》](http://static.googleusercontent.com/media/research.google.com/zh-CN//archive/papers/dapper-2010-1.pdf)
 
 介绍：Dapper，大规模分布式系统的跟踪系统,[译文](http://bigbully.github.io/Dapper-translation/),[译文对照](http://dirlt.com/dapper.html)
+
+* [《CS262a: Advanced Topics in Computer Systems》](http://www.cs.berkeley.edu/~brewer/cs262/)
+
+介绍：伯克利大学计算机系统进阶课程,内容有深度,涵盖分布式,数据库等内容
