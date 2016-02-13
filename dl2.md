@@ -979,3 +979,12 @@
 * [《Data Storytelling 101: Helpful Tools for Gathering Ideas, Designing Content & More》](http://blog.hubspot.com/marketing/toolbox-for-data-storytelling)
 
 介绍:数据叙事入门指南——创意生成/数据采集/内容设计相关资源推荐
+
+* [《WikiTableQuestions: a Complex Real-World Question Understanding Dataset》](http://nlp.stanford.edu/blog/wikitablequestions-a-complex-real-world-question-understanding-dataset/)
+
+介绍:WikiTableQuestions——复杂真实问答数据集
+
+* [《Big Data: 35 Brilliant And Free Data Sources For 2016》](http://www.forbes.com/sites/bernardmarr/2016/02/12/big-data-35-brilliant-and-free-data-sources-for-2016/#64ede4f16796)
+
+介绍:(2016版)35个超棒的免费大数据源
+
