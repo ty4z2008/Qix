@@ -246,3 +246,8 @@
 * [《Sci-Hub》](http://sci-hub.io)
 
 介绍:论文全文下载——学术界的"海盗湾",[mirror](http://sci-hub.cc/)
+
+* [《University of California Berkeley database systems research HomePage》](http://db.cs.berkeley.edu/)
+
+介绍:加利福尼亚州伯克利的大学数据库研究室主页
+
