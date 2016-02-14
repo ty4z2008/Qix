@@ -988,3 +988,7 @@
 
 介绍:(2016版)35个超棒的免费大数据源
 
+* [《SPARKNET: training deep networks in spark》](http://arxiv.org/pdf/1511.06051v3.pdf)
+
+介绍:Ion Stoica和 Michael I. Jordan两位大家首次联手发文，CAFFE和SPARK完美结合，分布式深度学习混搭模式！[github](https://github.com/amplab/SparkNet)
+
