@@ -992,3 +992,6 @@
 
 介绍:Ion Stoica和 Michael I. Jordan两位大家首次联手发文，CAFFE和SPARK完美结合，分布式深度学习混搭模式！[github](https://github.com/amplab/SparkNet)
 
+* [《Learning Deep Learning》](http://rt.dgyblog.com/ref/ref-learning-deep-learning.html)
+
+介绍:深度学习阅读列表
