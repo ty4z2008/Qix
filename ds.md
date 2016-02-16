@@ -564,3 +564,7 @@
 * [《Egnyte Architecture: Lessons Learned In Building And Scaling A Multi Petabyte Distributed System》](http://highscalability.com/blog/2016/2/15/egnyte-architecture-lessons-learned-in-building-and-scaling.html)
 
 介绍：PB级分布式系统构建/扩展经验
+
+* [《CS162: Operating Systems and Systems Programming》](https://cs162.eecs.berkeley.edu/)
+
+介绍：伯克利大学计算机系统课程:操作系统与系统编程
