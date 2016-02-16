@@ -258,3 +258,7 @@
 * [《CS 268: Computer Networks, Fall 2010: Syllabus》](http://www.cs.berkeley.edu/~istoica/classes/cs268/10/)
 
 介绍:计算机网络课程
+
+* [《CS 294: Special Topic in Cryptography: Secure Computation (Spring 2016)》](http://www.cs.berkeley.edu/~sanjamg/classes/cs294-spring16/)
+
+介绍:[Sanjam Garg](http://www.cs.berkeley.edu/~sanjamg/?_ga=1.215305104.642570653.1455594431)是一位密码学研究者,这个最近在伯克利大学新开的课程
