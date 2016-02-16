@@ -560,3 +560,7 @@
 * [《CS262a: Advanced Topics in Computer Systems》](http://www.cs.berkeley.edu/~brewer/cs262/)
 
 介绍：伯克利大学计算机系统进阶课程,内容有深度,涵盖分布式,数据库等内容
+
+* [《Egnyte Architecture: Lessons Learned In Building And Scaling A Multi Petabyte Distributed System》](http://highscalability.com/blog/2016/2/15/egnyte-architecture-lessons-learned-in-building-and-scaling.html)
+
+介绍：PB级分布式系统构建/扩展经验
