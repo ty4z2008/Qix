@@ -254,3 +254,7 @@
 * [《Publishing at Google》](http://research.google.com/pubs/papers.html)
 
 介绍:Google公开发表的论文列表:数据挖掘,机器学习,自然语言处理,分布式系统,机器翻译,经济与电子商务,教育创新,自然科学,硬件,机器感知,网络,移动网络,量子计算,信息安全,软件工程,语音处理,信息检索,算法与理论.
+
+* [《CS 268: Computer Networks, Fall 2010: Syllabus》](http://www.cs.berkeley.edu/~istoica/classes/cs268/10/)
+
+介绍:计算机网络课程
