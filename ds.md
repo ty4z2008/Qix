@@ -568,3 +568,7 @@
 * [《CS162: Operating Systems and Systems Programming》](https://cs162.eecs.berkeley.edu/)
 
 介绍：伯克利大学计算机系统课程:操作系统与系统编程
+
+* [《MDCC: Multi-Data Center Consistency》](http://mdcc.cs.berkeley.edu/)
+
+介绍：MDCC主要解决跨数据中心的一致性问题中间件,一种新的协议
