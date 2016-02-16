@@ -999,3 +999,7 @@
 * [《Learning Deep Learning》](http://rt.dgyblog.com/ref/ref-learning-deep-learning.html)
 
 介绍:深度学习阅读列表
+
+* [《Awesome42 The easiest way to find R packages》](http://awesome42.com/)
+
+介绍:探索R包的好网站Awesome 42
