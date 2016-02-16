@@ -1003,3 +1003,7 @@
 * [《Awesome42 The easiest way to find R packages》](http://awesome42.com/)
 
 介绍:探索R包的好网站Awesome 42
+
+* [《MLbase:Distributed Machine Learning Made Easy》](http://mlbase.org/)
+
+介绍:MLbase是[Prof. Dr. Tim Kraska](http://cs.brown.edu/~kraskat/)的一个研究项目，MLbase是一个分布式机器学习管理系统
