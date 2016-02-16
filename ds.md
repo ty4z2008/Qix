@@ -572,3 +572,7 @@
 * [《MDCC: Multi-Data Center Consistency》](http://mdcc.cs.berkeley.edu/)
 
 介绍：MDCC主要解决跨数据中心的一致性问题中间件,一种新的协议
+
+* [《Research at Google:Distributed Systems and Parallel Computing》](http://research.google.com/pubs/DistributedSystemsandParallelComputing.html)
+
+介绍：google公开对外发表的分布式系统与并行计算论文
