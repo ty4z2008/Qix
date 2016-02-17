@@ -267,3 +267,6 @@
 
 介绍:自学 iOS - 三十天三十个 Swift 项目[文章](http://weibo.com/ttarticle/p/show?id=2309403942494873235448),作者时来源与国外的[Sam Lu](https://medium.com/@samvlu/100-days-of-swift-736d45a19b63)的[100 Days of Swift](http://samvlu.com/)启发开始编写,目前代码已经开源
 
+* [《Readings in Database Systems, 5th Edition》](http://www.redbook.io/)
+
+介绍:数据库领域红宝书重出江湖。《Readings in Database Systems, 5th Edition》评注版 Peter Bailis, Joseph M. Hellerstein, Michael Stonebraker编著。十年之后，内容大变，传统数据库架构彻底重写，bigdata浪潮影响深远，数据库领域必看书籍
