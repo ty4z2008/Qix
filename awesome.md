@@ -262,3 +262,8 @@
 * [《CS 294: Special Topic in Cryptography: Secure Computation (Spring 2016)》](http://www.cs.berkeley.edu/~sanjamg/classes/cs294-spring16/)
 
 介绍:[Sanjam Garg](http://www.cs.berkeley.edu/~sanjamg/?_ga=1.215305104.642570653.1455594431)是一位密码学研究者,这个最近在伯克利大学新开的课程
+
+* [《30 Days of Swift》](https://github.com/allenwong/30DaysofSwift)
+
+介绍:自学 iOS - 三十天三十个 Swift 项目[文章](http://weibo.com/ttarticle/p/show?id=2309403942494873235448),作者时来源与国外的[Sam Lu](https://medium.com/@samvlu/100-days-of-swift-736d45a19b63)的[100 Days of Swift](http://samvlu.com/)启发开始编写,目前代码已经开源
+
