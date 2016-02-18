@@ -1007,3 +1007,7 @@
 * [《MLbase:Distributed Machine Learning Made Easy》](http://mlbase.org/)
 
 介绍:MLbase是[Prof. Dr. Tim Kraska](http://cs.brown.edu/~kraskat/)的一个研究项目，MLbase是一个分布式机器学习管理系统
+
+* [《Deep Learning At Scale and At Ease》](http://www.comp.nus.edu.sg/~ooibc/singa-tomm.pdf)
+
+介绍:分布式深度学习平台[SINGA](http://singa.incubator.apache.org/index.html)介绍
