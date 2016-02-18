@@ -95,3 +95,7 @@
 * [《Top 10 data mining algorithms in plain English》](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 
 介绍:白话数据挖掘十大算法
+
+* [《Designing and Implementing a Ranking Algorithm》](https://jkchu.com/2016/02/17/designing-and-implementing-a-ranking-algorithm/)
+
+介绍:排名算法的设计与实现
