@@ -695,5 +695,8 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 * [《Performance Tuning Queries in PostgreSQL》](http://www.geekytidbits.com/performance-tuning-postgres)
 
-介绍:pg性能调优之数据查询
+介绍:pg性能调优之数据查询,此外推荐[https://www.youtube.com/watch?v=svqQzYFBPIo](https://www.youtube.com/watch?v=svqQzYFBPIo)
 
+* [《Building Full Text Search For Your Application using Postgres》](http://www.adalyz.com/building-full-text-search-for-your-application-using-postgres/)
+
+介绍:使用pg为自己的应用构建全文检索
