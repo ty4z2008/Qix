@@ -692,3 +692,8 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《Custom Aggregates in PostgreSQL》](https://hashrocket.com/blog/posts/custom-aggregates-in-postgresql)
 
 介绍:在写复杂的SQL时，可能会进行复杂的运算.但是原有的聚集函数并不能满足要求。这篇文章详细介绍了自定义聚集函数
+
+* [《Performance Tuning Queries in PostgreSQL》](http://www.geekytidbits.com/performance-tuning-postgres)
+
+介绍:pg性能调优之数据查询
+
