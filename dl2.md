@@ -1019,3 +1019,7 @@
 * [《R For Deep Learning (I): Build Fully Connected Neural Network From Scratch》](http://www.parallelr.com/r-deep-neural-network-from-scratch/)
 
 介绍:R语言深度学习第一节:从零开始
+
+* [《A Visual Introduction to Machine Learning》](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
+介绍:图解机器学习
