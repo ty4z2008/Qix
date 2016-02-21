@@ -1011,3 +1011,7 @@
 * [《Deep Learning At Scale and At Ease》](http://www.comp.nus.edu.sg/~ooibc/singa-tomm.pdf)
 
 介绍:分布式深度学习平台[SINGA](http://singa.incubator.apache.org/index.html)介绍
+
+* [《Learn All About Apache Spark (100x Faster than Hadoop MapReduce)》](http://datasciencereport.com/2016/02/19/apache-spark/)
+
+介绍:Spark视频集锦
