@@ -270,3 +270,7 @@
 * [《Readings in Database Systems, 5th Edition》](http://www.redbook.io/)
 
 介绍:数据库领域红宝书重出江湖。《Readings in Database Systems, 5th Edition》评注版 Peter Bailis, Joseph M. Hellerstein, Michael Stonebraker编著。十年之后，内容大变，传统数据库架构彻底重写，bigdata浪潮影响深远，数据库领域必看书籍
+
+* [《Complete Beginner’s Guide to Interaction Design》](http://www.uxbooth.com/articles/complete-beginners-guide-to-interaction-design/)
+
+介绍:给交互设计初学者的完全自学指南,更重要的是文章末尾的设计师twitter
