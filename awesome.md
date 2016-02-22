@@ -274,3 +274,7 @@
 * [《Complete Beginner’s Guide to Interaction Design》](http://www.uxbooth.com/articles/complete-beginners-guide-to-interaction-design/)
 
 介绍:给交互设计初学者的完全自学指南,更重要的是文章末尾的设计师twitter,如果你学习交互设计可以关注[UXbooth](http://www.uxbooth.com/)
+
+* [《Emiller's Guide To Nginx Module Development》](http://www.evanmiller.org/nginx-modules-guide.html)
+
+介绍:Nginx模块编写指南
