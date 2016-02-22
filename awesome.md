@@ -277,4 +277,4 @@
 
 * [《Emiller's Guide To Nginx Module Development》](http://www.evanmiller.org/nginx-modules-guide.html)
 
-介绍:Nginx模块编写指南
+介绍:Nginx模块编写指南,[译文](http://www.oschina.net/translate/nginx-modules-guide)
