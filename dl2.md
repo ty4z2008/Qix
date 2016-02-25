@@ -1023,3 +1023,12 @@
 * [《A Visual Introduction to Machine Learning》](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 介绍:图解机器学习
+
+* [《Citation Network Dataset》](http://aminer.org/citation)
+
+介绍:AMiner论文引用数据集(v7:2,244,021 papers and 4,354,534 citation relationships)
+
+* [《Best Free Machine Learning Ebooks》](https://www.reddit.com/r/MachineLearning/comments/47ast8/best_free_machine_learning_ebooks/)
+
+介绍:10本最佳机器学习免费书
+
