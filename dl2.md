@@ -1032,3 +1032,7 @@
 
 介绍:10本最佳机器学习免费书
 
+* [《International Conference on Computer Vision (ICCV) 2015, Santiago》](http://videolectures.net/iccv2015_santiago/)
+
+介绍:ICCV15视频集
+
