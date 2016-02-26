@@ -10,7 +10,7 @@
 
 * [《Distributed porgramming liboratory》](http://lpd.epfl.ch/site)
 
-介绍:分布式编程实验室,他们发表的很多的[paper](http://lpd.epfl.ch/site/Publications),其中不仅仅是学术研究,还[HDFS Architecture Guide](https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html)有一些工业界应用的论文.
+介绍:分布式编程实验室,他们发表的很多的[paper](http://lpd.epfl.ch/site/Publications),其中不仅仅是学术研究,还有一些工业界应用的论文.
 
 * [《MIT Theory of Distributed Systems》](http://groups.csail.mit.edu/tds/)
 
@@ -576,3 +576,8 @@
 * [《Research at Google:Distributed Systems and Parallel Computing》](http://research.google.com/pubs/DistributedSystemsandParallelComputing.html)
 
 介绍：google公开对外发表的分布式系统与并行计算论文
+
+* [《HDFS Architecture Guide》](https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html)
+
+介绍：分布式文件系统HDFS架构
+
