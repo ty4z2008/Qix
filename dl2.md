@@ -1036,3 +1036,10 @@
 
 介绍:ICCV15视频集
 
+* [《CaffeOnSpark Open Sourced for Distributed Deep Learning on Big Data Clusters》](https://github.com/yahoo/CaffeOnSpark)
+
+介绍::(Yahoo)基于Hadoop/Spark的分布式Caffe实现CaffeOnSpark
+
+* [《A Short Introduction to Learning to Rank》](http://research.microsoft.com/en-us/people/hangli/l2r.pdf)
+
+介绍:Learning to Rank简介
