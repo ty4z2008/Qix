@@ -581,3 +581,6 @@
 
 介绍：分布式文件系统HDFS架构
 
+* [《ActorDB distributed SQL database》](http://www.actordb.com/index.html)
+
+介绍：分布式 Key/Value数据库
