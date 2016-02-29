@@ -99,3 +99,7 @@
 * [《Designing and Implementing a Ranking Algorithm》](https://jkchu.com/2016/02/17/designing-and-implementing-a-ranking-algorithm/)
 
 介绍:排名算法的设计与实现
+
+* [《Quantum algorithms: an overview》](http://www.nature.com/articles/npjqi201523?WT.mc_id=FBK_NPG_1602_npjQI)
+
+介绍:量子算法概述
