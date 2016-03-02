@@ -584,3 +584,19 @@
 * [《ActorDB distributed SQL database》](http://www.actordb.com/index.html)
 
 介绍：分布式 Key/Value数据库
+
+* [《An efficient data location protocol for self-organizing storage clusters》](http://csc.lsu.edu/~gb/csc7700/Reading/SC03_tang.pdf)
+
+介绍：是著名的[Ceph](https://github.com/ceph/ceph)的负载平衡策略，文中提出的几种策略都值得尝试，比较赞的一点是可以对照代码体会和实践,如果你还需要了解可以看看[Ceph:一个 Linux PB 级分布式文件系统](https://www.ibm.com/developerworks/cn/linux/l-ceph/),除此以外,论文的引用部分也挺值得阅读的
+
+* [《A Self-Organizing Storage Cluster for Parallel Data-Intensive Applications》](http://www.supercomputing.org/sc2004/schedule/pdfs/pap283.pdf)
+
+介绍：Surrento的冷热平衡策略就采用了延迟写技术
+
+* [《HBA: Distributed Metadata Management for Large Cluster-Based Storage Systems》](http://www.sersc.org/journals/IJAST/vol36/4.pdf)
+
+介绍：对于分布式存储系统的元数据管理.
+
+* [《Server-Side I/O Coordination for Parallel File Systems》](http://www.mcs.anl.gov/~thakur/papers/sc11-io.pdf)
+
+介绍：服务器端的I/O协调并行文件系统处理,网络,文件存储等都会涉及到IO操作.不过里面涉及到很多技巧性的思路在实践时需要斟酌
