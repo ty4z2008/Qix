@@ -94,7 +94,7 @@
 
 * [《The Chubby lock service for loosely-coupled distributed systems》](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/zh-CN//archive/chubby-osdi06.pdf)
 
-介绍:这篇论文详细介绍了Google的分布式锁实现机制Chubby。Chubby是一个基于文件实现的分布式锁，Google的Bigtable、Mapreduce和Spanner服务都是在这个基础上构建的，所以Chubby实际上是Google分布式事务的基础，具有非常高的参考价值。另外，著名的zookeeper就是基于Chubby的开源实现.
+介绍:Google的统面向松散耦合的分布式系统的锁服务,这篇论文详细介绍了Google的分布式锁实现机制Chubby。Chubby是一个基于文件实现的分布式锁，Google的Bigtable、Mapreduce和Spanner服务都是在这个基础上构建的，所以Chubby实际上是Google分布式事务的基础，具有非常高的参考价值。另外，著名的zookeeper就是基于Chubby的开源实现.推荐[The google stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf),[Youtube:The Chubby lock service for loosely-coupled distributed systems](https://www.youtube.com/watch?v=PqItueBaiRg)
 
 * [《Sinfonia: a new paradigm for building scalable distributed systems》](http://www.sosp2007.org/papers/sosp064-aguilera.pdf)
 
@@ -308,10 +308,6 @@
 * [《Distributed (Deep) Machine Learning Common》](http://dmlc.github.io/)
 
 介绍:分布式机器学习常用库.
-
-* [《The Chubby lock service for loosely-coupled distributed systems》](http://static.googleusercontent.com/media/research.google.com/zh-CN//archive/chubby-osdi06.pdf)
-
-介绍:Google的统面向松散耦合的分布式系统的锁服务,推荐[The google stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf).
 
 * [《The Datacenter as a Computer》](http://www.cs.berkeley.edu/~rxin/db-papers/WarehouseScaleComputing.pdf)
 
