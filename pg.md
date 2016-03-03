@@ -62,6 +62,21 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍: 利用pg的hook机制为pg添加插件.
 
+* [《PostgreSQL 优化器逻辑推理能力》](http://blog.163.com/digoal@126/blog/static/163877040201612374931160/)
+
+介绍: 源码解析.
+
+* [《postgres 源码分析之 insert(1)》](http://blog.csdn.net/huguangshanse00/article/details/37045847)
+
+介绍: Insert分析.
+
+* [《PG 代码分析报告》](http://www.comp.hkbu.edu.hk/~yli/uploads/Main/postgresql.pdf)
+
+介绍: PG 代码分析报告.
+
+* [《PostgreSQL查询处理部分源码分析》](http://vdisk.weibo.com/s/ayG13we1-NAbK)
+
+介绍:  PostgreSQL查询处理部分源码分析.
 
 >   :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: 
 
