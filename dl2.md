@@ -1043,3 +1043,8 @@
 * [《A Short Introduction to Learning to Rank》](http://research.microsoft.com/en-us/people/hangli/l2r.pdf)
 
 介绍:Learning to Rank简介
+
+* [《Global Deep learning researcher》](https://aminer.org/search/t=b&q=Deep%20Learning)
+
+介绍:全球深度学习专家列表,涵盖研究者主页
+
