@@ -1048,3 +1048,6 @@
 
 介绍:全球深度学习专家列表,涵盖研究者主页
 
+* [《Top Spark Ecosystem Projects》](http://www.kdnuggets.com/2016/03/top-spark-ecosystem-projects.html)
+
+介绍:[Spark生态顶级项目汇总](http://www.infoq.com/cn/news/2016/03/spark-eco-project)
