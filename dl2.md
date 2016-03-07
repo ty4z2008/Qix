@@ -1051,3 +1051,7 @@
 * [《Top Spark Ecosystem Projects》](http://www.kdnuggets.com/2016/03/top-spark-ecosystem-projects.html)
 
 介绍:[Spark生态顶级项目汇总](http://www.infoq.com/cn/news/2016/03/spark-eco-project)
+
+* [《Proceedings of the 21st International Conference on Intelligent User Interfaces》](http://dl.acm.org/citation.cfm?id=2856767&preflayout=flat)
+
+介绍:[ACM IUI'16](http://iui.acm.org/2016/)论文集[Conference Navigator - Proceedings](http://halley.exp.sis.pitt.edu/cn3/proceedingswithauthors.php?conferenceID=139)
