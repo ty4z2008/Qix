@@ -1055,3 +1055,7 @@
 * [《Proceedings of the 21st International Conference on Intelligent User Interfaces》](http://dl.acm.org/citation.cfm?id=2856767&preflayout=flat)
 
 介绍:[ACM IUI'16](http://iui.acm.org/2016/)论文集[Conference Navigator - Proceedings](http://halley.exp.sis.pitt.edu/cn3/proceedingswithauthors.php?conferenceID=139)
+
+* [《Machine Learning: An In-Depth, Non-Technical Guide - Part 1》](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
+
+介绍:深入机器学习,[2](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-2/),[3](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-3/),[4](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-4/)
