@@ -282,3 +282,7 @@
 * [《Global Database researcher list》](https://aminer.org/search/t=b&q=Database)
 
 介绍:全球数据库领域研究者列表
+
+* [《JavaScript Guide》](https://www.codementor.io/learn-javascript-online)
+
+介绍:JavaScript学习指南
