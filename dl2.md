@@ -262,9 +262,6 @@
 
 介绍:Nvidia深度学习课程.
 
-* [《Neural Networks and Deep Learning》](http://neuralnetworksanddeeplearning.com/)
-
-介绍:神经网络与深度学习课程.
 
 * [《Deep Learning Summer School 2015》](https://sites.google.com/site/deeplearningsummerschool/)
 
@@ -369,10 +366,6 @@
 * [《Machine Learning Checklist》](http://machinelearningmastery.com/machine-learning-checklist/)
 
 介绍:机器学习学习清单
-
-* [《Neural Networks and Deep Learning》](http://neuralnetworksanddeeplearning.com/)
-
-介绍:Michael Nielsen的免费在线电子书"Neural Networks and Deep Learning",深入浅出，但内容涵盖更广：从经典的NN到CNN，从BP到梯度消失问题都有所覆盖，还有示范代码
 
 * [《NLP界有哪些神级人物？》](http://www.zhihu.com/question/32318281)
 
@@ -528,7 +521,7 @@
 
 * [《Neural Networks and Deep Learning》](http://neuralnetworksanddeeplearning.com/)
 
-介绍:免费在线书《Neural Networks and Deep Learning》神经网络与深度学习。目前提供了前四章的草稿，[第一章](http://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&mid=400067748&idx=1&sn=9c88eadfba5462281cd496e85ba3329c)通过手写数字识别的例子介绍NN，第二章讲反向传播算法，第三章讲反向传播算法的优化，第四章讲NN为什么能拟合任意函数。大量python代码例子和交互动画，生动有趣.
+介绍:免费在线书《Neural Networks and Deep Learning》神经网络与深度学习。目前提供了前四章的草稿，[第一章](http://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&mid=400067748&idx=1&sn=9c88eadfba5462281cd496e85ba3329c)通过手写数字识别的例子介绍NN，第二章讲反向传播算法，第三章讲反向传播算法的优化，第四章讲NN为什么能拟合任意函数。大量python代码例子和交互动画，生动有趣.[中文版](https://tigerneil.gitbooks.io/neural-networks-and-deep-learning-zh/content/)
 
 * [《Books to Read if You Might Be Interested in Data Science》](http://www.datasciguide.com/books-to-read-if-you-might-be-interested-in-data-science/)
 
