@@ -597,6 +597,10 @@
 
 介绍：服务器端的I/O协调并行文件系统处理,网络,文件存储等都会涉及到IO操作.不过里面涉及到很多技巧性的思路在实践时需要斟酌
 
-* [《Distributed File Systems: Concepts and Examples 》](http://www.cs.virginia.edu/~zaher/classes/CS656/levy.pdf)
+* [《Distributed File Systems: Concepts and Examples》](http://www.cs.virginia.edu/~zaher/classes/CS656/levy.pdf)
 
 介绍：分布式文件系统概念与应用
+
+* [《CSE 221: Graduate Operating Systems》](http://cseweb.ucsd.edu/classes/wi08/cse221/)
+
+介绍：加利福尼亚大学的研究生操作系统课程主页，论文很值得阅读
