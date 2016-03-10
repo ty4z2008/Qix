@@ -286,3 +286,11 @@
 * [《JavaScript Guide》](https://www.codementor.io/learn-javascript-online)
 
 介绍:JavaScript学习指南
+
+* [《Understanding DevOps》](https://sdarchitect.wordpress.com/understanding-devops/)
+
+介绍:运维从入门者到深入
+
+* [《High Performance Web Sites:14 Rules for Faster-Loading Web Sites》](http://stevesouders.com/hpws/rules.php)
+
+介绍:高性能网站的14条优化规则。
