@@ -604,3 +604,16 @@
 * [《CSE 221: Graduate Operating Systems》](http://cseweb.ucsd.edu/classes/wi08/cse221/)
 
 介绍：加利福尼亚大学的研究生操作系统课程主页，论文很值得阅读
+
+* [《S4: Distributed Stream Computing Platform》](http://cs.brown.edu/~debrabant/cis570-website/papers/s4.pdf)
+
+介绍：Yahoo出品的流式计算系统，目前最流行的两大流式计算系统之一（另一个是storm），Yahoo的主要广告计算平台
+
+* [《Pregel: a system for large-scale graph processing》](https://kowshik.github.io/JPregel/pregel_paper.pdf)
+
+介绍：Google的大规模图计算系统，相当长一段时间是Google PageRank的主要计算系统，对开源的影响也很大（包括GraphLab和GraphChi）
+
+* [《GraphLab: A New Framework for Parallel Machine Learning》](http://www.select.cs.cmu.edu/publications/paperdir/uai2010-low-gonzalez-kyrola-bickson-guestrin-hellerstein.pdf)
+
+介绍：CMU基于图计算的分布式机器学习框架，目前已经成立了专门的商业公司，在分布式机器学习上很有两把刷子，其单机版的GraphChi在百万维度的矩阵分解都只需要2~3分钟；
+
