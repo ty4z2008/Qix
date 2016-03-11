@@ -287,3 +287,7 @@
 * [《Seesaw:Google Open Source Load Balancer (Written in Go》](https://github.com/google/seesaw)
 
 介绍：谷歌开源的一款负载均衡器,[官方介绍](http://google-opensource.blogspot.com/2016/01/seesaw-scalable-and-robust-load.html).注意：非官方项目
+
+* [《Effective Go》](https://golang.org/doc/effective_go.html#introduction)
+
+介绍：Effective Go几乎是学习Go语言所必须阅读的重要的文档,涉及内容丰富，很多精要部分。中文参考[译文参考1](http://www.hellogcc.org/effective_go.html)，[译文参考2](http://www.chingli.com/coding/effective-go/)
