@@ -617,3 +617,6 @@
 
 介绍：CMU基于图计算的分布式机器学习框架，目前已经成立了专门的商业公司，在分布式机器学习上很有两把刷子，其单机版的GraphChi在百万维度的矩阵分解都只需要2~3分钟；
 
+* [《F1: A Distributed SQL Database That Scales》](http://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41344.pdf)
+
+介绍：这篇论文是Google 2013年发表的，介绍了F1的架构思路，13年时就开始支撑Google的AdWords业务，另外两篇介绍文章[F1 - The Fault-Tolerant Distributed RDBMS Supporting Google's Ad Business ](http://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/38125.pdf).[Google NewSQL之F1](http://www.leafonsword.org/google-f1/)
