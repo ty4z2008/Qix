@@ -620,3 +620,7 @@
 * [《F1: A Distributed SQL Database That Scales》](http://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41344.pdf)
 
 介绍：这篇论文是Google 2013年发表的，介绍了F1的架构思路，13年时就开始支撑Google的AdWords业务，另外两篇介绍文章[F1 - The Fault-Tolerant Distributed RDBMS Supporting Google's Ad Business ](http://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/38125.pdf).[Google NewSQL之F1](http://www.leafonsword.org/google-f1/)
+
+* [《Cockroach DB:A Scalable, Survivable, Strongly-Consistent SQL Database》](https://github.com/cockroachdb/cockroach)
+
+介绍：CockroachDB ：一个可伸缩的、跨地域复制的，且支持事务的数据存储,[InfoQ介绍](http://www.infoq.com/cn/news/2014/08/CockroachDB),[Design and Architecture of CockroachDb](https://www.gitbook.com/book/smazumder05/design-and-architecture-of-cockroachdb/details)
