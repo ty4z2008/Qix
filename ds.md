@@ -126,7 +126,7 @@
 
 * [《MIT course:Distributed Systems》](http://nil.csail.mit.edu/6.824/2015/)
 
-介绍:MIT分布式系统课程主页，这次用Golang作为授课语言。
+介绍:2015年MIT分布式系统课程主页，这次用Golang作为授课语言。[6.824 Distributed Systems](https://pdos.csail.mit.edu/6.824/)课程主页
 
 * [《Distributed systems for fun and profit》](http://book.mixu.net/distsys/)
 
@@ -627,4 +627,8 @@
 
 * [《Multi-Paxos: An Implementation and Evaluation》](ftp://ftp.cs.washington.edu/tr/2009/09/UW-CSE-09-09-02.PDF)
 
-介绍：Multi-Paxos实现与总结，此外推荐[Paxos/Multi-paxos Algorithm](https://github.com/cocagne/multi-paxos-example),[Multi-Paxos Example](https://github.com/cocagne/multi-paxos-example)
+介绍：Multi-Paxos实现与总结，此外推荐[Paxos/Multi-paxos Algorithm](https://github.com/cocagne/multi-paxos-example),[Multi-Paxos Example](https://github.com/cocagne/multi-paxos-example)，地址:ftp://ftp.cs.washington.edu/tr/2009/09/UW-CSE-09-09-02.PDF
+
+* [《Zab: High-performance broadcast for primary-backup systems》](http://web.stanford.edu/class/cs347/reading/zab.pdf)
+
+介绍：一致性协议zab分析
