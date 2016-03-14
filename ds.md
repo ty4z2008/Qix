@@ -624,3 +624,7 @@
 * [《Cockroach DB:A Scalable, Survivable, Strongly-Consistent SQL Database》](https://github.com/cockroachdb/cockroach)
 
 介绍：CockroachDB ：一个可伸缩的、跨地域复制的，且支持事务的数据存储,[InfoQ介绍](http://www.infoq.com/cn/news/2014/08/CockroachDB),[Design and Architecture of CockroachDb](https://www.gitbook.com/book/smazumder05/design-and-architecture-of-cockroachdb/details)
+
+* [《Multi-Paxos: An Implementation and Evaluation》](ftp://ftp.cs.washington.edu/tr/2009/09/UW-CSE-09-09-02.PDF)
+
+介绍：Multi-Paxos实现与总结，此外推荐[Paxos/Multi-paxos Algorithm](https://github.com/cocagne/multi-paxos-example),[Multi-Paxos Example](https://github.com/cocagne/multi-paxos-example)
