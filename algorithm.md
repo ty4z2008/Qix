@@ -103,3 +103,36 @@
 * [《Quantum algorithms: an overview》](http://www.nature.com/articles/npjqi201523?WT.mc_id=FBK_NPG_1602_npjQI)
 
 介绍:量子算法概述
+
+* [《Robert Sedgewick HomePage》](https://www.cs.princeton.edu/~rs/)
+
+介绍:罗伯特·塞奇威克的主页，是算法一书的作者，目前这本书已经到了第四版[ Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/),电子版是免费的，而且还有相对于的源码和课程资料,他的[Analytic Combinatorics](http://ac.cs.princeton.edu/home/)解析组合数学也很有名
+
+* [《Communicating sequential processes》](http://spinroot.com/courses/summer/Papers/hoare_1978.pdf)
+
+介绍:通信顺序进程是并发编程的经典论文,Go的模型（还有Erlang等）都是基于CPS.此外推荐[Communicating Parallel Processes](http://www.cs.cmu.edu/~brookes/papers/hoare.pdf)
+
+* [《Niklaus Wirth Homepage》](https://www.inf.ethz.ch/personal/wirth/)
+
+介绍:尼克劳斯·维尔特主页，图灵奖获得者。Algol W， Modula， Pascal ，Modula-2， Oberon之父。他的论文[Programming in Oberon: Steps beyond Pascal and Modula.](https://www.inf.ethz.ch/personal/wirth/ProgInOberon.pdf)被视为软件工程的经典之作
+
+* [《Donald E. Knuth HomePage》](http://www-cs-faculty.stanford.edu/~uno/)
+
+介绍:唐纳德·尔文·克努斯是图灵奖获得者.其经典著作《计算机程序设计艺术》更是被誉为算法中“真正”的圣经，像KMP和LR(K)这样令人不可思议的算法，在此书比比皆是。难怪连Bill Gates都说：“如果能做对书里所有的习题，就直接来微软上班吧！”
+
+* [《Jon Bentley HomePage》](http://c2.com/cgi/wiki?JonBentley)
+
+介绍:著有编程珠玑[Programming Pearls, Second Edition](https://tfetimes.com/wp-content/uploads/2015/04/ProgrammingPearls2nd.pdf)
+
+* [《Edsger Wybe Dijkstra HomePage》](http://www.cs.utexas.edu/~EWD/)
+
+介绍:艾兹赫尔·韦伯·戴克斯特拉是荷兰第一位以程式为专业的科学家,以发现了图论中的最短路径算法（[Dijkstra算法](https://www.ssucet.org/old/pluginfile.php/2121/mod_resource/content/1/21-dijkstra.pdf)）而闻名于世，1972年因为ALGOL第二代编程语言而获得图灵奖。GOTO有害论“[Go To StatementConsidered Harmful](http://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)”(EWD215)也是被广为传颂的经典之作.
+
+* [《John Backus HomePage》](http://www.columbia.edu/cu/computinghistory/backus.html)
+
+介绍:FORTRAN之父,提出了规范描述编程语言语法的BNF。这位当年的“差生”终于被整个计算机世界肯定——美国计算机协会于1977年授予John Backus图灵奖
+
+* [《James Cooley HomePage》](http://ethw.org/James_W._Cooley)
+
+介绍:美国数学家，哥伦比亚大学的数学博士，以他所创造的快速傅立叶变换(FFT)而著名
+
