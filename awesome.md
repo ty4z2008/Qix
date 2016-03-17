@@ -294,3 +294,7 @@
 * [《High Performance Web Sites:14 Rules for Faster-Loading Web Sites》](http://stevesouders.com/hpws/rules.php)
 
 介绍:高性能网站的14条优化规则。
+
+* [《Papers we love》](https://github.com/papers-we-love/papers-we-love)
+
+介绍:涉及领域涵盖了分布式，操作系统，android，信息安全，存储，编程语言等多个方面的论文
