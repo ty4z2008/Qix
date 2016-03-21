@@ -298,3 +298,7 @@
 * [《Papers we love》](https://github.com/papers-we-love/papers-we-love)
 
 介绍:涉及领域涵盖了分布式，操作系统，android，信息安全，存储，编程语言等多个方面的论文
+
+* [《ebook:Database Systems: The Complete Book》](http://people.inf.elte.hu/nikovits/DB2/Ullman_The_Complete_Book.pdf)
+
+介绍:数据库系统实现原书第二版,斯坦福大学sql入门教材
