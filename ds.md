@@ -632,3 +632,7 @@
 * [《Zab: High-performance broadcast for primary-backup systems》](http://web.stanford.edu/class/cs347/reading/zab.pdf)
 
 介绍：一致性协议zab分析
+
+* [《A Distributed Hash Table》](https://pdos.csail.mit.edu/papers/fdabek-phd-thesis.pdf)
+
+介绍：分布式哈希算法论文,扩展阅读[Introduction to Distributed Hash Tables](https://www.ietf.org/proceedings/65/slides/plenaryt-2.pdf),[Distributed Hash Tables](https://www.cs.cmu.edu/~dga/15-744/S07/lectures/16-dht.pdf)
