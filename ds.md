@@ -636,3 +636,7 @@
 * [《A Distributed Hash Table》](https://pdos.csail.mit.edu/papers/fdabek-phd-thesis.pdf)
 
 介绍：分布式哈希算法论文,扩展阅读[Introduction to Distributed Hash Tables](https://www.ietf.org/proceedings/65/slides/plenaryt-2.pdf),[Distributed Hash Tables](https://www.cs.cmu.edu/~dga/15-744/S07/lectures/16-dht.pdf)
+
+* [《Comparing the performance of distributed hash tables under churn》](http://www.news.cs.nyu.edu/~jinyang/pub/iptps04.pdf)
+
+介绍：分布式hash表性能的Churn问题
