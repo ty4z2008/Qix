@@ -640,3 +640,7 @@
 * [《Comparing the performance of distributed hash tables under churn》](http://www.news.cs.nyu.edu/~jinyang/pub/iptps04.pdf)
 
 介绍：分布式hash表性能的Churn问题
+
+* [《Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web》](https://www.comp.nus.edu.sg/~gilbert/pubs/BrewersConjecture-SigAct.pdf)
+
+介绍：分布式系统的CAP问题
