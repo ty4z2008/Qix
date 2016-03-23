@@ -278,7 +278,7 @@
 
 * [《The Go Programming Language》](https://wizardforcel.gitbooks.io/gopl-zh/content/)
 
-介绍：Go 语言圣经 中文版
+介绍：Go 语言圣经中文版
 
 * [《Network Programming with Go》](https://jannewmarch.gitbooks.io/network-programming-with-go-golang-/content/)
 
@@ -291,3 +291,7 @@
 * [《Effective Go》](https://golang.org/doc/effective_go.html#introduction)
 
 介绍：Effective Go几乎是学习Go语言所必须阅读的重要的文档,涉及内容丰富，很多精要部分。中文参考[译文参考1](http://www.hellogcc.org/effective_go.html)，[译文参考2](http://www.chingli.com/coding/effective-go/)
+
+* [《Golang go》](http://golanggo.com/)
+
+介绍：Go语言日报,每天新鲜事
