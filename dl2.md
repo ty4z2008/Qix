@@ -1069,6 +1069,10 @@
 
 介绍:Maxout网络剖析
 
-* [《Maxout Networks》](http://jmlr.org/proceedings/papers/v28/goodfellow13.pdf)
+* [《Advances in Neural Information Processing Systems》](http://papers.nips.cc/)
 
-介绍:Maxout网络剖析
+介绍:NIPS领域的会议paper集锦
+
+* [《Machine learning applications in genetics and genomics》](http://www.nature.com/nrg/journal/v16/n6/abs/nrg3920.html)
+
+介绍:机器学习在生物工程领域的应用,如果你从事生物工程领域,可以先阅读一篇文章[详细介绍](https://www.zhihu.com/question/41428117/answer/91045285)
