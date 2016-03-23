@@ -1064,3 +1064,11 @@
 * [《Deep Learning News》](http://news.startup.ml/)
 
 介绍:深度学习领域的Hacker news.紧跟深度学习的新闻、研究进展和相关的创业项目。从事机器学习,深度学习领域的朋友建议每天看一看
+
+* [《Maxout Networks》](http://jmlr.org/proceedings/papers/v28/goodfellow13.pdf)
+
+介绍:Maxout网络剖析
+
+* [《Maxout Networks》](http://jmlr.org/proceedings/papers/v28/goodfellow13.pdf)
+
+介绍:Maxout网络剖析
