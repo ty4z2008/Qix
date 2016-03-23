@@ -1052,3 +1052,15 @@
 * [《Machine Learning: An In-Depth, Non-Technical Guide - Part 1》](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
 
 介绍:深入机器学习,[2](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-2/),[3](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-3/),[4](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-4/)
+
+* [《Oxford Deep Learning》](http://www.computervisiontalks.com/tag/deep-learning-course/)
+
+介绍:[Nando de Freitas](https://www.cs.ox.ac.uk/people/nando.defreitas/)在 Oxford 开设的深度学习课程,[课程youtube地址](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu),Google DeepMind的研究科学家,此外[首页:computervisiontalks](http://www.computervisiontalks.com/)的内容也很丰富,如果你是做机器视觉方面的研究,推荐也看看其他内容.肯定收获也不小.还有,这位[youtube主页](https://www.youtube.com/channel/UC0z_jCi0XWqI8awUuQRFnyw)顶过的视频也很有份量
+
+* [《Neural Networks for Machine Learning》](https://www.coursera.org/course/neuralnets)
+
+介绍:Geoffrey Hinton在Coursera开设的MOOC
+
+* [《Deep Learning News》](http://news.startup.ml/)
+
+介绍:深度学习领域的Hacker news.紧跟深度学习的新闻、研究进展和相关的创业项目。
