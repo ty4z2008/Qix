@@ -208,10 +208,6 @@
 
 介绍：Sibyl 是一个监督式机器学习系统，用来解决预测方面的问题，比如 YouTube 的视频推荐。
 
-* [《Deep Learning》](http://www.iro.umontreal.ca/~bengioy/dlbook/)
-
-介绍：Yoshua Bengio, Ian Goodfellow, Aaron Courville著
-
 * [《Neural Network & Text Mining》](http://www.slideshare.net/ssuser9cc1bd/piji-li-dltm)
 
 介绍:关于(Deep) Neural Networks在 NLP 和 Text Mining 方面一些paper的总结
@@ -1278,9 +1274,9 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍: 深度学习框架、库调研及Theano的初步测试体会报告.
 
-* [《DEEP learning》](http://www.iro.umontreal.ca/~bengioy/dlbook/)
+* [《DEEP learning》](http://www.deeplearningbook.org/)
 
-介绍:  MIT的Yoshua Bengio等人讲深度学习的新书，还未定稿，线上提供Draft chapters收集反馈，超赞！强烈推荐.
+介绍:  MIT的Yoshua Bengio, Ian Goodfellow, Aaron Courville著等人讲深度学习的新书，还未定稿，线上提供Draft chapters收集反馈，超赞！强烈推荐.
 
 * [《simplebayes》](https://github.com/hickeroar/simplebayes)
 
