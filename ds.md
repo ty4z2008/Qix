@@ -643,4 +643,5 @@
 
 * [《Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web》](https://www.comp.nus.edu.sg/~gilbert/pubs/BrewersConjecture-SigAct.pdf)
 
-介绍：分布式系统的CAP问题
+介绍：分布式系统的CAP问题,推荐[Perspectives on the CAP Theorem](https://groups.csail.mit.edu/tds/papers/Gilbert/Brewer2.pdf).对CAP理论的解析文章,[PODC ppt](http://www.cs.berkeley.edu/~brewer/cs262b-2004/PODC-keynote.pdf),[A plain english introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem/),[IEEE Computer issue on the CAP Theorem](http://dbmsmusings.blogspot.kr/2012/10/ieee-computer-issue-on-cap-theorem.html)
+
