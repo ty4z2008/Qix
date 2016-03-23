@@ -281,7 +281,7 @@
 
 * [《Global Database researcher list》](https://aminer.org/search/t=b&q=Database)
 
-介绍:全球数据库领域研究者列表
+介绍:全球数据库领域研究者列表,[DB应用领域专家](http://www.toadworld.com/p/resources-experts)
 
 * [《JavaScript Guide》](https://www.codementor.io/learn-javascript-online)
 
