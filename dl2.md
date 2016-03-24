@@ -1080,3 +1080,11 @@
 * [《Deep Learning in Bioinformatics》](http://arxiv.org/abs/1603.06430)
 
 介绍:深度学习在生物信息学领域的应用
+
+* [《A Few Useful Things to Know about Machine Learning》](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
+
+介绍:一些关于机器学习需要知道知识,对于刚刚入门机器学习的同学应该读一读
+
+* [《Cambridge Machine Learning Group》](http://mlg.eng.cam.ac.uk/)
+
+介绍:剑桥大学机器学习用户组主页,网罗了剑桥大学一些机器学习领域专家与新闻
