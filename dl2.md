@@ -1076,3 +1076,7 @@
 * [《Machine learning applications in genetics and genomics》](http://www.nature.com/nrg/journal/v16/n6/abs/nrg3920.html)
 
 介绍:机器学习在生物工程领域的应用,如果你从事生物工程领域,可以先阅读一篇文章[详细介绍](https://www.zhihu.com/question/41428117/answer/91045285)
+
+* [《Deep Learning in Bioinformatics》](http://arxiv.org/abs/1603.06430)
+
+介绍:深度学习在生物信息学领域的应用
