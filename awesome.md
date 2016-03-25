@@ -302,3 +302,7 @@
 * [《ebook:Database Systems: The Complete Book》](http://people.inf.elte.hu/nikovits/DB2/Ullman_The_Complete_Book.pdf)
 
 介绍:数据库系统实现原书第二版,斯坦福大学sql入门教材
+
+* [《Advanced Linux Programming》](http://advancedlinuxprogramming.com/)
+
+介绍:Linux高级编程电子版。
