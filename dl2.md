@@ -1088,3 +1088,13 @@
 * [《Cambridge Machine Learning Group》](http://mlg.eng.cam.ac.uk/)
 
 介绍:剑桥大学机器学习用户组主页,网罗了剑桥大学一些机器学习领域专家与新闻
+
+* [《Randy Olson's data analysis and machine learning projects》](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)
+
+介绍:[Randy Olson's](http://www.randalolson.com/blog/)的一些数据分析与机器学习项目库,是学习实践的好材料
+
+* [《GoLearn:Golang machine learning library》](https://github.com/sjwhitworth/golearn)
+
+介绍:Golang机器学习库,简单,易扩展
+
+
