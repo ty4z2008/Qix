@@ -1097,4 +1097,6 @@
 
 介绍:Golang机器学习库,简单,易扩展
 
+* [《Swift Ai》](https://github.com/collinhundley/Swift-AI)
 
+介绍:用Swift开发苹果应用的倒是很多，而用来做机器学习的就比较少了.Swift Ai在这方面做了很多聚集.可以看看
