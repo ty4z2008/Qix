@@ -2033,3 +2033,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 * [《Using Deep Learning to Find Basketball Highlights》](http://public.hudl.com/bits/archives/2015/06/05/highlights/)
 
 介绍:利用(Metamind)深度学习自动发现篮球赛精彩片段.
+
+* [《Learning Deep Features for Discriminative Localization》](http://arxiv.org/abs/1512.04150)
+
+介绍:对本土化特征学习的分析
