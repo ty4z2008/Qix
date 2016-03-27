@@ -306,3 +306,7 @@
 * [《Advanced Linux Programming》](http://advancedlinuxprogramming.com/)
 
 介绍:Linux高级编程电子版。
+
+* [《Linux inside》](https://github.com/0xAX/linux-insides)
+
+介绍:Linux内部原理分析。
