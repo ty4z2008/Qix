@@ -1100,3 +1100,19 @@
 * [《Swift Ai》](https://github.com/collinhundley/Swift-AI)
 
 介绍:用Swift开发苹果应用的倒是很多，而用来做机器学习的就比较少了.Swift Ai在这方面做了很多聚集.可以看看
+
+* [《Please explain Support Vector Machines (SVM) like I am a 5 year old》](https://www.reddit.com/r/MachineLearning/comments/15zrpp/please_explain_support_vector_machines_svm_like_i/)
+
+介绍:如何向一位5岁的小朋友解释支持向量机(SVM)
+
+* [《reddit Machine learning》](https://www.reddit.com/r/MachineLearning/)
+
+介绍: reddit的机器学习栏目
+
+* [《ComputerVision resource》](http://blog.csdn.net/carson2005/article/details/6601109)
+
+介绍: 计算机视觉领域的一些牛人博客，超有实力的研究机构等的网站链接.做计算机视觉方向的朋友建议多关注里面的资源
+
+* [《Multimedia Laboratory Homepage》](http://mmlab.ie.cuhk.edu.hk/index.html)
+
+介绍:香港中文大学深度学习研究主页,此外研究小组对[2013年deep learning 的最新进展和相关论文](http://mmlab.ie.cuhk.edu.hk/project_deep_learning.html)做了整理,其中useful links的内容很受益
