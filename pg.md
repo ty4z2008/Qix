@@ -715,3 +715,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《Building Full Text Search For Your Application using Postgres》](http://www.adalyz.com/building-full-text-search-for-your-application-using-postgres/)
 
 介绍:使用pg为自己的应用构建全文检索
+
+* [《PostgreSQL SQL Injection Cheat Sheet》](http://www.sqlinjectionwiki.com/Categories/4/postgresql-sql-injection-cheat-sheet/)
+
+介绍:PostgreSQL SQL注入手册
