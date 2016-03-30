@@ -295,3 +295,7 @@
 * [《Golang go》](http://golanggo.com/)
 
 介绍：Go语言日报,每天新鲜事
+
+* [《The Little Go Book》](http://openmymind.net/The-Little-Go-Book/)
+
+介绍：Golang小书,作者[主页](http://openmymind.net)的go资料也不错
