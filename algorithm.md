@@ -2,7 +2,7 @@
 
 * [《Data structures》](http://isa.unomaha.edu/wp-content/uploads/2012/08/Advanced-Data-structures.pdf)
 
-介绍：高级数据结构大全
+介绍：高级数据结构大全,[基本算法：二叉树等](http://algorithms.openmymind.net/)
 
 * [《基于用户投票的排名算法（一）：Delicious和Hacker News》](http://www.ruanyifeng.com/blog/2012/02/ranking_algorithm_hacker_news.html)
 
