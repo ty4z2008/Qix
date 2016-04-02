@@ -46,7 +46,7 @@
 
 * [《Algorithmic Game Theory》](http://www.cambridge.org/journals/nisan/downloads/Nisan_Non-printable.pdf)
 
-介绍:这是一本关于游戏算法的电子书,讲述了相关的算法,应用与网络.
+介绍:这是一本关于博弈论算法的电子书
 
 * [《Algorithms for Hyper-Parameter Optimization》](http://papers.nips.cc/paper/4443-algorithms-for-hyper-parameter-optimization.pdf)
 
