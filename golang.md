@@ -299,3 +299,15 @@
 * [《The Little Go Book》](http://openmymind.net/The-Little-Go-Book/)
 
 介绍：Golang小书,作者[主页](http://openmymind.net)的go资料也不错
+
+* [《Go 语言GUI库GoQt》](https://github.com/visualfc/goqt)
+
+介绍：在Go中使用Qt构建跨平台应用.
+
+* [《HTTP Request Contexts & Go》](http://elithrar.github.io/article/map-string-interface/)
+
+介绍：这篇文章是 Golang 开源库 Negroni 的[README.md](https://github.com/codegangsta/negroni)中推荐一篇的文章，讲的是 Golang 中如何处理请求的上下文信息.[译文](http://www.jianshu.com/p/177249bb0842)
+
+* [《服务端开发那些事儿》](http://www.csdn.net/article/2015-11-06/2826139)
+
+介绍：国内七牛云存储应用实践.
