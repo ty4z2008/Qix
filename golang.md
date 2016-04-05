@@ -4,15 +4,15 @@
 
 介绍：跨平台的golang GUI库,支持Windows(xp以上),Unix,Mac OS X(Mac OS X 10.7以上)
 
-* [《Gopm 快速入门》](http://blog.go-china.org/25-gopm-intro)
+* [《Gopm 快速入门》](https://github.com/gpmgo/docs/tree/master/zh-CN)
 
-介绍：Gopm(Go 包管理工具) 是一个用于搜索、安装、更新和分享 Go 包的管理工具。
+介绍：[Gopm](https://github.com/gpmgo/gopm)(Go 包管理工具) 是一个用于搜索、安装、更新和分享 Go 包的管理工具。
 
-* [《go build 命令是如何工作的？》](http://blog.go-china.org/19-how-go-build-works)
+* [《go build 命令是如何工作的？》](http://mikespook.com/2013/11/%E7%BF%BB%E8%AF%91-go-build-%E5%91%BD%E4%BB%A4%E6%98%AF%E5%A6%82%E4%BD%95%E5%B7%A5%E4%BD%9C%E7%9A%84%EF%BC%9F/)
 
 介绍：本文以 Go 的标准库为例，介绍了 Go 编译过程的工作原理。
 
-* [《Go 语言的国际化支持(资源文件翻译)》](http://blog.go-china.org/24-gettext-go)
+* [《Go 语言的国际化支持(资源文件翻译)》](http://my.oschina.net/chai2010/blog/190914)
 
 介绍：在之前的 [Go语言的国际化支持(基于gettext-go)](http://my.oschina.net/chai2010/blog/190914)中, 讲到了如何翻译源代码中的字符串.
 
