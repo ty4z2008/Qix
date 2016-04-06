@@ -1,6 +1,6 @@
 ## 算法与数据结构
 
-* [《Data structures》](http://isa.unomaha.edu/wp-content/uploads/2012/08/Advanced-Data-structures.pdf)
+* [《Data structures》](https://courses.csail.mit.edu/6.851/spring12/scribe/2012scribes.pdf)
 
 介绍：高级数据结构大全,[基本算法：二叉树等](http://algorithms.openmymind.net/)
 
@@ -136,3 +136,10 @@
 
 介绍:美国数学家，哥伦比亚大学的数学博士，以他所创造的快速傅立叶变换(FFT)而著名
 
+* [《6.851: Advanced Data Structures》](https://courses.csail.mit.edu/6.851/)
+
+介绍：麻省理工数据结构课程,
+
+* [《CS106B: Programming Abstractions in C++》](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1126/)
+
+介绍：斯坦福大学C++课程,推荐 ppt[Advanced Data Structures](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1126/lectures/21/Slides21.pdf)
