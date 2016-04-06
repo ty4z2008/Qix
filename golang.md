@@ -311,3 +311,7 @@
 * [《服务端开发那些事儿》](http://www.csdn.net/article/2015-11-06/2826139)
 
 介绍：国内七牛云存储应用实践.
+
+* [《Good practices for writing shell scripts》](http://www.yoone.eu/articles/2-good-practices-for-writing-shell-scripts.html)
+
+介绍：Shell脚本编写良好实践指南.
