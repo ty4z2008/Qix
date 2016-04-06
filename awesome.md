@@ -310,3 +310,7 @@
 * [《Linux inside》](https://github.com/0xAX/linux-insides)
 
 介绍:Linux内部原理分析。
+
+* [《Cracking the coding interview--问题与解答》](http://www.hawstein.com/posts/ctci-solutions-contents.html)
+
+介绍:Cracking the coding interview问题解答[github](https://github.com/Hawstein/cracking-the-coding-interview)。
