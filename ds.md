@@ -645,3 +645,18 @@
 
 介绍：分布式系统的CAP问题,推荐[Perspectives on the CAP Theorem](https://groups.csail.mit.edu/tds/papers/Gilbert/Brewer2.pdf).对CAP理论的解析文章,[PODC ppt](http://www.cs.berkeley.edu/~brewer/cs262b-2004/PODC-keynote.pdf),[A plain english introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem/),[IEEE Computer issue on the CAP Theorem](http://dbmsmusings.blogspot.kr/2012/10/ieee-computer-issue-on-cap-theorem.html)
 
+* [《F2FS: A New File System for Flash Storage》](https://www.usenix.org/system/files/conference/fast15/fast15-paper-lee.pdf)
+
+介绍：闪存存储文件系统F2FS
+
+* [《Better I/O Through Byte-Addressable, Persistent Memory》](http://research.microsoft.com/pubs/81175/BPFS.pdf)
+
+介绍：微软发表的关于i/o访问优化论文
+
+* [《tmpfs: A Virtual Memory File System》](http://www.solarisinternals.com/si/reading/tmpfs.pdf)
+
+介绍：虚拟内存文件系统tmpfs
+
+* [《BTRFS: The Linux B-tree Filesystem》](http://domino.research.ibm.com/library/cyberdig.nsf/papers/6E1C5B6A1B6EDD9885257A38006B6130/$File/rj10501.pdf)
+
+介绍：Linux B-tree文件系统
