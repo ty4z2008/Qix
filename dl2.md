@@ -1116,3 +1116,23 @@
 * [《Multimedia Laboratory Homepage》](http://mmlab.ie.cuhk.edu.hk/index.html)
 
 介绍:香港中文大学深度学习研究主页,此外研究小组对[2013年deep learning 的最新进展和相关论文](http://mmlab.ie.cuhk.edu.hk/project_deep_learning.html)做了整理,其中useful links的内容很受益
+
+* [《Search Engines that Learn from Their Users》](http://www.anneschuth.nl/wp-content/uploads/thesis_anne-schuth_search-engines-that-learn-from-their-users.pdf)
+
+介绍: 这是一篇关于搜索引擎的博士论文,对现在普遍使用的搜索引擎google，bing等做了分析.对于做搜索类产品的很有技术参考价值
+
+* [《Deep Learning Books》](http://machinelearningmastery.com/deep-learning-books/)
+
+介绍: 深度学习书籍推荐(毕竟这类书比较少).
+
+* [《Deep Learning Books》](http://machinelearningmastery.com/deep-learning-books/)
+
+介绍: 深度学习书籍推荐(毕竟这类书比较少).
+
+* [《Towards Bayesian Deep Learning: A Survey》](http://arxiv.org/abs/1604.01662)
+
+介绍: 贝叶斯定理在深度学习方面的研究论文.
+
+* [《Revisiting Distributed Synchronous SGD》](http://arxiv.org/abs/1604.00981)
+
+介绍: 来自谷歌大脑的重温分布式梯度下降.同时推荐[大规模分布式深度网络](http://wxwidget.github.io/blog/2014/08/17/large-scale-deep-network/)
