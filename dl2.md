@@ -1160,3 +1160,7 @@
 * [《Item-based Collaborative Filtering Recommendation Algorithms》](http://glaros.dtc.umn.edu/gkhome/fetch/papers/www10_sarwar.pdf)
 
 介绍: 协同过滤算法.
+
+* [《Amazon.com Recommendations Item-to-Item Collaborative Filtering》](http://www.cin.ufpe.br/~idal/rs/Amazon-Recommendations.pdf)
+
+介绍: 亚马逊对于协同过滤算法应用.
