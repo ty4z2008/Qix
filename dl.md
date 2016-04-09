@@ -152,7 +152,7 @@
 
 介绍：一个超级完整的机器学习开源库总结，如果你认为这个碉堡了，那后面这个列表会更让你惊讶：【Awesome Awesomeness】,国内已经有热心的朋友进行了翻译[中文介绍](http://blog.jobbole.com/73806/)，[机器学习数据挖掘免费电子书](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 
-* [斯坦福《自然语言处理》课程视频](http://see.stanford.edu/see/lecturelist.aspx?coll=63480b48-8819-4efd-8412-263f1a472f5a)
+* [斯坦福《自然语言处理》课程视频](http://cs224d.stanford.edu/syllabus.html)
 
 介绍:ACL候任主席、斯坦福大学计算机系Chris Manning教授的《自然语言处理》课程所有视频已经可以在斯坦福公开课网站上观看了（如Chrome不行，可用IE观看） 作业与测验也可以下载。
 
