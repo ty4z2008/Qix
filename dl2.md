@@ -1168,3 +1168,7 @@
 * [《Collaborative Filtering for Implicit Feedback Datasets》](http://yifanhu.net/PUB/cf.pdf)
 
 介绍: 协同过滤的隐式反馈数据集处理.
+
+* [《Tutorials, papers and code for computer graphics, fractals and demoscene》](http://www.iquilezles.org/www/index.htm)
+
+介绍: 计算机图形，几何等论文，教程，代码.做计算机图形的推荐收藏.
