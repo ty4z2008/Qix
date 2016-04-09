@@ -1136,3 +1136,11 @@
 * [《Revisiting Distributed Synchronous SGD》](http://arxiv.org/abs/1604.00981)
 
 介绍: 来自谷歌大脑的重温分布式梯度下降.同时推荐[大规模分布式深度网络](http://wxwidget.github.io/blog/2014/08/17/large-scale-deep-network/)
+
+* [《Research Issues in Social Computing》](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.102.6931&rep=rep1&type=pdf)
+
+介绍: 社交计算研究相关问题综述.
+
+* [《What are some important areas of research in social computing right now?》](https://www.quora.com/What-are-some-important-areas-of-research-in-social-computing-right-now)
+
+介绍: 社交计算应用领域概览,里面有些经典论文推荐
