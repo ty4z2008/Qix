@@ -1176,3 +1176,7 @@
 * [《ELEN 6886 Sparse Representation and High-Dimensional Geometry》](http://www.columbia.edu/~jw2966/6886_Fa2015.html)
 
 介绍: 推荐哥伦比亚大学课程，稀疏表示和高维几何.12年由Elsevier、13年至今由PAMI(仍由Elsevier赞助)设立的青年研究者奖(Young Researcher Award)授予完成博士学位后七年内取得杰出贡献的；由CV社区提名，在CVPR会议上宣布。2015年得主是哥大助理教授John Wright，09年[《健壮人脸识别的稀疏表示法》](http://www.columbia.edu/~jw2966/papers/WYGSM09-PAMI.pdf)引用已超5K.
+
+* [《Software engineer how to learning Machine learning》](https://www.quora.com/What-would-be-your-advice-to-a-software-engineer-who-wants-to-learn-machine-learning-3/answer/Alex-Smola-1)
+
+介绍: CMU机器学习系著名教授Alex Smola在Quora对于《程序员如何学习Machine Learning》的建议：Alex推荐了不少关于线性代数、优化、系统、和统计领域的经典教材和资料。.
