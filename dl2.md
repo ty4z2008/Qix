@@ -1172,3 +1172,7 @@
 * [《Tutorials, papers and code for computer graphics, fractals and demoscene》](http://www.iquilezles.org/www/index.htm)
 
 介绍: 计算机图形，几何等论文，教程，代码.做计算机图形的推荐收藏.
+
+* [《ELEN 6886 Sparse Representation and High-Dimensional Geometry》](http://www.columbia.edu/~jw2966/6886_Fa2015.html)
+
+介绍: 推荐哥伦比亚大学课程，稀疏表示和高维几何.12年由Elsevier、13年至今由PAMI(仍由Elsevier赞助)设立的青年研究者奖(Young Researcher Award)授予完成博士学位后七年内取得杰出贡献的；由CV社区提名，在CVPR会议上宣布。2015年得主是哥大助理教授John Wright，09年[《健壮人脸识别的稀疏表示法》](http://www.columbia.edu/~jw2966/papers/WYGSM09-PAMI.pdf)引用已超5K.
