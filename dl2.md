@@ -1148,3 +1148,15 @@
 * [《Collaborative Filtering Recommender Systems》](http://files.grouplens.org/papers/FnT%20CF%20Recsys%20Survey.pdf)
 
 介绍: 协同过滤在推荐系统应用.
+
+* [《Content-Boosted Collaborative Filtering for Improved Recommendations》](http://www.cs.utexas.edu/~ml/papers/cbcf-aaai-02.pdf)
+
+介绍: 协同过滤在内容推荐的研究.
+
+* [《Unifying User-based and Item-based Collaborative Filtering Approaches by Similarity Fusion》](http://siplab.tudelft.nl/sites/default/files/sigir06_similarityfusion.pdf)
+
+介绍: 协同过滤经典论文.
+
+* [《Item-based Collaborative Filtering Recommendation Algorithms》](http://glaros.dtc.umn.edu/gkhome/fetch/papers/www10_sarwar.pdf)
+
+介绍: 协同过滤算法.
