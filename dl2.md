@@ -1164,3 +1164,7 @@
 * [《Amazon.com Recommendations Item-to-Item Collaborative Filtering》](http://www.cin.ufpe.br/~idal/rs/Amazon-Recommendations.pdf)
 
 介绍: 亚马逊对于协同过滤算法应用.
+
+* [《Collaborative Filtering for Implicit Feedback Datasets》](http://yifanhu.net/PUB/cf.pdf)
+
+介绍: 协同过滤的隐式反馈数据集处理.
