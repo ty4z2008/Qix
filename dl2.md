@@ -1144,3 +1144,7 @@
 * [《What are some important areas of research in social computing right now?》](https://www.quora.com/What-are-some-important-areas-of-research-in-social-computing-right-now)
 
 介绍: 社交计算应用领域概览,里面有些经典论文推荐
+
+* [《Collaborative Filtering Recommender Systems》](http://files.grouplens.org/papers/FnT%20CF%20Recsys%20Survey.pdf)
+
+介绍: 协同过滤在推荐系统应用.
