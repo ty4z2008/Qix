@@ -1179,4 +1179,8 @@
 
 * [《Software engineer how to learning Machine learning》](https://www.quora.com/What-would-be-your-advice-to-a-software-engineer-who-wants-to-learn-machine-learning-3/answer/Alex-Smola-1)
 
-介绍: CMU机器学习系著名教授Alex Smola在Quora对于《程序员如何学习Machine Learning》的建议：Alex推荐了不少关于线性代数、优化、系统、和统计领域的经典教材和资料。.
+介绍: CMU机器学习系著名教授Alex Smola在Quora对于《程序员如何学习Machine Learning》的建议：Alex推荐了不少关于线性代数、优化、系统、和统计领域的经典教材和资料.
+
+* [《Book review: Fundamentals of Deep Learning》](http://www.opengardensblog.futuretext.com/archives/2015/08/book-review-fundamentals-of-deep-learning-designing-next-generation-artificial-intelligence-algorithms-by-nikhil-buduma.html)
+
+介绍: 书籍推荐,深度学习基础.[源码](https://github.com/darksigma/Fundamentals-of-Deep-Learning-Book)
