@@ -314,3 +314,7 @@
 * [《Cracking the coding interview--问题与解答》](http://www.hawstein.com/posts/ctci-solutions-contents.html)
 
 介绍:Cracking the coding interview问题解答[github](https://github.com/Hawstein/cracking-the-coding-interview)。
+
+* [《Good Copy • Email copy from great companies》](http://www.goodemailcopy.com/)
+
+介绍:如果不会写商业邮件，可以看看国外优秀的公司是如何写的。
