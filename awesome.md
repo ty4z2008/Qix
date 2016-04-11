@@ -318,3 +318,11 @@
 * [《Good Copy • Email copy from great companies》](http://www.goodemailcopy.com/)
 
 介绍:如果不会写商业邮件，可以看看国外优秀的公司是如何写的。
+
+* [《CIS 198: Rust Programming》](http://cis198-2016s.github.io/schedule/)
+
+介绍:如果要学习 Rust 语言，可以参考 University of Pennsylvania 2016 年春季这门课程 O网页链接 。除了作业，还应该写点实际的东西。可以看看这个试图用 Rust 重新实现 [GNU Coreutils的项目](https://github.com/uutils/coreutils)。一举两得：熟悉了 Rust 语言；理解常用那些应用的实现原理。
+
+* [《CS:3820 Programming Language Concepts Spring 2016》](http://homepage.cs.uiowa.edu/~achampion/teaching/plc/lectures.shtml)
+
+介绍:University of Iowa 2016 年春季课程 Programming Language Concepts，以 Rust 作为教学语言。
