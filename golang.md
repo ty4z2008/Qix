@@ -315,3 +315,11 @@
 * [《Good practices for writing shell scripts》](http://www.yoone.eu/articles/2-good-practices-for-writing-shell-scripts.html)
 
 介绍：Shell脚本编写良好实践指南.
+
+* [《Golang Wiki》](https://github.com/golang/go/wiki)
+
+介绍：Golang官方开源项目wiki主页,内容丰富.是学习golang的重要参考，文中还推荐了[awesome golang](http://awesome-go.com/).
+
+* [《Golang Courses》](https://github.com/golang/go/wiki/Courses)
+
+介绍：国外很多大学把Golang作为学习课程,本页推荐了很多相关的课程,新手可以学习参考.
