@@ -659,4 +659,9 @@
 
 * [《BTRFS: The Linux B-tree Filesystem》](http://domino.research.ibm.com/library/cyberdig.nsf/papers/6E1C5B6A1B6EDD9885257A38006B6130/$File/rj10501.pdf)
 
-介绍：Linux B-tree文件系统
+介绍：Linux B-tree文件系统.
+
+* [《Akamai technical publication》](https://www.akamai.com/us/en/our-thinking/technical-publications.jsp)
+
+介绍：Akamai是全球最大的云计算机平台之一，承载了全球15-30%网络流量,如果你是做CDN或者是云服务,这个里面的论文会给你很有帮助.例如这几天看facebook开源的[osquery](https://osquery.io/)。找到通过db的方式运维,找到[Keeping Track of 70,000+ Servers: The Akamai Query System](https://www.akamai.com/es/es/multimedia/documents/technical-publication/keeping-track-of-70000-servers-the-akamai-query-system-technical-publication.pdf)这篇论文，先看论文领会思想，然后再使用工具osquery实践
+
