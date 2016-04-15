@@ -138,8 +138,12 @@
 
 * [《6.851: Advanced Data Structures》](https://courses.csail.mit.edu/6.851/)
 
-介绍：麻省理工数据结构课程,
+介绍：麻省理工数据结构课程
 
 * [《CS106B: Programming Abstractions in C++》](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1126/)
 
 介绍：斯坦福大学C++课程,推荐 ppt[Advanced Data Structures](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1126/lectures/21/Slides21.pdf)
+
+* [《A Visual Introduction to Algorithms》](https://www.educative.io/collection/10370001/760001)
+
+介绍：算法的可视化入门教程。通过组合的文章，可视化，测验，和编码的挑战来学习介绍计算机科学的算法，包括搜索，分类，递归，和图形理论。并用Python，C++或JavaScript来挑战实现
