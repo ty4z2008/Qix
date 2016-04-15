@@ -1184,3 +1184,15 @@
 * [《Book review: Fundamentals of Deep Learning》](http://www.opengardensblog.futuretext.com/archives/2015/08/book-review-fundamentals-of-deep-learning-designing-next-generation-artificial-intelligence-algorithms-by-nikhil-buduma.html)
 
 介绍: 书籍推荐,深度学习基础.[源码](https://github.com/darksigma/Fundamentals-of-Deep-Learning-Book)
+
+* [《Learning from Big Code》](http://learnbigcode.github.io/)
+
+介绍: 软件工程领域现在也对机器学习和自然语言处理很感兴趣，有人推出了“大代码”的概念，分享了不少代码集合，并且觉得ML可以用在预测代码Bug，预测软件行为，自动写新代码等任务上。大代码数据集下载
+
+* [《Object Detection》](http://handong1587.github.io/deep_learning/2015/10/09/object-detection.html)
+
+介绍: 深度学习进行目标识别的资源列表：包括RNN、MultiBox、SPP-Net、DeepID-Net、Fast R-CNN、DeepBox、MR-CNN、Faster R-CNN、YOLO、DenseBox、SSD、Inside-Outside Net、G-CNN
+
+* [《Deep Learning: Course by Yann LeCun at Collège de France 2016(Slides in English)》](https://www.facebook.com/yann.lecun/posts/10153505343037143)
+
+介绍: Yann LeCun 2016深度学习课程的幻灯片（Deep Learning  Course by Yann LeCun at Collège de France 2016）[百度云](http://pan.baidu.com/s/1jIIrljg )密码: cwsm [原地址](https://drive.google.com/folderview?id=0BxKBnD5y2M8NclFWSXNxa0JlZTg&usp=sharing)
