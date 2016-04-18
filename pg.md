@@ -719,3 +719,11 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《PostgreSQL SQL Injection Cheat Sheet》](http://www.sqlinjectionwiki.com/Categories/4/postgresql-sql-injection-cheat-sheet/)
 
 介绍:PostgreSQL SQL注入手册
+
+* [《PostgreSQL Query Optimization》](http://jinchengli.me/post/postgres-query-opt/)
+
+介绍:PostgreSQL查询优化，比较新手，但是你得有点基本的优化基础。否则会看起来很吃力
+
+* [《A Tour of PostgREST》](https://begriffs.com/posts/2016-03-20-postgrest-tour.html)
+
+介绍:PostgreSQL REST ful教程
