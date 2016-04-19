@@ -667,4 +667,4 @@
 
 * [《BASE: An Acid Alternative》](http://dl.acm.org/citation.cfm?id=1394128)
 
-介绍：来自eBay 的解决方案,译文[Base: 一种Acid的替代方案](http://article.yeeyan.org/view/167444/125572)
+介绍：来自eBay 的解决方案,译文[Base: 一种Acid的替代方案](http://article.yeeyan.org/view/167444/125572),应用案例参考[保证分布式系统数据一致性的6种方案](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653546976&idx=1&sn=c3fb2338389a41e7ab998c0c21bd3e5d)
