@@ -323,3 +323,11 @@
 * [《Golang Courses》](https://github.com/golang/go/wiki/Courses)
 
 介绍：国外很多大学把Golang作为学习课程,本页推荐了很多相关的课程,新手可以学习参考.
+
+* [《Go实战开发》](https://github.com/astaxie/Go-in-Action)
+
+介绍：作者写这本书主要是灵感来自于： https://github.com/thekarangoel/Projects ，然后作者就想到了当初做PHP的时候，也有类似的项目，觉得golang也可以实现一个类似的书籍，暂且把书名定为《Go实战开发》.
+
+* [《Golang 语言基础之一： type, variable, constant》](http://xhrwang.me/2014/12/22/golang-fundamentals-1-types-variables-constants.html)
+
+介绍：Golang 语言学习基础教程.
