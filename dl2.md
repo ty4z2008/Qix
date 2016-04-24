@@ -1196,3 +1196,9 @@
 * [《Deep Learning: Course by Yann LeCun at Collège de France 2016(Slides in English)》](https://www.facebook.com/yann.lecun/posts/10153505343037143)
 
 介绍: Yann LeCun 2016深度学习课程的幻灯片（Deep Learning  Course by Yann LeCun at Collège de France 2016）[百度云](http://pan.baidu.com/s/1jIIrljg )密码: cwsm [原地址](https://drive.google.com/folderview?id=0BxKBnD5y2M8NclFWSXNxa0JlZTg&usp=sharing)
+
+
+* [《Stanford HCI Group》](http://hci.stanford.edu/)
+
+介绍: 斯坦福人机交互组五篇CHI16文章。1.众包激励机制的行为经济学研究：批量结算比单任务的完成率高。2.在众包专家和新手间建立联系：微实习。3.词嵌入结合众包验证的词汇主题分类（如猫、狗属于宠物）。4.词嵌入结合目标识别的活动预测。5.鼓励出错以加快众包速度。
+
