@@ -1202,3 +1202,10 @@
 
 介绍: 斯坦福人机交互组五篇CHI16文章。1.众包激励机制的行为经济学研究：批量结算比单任务的完成率高。2.在众包专家和新手间建立联系：微实习。3.词嵌入结合众包验证的词汇主题分类（如猫、狗属于宠物）。4.词嵌入结合目标识别的活动预测。5.鼓励出错以加快众包速度。
 
+* [《Learn Data Science》](https://github.com/nborwankar/LearnDataScience)
+
+介绍: 自学数据科学
+
+* [《CS224D Lecture 7 - Introduction to TensorFlow》](https://www.youtube.com/watch?v=L8Y2_Cq2X5s)
+
+介绍: 本课是[CS224D](http://cs224d.stanford.edu/)一节介绍TensorFlow课程，[ppt](http://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf)
