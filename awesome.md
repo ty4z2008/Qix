@@ -326,3 +326,7 @@
 * [《CS:3820 Programming Language Concepts Spring 2016》](http://homepage.cs.uiowa.edu/~achampion/teaching/plc/lectures.shtml)
 
 介绍:University of Iowa 2016 年春季课程 Programming Language Concepts，以 Rust 作为教学语言。
+
+* [《InfoSec Engineering Reading List》](https://github.com/jacobian/infosec-engineering)
+
+介绍:信息安全工程师阅读清单。
