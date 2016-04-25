@@ -1208,4 +1208,8 @@
 
 * [《CS224D Lecture 7 - Introduction to TensorFlow》](https://www.youtube.com/watch?v=L8Y2_Cq2X5s)
 
-介绍: 本课是[CS224D](http://cs224d.stanford.edu/)一节介绍TensorFlow课程，[ppt](http://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf)
+介绍: 本课是[CS224D](http://cs224d.stanford.edu/)一节介绍TensorFlow课程，[ppt](http://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf),[DeepDreaming with TensorFlow](http://nbviewer.jupyter.org/github/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/deepdream/deepdream.ipynb)
+
+* [《Leaf - Machine Learning for Hackers》](http://autumnai.com/leaf/book/leaf.html)
+
+介绍: Leaf是一款机器学习的开源框架，专为黑客打造，而非为科学家而作。它用Rust开发，传统的机器学习，现今的深度学习通吃。[Leaf](https://github.com/autumnai/leaf)
