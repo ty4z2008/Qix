@@ -330,3 +330,7 @@
 * [《InfoSec Engineering Reading List》](https://github.com/jacobian/infosec-engineering)
 
 介绍:信息安全工程师阅读清单。
+
+* [《Everything you need to kick ass on your coding interview》](https://github.com/andreis/interview)
+
+介绍:面试知识集锦。
