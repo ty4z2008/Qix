@@ -1213,3 +1213,7 @@
 * [《Leaf - Machine Learning for Hackers》](http://autumnai.com/leaf/book/leaf.html)
 
 介绍: Leaf是一款机器学习的开源框架，专为黑客打造，而非为科学家而作。它用Rust开发，传统的机器学习，现今的深度学习通吃。[Leaf](https://github.com/autumnai/leaf)
+
+* [《MXnet:Flexible and Efficient library for deep learning》](http://on-demand.gputechconf.com/gtc/2016/video/S6853.html)
+
+介绍: [GTC 2016](http://on-demand-gtc.gputechconf.com/gtcnew/on-demand-gtc.php)视频，MXnet的手把手深度学习tutorial,相关参考资料[MXNet Tutorial for NVidia GTC 2016.](https://github.com/dmlc/mxnet-gtc-tutorial)
