@@ -1217,3 +1217,7 @@
 * [《MXnet:Flexible and Efficient library for deep learning》](http://on-demand.gputechconf.com/gtc/2016/video/S6853.html)
 
 介绍: [GTC 2016](http://on-demand-gtc.gputechconf.com/gtcnew/on-demand-gtc.php)视频，MXnet的手把手深度学习tutorial,相关参考资料[MXNet Tutorial for NVidia GTC 2016.](https://github.com/dmlc/mxnet-gtc-tutorial)
+
+* [《OpenAI Gym: Toolkit for developing, comparing reinforcement learning algorithms》](https://gym.openai.com/)
+
+介绍: OpenAI Gym：开发、比较强化学习算法工具箱
