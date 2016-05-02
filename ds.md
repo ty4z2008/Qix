@@ -668,3 +668,11 @@
 * [《BASE: An Acid Alternative》](http://dl.acm.org/citation.cfm?id=1394128)
 
 介绍：来自eBay 的解决方案,译文[Base: 一种Acid的替代方案](http://article.yeeyan.org/view/167444/125572),应用案例参考[保证分布式系统数据一致性的6种方案](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653546976&idx=1&sn=c3fb2338389a41e7ab998c0c21bd3e5d)
+
+* [《A Note on Distributed Computing》](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=CF3CA7E7B62091EB266A1543A6F2D26A?doi=10.1.1.41.7628&rep=rep1&type=pdf)
+
+介绍：Jim Waldo和Sam Kendall等人共同撰写了一篇非常有名的论文“分布式计算备忘录”，这篇论文在Reddit上被人推荐为“每个程序员都应当至少读上两篇”的论文。在这篇论文中，作者表示“忽略本地计算与分布式计算之间的区别是一种危险的思想”，特别指出了Emerald、Argus、DCOM以及CORBA的设计问题。作者将这些设计问题归纳为“三个错误的原则”： “对于某个应用来说，无论它的部署环境如何，总有一种单一的、自然的面向对象设计可以符合其需求。” “故障与性能问题与某个应用的组件实现直接相关，在最初的设计中无需考虑这些问题。” “对象的接口与使用对象的上下文无关”.
+
+* [《Distributed Systems Papers》](https://github.com/papers-we-love/papers-we-love/tree/master/distributed_systems)
+
+介绍：分布式系统领域经典论文列表.
