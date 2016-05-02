@@ -338,3 +338,7 @@
 * [《10 Technical Papers Every Programmer Should Read (At Least Twice)》](http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/)
 
 介绍:每个程序员至少读两次以上的论文,来自[reddit](https://www.reddit.com/r/programming/comments/80mi8/10_papers_every_programmer_should_read_at_least/)推荐,应该读[系列1](https://www.reddit.com/r/compsci/comments/mjncj/what_are_some_articles_that_every_computer/)、[系列2](https://www.reddit.com/r/coding/comments/2pu6xw/technical_papers_every_programmer_should_read_at/)。
+
+* [《The Beckman Database Research Self-Assessment Meeting》](http://beckman.cs.wisc.edu/)
+
+介绍:贝克曼数据库研究自我评估会议主页，集结了数据库领域专家的议题。
