@@ -334,3 +334,7 @@
 * [《Everything you need to kick ass on your coding interview》](https://github.com/andreis/interview)
 
 介绍:面试知识集锦。
+
+* [《10 Technical Papers Every Programmer Should Read (At Least Twice)》](http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/)
+
+介绍:每个程序员至少读两次以上的论文,来自[reddit](https://www.reddit.com/r/programming/comments/80mi8/10_papers_every_programmer_should_read_at_least/)推荐,应该读[系列1](https://www.reddit.com/r/compsci/comments/mjncj/what_are_some_articles_that_every_computer/)、[系列2](https://www.reddit.com/r/coding/comments/2pu6xw/technical_papers_every_programmer_should_read_at/)。
