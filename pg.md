@@ -727,3 +727,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《A Tour of PostgREST》](https://begriffs.com/posts/2016-03-20-postgrest-tour.html)
 
 介绍:PostgreSQL REST ful教程
+
+* [《PostgreSQL's explain analyze made readable》](http://explain.depesz.com/)
+
+介绍:可视化PostgreSQL执行计划,pg学习看执行计划的好资料
