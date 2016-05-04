@@ -1221,3 +1221,8 @@
 * [《OpenAI Gym: Toolkit for developing, comparing reinforcement learning algorithms》](https://gym.openai.com/)
 
 介绍: OpenAI Gym：开发、比较强化学习算法工具箱
+
+* [《conference-iclr-2016 Papers and Code》](https://tensortalk.com/?cat=conference-iclr-2016)
+
+介绍: 机器学习会议ICLR 2016 论文的代码集合
+
