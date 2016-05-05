@@ -337,7 +337,7 @@
 
 * [《Pattern Recognition and Machine Learning》](http://research.microsoft.com/en-us/um/people/cmbishop/prml/)
 
-介绍:模式识别与机器学习书籍推荐,[中文版](https://www.dropbox.com/s/sx95jq7n7zerrjl/PRML_Translation.pdf?dl=0) or [备份](http://pan.baidu.com/s/1hqheD5E)
+介绍:模式识别与机器学习书籍推荐,本书是微软剑桥研究院大神Bishop所写，算是最为广为认知的机器学习教材之一，内容覆盖全面，难度中上，适合研究生[中文版](https://www.dropbox.com/s/sx95jq7n7zerrjl/PRML_Translation.pdf?dl=0) or [备份](http://pan.baidu.com/s/1hqheD5E)
 
 * [《an introduction to visualizing DATA》](http://piksels.com/wp-content/uploads/2009/01/visualizingdata.pdf)
 
@@ -1226,3 +1226,42 @@
 
 介绍: 机器学习会议ICLR 2016 论文的代码集合
 
+* [《probabilistic graphical models principles and techniques》](https://github.com/JimmyLin192/GraphicalModel/blob/master/Probabilistic%20Graphical%20Models%20Principles%20and%20Techniques.pdf)
+
+介绍: 此书是斯坦福大学概率图模型大牛Daphne Koller所写，主要涉及的是贝叶斯网络和马尔科夫逻辑网络的learning和inference问题，同时又对PGM有深刻的理论解释，是学习概率图模型必看的书籍。难度中上，适合有一些ML基础的研究生.[备份地址](https://vk.com/doc168073_304660839?hash=39a33dd8aa6b141d8a&dl=b667454bc650f66cc0)
+
+* [《Information Theory, Inference, and Learning Algorithms》](http://www.inference.phy.cam.ac.uk/itprnn/book.html)
+
+介绍: 此书是剑桥大学著名信息论专家David MacKay所写，出发角度与很多机器学习的书籍都不一样，inference和MCMC那章写的最好，难度中。适合研究生和本科生。
+
+* [《Convex Optimization – Boyd and Vandenberghe》](http://stanford.edu/~boyd/cvxbook/)
+
+介绍: 非常好的Convex Optimization教材，覆盖了各种constrained和unconstrained optimization方法，介绍了convex优化的基本概念和理论。难度中，适合对优化和机器学习有一定基础的人群
+
+* [《Machine - Learning - Tom Mitchell》](http://personal.disco.unimib.it/Vanneschi/McGrawHill_-_Machine_Learning_-Tom_Mitchell.pdf)
+
+介绍: 本书是CMU机器学习系主任Mitchell早年写的机器学习教科书，年代有点久远.难度不高。适合初学者，本科生，研究生
+
+* [《Learning with Kernels Support Vector Machines, Regularization, Optimization, and Beyond》](https://mitpress.mit.edu/books/learning-kernels)
+
+介绍: 本书设计学习Kernel和SVM的各种理论基础，需要较强的数学功底，适合对kernel和SVM感兴趣的同学选读[Learning with Kernels PPT](http://dip.sun.ac.za/~hanno/tw796/lesings/mlss06au_scholkopf_lk.pdf)，参考[Learning with Kernels](https://www.cs.utah.edu/~piyush/teaching/learning-with-kernels.pdf)
+
+* [《The Elements of Statistical Learning: Data Mining, Inference, and Prediction》](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+
+介绍: 斯坦福统计系三位大神的统计学习教科书，偏统计和学习理论，需要对线性代数、统计和概率论有一定基础、难度高、适合研究生
+
+* [《Data Mining: Practical Machine Learning Tools and Techniques》](http://www.cse.hcmut.edu.vn/~chauvtn/data_mining/Texts/%5B7%5D%20Data%20Mining%20-%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%20(3rd%20Ed).pdf)
+
+介绍: 本书是著名机器学习工具Weka作者撰写的应用机器学习指导书、非常实用、难度低、适合文科和各种应用科学做参考
+
+* [《Foundations of Statistical Natural Language Processing》](http://nlp.stanford.edu/fsnlp/)
+
+介绍: 本书也是一本比较受欢迎的NLP教科书，难度一般，主要覆盖统计NLP方法，是斯坦福的另一位大牛Chirs manning所写
+
+* [《Speech and Language Processing》](https://web.stanford.edu/~jurafsky/slp3/)
+
+介绍: 在北美NLP最常用的教材，斯坦福Jurafsky所写的自然语言处理入门教程，覆盖面较为全面，难度中低。适合本科生和研究生
+
+* [《Natural Language Processing with Python - NLTK》](http://www.nltk.org/book/)
+
+介绍: 实战型教程，著名工具NLTK作者的著作，适合本科生和入门者边动手边学
