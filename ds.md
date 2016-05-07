@@ -676,3 +676,7 @@
 * [《Distributed Systems Papers》](https://github.com/papers-we-love/papers-we-love/tree/master/distributed_systems)
 
 介绍：分布式系统领域经典论文列表.
+
+* [《Consistent Hashing and Random Trees: Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web》](https://www.akamai.com/es/es/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf)
+
+介绍：Consistent Hashing算法描述.
