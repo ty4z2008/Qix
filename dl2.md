@@ -1265,3 +1265,7 @@
 * [《Natural Language Processing with Python - NLTK》](http://www.nltk.org/book/)
 
 介绍: 实战型教程，著名工具NLTK作者的著作，适合本科生和入门者边动手边学
+
+* [《nlp compromise》](http://nlp-compromise.github.io/website/)
+
+介绍: 自然语言处理学习工具包，帮助你理解什么是自然语言处理
