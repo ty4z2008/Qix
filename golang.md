@@ -331,3 +331,7 @@
 * [《Golang 语言基础之一： type, variable, constant》](http://xhrwang.me/2014/12/22/golang-fundamentals-1-types-variables-constants.html)
 
 介绍：Golang 语言学习基础教程.
+
+* [《Go Examples》](https://github.com/ibmendoza/go-examples)
+
+介绍：Collection of Go programs for quick reference,golang新手入门看源码就可以了.
