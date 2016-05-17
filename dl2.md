@@ -1269,3 +1269,7 @@
 * [《nlp compromise》](http://nlp-compromise.github.io/website/)
 
 介绍: 自然语言处理学习工具包，帮助你理解什么是自然语言处理
+
+* [《Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism》](http://arxiv.org/abs/1601.01073)
+
+介绍: 基于Attention共享机制的多通道/多语言感知机器翻译模型
