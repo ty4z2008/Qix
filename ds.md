@@ -680,3 +680,7 @@
 * [《Consistent Hashing and Random Trees: Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web》](https://www.akamai.com/es/es/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf)
 
 介绍：Consistent Hashing算法描述.
+
+* [《SIGMOD 2016: Accepted Research Papers》](http://sigmod2016.org/pods_list.shtml)
+
+介绍：SIGMOD是世界上最有名的数据库会议之一,最具有权威性,收录论文审核非常严格.2016年的SIGMOD 会议照常进行,上面收录了今年SIGMOD收录的论文,把题目输入google中加上pdf就能找到,很多论文值得阅读,[SIGMOD 2015](http://sigmod2015.org/pods_list.shtml)
