@@ -147,3 +147,7 @@
 * [《A Visual Introduction to Algorithms》](https://www.educative.io/collection/10370001/760001)
 
 介绍：算法的可视化入门教程。通过组合的文章，可视化，测验，和编码的挑战来学习介绍计算机科学的算法，包括搜索，分类，递归，和图形理论。并用Python，C++或JavaScript来挑战实现
+
+* [《Algorithm Visualizer》](https://github.com/parkjs814/AlgorithmVisualizer)
+
+介绍：算法可视化工具
