@@ -1273,3 +1273,16 @@
 * [《Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism》](http://arxiv.org/abs/1601.01073)
 
 介绍: 基于Attention共享机制的多通道/多语言感知机器翻译模型
+
+* [《CS229 - Machine Learning, Spring 2016, Stanford》](http://cs229.stanford.edu)
+
+介绍: 斯坦福2016年机器学习春季课程
+
+* [《What is deep learning?》](https://www.quora.com/What-is-deep-learning)
+
+介绍: 我们深度学习，做数据处理。究竟深度学习可以用来做什么？什么场景下引入深度学习要必传统的数据处理方式要好？初学者可以先看看这篇文章
+
+* [《KDD16 accept papers》](http://www.kdd.org/kdd2016/program/accepted-papers)
+
+介绍: KDD16论文是双轨制：分为研究和应用数据科学（之前叫工业&政府），均是10页。前者录取142篇（口头70+展报72），后者录取66篇（口头40+展报26） ，共计208篇。去年录取率：160/819=19.5%。
+高产作者：九篇Hui Xiong；七篇Jieping Ye；五篇Hengshu Zhu。高产机构：十篇Tsinghua University；九篇Carnegie Mellon University、Rutgers；八篇Stanford University。高频词：learning online networks［评论来自：学生古］
