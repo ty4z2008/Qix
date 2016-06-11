@@ -731,3 +731,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《PostgreSQL's explain analyze made readable》](http://explain.depesz.com/)
 
 介绍:可视化PostgreSQL执行计划,pg学习看执行计划的好资料
+
+* [《PostgreSQL HA Database Clusters through Containment》](https://wiki.postgresql.org/images/1/1e/QuanHa_PGConf_US_2016_-_Doc.pdf)
+
+介绍:使用容器构建pg HA数据库集群
