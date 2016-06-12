@@ -103,7 +103,7 @@
 
 介绍:深入Linux系统内部
 
-* [《LDatabase System Implementation》](https://web.stanford.edu/class/cs346/2015/)
+* [《Database System Implementation》](https://web.stanford.edu/class/cs346/2015/)
 
 介绍:斯坦福大学的数据库系统实现课程
 
