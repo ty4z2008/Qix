@@ -688,3 +688,7 @@
 * [《Notes on CPSC 465/565: Theory of Distributed Systems》](http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf)
 
 介绍:耶鲁大学的分布式系统理论课程笔记
+
+* [《Distributed Operating System Doc PDF》](http://listpdf.com/di/distributed-operating-system-doc-pdf.html)
+
+介绍:分布式系统文档资源（可下载）
