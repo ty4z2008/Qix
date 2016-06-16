@@ -684,3 +684,7 @@
 * [《SIGMOD 2016: Accepted Research Papers》](http://sigmod2016.org/pods_list.shtml)
 
 介绍：SIGMOD是世界上最有名的数据库会议之一,最具有权威性,收录论文审核非常严格.2016年的SIGMOD 会议照常进行,上面收录了今年SIGMOD收录的论文,把题目输入google中加上pdf就能找到,很多论文值得阅读,[SIGMOD 2015](http://sigmod2015.org/pods_list.shtml)
+
+* [《Notes on CPSC 465/565: Theory of Distributed Systems》](http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf)
+
+介绍:耶鲁大学的分布式系统理论课程笔记
