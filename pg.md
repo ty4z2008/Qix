@@ -734,4 +734,8 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 * [《PostgreSQL HA Database Clusters through Containment》](https://wiki.postgresql.org/images/1/1e/QuanHa_PGConf_US_2016_-_Doc.pdf)
 
-介绍:使用容器构建pg HA数据库集群
+介绍:pg HA数据库集群分析
+
+* [《PostgreSQL 9.6 New Features With Examples》](http://community.hpe.com/hpeb/attachments/hpeb/JapanEnterpriseTopics/198/1/PostgreSQL%209.6%20New%20Features%20en%2020160606-1.pdf)
+
+介绍:PostgreSQL9.6新特性
