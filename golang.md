@@ -260,13 +260,13 @@
 
 介绍：Go开发新手常犯的50个错误.
 
-* [《GoLang By Eaxmples》](https://gobyexample.com/)
+* [《Golang By Eaxmples》](https://gobyexample.com/)
 
-介绍：GoLang基本代码实例.
+介绍：Golang基本代码实例,[中文版](http://gobyexample.everyx.in/).
 
 * [《Golang News News for Go programmers》](http://golangnews.com/)
 
-介绍：GoLang news.
+介绍：Golang news.
 
 * [《fasthttp:Fast HTTP package for Go》](https://github.com/valyala/fasthttp)
 
