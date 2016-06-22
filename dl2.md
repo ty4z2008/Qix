@@ -1290,3 +1290,7 @@
 * [《Medical Data for Machine Learning》](https://github.com/beamandrew/medical-data)
 
 介绍: 医疗数据
+
+* [《Matlab Hacks》](http://www.socher.org/index.php/Main/MatlabHacks)
+
+介绍: Matlab小技巧
