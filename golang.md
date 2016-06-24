@@ -335,3 +335,7 @@
 * [《Go Examples》](https://github.com/ibmendoza/go-examples)
 
 介绍：Collection of Go programs for quick reference,golang新手入门看源码就可以了.
+
+* [《Notes on Go》](https://brandur.org/go)
+
+介绍：国外的一位开发者在实践开发一个大型项目之后所写的笔记
