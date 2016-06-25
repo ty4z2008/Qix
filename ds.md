@@ -26,7 +26,7 @@
 
 * [《Google's Globally-Distributed Database》](http://research.google.com/archive/spanner.html)
 
-介绍:Google全球分布式数据介绍
+介绍:Google全球分布式数据介绍,[中文版](http://dblab.xmu.edu.cn/wp-content/uploads/2012/09/20120925_094508_876.pdf)
 
 * [《The Architecture Of Algolia’s Distributed Search Network》](http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html)
 
@@ -186,7 +186,7 @@
 
 * [《Bigtable: A Distributed Storage System for Structured Data》](https://research.google.com/archive/bigtable-osdi06.pdf)
 
-介绍:支持PB数据量级的多维非关系型大表， 在google内部应用广泛，大数据的奠基作品之一 ， Hbase就是参考BigTable设计。 Bigtable的主要技术特点包括： 基于GFS实现数据高可靠， 使用非原地更新技术（LSM树）实现数据修改， 通过range分区并实现自动伸缩等.
+介绍:支持PB数据量级的多维非关系型大表， 在google内部应用广泛，大数据的奠基作品之一 ， Hbase就是参考BigTable设计。 Bigtable的主要技术特点包括： 基于GFS实现数据高可靠， 使用非原地更新技术（LSM树）实现数据修改， 通过range分区并实现自动伸缩等.[中文版](http://dblab.xmu.edu.cn/wp-content/uploads/2012/05/20120508_172346_207.pdf)
 
 * [《PacificA: Replication in Log-Based Distributed Storage Systems》](http://research.microsoft.com:8082/pubs/66814/tr-2008-25.pdf)
 
@@ -692,3 +692,17 @@
 * [《Distributed Operating System Doc PDF》](http://listpdf.com/di/distributed-operating-system-doc-pdf.html)
 
 介绍:分布式系统文档资源（可下载）
+
+* [《Anatomy of a database system》](https://mitpress.mit.edu/sites/default/files/titles/content/9780262693141_sch_0002.pdf)
+
+介绍:数据库系统剖析，这本书是由伯克利大学的[Joseph M. Hellerstein](http://db.cs.berkeley.edu/jmh/)和M. Stonebraker合著的一篇论文.对数据库剖析很有深度.除此以外还有一篇文章[Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf)。数据库系统架构,厦门大学的数据库实验室教授林子雨组织过[翻译](http://dblab.xmu.edu.cn/sites/default/files/files/linziyu-Architecture%20of%20a%20Database%20System(Chinese%20Version)-ALL.pdf)
+
+* [《A Relational Model of Data for Large Shared Data Banks》](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf)
+
+介绍:数据库关系模型论文
+
+* [《RUC Innovative data systems reaserch lab recommand papers》](http://idke.ruc.edu.cn/reading/index.htm)
+
+介绍:中国人民大学数据研究实验室推荐的数据库领域论文
+
+
