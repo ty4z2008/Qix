@@ -705,4 +705,6 @@
 
 介绍:中国人民大学数据研究实验室推荐的数据库领域论文
 
+* [《A Scalable Distributed Information Management System》](http://www.cs.utexas.edu/~dahlin/projects/sdims/papers/sdims-sigcomm.pdf)
 
+介绍:构建可扩展的分布式信息管理系统
