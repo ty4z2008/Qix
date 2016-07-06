@@ -1294,3 +1294,7 @@
 * [《Matlab Hacks》](http://www.socher.org/index.php/Main/MatlabHacks)
 
 介绍: Matlab小技巧
+
+* [《Fundamentals of TensorFlow》](https://www.hakkalabs.co/articles/fundamentals-tensorflow)
+
+介绍: TensorFlow基本原理
