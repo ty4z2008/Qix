@@ -708,3 +708,7 @@
 * [《A Scalable Distributed Information Management System》](http://www.cs.utexas.edu/~dahlin/projects/sdims/papers/sdims-sigcomm.pdf)
 
 介绍:构建可扩展的分布式信息管理系统
+
+* [《Distributed Systems in Haskell》](http://yager.io/Distributed/Distributed.html)
+
+介绍:Haskell中的分布式系统开发
