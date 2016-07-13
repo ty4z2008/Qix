@@ -265,7 +265,7 @@
 
 * [《30 Days of Swift》](https://github.com/allenwong/30DaysofSwift)
 
-介绍:自学 iOS - 三十天三十个 Swift 项目[文章](http://weibo.com/ttarticle/p/show?id=2309403942494873235448),作者时来源与国外的[Sam Lu](https://medium.com/@samvlu/100-days-of-swift-736d45a19b63)的[100 Days of Swift](http://samvlu.com/)启发开始编写,目前代码已经开源
+介绍:自学 iOS - 三十天三十个 Swift 项目[文章](http://weibo.com/ttarticle/p/show?id=2309403942494873235448),作者时来源与国外的[Sam Lu](https://medium.com/@samvlu/100-days-of-swift-736d45a19b63)的[100 Days of Swift](http://samvlu.com/)启发开始编写,目前代码已经开源,100 days项目推荐[Swift_100days](https://github.com/Nododo/Swift_100days),[100DaysOfSwift](https://github.com/khuong291/100DaysOfSwift)
 
 * [《Readings in Database Systems, 5th Edition》](http://www.redbook.io/)
 
