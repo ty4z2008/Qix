@@ -1298,3 +1298,7 @@
 * [《Fundamentals of TensorFlow》](https://www.hakkalabs.co/articles/fundamentals-tensorflow)
 
 介绍: TensorFlow基本原理
+
+* [《	A Course in Machine Learning》](http://ciml.info/)
+
+介绍: 电子书，机器学习课程
