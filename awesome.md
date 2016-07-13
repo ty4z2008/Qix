@@ -342,3 +342,7 @@
 * [《The Beckman Database Research Self-Assessment Meeting》](http://beckman.cs.wisc.edu/)
 
 介绍:贝克曼数据库研究自我评估会议主页，集结了数据库领域专家的议题。
+
+* [《Swift reusable code》](https://github.com/carlbutron/Swift)
+
+介绍:常用的Swift 工具代码，主要是会经常使用到的。
