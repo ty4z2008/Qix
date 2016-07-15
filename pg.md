@@ -726,7 +726,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 * [《A Tour of PostgREST》](https://begriffs.com/posts/2016-03-20-postgrest-tour.html)
 
-介绍:PostgreSQL REST ful教程
+介绍:PostgreSQL RESTful教程
 
 * [《PostgreSQL's explain analyze made readable》](http://explain.depesz.com/)
 
@@ -739,3 +739,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《PostgreSQL 9.6 New Features With Examples》](http://community.hpe.com/hpeb/attachments/hpeb/JapanEnterpriseTopics/198/1/PostgreSQL%209.6%20New%20Features%20en%2020160606-1.pdf)
 
 介绍:PostgreSQL9.6新特性
+
+* [《Understanding EXPLAIN》](http://www.dalibo.org/_media/understanding_explain.pdf)
+
+介绍:深入学习PostgreSQL的explain工具
