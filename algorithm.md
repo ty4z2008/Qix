@@ -151,3 +151,7 @@
 * [《Algorithm Visualizer》](https://github.com/parkjs814/AlgorithmVisualizer)
 
 介绍：算法可视化工具
+
+* [《How to Write Your Own Recommendation System》](http://elliot.land/how-to-write-your-own-recommendation-system-part-1)
+
+介绍：自己动手如何写一个推荐系统
