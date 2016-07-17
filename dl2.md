@@ -1299,6 +1299,10 @@
 
 介绍: TensorFlow基本原理
 
-* [《	A Course in Machine Learning》](http://ciml.info/)
+* [《A Course in Machine Learning》](http://ciml.info/)
 
 介绍: 电子书，机器学习课程
+
+* [《ICML 2016 Tutorials》](http://icml.cc/2016/?page_id=97)
+
+介绍: 国际机器学习会议PPT提供下载
