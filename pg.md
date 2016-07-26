@@ -743,3 +743,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《Understanding EXPLAIN》](http://www.dalibo.org/_media/understanding_explain.pdf)
 
 介绍:深入学习PostgreSQL的explain工具
+
+* [《PostgreSQL Exercises》](https://pgexercises.com/)
+
+介绍:PostgreSQL学习实验室，有练习。适合新手入门pg
