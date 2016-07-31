@@ -155,3 +155,7 @@
 * [《How to Write Your Own Recommendation System》](http://elliot.land/how-to-write-your-own-recommendation-system-part-1)
 
 介绍：自己动手如何写一个推荐系统
+
+* [《All algorithms implemented in Python (for education)》](https://github.com/TheAlgorithms/Python)
+
+介绍：常用算法实现python版
