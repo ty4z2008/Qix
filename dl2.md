@@ -1333,7 +1333,7 @@
 
 * [《Deep Language Modeling for Question Answering using Keras》](http://benjaminbolte.com/blog/2016/keras-language-modeling.html)
 
-介绍: Keras是一个极简和高度模块化的神经网络库，这是使用Keras构建深度语言模型使用问答系统[Github](https://github.com/codekansas/keras-language-modeling)
+介绍: Keras是一个极简和高度模块化的神经网络库，这是使用Keras构建深度语言模型使用问答系统[Github](https://github.com/codekansas/keras-language-modeling),此外推荐[Keras resource](https://github.com/fchollet/keras-resources)
 
 * [《An Actor-Critic Algorithm for Sequence Prediction》](http://arxiv.org/abs/1607.07086)
 
