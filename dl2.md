@@ -1306,3 +1306,35 @@
 * [《ICML 2016 Tutorials》](http://icml.cc/2016/?page_id=97)
 
 介绍: 国际机器学习会议PPT提供下载
+
+* [《TensorFlow: A system for large-scale machine learning》](http://arxiv.org/pdf/1605.08695v2.pdf)
+
+介绍: 大规模机器学习系统：TensorFlow,本论文已经投稿到OSDI 2016
+
+* [《Globally Normalized Transition-Based Neural Networks》](https://arxiv.org/abs/1603.06042)
+
+介绍: 这篇论文提出的模型改进，可用于任何包含 transition system 的 feed-forward NN 上。他们将这个模型用于了几大 NLP sequence tagging 的任务上：POS speech tagging，dependency parsing 和 sentence compression，结果发现有时候甚至比 RNN 还要好。
+
+* [《The best explanation of Convolutional Neural Networks on the Internet!》](https://medium.com/technologymadeeasy/the-best-explanation-of-convolutional-neural-networks-on-the-internet-fbb8b1ad5df8)
+
+介绍: CNNs详解,同时推荐[A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
+
+* [《Python Data Visualization》](https://github.com/econchick/new-coder)
+
+介绍: Python数据可视化教程
+
+* [《EMNLP 2016 accepted papers》](http://www.emnlp2016.net/accepted-papers.html)
+
+介绍: 2016年EMNLP会议接收的论文下载
+
+* [《Summaries and notes on Deep Learning research papers》](https://github.com/dennybritz/deeplearning-papernotes)
+
+介绍: 深度学习领域论文笔记与总结
+
+* [《Deep Language Modeling for Question Answering using Keras》](http://benjaminbolte.com/blog/2016/keras-language-modeling.html)
+
+介绍: Keras是一个极简和高度模块化的神经网络库，这是使用Keras构建深度语言模型使用问答系统[Github](https://github.com/codekansas/keras-language-modeling)
+
+* [《An Actor-Critic Algorithm for Sequence Prediction》](http://arxiv.org/abs/1607.07086)
+
+介绍: Yoshua Bengio 最新论文：用于序列预测的actor-critic算法
