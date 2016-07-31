@@ -346,3 +346,7 @@
 * [《Swift reusable code》](https://github.com/carlbutron/Swift)
 
 介绍:常用的Swift 工具代码，主要是会经常使用到的。
+
+* [《Memory Deep Dive Series》](http://frankdenneman.nl/2015/02/18/memory-configuration-scalability-blog-series/)
+
+介绍:Memory Deep Dive Series
