@@ -747,3 +747,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《PostgreSQL Exercises》](https://pgexercises.com/)
 
 介绍:PostgreSQL学习实验室，有练习。适合新手入门pg
+
+* [《On Uber’s Choice of Databases》](http://use-the-index-luke.com/blog/2016-07-29/on-ubers-choice-of-databases)
+
+介绍:文章诞生于Uber发表的一篇关于从pg迁移到mysql的文章，国内与国外讨论甚广.在讨论过程中诞生了很多精彩的干货，值得一读。学习数据库要深入，并存的世界才是和平.推荐[为PostgreSQL讨说法 - 浅析《UBER ENGINEERING SWITCHED FROM POSTGRES TO MYSQL》](https://yq.aliyun.com/articles/58421)
