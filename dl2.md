@@ -1338,3 +1338,7 @@
 * [《An Actor-Critic Algorithm for Sequence Prediction》](http://arxiv.org/abs/1607.07086)
 
 介绍: Yoshua Bengio 最新论文：用于序列预测的actor-critic算法
+
+* [《Ranking Relevance in Yahoo Search》](http://www.kdd.org/kdd2016/papers/files/adf0361-yinA.pdf)
+
+介绍: KDD2016工业界最佳论文,另外学术界：最佳论文[FRAUDAR: Bounding Graph Fraud in the Face of Camouflage](http://www.kdd.org/kdd2016/papers/files/rfp0110-hooiA.pdf)；最佳学生论文：[TRIÈST: Counting Local and Global Triangles in Fully-Dynamic Streams with Fixed Memory Size](http://www.kdd.org/kdd2016/papers/files/rfp0465-de-stefaniA.pdf)；
