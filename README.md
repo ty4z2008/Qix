@@ -23,18 +23,18 @@ node-mysql offcial document:https://github.com/felixge/node-mysql/blob/master/Re
 
 node-mysql Chinese document:https://github.com/ty4z2008/Qix/blob/master/node.md
 
-##Resource  of Machine Learning And deep learning 
+##Machine Learning And deep learning Resources
 
 Chapter 1:https://github.com/ty4z2008/Qix/blob/master/dl.md
 
 Chapter 2:https://github.com/ty4z2008/Qix/blob/master/dl2.md
 
-##Golang learning resource
+##Golang learning resources
 
 Link ：https://github.com/ty4z2008/Qix/blob/master/golang.md
 
 
-##PostgreSQL database resource
+##PostgreSQL database resources
 
 Link  ：https://github.com/ty4z2008/Qix/blob/master/pg.md
 
@@ -42,9 +42,9 @@ Link  ：https://github.com/ty4z2008/Qix/blob/master/pg.md
 
 Links ：https://github.com/ty4z2008/Qix/blob/master/ds.md
 
-##声明
+##Other
 
-朋友,您好。为了表示尊重原创作者的劳动成果，在阅读过程中，如果你发现文内所有的链接并不是第一作者的链接，还希望您能够向我[Submit feedback](https://github.com/ty4z2008/Qix/issues)。Thanks buddy！
+Dear friends. In order to respect to  the efforts   of authorship. In the reading process, when you find that resource the authorship is incorrect I also want you to[Submit feedback](https://github.com/ty4z2008/Qix/issues)。Thanks buddy！
 
 ## License
 
