@@ -42,7 +42,7 @@ Link  ：https://github.com/ty4z2008/Qix/blob/master/pg.md
 
 Links ：https://github.com/ty4z2008/Qix/blob/master/ds.md
 
-##Other
+##Additional notes
 
 Dear friends. In order to respect to  the efforts   of authorship. In the reading process, when you find that resource the authorship is incorrect I also want you to[Submit feedback](https://github.com/ty4z2008/Qix/issues)。Thanks buddy！
 
