@@ -350,3 +350,9 @@
 * [《Memory Deep Dive Series》](http://frankdenneman.nl/2015/02/18/memory-configuration-scalability-blog-series/)
 
 介绍:Memory Deep Dive Series
+
+* [《Engineering blogs》](https://github.com/kilimchoi/engineering-blogs)
+
+介绍:工程师博客列表。[Awesome dev blogs](https://github.com/abdelhai/awesome-dev-blogs)
+
+
