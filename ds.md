@@ -712,3 +712,7 @@
 * [《Distributed Systems in Haskell》](http://yager.io/Distributed/Distributed.html)
 
 介绍:Haskell中的分布式系统开发
+
+* [《Large-scale cluster management at Google with Borg》](research.google.com/pubs/archive/43438.pdf)
+
+介绍:Google使用Borg进行大规模集群的管理,[伯克利大学ppt介绍](http://people.eecs.berkeley.edu/~istoica/classes/cs294/15/notes/09-borg.pdf),[中文版](http://my.oschina.net/HardySimpson/blog?search=Borg)
