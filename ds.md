@@ -716,3 +716,7 @@
 * [《Large-scale cluster management at Google with Borg》](research.google.com/pubs/archive/43438.pdf)
 
 介绍:Google使用Borg进行大规模集群的管理,[伯克利大学ppt介绍](http://people.eecs.berkeley.edu/~istoica/classes/cs294/15/notes/09-borg.pdf),[中文版](http://my.oschina.net/HardySimpson/blog?search=Borg)
+
+* [《Lock Free Programming Practice》](http://www.yebangyu.org/LockFreeProgrammingPractice.pdf)
+
+介绍:并发编程（Concurrency Programming）资料,主要涵盖lock free数据结构实现、内存回收方法、memory model等[备份链接](http://pan.baidu.com/s/1sleTpgT) 密码: xc5j
