@@ -74,7 +74,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍: PG 代码分析报告.
 
-* [《PostgreSQL查询处理部分源码分析》](http://vdisk.weibo.com/s/ayG13we1-NAbK)
+* [《PostgreSQL查询处理部分源码分析》](http://www.comp.hkbu.edu.hk/~yli/uploads/Main/postgresql.pdf)
 
 介绍:  PostgreSQL查询处理部分源码分析.
 
@@ -96,7 +96,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍：数据库系统概念(第六版)
 
-* [《PostgreSQL从菜鸟到专家(中译稿 by 洞庭湖的泥鳅)》](http://vdisk.weibo.com/s/ayG13we1Y4EA6)
+* [《PostgreSQL从菜鸟到专家(中译稿 by 洞庭湖的泥鳅)》](http://download.csdn.net/detail/lusizeng/8679303)
 
 介绍：这篇文档是国内的一线postgreSQL专家所翻译。很经典
 
@@ -755,3 +755,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《Advanced Postgres Performance Tips》](https://robots.thoughtbot.com/advanced-postgres-performance-tips)
 
 介绍:高级PostgreSQL性能调优
+
+* [《PostgreSQL Index Internals》](https://www.pgcon.org/2016/schedule/events/934.en.html)
+
+介绍:索引的内部原理,推荐[2016年欧洲pg大会资料](https://www.pgcon.org/2016/schedule/)涵盖ppt与视频
