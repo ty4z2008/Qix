@@ -720,3 +720,11 @@
 * [《Lock Free Programming Practice》](http://www.yebangyu.org/LockFreeProgrammingPractice.pdf)
 
 介绍:并发编程（Concurrency Programming）资料,主要涵盖lock free数据结构实现、内存回收方法、memory model等[备份链接](http://pan.baidu.com/s/1sleTpgT) 密码: xc5j
+
+* [《Distributed Algorithms Lecture Notes for 6.852》](http://read.pudn.com/downloads95/ebook/386159/Distributed.Algorithms.pdf)
+
+介绍:Nancy Lynch's的分布式算法研究生课程讲义
+
+* [《Distributed Algorithms for Topic Models》](http://www.jmlr.org/papers/volume10/newman09a/newman09a.pdf)
+
+介绍:分布式算法主题模型
