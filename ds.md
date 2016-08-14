@@ -727,4 +727,8 @@
 
 * [《Distributed Algorithms for Topic Models》](http://www.jmlr.org/papers/volume10/newman09a/newman09a.pdf)
 
-介绍:分布式算法主题模型
+介绍:分布式算法主题模型.
+
+* [《RecSys - ACM Recommender Systems》](https://recsys.acm.org/)
+
+介绍:世界上非常有名的推荐系统会议，我比较推荐接收的[PAPER](https://recsys.acm.org/recsys16/accepted-contributions)
