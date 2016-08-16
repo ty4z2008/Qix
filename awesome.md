@@ -355,4 +355,8 @@
 
 介绍:工程师博客列表。[Awesome dev blogs](https://github.com/abdelhai/awesome-dev-blogs)
 
+* [《NoSQL Databases: a Survey and Decision Guidance》](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d#.kcje9fcho)
+
+介绍:NoSQL数据库：调查和决策指导。非常详细的NoSQL数据库大检阅，文章很长，干货多多
+
 
