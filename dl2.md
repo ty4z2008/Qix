@@ -1346,3 +1346,23 @@
 * [《Top Deep Learning Projects》](https://github.com/aymericdamien/TopDeepLearning)
 
 介绍: Github top deep learning project
+
+* [《深度卷积网络CNN与图像语义分割》](http://xiahouzuoxin.github.io/notes/html/%E6%B7%B1%E5%BA%A6%E5%8D%B7%E7%A7%AF%E7%BD%91%E7%BB%9CCNN%E4%B8%8E%E5%9B%BE%E5%83%8F%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2.html)
+
+介绍:深度卷积网络CNN与图像语义分割
+
+* [《How Convolutional Neural Networks Work》](http://brohrer.github.io/how_convolutional_neural_networks_work.html)
+
+介绍: 卷积神经网络内部分析.
+
+* [《Deep Reinforcement Learning survey》](https://github.com/andrewliao11/Deep-Reinforcement-Learning-Survey)
+
+介绍: 深度强化学习.
+
+* [《Python Data Science Tutorials》](https://github.com/ujjwalkarn/DataSciencePython)
+
+介绍: Python数据科学教程,推荐[Data Science Dictionary: P-Values](http://partiallyderivative.com/resources/2016/07/13/Data-science-dictionary-Pvalues).[Interesting Python Tutorials](https://pythontips.com/2016/08/19/interesting-python-tutorials/)
+
+* [《Full Resolution Image Compression with Recurrent Neural Networks》](http://arxiv.org/abs/1608.05148)
+
+介绍: google新论文,使用循环神经网络进行高分辨率图像压缩处理
