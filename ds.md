@@ -736,3 +736,7 @@
 * [《All Things Distributed》](http://www.allthingsdistributed.com/)
 
 介绍:推荐一个博客,博主是Amazon CTO Werner Vogels,这是一个关注分布式领域的博客.大部分博文是关于在工业界应用.
+
+* [《programming, database, distributed system resource list》](https://github.com/hedengcheng/tech)
+
+介绍:这个Git是由阿里(alibaba)的技术专家何登成维护,主要是分布式数据库.
