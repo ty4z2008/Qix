@@ -732,3 +732,7 @@
 * [《RecSys - ACM Recommender Systems》](https://recsys.acm.org/)
 
 介绍:世界上非常有名的推荐系统会议，我比较推荐接收的[PAPER](https://recsys.acm.org/recsys16/accepted-contributions)
+
+* [《All Things Distributed》](http://www.allthingsdistributed.com/)
+
+介绍:推荐一个博客,博主是Amazon CTO Werner Vogels,这是一个关注分布式领域的博客.大部分博文是关于在工业界应用.
