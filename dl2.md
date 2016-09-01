@@ -1366,3 +1366,7 @@
 * [《Full Resolution Image Compression with Recurrent Neural Networks》](http://arxiv.org/abs/1608.05148)
 
 介绍: google新论文,使用循环神经网络进行高分辨率图像压缩处理
+
+* [《PArallel Distributed Deep LEarning》](https://github.com/baidu/paddle)
+
+介绍: 百度开源了PaddlePaddle（PArallel Distributed Deep LEarning），是一个易于使用的，高效的，灵活的，可扩展的深度学习的平台.
