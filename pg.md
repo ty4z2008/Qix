@@ -74,7 +74,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍: PG 代码分析报告.
 
-* [《PostgreSQL查询处理部分源码分析》](http://www.comp.hkbu.edu.hk/~yli/uploads/Main/postgresql.pdf)
+* [《PostgreSQL查询处理部分源码分析》](http://www.docin.com/p-271989068.html)
 
 介绍:  PostgreSQL查询处理部分源码分析.
 
