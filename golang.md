@@ -339,3 +339,7 @@
 * [《Notes on Go》](https://brandur.org/go)
 
 介绍：国外的一位开发者在实践开发一个大型项目之后所写的笔记
+
+* [《Learning Go: Lexing and Parsing》](http://blog.leahhanson.us/post/recursecenter2016/recipeparser.html)
+
+介绍：利用go进行词法分析
