@@ -1370,3 +1370,19 @@
 * [《PArallel Distributed Deep LEarning》](https://github.com/baidu/paddle)
 
 介绍: 百度开源了PaddlePaddle（PArallel Distributed Deep LEarning），是一个易于使用的，高效的，灵活的，可扩展的深度学习的平台.
+
+* [《Neural Network Architectures》](http://culurciello.github.io/tech/2016/06/04/nets.html)
+
+介绍: 神经网络架构演进史：全面回顾从LeNet5到ENet十余种架构，深度神经网络与深度学习是非常强大的流行算法。许多运用它们的成功典范依赖于对神经网络架构的精心设计。作者在这篇文章中重新回顾一下最近几年的深度学习背景下神经网络设计的历史。[中文翻译](http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650718943&idx=1&sn=258117d392ca1bfc37d6496992da5eae)
+
+* [《A Tutorial for Reinforcement Learning》](http://web.mst.edu/~gosavia/tutorial.pdf)
+
+介绍: 强化学习教程
+
+* [《CSCC11 Introduction to Machine Learning and Data Mining》](http://www.cs.toronto.edu/~g8acai/teaching/C11/notesReadings.html)
+
+介绍: 多伦多大学机器学习与数据挖掘CSCC11学习笔记。
+
+* [《Awesome 3D reconstruction list》](https://github.com/openMVG/awesome_3DReconstruction_list)
+
+介绍: 图像三维重建相关资源大列表
