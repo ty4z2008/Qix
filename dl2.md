@@ -1386,3 +1386,27 @@
 * [《Awesome 3D reconstruction list》](https://github.com/openMVG/awesome_3DReconstruction_list)
 
 介绍: 图像三维重建相关资源大列表
+
+* [《The Mathematics of Machine Learning》](https://www.linkedin.com/pulse/mathematics-machine-learning-wale-akinfaderin)
+
+介绍: 器学习需要哪些数学?
+
+* [《Mathematics of Machine Learning》](http://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/index.htm)
+
+介绍: MIT 2015年秋季课程——机器学习数学[resource](https://www.52ml.net/18617.html)
+
+* [《The Mathematics of Machine Learning》](https://www.linkedin.com/pulse/mathematics-machine-learning-wale-akinfaderin)
+
+介绍: 机器学习需要哪些数学?
+
+* [《A Complete Tutorial on Tree Based Modeling from Scratch (in R & Python)》](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
+
+介绍: 一篇非常全面的树模型介绍文章，节点分裂、树模型的关键参数及如何避免过拟合、和线性模型的比较、随机森林、Bagging、Boosting、GBM和XGBoost实战都是干货满满，真要说缺点什么，那可能就是没有公式推导。
+
+* [《Phd-Level Machine Learning Courses》](https://www.reddit.com/r/MachineLearning/comments/51qhc8/phdlevel_courses/)
+
+介绍: 机器学习高级课程
+
+* [《Introduction to Recommender Systems: A 4-hour lecture》](http://technocalifornia.blogspot.jp/2014/08/introduction-to-recommender-systems-4.html)
+
+介绍: Xavier Amatriain在CMU的Machine Learning暑期学校上的讲授的内容
