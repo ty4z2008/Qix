@@ -1410,3 +1410,19 @@
 * [《Introduction to Recommender Systems: A 4-hour lecture》](http://technocalifornia.blogspot.jp/2014/08/introduction-to-recommender-systems-4.html)
 
 介绍: Xavier Amatriain在CMU的Machine Learning暑期学校上的讲授的内容
+
+* [《Paper Collection of Real-Time Bidding》](https://github.com/wnzhang/rtb-papers)
+
+介绍: 实时竞价相关论文汇总
+
+* [《GoogleNews-vectors-negative300-SLIM》](https://github.com/eyaler/word2vec-slim)
+
+介绍: GoogleNews词向量模型精简版(235M)
+
+* [《Super-Resolution.Benckmark》](https://github.com/huangzehao/Super-Resolution.Benckmark)
+
+介绍: 超分辨率及其评价相关资源汇总
+
+* [《Awesome Network Analysis》](https://github.com/briatte/awesome-network-analysis)
+
+介绍: 网络分析相关资源大列表
