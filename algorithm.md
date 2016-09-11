@@ -159,3 +159,7 @@
 * [《All algorithms implemented in Python (for education)》](https://github.com/TheAlgorithms/Python)
 
 介绍：常用算法实现python版
+
+* [《A collection of links for streaming algorithms and data structures》](https://gist.github.com/debasishg/8172796)
+
+介绍：流算法&数据结构资源列表
