@@ -163,3 +163,7 @@
 * [《A collection of links for streaming algorithms and data structures》](https://gist.github.com/debasishg/8172796)
 
 介绍：流算法&数据结构资源列表
+
+* [《Algorithms introduce》](https://www.khanacademy.org/computing/computer-science/algorithms)
+
+介绍：由算法导论作者Thomas Cormen的专栏
