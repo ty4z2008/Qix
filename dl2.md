@@ -1426,3 +1426,12 @@
 * [《Awesome Network Analysis》](https://github.com/briatte/awesome-network-analysis)
 
 介绍: 网络分析相关资源大列表
+
+* [《Data Resources: Datasets ,Center for Data on the Mind》](http://www.dataonthemind.org/data-resources/datasets)
+
+介绍: 认知科学数据集大列表
+
+* [《Evaluation of Deep Learning Toolkits》](https://github.com/zer0n/deepframeworks)
+
+介绍: 评估了Caffe, CNTK, TensorFlow, Theano, 和 Torch 等一些流行的深度学习工具箱各方面的特性。
+
