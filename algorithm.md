@@ -167,3 +167,7 @@
 * [《Algorithms introduce》](https://www.khanacademy.org/computing/computer-science/algorithms)
 
 介绍：由算法导论作者Thomas Cormen的专栏
+
+* [《Datastructures for external memory》](http://blog.omega-prime.co.uk/?p=197)
+
+介绍：高级数据结构：外存储算法。很详细
