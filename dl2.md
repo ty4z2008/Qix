@@ -1435,3 +1435,6 @@
 
 介绍: 评估了Caffe, CNTK, TensorFlow, Theano, 和 Torch 等一些流行的深度学习工具箱各方面的特性。
 
+* [《Paper Weekly》](http://rsarxiv.github.io/)
+
+介绍: PaperWeekly每周会分享N篇当下最流行、最有趣的NLP paper，旨在用最精炼的话说明白paper的贡献和创新
