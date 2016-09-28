@@ -740,3 +740,7 @@
 * [《programming, database, distributed system resource list》](https://github.com/hedengcheng/tech)
 
 介绍:这个Git是由阿里(alibaba)的技术专家何登成维护,主要是分布式数据库.
+
+* [《Making reliable distributed systems in the presence of sodware errors》](http://erlang.org/download/armstrong_thesis_2003.pdf)
+
+介绍:Erlang的作者[Joe Armstrong](http://joearms.github.io/)撰写的论文，面对软件错误构建可靠的分布式系统.[中文译版](http://open.qiniudn.com/[Joe-Armstrong][CN]Making-reliable-distributed-systems-in-the-presence-of-software-errors.pdf)
