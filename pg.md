@@ -759,3 +759,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《PostgreSQL Index Internals》](https://www.pgcon.org/2016/schedule/events/934.en.html)
 
 介绍:索引的内部原理,推荐[2016年欧洲pg大会资料](https://www.pgcon.org/2016/schedule/)涵盖ppt与视频
+
+* [《PGLiveBackup》](http://www.pglivebackup.org/)
+
+介绍:pg数据库自动全量备份脚本
