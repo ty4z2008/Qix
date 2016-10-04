@@ -78,6 +78,18 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍:  PostgreSQL查询处理部分源码分析.
 
+* [《Understanding caching in Postgres》](https://madusudanan.com/blog/understanding-postgres-caching-in-depth/)
+
+介绍:Postgres缓存机制分析.
+
+* [《Discovering the Computer Science Behind Postgres Indexes》](https://blog.codeship.com/discovering-computer-science-behind-postgres-indexes/)
+
+介绍: Postgres索引分析,推荐先阅读[Efficient Locking for Concurrent Operations on B-Trees](http://www.csd.uoc.gr/~hy460/pdf/p650-lehman.pdf).
+
+* [《Estimating the Optimal Number of Latent Concepts in Source Code Analysis》](http://research.cs.queensu.ca/~cordy/Papers/GC_SCAM10_ConceptCount.pdf)
+
+介绍:Estimating the Optimal Number of Latent Concepts in Source Code Analysis.
+
 >   :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: 
 
 * [《PostgreSQL Documentation》](http://www.postgresql.org/docs/manuals/)
