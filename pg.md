@@ -772,3 +772,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍:数据库硬件选择指南,主要是一个参考.推荐[Database Hardware Selection Guidelines ](https://www.youtube.com/watch?v=qIlYZeSuv8w)
 
+* [《pglogical:Logical Replication extension for PostgreSQL》](https://github.com/2ndQuadrant/pglogical)
+
+介绍:PostgreSQL逻辑复制扩展.
+
