@@ -762,4 +762,13 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 * [《PGLiveBackup》](http://www.pglivebackup.org/)
 
-介绍:pg数据库自动全量备份脚本
+介绍:pg数据库自动全量备份脚本.
+
+* [《pg_paxos:Basic implementation of Paxos and Paxos》](https://github.com/citusdata/pg_paxos)
+
+介绍:分布式算法Paxos的pg实践，可以先通过[PPT](https://wiki.postgresql.org/images/8/8f/Marco_Slot_-_pg_paxos_2015-10-29.pdf).它实现了基本的Multi-Paxos和Paxos.
+
+* [《Database Hardware Selection Guidelines》](https://momjian.us/main/writings/pgsql/hw_selection.pdf)
+
+介绍:数据库硬件选择指南,主要是一个参考.推荐[Database Hardware Selection Guidelines ](https://www.youtube.com/watch?v=qIlYZeSuv8w)
+
