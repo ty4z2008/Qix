@@ -788,3 +788,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍:PostgreSQL逻辑复制扩展.
 
+* [《PostgreSQL: Introduction and Concepts》](http://www.foo.be/docs-free/aw_pgsql_book.pdf)
+
+介绍:PostgreSQL的历史书.
+
