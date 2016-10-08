@@ -171,3 +171,7 @@
 * [《Datastructures for external memory》](http://blog.omega-prime.co.uk/?p=197)
 
 介绍：高级数据结构：外存储算法。很详细
+
+* [《An overview of gradient descent optimization algorithms》](http://sebastianruder.com/optimizing-gradient-descent/)
+
+介绍：梯度下降优化算法的好材料，不仅讲解了Adagrad、Adadelta、RMSprop、Adam等基本算法，还有并行和分布式SGD，Shuffling and Curriculum Learning、Batch normalization、Early Stopping、Gradient noise等。
