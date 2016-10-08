@@ -175,3 +175,7 @@
 * [《An overview of gradient descent optimization algorithms》](http://sebastianruder.com/optimizing-gradient-descent/)
 
 介绍：梯度下降优化算法的好材料，不仅讲解了Adagrad、Adadelta、RMSprop、Adam等基本算法，还有并行和分布式SGD，Shuffling and Curriculum Learning、Batch normalization、Early Stopping、Gradient noise等。
+
+* [《[ebook]Foundations of Data Science》](https://www.cs.cornell.edu/jeh/book2016June9.pdf)
+
+介绍：《数据科学基础》作者：ACM Fellow Avrim Blum, 图灵奖得主John Hopcroft，以及微软首席科学家Ravindran Kannan
