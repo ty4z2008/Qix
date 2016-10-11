@@ -362,3 +362,7 @@
 * [《Redis内部数据结构详解》](http://zhangtielei.com/posts/server.html)
 
 介绍:skiplist,quicklist,ziplist,robj,sds,dict等数据结构详解，可以参考[Redis 设计与实现](http://redisbook.com/)
+
+* [《Research at Facebook》](https://research.facebook.com/publications/)
+
+介绍:Facebook的研究博客，有很多公开的优秀论文，大部分都是工业界实践之后的产物,[google research](http://research.google.com/pubs/papers.html)更丰富。[Akamai Publications](https://www.akamai.com/us/en/our-thinking/technical-publications.jsp)
