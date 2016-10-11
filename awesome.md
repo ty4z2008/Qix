@@ -359,4 +359,6 @@
 
 介绍:NoSQL数据库：调查和决策指导。非常详细的NoSQL数据库大检阅，文章很长，干货多多
 
+* [《Redis内部数据结构详解》](http://zhangtielei.com/posts/server.html)
 
+介绍:skiplist,quicklist,ziplist,robj,sds,dict等数据结构详解，可以参考[Redis 设计与实现](http://redisbook.com/)
