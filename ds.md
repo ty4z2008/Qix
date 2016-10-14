@@ -744,3 +744,7 @@
 * [《Making reliable distributed systems in the presence of sodware errors》](http://erlang.org/download/armstrong_thesis_2003.pdf)
 
 介绍:Erlang的作者[Joe Armstrong](http://joearms.github.io/)撰写的论文，面对软件错误构建可靠的分布式系统.[中文译版](http://open.qiniudn.com/[Joe-Armstrong][CN]Making-reliable-distributed-systems-in-the-presence-of-software-errors.pdf)
+
+* [《CS 525: Advanced Distributed Systems[Spring 2016]》](https://courses.engr.illinois.edu/cs525/sched.htm)
+
+介绍:伊利诺伊大学的Advanced Distributed Systems 里把各个方向重要papers（updated Spring 2015）列举出来，可以参考一下
