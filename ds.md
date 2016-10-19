@@ -748,3 +748,7 @@
 * [《CS 525: Advanced Distributed Systems[Spring 2016]》](https://courses.engr.illinois.edu/cs525/sched.htm)
 
 介绍:伊利诺伊大学的Advanced Distributed Systems 里把各个方向重要papers（updated Spring 2015）列举出来，可以参考一下
+
+* [《Distributed Algorithms》](https://users.ics.aalto.fi/suomela/da/da-screen.pdf)
+
+介绍:这是一本分布式算法电子书,作者是[Jukka Suomela](https://users.ics.aalto.fi/suomela/da/).讲述了多个计算模型,一致性,唯一标示,并发等
