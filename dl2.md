@@ -1442,3 +1442,7 @@
 * [《Stat212b: Topics Course on Deep Learning》](https://joanbruna.github.io/stat212b//)
 
 介绍: 这个主题目的是提出建立高维数据稳定表达，比如图像，文本和音频。我们将深入到深度学习这个主题，从监督和无监督的学习讨论最新进展。特别重点将放在卷积结构，不变性学习，无监督学习和非凸优化。
+
+* [《Deep Learning Papers Reading Roadmap》](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+
+介绍: 深度学习论文阅读路线图
