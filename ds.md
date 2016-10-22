@@ -751,4 +751,8 @@
 
 * [《Distributed Algorithms》](https://users.ics.aalto.fi/suomela/da/da-screen.pdf)
 
-介绍:这是一本分布式算法电子书,作者是[Jukka Suomela](https://users.ics.aalto.fi/suomela/da/).讲述了多个计算模型,一致性,唯一标示,并发等
+介绍:这是一本分布式算法电子书,作者是[Jukka Suomela](https://users.ics.aalto.fi/suomela/da/).讲述了多个计算模型,一致性,唯一标示,并发等.
+
+* [《TinyLFU: A Highly Efficient Cache Admission Policy》](https://arxiv.org/pdf/1512.00727v2.pdf)
+
+介绍:当时是在阅读[如何设计一个缓存系统](http://blog.gainlo.co/index.php/2016/05/17/design-a-cache-system/)时看到的，然后通过Google找到了这一篇关于缓存策略的论文，它是LFU的改良版,中文[介绍](http://chuansong.me/n/2254051).如果有兴趣可以看看[Golang实现版](https://github.com/dgryski/go-tinylfu)。结合起来可能会帮助你理解
