@@ -311,7 +311,7 @@
 
 * [《The Datacenter as a Computer》](http://www.cs.berkeley.edu/~rxin/db-papers/WarehouseScaleComputing.pdf)
 
-介绍:介绍了如何构建仓储式数据中心,尤其是对于现在的云计算,分布式学习来说很有帮助.本书是[Synthesis Lectures on Computer Architecture](http://www.morganclaypool.com/toc/cac/1/1)系列的书籍之一,这套丛书还有 《The Memory System》,《Automatic Parallelization》,《Computer Architecture Techniques for Power Efficiency》,《Performance Analysis and Tuning for General Purpose Graphics Processing Units》,《Introduction to Reconfigurable Supercomputing》 等
+介绍:介绍了如何构建仓储式数据中心,尤其是对于现在的云计算,分布式学习来说很有帮助.本书是[Synthesis Lectures on Computer Architecture](http://www.morganclaypool.com/toc/cac/1/1)系列的书籍之一,这套丛书还有 《The Memory System》,《Automatic Parallelization》,《Computer Architecture Techniques for Power Efficiency》,《Performance Analysis and Tuning for General Purpose Graphics Processing Units》,《Introduction to Reconfigurable Supercomputing》,[Memory Systems Cache, DRAM, Disk](http://www.e-reading.club/bookreader.php/138837/Jacob,_Ng,_Wang_-_Memory_systems._Cache,_DRAM,_Disk.pdf) 等
 
 * [《helsinki:Distributed Systems Course slider》](http://www.cs.helsinki.fi/u/jakangas/Teaching/)
 
