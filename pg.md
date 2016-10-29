@@ -792,3 +792,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍:PostgreSQL的历史书.
 
+* [《How Twitch uses PostgreSQL》](https://blog.twitch.tv/how-twitch-uses-postgresql-c34aa9e56f58)
+
+介绍:PostgreSQL在twitch的应用.
+
