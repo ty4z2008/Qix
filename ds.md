@@ -756,3 +756,11 @@
 * [《TinyLFU: A Highly Efficient Cache Admission Policy》](https://arxiv.org/pdf/1512.00727v2.pdf)
 
 介绍:当时是在阅读[如何设计一个缓存系统](http://blog.gainlo.co/index.php/2016/05/17/design-a-cache-system/)时看到的，然后通过Google找到了这一篇关于缓存策略的论文，它是LFU的改良版,中文[介绍](http://chuansong.me/n/2254051).如果有兴趣可以看看[Golang实现版](https://github.com/dgryski/go-tinylfu)。结合起来可能会帮助你理解
+
+* [《6.S897: Large-Scale Systems》](https://cs.stanford.edu/~matei/courses/2015/6.S897/)
+
+介绍:斯坦福大学给研究生开的分布式系统课程。教师是 spark 作者 matei. 能把这些内容真正理解透，分布式系统的功力就很强了。
+
+* [《学习分布式系统需要怎样的知识？》](https://www.zhihu.com/question/23645117/answer/124708083)
+
+介绍:[怎么学系列]学习分布式系统需要怎样的知识？
