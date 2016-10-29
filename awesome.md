@@ -370,3 +370,7 @@
 * [《What Every Programmer Should Know About Memory》](https://www.akkadia.org/drepper/cpumemory.pdf)
 
 介绍:内存结构与理论深入分析
+
+* [《The Flame Graph》](http://queue.acm.org/detail.cfm?id=2927301)
+
+介绍:🔥火焰图分析系统性能瓶颈
