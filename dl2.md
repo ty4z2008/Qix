@@ -1446,3 +1446,7 @@
 * [《Deep Learning Papers Reading Roadmap》](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 
 介绍: 深度学习论文阅读路线图
+
+* [《Distributed Deep Learning, Part 1: An Introduction to Distributed Training of Neural Networks》](http://engineering.skymind.io/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks)
+
+介绍: 分布式深度学习，第一部分，主要介绍神经网络呃分布式训练方法
