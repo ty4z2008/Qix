@@ -179,3 +179,7 @@
 * [《[ebook]Foundations of Data Science》](https://www.cs.cornell.edu/jeh/book2016June9.pdf)
 
 介绍：《数据科学基础》作者：ACM Fellow Avrim Blum, 图灵奖得主John Hopcroft，以及微软首席科学家Ravindran Kannan
+
+* [《MIT:6.851: Advanced Data Structures》](http://courses.csail.mit.edu/6.851/)
+
+介绍：麻省理工学院研究生课程 6.851《高级数据结构》。Erik Demaine教授主讲。
