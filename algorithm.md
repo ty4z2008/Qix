@@ -183,3 +183,7 @@
 * [《MIT:6.851: Advanced Data Structures》](http://courses.csail.mit.edu/6.851/)
 
 介绍：麻省理工学院研究生课程 6.851《高级数据结构》。Erik Demaine教授主讲。
+
+* [《Jeff Erickson's Algorithms, Etc. Web + 1,250 pages in one PDF file》](http://jeffe.cs.illinois.edu/teaching/algorithms/)
+
+介绍：伊利诺伊大学厄巴纳-香槟分校计算机科学系的教授及前副主任Jeff Erickson 有关算法的资料
