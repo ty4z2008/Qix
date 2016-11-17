@@ -1450,3 +1450,15 @@
 * [《Distributed Deep Learning, Part 1: An Introduction to Distributed Training of Neural Networks》](http://engineering.skymind.io/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks)
 
 介绍: 分布式深度学习，第一部分，主要介绍神经网络呃分布式训练方法
+
+* [《Unsupervised Deep Learning – ICLR 2017 Discoveries》](https://amundtveit.com/2016/11/12/unsupervised-deep-learning-iclr-2017-discoveries/)
+
+介绍: ICLR 2017无监督深度学习(提交)论文汇总(列表)
+
+* [《Python:scikit-bio,providing data structures, algorithms, and educational resources for bioinformatics》](https://github.com/biocore/scikit-bio)
+
+介绍: scikit-bio：(Python)生物信息学算法/数据结构/教育资源包.
+
+* [《Deep Learning Research Review》](https://adeshpande3.github.io)
+
+介绍: 深度学习研究概览,是一位加州大学的学生所写。算是学习历程
