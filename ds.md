@@ -764,3 +764,15 @@
 * [《学习分布式系统需要怎样的知识？》](https://www.zhihu.com/question/23645117/answer/124708083)
 
 介绍:[怎么学系列]学习分布式系统需要怎样的知识？
+
+* [《Distributed systems theory for the distributed systems engineer》](http://the-paper-trail.org/blog/distributed-systems-theory-for-the-distributed-systems-engineer/)
+
+介绍:分布式系统工程师的分布式系统理论
+
+* [《A Distributed Systems Reading List》](https://dancres.github.io/Pages/)
+
+介绍:分布式系统论文阅读列表
+
+* [《Distributed Systems Reading Group》](http://dsrg.pdos.csail.mit.edu/papers/)
+
+介绍:麻省理工大学分布式系统小组，他们会把平时阅读到的优秀论文分享出来。虽然有些论文本页已经收录，但是里面的安排表[schedule](http://dsrg.pdos.csail.mit.edu/schedule/)还是挺赞的
