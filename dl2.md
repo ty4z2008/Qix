@@ -1462,3 +1462,7 @@
 * [《Deep Learning Research Review》](https://adeshpande3.github.io)
 
 介绍: 深度学习研究概览,是一位加州大学的学生所写。算是学习历程
+
+* [《Deep Learning for Music》](https://amundtveit.com/2016/11/22/deep-learning-for-music/)
+
+介绍: 深度学习音乐相关应用论文汇总
