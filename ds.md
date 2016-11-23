@@ -776,3 +776,7 @@
 * [《Distributed Systems Reading Group》](http://dsrg.pdos.csail.mit.edu/papers/)
 
 介绍:麻省理工大学分布式系统小组，他们会把平时阅读到的优秀论文分享出来。虽然有些论文本页已经收录，但是里面的安排表[schedule](http://dsrg.pdos.csail.mit.edu/schedule/)还是挺赞的
+
+* [《Scalable Software Architecture》](https://github.com/Developer-Y/Scalable-Software-Architecture)
+
+介绍:分布式系统、可扩展性与系统设计相关报告、论文与网络资源汇总.
