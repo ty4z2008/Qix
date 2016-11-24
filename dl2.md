@@ -1466,3 +1466,7 @@
 * [《Deep Learning for Music》](https://amundtveit.com/2016/11/22/deep-learning-for-music/)
 
 介绍: 深度学习音乐相关应用论文汇总
+
+* [《List of Recommender Systems》](https://github.com/grahamjenson/list_of_recommender_systems)
+
+介绍:推荐系统及相关资源大列表
