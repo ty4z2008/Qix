@@ -780,3 +780,11 @@
 * [《Scalable Software Architecture》](https://github.com/Developer-Y/Scalable-Software-Architecture)
 
 介绍:分布式系统、可扩展性与系统设计相关报告、论文与网络资源汇总.
+
+* [《MapReduce&Hadoop resource》](http://barbie.uta.edu/~jli/Resources/MapReduce&Hadoop/)
+
+介绍:MapReduce&Hadoop相关论文，涉及分布式系统设计，性能分析，实践，优化等多个方面
+
+* [《Distributed Systems: Principles and Paradigms(second edtion)》](https://vowi.fsinf.at/images/b/bc/TU_Wien-Verteilte_Systeme_VO_(G%C3%B6schka)_-_Tannenbaum-distributed_systems_principles_and_paradigms_2nd_edition.pdf)
+
+介绍:分布式系统原理与范型第二版,[课后解答](http://barbie.uta.edu/~jli/Resources/MapReduce&Hadoop/distributed%20systems%20principles%20and%20paradigms%20solution.pdf)
