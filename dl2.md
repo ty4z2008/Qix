@@ -1470,3 +1470,7 @@
 * [《List of Recommender Systems》](https://github.com/grahamjenson/list_of_recommender_systems)
 
 介绍:推荐系统及相关资源大列表
+
+* [《Annontated bibliography of recommended materials》](http://humancompatible.ai/bibliography)
+
+介绍:UC Berkeley HCAI中心整理的Human-Compatible AI相关资料大列表
