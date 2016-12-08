@@ -792,3 +792,7 @@
 * [《Distributed Systems Seminar's reading list for Spring 2017》](http://muratbuffalo.blogspot.jp/2016/11/my-distributed-systems-seminars-reading.html)
 
 介绍:分布式系统研讨会论文阅读列表
+
+* [《A Critique of the CAP Theorem》](https://arxiv.org/abs/1509.05393)
+
+介绍:这是一篇评论CAP定理的论文，学习CAP很有帮助,推荐阅读评论文章["A Critique of the CAP Theorem"](https://jvns.ca/blog/2016/11/19/a-critique-of-the-cap-theorem/)
