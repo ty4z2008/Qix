@@ -1474,3 +1474,11 @@
 * [《Annontated bibliography of recommended materials》](http://humancompatible.ai/bibliography)
 
 介绍:UC Berkeley HCAI中心整理的Human-Compatible AI相关资料大列表
+
+* [《NIPS 2016 Spotlight Videos》](https://nips.cc/Conferences/2016/SpotlightVideos)
+
+介绍:NIPS 2016焦点视频集。神经信息处理系统大会(Conference and Workshop on Neural Information Processing Systems)，简称NIPS，是一个关于机器学习和计算神经科学的国际会议。该会议固定在每年的12月举行,由NIPS基金会主办。NIPS是机器学习领域的顶级会议 。在中国计算机学会的国际学术会议排名中，NIPS为人工智能领域的A类会议。
+
+* [《The major advancements in Deep Learning in 2016》](https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016/)
+
+介绍:2016年度深度学习的主要进展。深度学习一直是机器学习界的核心课题，过去几年和2016年都不是例外。在这篇文章中，我们将浏览我们认为具有最大贡献的领域的进展，以及如何组织和社区确保这些强大的技术惠及大众的使用方式。
