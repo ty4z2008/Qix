@@ -138,7 +138,7 @@
 
 *[《Deep Learning for Natural Language Processing and Related Applications》](http://research.microsoft.com/pubs/217165/ICASSP_DeepTextLearning_v07.pdf)
 
-介绍:这份文档来自微软研究院,精髓很多。如果需要完全理解，需要一定的机器学习基础。不过有些地方会让人眼前一亮,毛塞顿开。
+介绍:这份文档来自微软研究院,精髓很多。如果需要完全理解，需要一定的机器学习基础。不过有些地方会让人眼前一亮,茅塞顿开。
 
 * [Understanding Convolutions](https://colah.github.io/posts/2014-07-Understanding-Convolutions/)
 
