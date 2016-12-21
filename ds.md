@@ -796,3 +796,7 @@
 * [《A Critique of the CAP Theorem》](https://arxiv.org/abs/1509.05393)
 
 介绍:这是一篇评论CAP定理的论文，学习CAP很有帮助,推荐阅读评论文章["A Critique of the CAP Theorem"](https://jvns.ca/blog/2016/11/19/a-critique-of-the-cap-theorem/)
+
+* [《Evolving Distributed Systems》](http://olivergierke.de/2016/10/evolving-distributed-systems/)
+
+介绍:推荐文章不断进化的分布式系统.
