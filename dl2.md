@@ -1225,3 +1225,7 @@
 * [《probabilistic graphical models principles and techniques》](https://github.com/JimmyLin192/GraphicalModel/blob/master/Probabilistic%20Graphical%20Models%20Principles%20and%20Techniques.pdf)
 
 介绍: 此书是斯坦福大学概率图模型大牛Daphne Koller所写，主要涉及的是贝叶斯网络和马尔科夫逻辑网络的learning和inference问题，同时又对PGM有深刻的理论解释，是学习概率图模型必看的书籍。难度中上，适合有一些ML基础的研究生.[备份地址](https://vk.com/doc168073_304660839?hash=39a33dd8aa6b141d8a&dl=b6674
+
+* [《BigDL: Distributed Deep learning on Apache Spark》](https://github.com/intel-analytics/BigDL)
+
+介绍: Spark分布式深度学习库BigDL
