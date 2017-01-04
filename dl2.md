@@ -1229,3 +1229,7 @@
 * [《BigDL: Distributed Deep learning on Apache Spark》](https://github.com/intel-analytics/BigDL)
 
 介绍: Spark分布式深度学习库BigDL
+
+* [《Machine Learning and Cyber Security Resources》](http://www.kdnuggets.com/2017/01/machine-learning-cyber-security.html)
+
+介绍: 这是一份关于机器学习和数据挖掘在网络安全方面应用的资源帖，包含了一些重要的站点，论文，书籍,斯坦福课程以及一些有用的教程.
