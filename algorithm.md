@@ -187,3 +187,7 @@
 * [《Jeff Erickson's Algorithms, Etc. Web + 1,250 pages in one PDF file》](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 
 介绍：伊利诺伊大学厄巴纳-香槟分校计算机科学系的教授及前副主任Jeff Erickson 有关算法的资料
+
+* [《350+ Data structures programming interview questions》](https://techiedelight.quora.com/350%2B-Data-structures-programming-interview-questions)
+
+介绍： 350+ 数据结构编程面试问题。
