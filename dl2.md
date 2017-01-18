@@ -1237,3 +1237,7 @@
 * [《6.S094: Deep Learning for Self-Driving Cars》](http://selfdrivingcars.mit.edu/)
 
 介绍: 麻省理工学院（MIT）开设课程.S094：自主驾驶汽车的深度学习
+
+* [《ICML 2016 Conference and Workshops Video》](http://techtalks.tv/icml/2016/)
+
+介绍: ICML 2016视频集锦
