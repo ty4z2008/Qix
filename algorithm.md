@@ -191,3 +191,7 @@
 * [《350+ Data structures programming interview questions》](https://techiedelight.quora.com/350%2B-Data-structures-programming-interview-questions)
 
 介绍： 350+ 数据结构编程面试问题。
+
+* [《Illustrated Algorithms》](https://github.com/skidding/illustrated-algorithms)
+
+介绍：算法的可视化，把一个个的算法变成动画
