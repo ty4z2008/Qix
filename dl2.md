@@ -1241,3 +1241,11 @@
 * [《ICML 2016 Conference and Workshops Video》](http://techtalks.tv/icml/2016/)
 
 介绍: ICML 2016视频集锦
+
+* [《机器学习Machine-Learning》](https://github.com/JustFollowUs/Machine-Learning)
+
+介绍: 机器学习推荐学习路线及参考资料
+
+* [《TensorFlow and deep learning, without a PhD》](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist)
+
+介绍:新手入门，通过TensorFlow入门深度学习
