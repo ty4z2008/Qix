@@ -1249,3 +1249,7 @@
 * [《TensorFlow and deep learning, without a PhD》](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist)
 
 介绍:新手入门，通过TensorFlow入门深度学习
+
+* [《How To Get Into Natural Language Processing》](https://blog.ycombinator.com/how-to-get-into-natural-language-processing/)
+
+介绍: 自然语言处理(NLP)入门指南
