@@ -1253,3 +1253,15 @@
 * [《How To Get Into Natural Language Processing》](https://blog.ycombinator.com/how-to-get-into-natural-language-processing/)
 
 介绍: 自然语言处理(NLP)入门指南
+
+* [《Deep learning and the Schrödinger equation》](https://arxiv.org/abs/1702.01361)
+
+介绍:通过神经网络跳过数值方法求解薛定谔方程。
+
+* [《Recent Advances in Distributed Machine Learning》](http://www.dmtk.io/slides/distributedML-aaai2017.pdf)
+
+介绍:微软亚洲研究院的刘铁岩等人近日在AAAI 2017上做的有关优化以及大规模机器学习的Tutorial。很值得一看。里面对传统的优化算法，特别是一些理论特性以及分布式算法的相应理论特性都有一个比较详尽的总结。非常适合想快速了解这些领域的学者和工程师。另外，这个Tutorial还介绍了DMTK的一些情况，作为一个分布式计算平台的优缺点，还顺带比较了Spark和TensorFlow等流行框架。
+
+* [《Deep Learning Implementations and Frameworks (DLIF)》](https://sites.google.com/site/dliftutorial/)
+
+介绍:AAAI 2017的Tutorial，专门讲述了深度学习框架的设计思想和实现，比较若干种流行框架（Caffe、MXNet、TensorFlow、Chainer等）的性能和异同。 
