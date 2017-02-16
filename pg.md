@@ -796,3 +796,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍:PostgreSQL在twitch的应用.
 
+* [《pg_monz:PostgreSQL monitoring template for Zabbix》](http://pg-monz.github.io/pg_monz/index-en.html)
+
+介绍:PostgreSQL的Zabbix监控模版.
+
