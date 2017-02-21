@@ -1265,3 +1265,7 @@
 * [《Deep Learning Implementations and Frameworks (DLIF)》](https://sites.google.com/site/dliftutorial/)
 
 介绍:AAAI 2017的Tutorial，专门讲述了深度学习框架的设计思想和实现，比较若干种流行框架（Caffe、MXNet、TensorFlow、Chainer等）的性能和异同。 
+
+* [《Open Sourcing TensorFlowOnSpark: Distributed Deep Learning on Big-Data Clusters》](https://github.com/yahoo/TensorFlowOnSpark)
+
+介绍:雅虎开源基于spark与TensorFlow的分布式数据深度学习框架,博文[介绍](https://yahooeng.tumblr.com/post/157196488076/open-sourcing-tensorflowonspark-distributed-deep)
