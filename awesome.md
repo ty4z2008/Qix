@@ -59,7 +59,7 @@
 
 介绍:命令行的艺术,学习Linux命令的好资源,此外文中提到的[explain shell](http://explainshell.com/)很赞
 
-* [《C++ 资源》](http://codecloud.net/c-plus-plus-resource-2983.html)
+* [《C++ 资源》](https://github.com/jobbole/awesome-cpp-cn)
 
 介绍:涉及到了标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等，C++程序员学习必备！
 
