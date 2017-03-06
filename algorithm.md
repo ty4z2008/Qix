@@ -195,3 +195,7 @@
 * [《Illustrated Algorithms》](https://github.com/skidding/illustrated-algorithms)
 
 介绍：算法的可视化，把一个个的算法变成动画
+
+* [《Mathematics for Computer Science》](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+
+介绍：由Google和麻省理工大学合著的《计算机科学的数学》。1000多页PDF
