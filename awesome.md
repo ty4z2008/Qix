@@ -378,3 +378,11 @@
 * [《List of single-file C/C++ libraries》](https://github.com/nothings/single_file_libs)
 
 介绍:单个文件C/C++库指的是那些能移植到多个平台、32位或者64位、从C或者C++中调用、依赖最小的开源库，本文分门别类作了总结。
+
+* [《The System Design Primer》](https://github.com/donnemartin/system-design-primer)
+
+介绍:大规模系统设计指南.从入门到深入.系统架构师必读
+
+* [《Google Interview University》](https://github.com/jwasham/coding-interview-university)
+
+介绍:一套完整的学习手册帮助自己准备 Google 的面试
