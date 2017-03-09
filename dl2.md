@@ -1269,3 +1269,35 @@
 * [《Open Sourcing TensorFlowOnSpark: Distributed Deep Learning on Big-Data Clusters》](https://github.com/yahoo/TensorFlowOnSpark)
 
 介绍:雅虎开源基于spark与TensorFlow的分布式数据深度学习框架,博文[介绍](https://yahooeng.tumblr.com/post/157196488076/open-sourcing-tensorflowonspark-distributed-deep)
+
+* [《Deconstruction with Discrete Embeddings》](http://r2rt.com/deconstruction-with-discrete-embeddings.html)
+
+介绍:用离散嵌入解构模糊数据
+
+* [《Reliable Machine Learning in the Wild - NIPS 2016 Workshop》](https://sites.google.com/site/wildml2016nips/schedule)
+
+介绍:视频发布：自然场景可靠机器学习(NIPS 2016 Workshop)
+
+* [《A large-scale dataset of manually annotated audio events》](https://research.google.com/audioset/)
+
+介绍:Google发布大规模音频数据集
+
+* [《5 algorithms to train a neural network》](https://www.neuraldesigner.com/blog/5_algorithms_to_train_a_neural_network)
+
+介绍:训练神经网络的5种算法
+
+* [《Course notes for CS224N Winter17》](https://github.com/stanfordnlp/cs224n-winter17-notes)
+
+介绍:笔记：斯坦福CS224n深度学习NLP课程(2017)
+
+* [《Persontyle Workshop for Applied Deep Learning》](https://github.com/telecombcn-dl/2017-persontyle)
+
+介绍:伦敦深度学习研讨会资料
+
+* [《Understanding, generalisation, and transfer learning in deep neural networks》](https://blog.acolyer.org/2017/02/27/understanding-generalisation-and-transfer-learning-in-deep-neural-networks/)
+
+介绍:论文导读：深度神经网络理解、泛化与迁移学习,[acolyer blog](https://blog.acolyer.org/)上还有很多经典推荐可以阅读
+
+* [《An Introduction to MCMC for Machine Learning》](http://www.cs.princeton.edu/courses/archive/spr06/cos598C/papers/AndrieuFreitasDoucetJordan2003.pdf)
+
+介绍:面向机器学习的马尔科夫链蒙特卡洛(MCMC)
