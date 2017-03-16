@@ -771,7 +771,7 @@
 
 * [《A Distributed Systems Reading List》](https://dancres.github.io/Pages/)
 
-介绍:分布式系统论文阅读列表
+介绍:分布式系统论文阅读列表,此外推荐威斯康星大学麦迪逊分校计算机系分布式系统学习推荐[阅读列表](http://pages.cs.wisc.edu/~swift/classes/cs739-fa14/wiki/pmwiki.php/Main/ReadingList)
 
 * [《Distributed Systems Reading Group》](http://dsrg.pdos.csail.mit.edu/papers/)
 
@@ -799,4 +799,12 @@
 
 * [《Evolving Distributed Systems》](http://olivergierke.de/2016/10/evolving-distributed-systems/)
 
-介绍:推荐文章不断进化的分布式系统.
+介绍:推荐文章《不断演进的分布式系统》.
+
+* [《Ask HN: Recommendations for a book on Distributed Systems?》](https://news.ycombinator.com/item?id=13311124)
+
+介绍:HN上面关于分布式系统相关领域学习的书籍推荐.
+
+* [《SeaweedFS:A simple and highly scalable distributed file system》](https://github.com/chrislusf/seaweedfs)
+
+介绍:Golang开源项目,分布式文件存储系统SeaweedFS
