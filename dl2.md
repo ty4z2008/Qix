@@ -1301,3 +1301,7 @@
 * [《An Introduction to MCMC for Machine Learning》](http://www.cs.princeton.edu/courses/archive/spr06/cos598C/papers/AndrieuFreitasDoucetJordan2003.pdf)
 
 介绍:面向机器学习的马尔科夫链蒙特卡洛(MCMC)
+
+* [《Awesome Deep learning papers and other resources》](https://github.com/endymecy/awesome-deeplearning-resources)
+
+介绍:深度学习论文与资源大列表(论文、预训练模型、课程、图书、软件、应用、相关列表等)
