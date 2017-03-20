@@ -1310,3 +1310,7 @@
 * [《Datasets for Natural Language Processing》](https://github.com/karthikncode/nlp-datasets)
 
 介绍:自然语言处理NLP数据集列表
+
+* [《Machine Learning for Software Engineers》](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+
+介绍:软件工程师的机器学习
