@@ -1,9 +1,10 @@
 ##机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 2)
 ---
-#####注:机器学习资料[篇目一](https://github.com/ty4z2008/Qix/blob/master/dl.md)共500条,[篇目二](https://github.com/ty4z2008/Qix/blob/master/dl2.md)开始更新
----
----
+
+####注:机器学习资料[篇目一](https://github.com/ty4z2008/Qix/blob/master/dl.md)共500条,[篇目二](https://github.com/ty4z2008/Qix/blob/master/dl2.md)开始更新
+
 #####希望转载的朋友，你可以不用联系我．但是**一定要保留原文链接**，因为这个项目还在继续也在不定期更新．希望看到文章的朋友能够学到更多．此外:某些资料在中国访问需要梯子.
+
 ---
 
 * [《Image Scaling using Deep Convolutional Neural Networks》](http://engineering.flipboard.com/2015/05/scaling-convnets/)
@@ -1305,3 +1306,7 @@
 * [《Awesome Deep learning papers and other resources》](https://github.com/endymecy/awesome-deeplearning-resources)
 
 介绍:深度学习论文与资源大列表(论文、预训练模型、课程、图书、软件、应用、相关列表等)
+
+* [《Datasets for Natural Language Processing》](https://github.com/karthikncode/nlp-datasets)
+
+介绍:自然语言处理NLP数据集列表
