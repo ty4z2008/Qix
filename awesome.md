@@ -1,7 +1,6 @@
-##一些非常棒的资源
----
-**这是一个自己的资料集,主要是做一个资料整理.方便自己查阅**
----
+## 一些非常棒的资源
+
+#### 这是一个自己的资料集,主要是做一个资料整理.方便自己查阅
 
 * [《Hands-on Labs for Security Education》](http://www.cis.syr.edu/~wedu/seed/ )
 
