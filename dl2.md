@@ -1312,3 +1312,11 @@
 * [《Machine Learning for Software Engineers》](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 
 介绍:软件工程师的机器学习
+
+* [《Quantitative Finance resources》](https://github.com/wilsonfreitas/awesome-quant)
+
+介绍:量化金融(Quants)资源列表
+
+* [《What Computers Still Can't Do.》](https://books.google.com.hk/books?id=7vS2y-mQmpAC)
+
+介绍:《计算机仍然不能做什么——人工理性批判》[MIT版导言](http://shc2000.sjtu.edu.cn/20120630/MIT.htm)
