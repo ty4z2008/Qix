@@ -387,7 +387,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:MIT的Underactuated Robotics于 2014年10月1日开课，该课属于MIT研究生级别的课程，对机器人和非线性动力系统感兴趣的朋友不妨可以挑战一下这门课程！
 
-* [《mllib实践经验(1)》](http://yanbohappy.sinaapp.com/?p=498)
+* [《mllib实践经验(1)》](http://www.csdn.net/article/2014-12-26/2823330)
 
 介绍:mllib实践经验分享
 
