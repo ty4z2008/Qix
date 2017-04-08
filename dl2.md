@@ -1320,3 +1320,7 @@
 * [《What Computers Still Can't Do.》](https://books.google.com.hk/books?id=7vS2y-mQmpAC)
 
 介绍:《计算机仍然不能做什么——人工理性批判》[MIT版导言](http://shc2000.sjtu.edu.cn/20120630/MIT.htm)
+
+* [《In-Datacenter Performance Analysis of a Tensor Processing Unit》](https://drive.google.com/file/d/0Bx4hafXDDq2EMzRNcy1vSUxtcEk/view)
+
+介绍:谷歌发论文详解TPU
