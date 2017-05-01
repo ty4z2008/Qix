@@ -811,3 +811,11 @@
 * [《The Design and Implementation of a Log-Structured File System》](https://web.stanford.edu/~ouster/cgi-bin/papers/lfs.pdf)
 
 介绍:论文推荐:设计并实现一个日志结构的文件系统.
+
+* [《DATABASE SYSTEMS》](http://15721.courses.cs.cmu.edu/spring2016/papers/garciamolina-tkde1992.pdf)
+
+介绍:数据库系统的设计与实现，卡内基梅隆大学在2016年春季数据库课程以本书作为教材,并且向外界开放了[Schedule](http://15721.courses.cs.cmu.edu/spring2016/schedule.html).引用一段亚马逊上面的购书评论:
+
+    这本书主要集中在基本的数据库实现方面。看起来很理论，但实际上作者提到的点都有实际的考虑。这一点在写完相关代码后重新阅读感触尤深。但如果不经过自己的思考和实践，这本书实际上读起来仍是“看起来就是那么回事”的感觉。
+
+    不得不说，这本书其实应该是所有进行数据库应用开发的人必读的一本书。大部分数据库里面的概念，书本都有从实际的需求中引导出，一目了然。大部分的教材，在提到数据库的各种概念时，往往是有定义而无解释为何有这种定义。
