@@ -800,7 +800,11 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍:PostgreSQL的Zabbix监控模版.
 
- [《pgclusteradmin:PostgreSQL cluster manager base on Golang》](https://github.com/chenaisheng/pgclusteradmin)
+* [《pgclusteradmin:PostgreSQL cluster manager base on Golang》](https://github.com/chenaisheng/pgclusteradmin)
 
-介绍:一款基于go开发的postgresql集群管理工具
+介绍:一款基于go开发的Postgresql集群管理工具
+
+* [《PgHero:PostgreSQL performance monitoring tool》](https://github.com/ankane/pghero)
+
+介绍:基于Ruby开发的PostgreSQL性能监控Web平台，支持SQL查询历史记录，实时连接数监控,SQL分析,性能调优推荐,Tune是基于[pgtune](http://pgtune.leopard.in.ua/)
 
