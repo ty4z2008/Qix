@@ -199,3 +199,7 @@
 * [《Mathematics for Computer Science》](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 
 介绍：由Google和麻省理工大学合著的《计算机科学的数学》。1000多页PDF
+
+* [《algorithms-primer 》](https://github.com/stacygohyunsi/algorithms-primer)
+
+介绍：算法与数据结构学习资源合集,能帮助你更简单的理解一些重要的数据结构和算法
