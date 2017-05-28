@@ -385,3 +385,7 @@
 * [《Google Interview University》](https://github.com/jwasham/coding-interview-university)
 
 介绍:一套完整的学习手册帮助自己准备 Google 的面试
+
+* [《Videos from all editions of PolyConf》](https://www.youtube.com/user/polyconf)
+
+介绍:所有PolyConf版本的视频。PolyConf是一个为期三天、多学科的高级技术会议，面向有兴趣的多语言软件开发方案的程序员。 ​​​​
