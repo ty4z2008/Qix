@@ -389,3 +389,8 @@
 * [《Videos from all editions of PolyConf》](https://www.youtube.com/user/polyconf)
 
 介绍:所有PolyConf版本的视频。PolyConf是一个为期三天、多学科的高级技术会议，面向有兴趣的多语言软件开发方案的程序员。 ​​​​
+
+* [《On Designing and Deploying Internet-Scale Services》](https://www.usenix.org/legacy/event/lisa07/tech/full_papers/hamilton/hamilton_html/)
+
+介绍:这是一篇关于如何设计和运营（部署）一个大规模互联网系统的总结性质的论文，主要是自动化、监控、容错、让一切变得简单。
+
