@@ -819,3 +819,7 @@
     这本书主要集中在基本的数据库实现方面。看起来很理论，但实际上作者提到的点都有实际的考虑。这一点在写完相关代码后重新阅读感触尤深。但如果不经过自己的思考和实践，这本书实际上读起来仍是“看起来就是那么回事”的感觉。
 
     不得不说，这本书其实应该是所有进行数据库应用开发的人必读的一本书。大部分数据库里面的概念，书本都有从实际的需求中引导出，一目了然。大部分的教材，在提到数据库的各种概念时，往往是有定义而无解释为何有这种定义。
+
+* [《Don't settle for eventual consistency》](https://yokota.blog/2017/02/17/dont-settle-for-eventual-consistency/)
+
+介绍:原文主要讲述了CAP理论中C在实践中的重要性。做分布式系统的都知道CAP只能三选其二。而且目前很多基础设置服务（云存储，云数据）都无法保证100%可用，那么就是间接的丢掉了A，推荐阅读以下文末推荐的[You Can’t Sacrifice Partition Tolerance](https://codahale.com/you-cant-sacrifice-partition-tolerance/)，分区容错也很重要
