@@ -812,3 +812,6 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍:基于Ruby开发的PostgreSQL性能监控Web平台，支持SQL查询历史记录，实时连接数监控,SQL分析,性能调优推荐,Tune是基于[pgtune](http://pgtune.leopard.in.ua/)
 
+* [《GiST for PostgreSQL》](http://www.sai.msu.su/~megera/postgres/gist/)
+
+介绍:PostgreSQL的GiST（通用搜索树）核心开发作者主页，.
