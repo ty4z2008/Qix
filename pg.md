@@ -70,9 +70,9 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍: Insert分析.
 
-* [《PG 代码分析报告》](http://www.comp.hkbu.edu.hk/~yli/uploads/Main/postgresql.pdf)
+* [《PostgreSQL查询处理部分源码分析》](http://7xtcs7.com1.z0.glb.clouddn.com/PostgreSQL%E6%9F%A5%E8%AF%A2%E5%A4%84%E7%90%86%E9%83%A8%E5%88%86%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.pdf)
 
-介绍: PG 代码分析报告.
+介绍: PostgreSQL查询处理部分源码分析.
 
 * [《PostgreSQL查询处理部分源码分析》](http://www.docin.com/p-271989068.html)
 
@@ -89,6 +89,10 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《Estimating the Optimal Number of Latent Concepts in Source Code Analysis》](http://research.cs.queensu.ca/~cordy/Papers/GC_SCAM10_ConceptCount.pdf)
 
 介绍:Estimating the Optimal Number of Latent Concepts in Source Code Analysis.
+
+* [《Pgkernel》](https://wiki.postgresql.org/wiki/Pgkernel)
+
+介绍:Postgres内核分析系列文章
 
 >   :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple:  :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: :couple: 
 
