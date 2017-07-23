@@ -1329,4 +1329,10 @@
 
 介绍:2017年ICWSM会议论文合集，业内对它的评价是:"算是最顶级也是最早的有关社会计算的会议"。里面的论文大部分是研究社交网络的，例如twitter，emoji，游戏。对于社交媒体来说内容还是挺前沿的。如果你是做社会计算的还是可以看看。毕竟是行业内数一数二的会议。对了，只要是你知道名字的有名社交媒体都有投稿.[陌陌不算]
 
-* [《Proceedings of the Eleventh International Conference on Web and Social Medias》](http://www.aaai.org/Library/ICWSM/icwsm17contents.php)
+* [《NTUEE ML 2017》](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html)
+
+介绍:台大李宏毅中文机器学习课程(2017)
+
+* [《TensorFlow Dev Summit 2017》](https://www.youtube.com/playlist?list=PLwv-rHS37fS9sj62f4HAbqSrC1EiPsNZx)
+
+介绍:2017 TensorFlow 开发者峰会(中文字幕) 
