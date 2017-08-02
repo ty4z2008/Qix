@@ -823,3 +823,11 @@
 * [《Don't settle for eventual consistency》](https://yokota.blog/2017/02/17/dont-settle-for-eventual-consistency/)
 
 介绍:原文主要讲述了CAP理论中C在实践中的重要性。做分布式系统的都知道CAP只能三选其二。而且目前很多基础设置服务（云存储，云数据）都无法保证100%可用，那么就是间接的丢掉了A，推荐阅读以下文末推荐的[You Can’t Sacrifice Partition Tolerance](https://codahale.com/you-cant-sacrifice-partition-tolerance/)，分区容错也很重要
+
+* [《Verdi:Formally Verifying Distributed Systems》](http://verdi.uwplse.org/)
+
+介绍:Verdi是一套正规验证分布式系统，开源的项目中有对raft协议实现。Verdi是通过TLA+ 和Coq 等形式方法对系统进行验证
+
+* [《What are the knowledge required to learn distributed system》](https://www.zhihu.com/question/23645117)
+
+介绍:学习分布式系统需要怎样的知识?
