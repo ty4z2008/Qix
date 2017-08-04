@@ -819,3 +819,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《Postage - A fast replacement for PGAdmin》](https://github.com/workflowproducts/postage)
 
 介绍:PGAdmin的替代工具.里面有一个比较实用的功能就是可以逆向表成关系图
+
+* [《Postgres EXPLAIN Visualizer (pev)》](http://tatiyants.com/pev/)
+
+介绍:Postgres 执行计划可视化工具
