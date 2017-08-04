@@ -814,4 +814,8 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 * [《GiST for PostgreSQL》](http://www.sai.msu.su/~megera/postgres/gist/)
 
-介绍:PostgreSQL的GiST（通用搜索树）核心开发作者主页，.
+介绍:PostgreSQL的GiST（通用搜索树）核心开发作者主页.
+
+* [《Postage - A fast replacement for PGAdmin》](https://github.com/workflowproducts/postage)
+
+介绍:PGAdmin的替代工具.里面有一个比较实用的功能就是可以逆向表成关系图
