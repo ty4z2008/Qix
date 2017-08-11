@@ -2,12 +2,13 @@
 
 ## About Me
 
-WeiBo:[@廖君_Jun](http://weibo.com/ty4z2008)
+WeiBo: [@廖君_Jun](http://weibo.com/ty4z2008)
 
-Twitter:[@廖君](https://twitter.com/ty4z2008)
+Twitter: [@廖君](https://twitter.com/ty4z2008)
 
-E-Mail:ty4z2008@gmail.com
+E-Mail: ty4z2008@gmail.com
 
+Scale System Channel: [https://t.me/scalesystem](https://t.me/scalesystem)
 
 **NOTE** 
 
