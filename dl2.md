@@ -1336,3 +1336,7 @@
 * [《TensorFlow Dev Summit 2017》](https://www.youtube.com/playlist?list=PLwv-rHS37fS9sj62f4HAbqSrC1EiPsNZx)
 
 介绍:2017 TensorFlow 开发者峰会(中文字幕) 
+
+* [《Convolutional Neural Networks for Visual Recognition (CS231n Spring 2017)》](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+
+介绍:斯坦福2017季CS231n深度视觉识别课程视频
