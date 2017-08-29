@@ -1,4 +1,4 @@
-﻿
+
 
 ## About Me
 
@@ -50,4 +50,3 @@ Dear friends. In order to respect to  the efforts   of authorship. In the readin
 ## License
 
 [MIT License](https://github.com/ty4z2008/Qix/blob/master/License.md)
-123
