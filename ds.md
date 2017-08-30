@@ -831,3 +831,7 @@
 * [《What are the knowledge required to learn distributed system》](https://www.zhihu.com/question/23645117)
 
 介绍:学习分布式系统需要怎样的知识?
+
+* [《TAO: Facebook’s Distributed Data Store for the Social Graph》](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf)
+
+介绍:Facebook设计的分布式数据 图数据库
