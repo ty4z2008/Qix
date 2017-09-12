@@ -835,3 +835,7 @@
 * [《TAO: Facebook’s Distributed Data Store for the Social Graph》](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf)
 
 介绍:Facebook设计的分布式数据 图数据库
+
+* [《Resources for Getting Started with Distributed Systems》](https://caitiem.com/2017/09/07/getting-started-with-distributed-systems/)
+
+介绍:分布式系统初学者资源
