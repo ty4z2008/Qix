@@ -1257,7 +1257,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍: 零售领域的数据挖掘文章.
 
-* [《Understanding Convolution in Deep Learning》](https://timdettmers.wordpress.com/2015/03/26/convolution-deep-learning/)
+* [《Understanding Convolution in Deep Learning》](https://timdettmers.com/2015/03/26/convolution-deep-learning/)
 
 介绍: 深度学习卷积概念详解,深入浅出.
 
