@@ -4,7 +4,7 @@
 
 自己还是一个学生，第一次翻译。不恰当的地方还希望不吝批评。联系方式可以直接微博AT我
 
-##安装
+## 安装
 
 ```bash
 npm install mysql
@@ -18,7 +18,7 @@ npm install mysql
 npm install felixge/node-mysql
 ```
 
-##介绍
+## 介绍
 这是一个node.Js的mysql驱动程序。这个驱动完全是用javascript写的，不需要任何编译工作。完全的遵守MIT开源协议。
 
 这里有一个简单的示例告诉你如何使用它:
@@ -45,7 +45,7 @@ connection.end();//释放连接
 
 当使用`end()`函数关闭连接时候，你必须要确保你的所有查询都已经发送给了mysql服务器。否者`end()`之后的查询是无效的。
 
-##贡献者
+## 贡献者
 
 非常感谢那些给这个模块开发作贡献的朋友[GitHub Contributors page][].
 
@@ -60,7 +60,7 @@ connection.end();//释放连接
 
 [Andrey Hristov]: http://andrey.hristov.com/
 
-##赞助商
+## 赞助商
 
 特别的感谢下面这些公司在资金上面的赞助，让我能够有更多的时间在这个项目上面(下面的名次根据赞助时间排序)
 
@@ -82,7 +82,7 @@ connection.end();//释放连接
 * **Google论坛**：https://groups.google.com/forum/#!forum/node-mysql
 * **IRC频道**： #node.js (freenode.net,只要包含有mysql的所有问题我都会关注的)
 
-##创建连接
+## 创建连接
 
 推荐的一种连接方式：
 ```js
@@ -111,36 +111,56 @@ connection.query('SELECT 1', function(err, rows) {
   //成功连接! (unless `err` is set)
 });
 ```
- 
+
 上面的两种错误处理方法都合适，这取决于你更喜欢那一种方式来做数据库错误信息处理。任何一种连接上的错误（握手与网络）都会被视为致命错误，具体更多的错误处理信息可以查看[Error Handling](#error-handling)章节。
 
-##连接可选参数
+## 连接可选参数
 当我们使用Node-MySQL建立一个数据库连接的时候你可以通过下面这些选项：
 * `host`:数据库的主机名（默认： `localhost`）
+
 * `port`:数据库服务器的端口（默认： `3306`）
+
 * `localAddress`:使用TCP连接的源IP地址（可选）
+
 * `socketPath`:使用Unix域套接字连接的路径，当使用 `host` 与`port` 的时候可以忽略。
+
 * `user`:这个是MySQL身份验证的用户名。
+
 * `password`:MySQL用户的密码。
+
 * `database`:连接的数据库名(可选).
+
 * `charset`:连接之后的字符编码(默认:`UTF8_GENERAL_CI`,值得提醒的是，这个值必须都是大写字母).
+
 * `timezone`:这个是储存数据的是当前时间。(默认:` local`).
+
 * `connectTimeout`:MySQL初始连接的超时时间。单位是毫秒(默认:无超时限制)。
+
 * `stringifyObjects`:把值转换为Stringify对象。具体见问题 [#501](https://github.com/felixge/node-mysql/issues/501)。(默认：`false`)。
+
 * `insecureAuth`:允许使用老（不安全）的身份认证方式去连接MySQL数据库.(默认：` false`).
+
 * `typeCast`:是否把结果值转换为原生的javascript类型(默认: `true`).
+
 * `queryFormat`:一个可以自己定义查询格式函数(具体见[Custom format](#custom-format))。
+
 * `supportBigNumbers`: 当在数据库中处理一个大数(`BIGINT`和`DECIMAL`)数据类型的时候，你需要启用这个选项(默认: `false`).
+
 * `bigNumberStrings`:这个选项需要`bigNumberStrings`与 `supportBigNumbers`同时启用，强制把数据库中大数(BIGINT和DECIMAL)数据类型的值转换为javascript字符对象串对象返回。(默认:`false`)。当启用`supportBigNumbers`选项，但 `bigNumberStrings`是未启用的状态。当无法用javascript数字对象([JavaScript Number objects](http://ecma262-5.com/ELS5_HTML.htm#Section_8.5))所表达的时候就会返回的是一个big number字符串对象(值的范围要在 [-2^53, +2^53]之间).否则将会返回一个Number类型的对象。如果`supportBigNumbers`是`false`那么这个选项会被自动忽略。
+
 * `dateStrings`:强制为date类型(`TIMESTAMP`，`DATETIME`，`DATE`)转化为一个字符串返回而不是转换成javascript的date类型对象。(默认: `false`)
+
 * `debug`:答应协议详细信息到标准输出(默认: `false`).
+
 * `trace`:产生栈跟踪当在库的入口点出现`error`时,当调用数次很多时性能会略微下降(默认: `true`).
+
 * `multipleStatements`:允许每个mysql语句有多条查询.使用它时要非常注意，因为它很容易引起sql注入攻击(默认:`false`).
+
 * `flags`:使用连接标示符号标示出超过默认的值的连接。它也可以加到默认的黑名单连接中。更多信息参考（[Connection Flags](#connection-flags)）。 
+
 * `ssl`:使用`ssl`参数对象()或者是用一个包含ssl配置的字符串名。[SSL options](#ssl-options)
 
-```
-除了把这些选项写成对象的样式以外，你也可以用一个字符串来表示。例如：
+  除了把这些选项写成对象的样式以外，你也可以用一个字符串来表示。例如：
 
 ```js
 var connection = mysql.createConnection('mysql://user:pass@host/db?debug=true&charset=BIG5_CHINESE_CI&timezone=-0700');
@@ -150,7 +170,7 @@ var connection = mysql.createConnection('mysql://user:pass@host/db?debug=true&ch
 ###SSL
 ``ssl``参数在连接的选项里面可以是字符串或对象，当是一个字符串的时候它会使用已经存在的ssl证书。例如：
 * `"Amazon RDS"`:目前仅仅支持亚马逊的ca证书，参考：https://rds.amazonaws.com/doc/rds-ssl-ca-cert.pem 
-当连接到其他服务器的时候，你需要提供一个参数对象。格式可以参考[crypto.createCredentials](http://nodejs.org/api/crypto.html#crypto_crypto_createcredentials_details).请注意参数请求的证书是整个证书名(包括文件后缀),而不只是单单的文件名这里有一个简单的例子:
+  当连接到其他服务器的时候，你需要提供一个参数对象。格式可以参考[crypto.createCredentials](http://nodejs.org/api/crypto.html#crypto_crypto_createcredentials_details).请注意参数请求的证书是整个证书名(包括文件后缀),而不只是单单的文件名这里有一个简单的例子:
 ```js
 var connection = mysql.createConnection({
   host : 'localhost',
@@ -172,7 +192,7 @@ var connection = mysql.createConnection({
 ```
 ##关闭连接
 有两种关闭连接的方式，当查询完成后最优雅关闭连接方式是调用end()方法,例如：
- 
+
 ```js
 connection.end(function(err) {
   // 连接在这里会被终止
@@ -181,7 +201,7 @@ connection.end(function(err) {
 这样可以确保在查询队列完成之后发送一个`COM_QUIT` 包到mysql服务器。如果在发送`COM_QUIT`出现致命的错误。在回调函数里面有一个`err`参数可以使用。但是这个连接无论如何也会被关闭掉。
 
 另外一种替代`end()`方法的是调用`destroy()`方法，这个方法会立即终止底层socket连接.`destroy()`方法确保了没有任何事件或回调再连接触发。
- 
+
 ```js
 connection.destroy();
 ```
@@ -190,7 +210,7 @@ connection.destroy();
 
 ##连接池
 直接使用连接池
- 
+
 ```js
 var mysql = require('mysql');
 var pool  = mysql.createPool({
@@ -223,7 +243,7 @@ pool.getConnection(function(err, connection) {
 
 
 如果你想在连接前设置session变量并且获取使用。你可以监听`connection`事件：
- 
+
 ```js
 pool.on('connection', function(connection) {
   connection.query('SET SESSION auto_increment_increment=1')
@@ -245,17 +265,16 @@ pool.getConnection(function(err, connection) {
 });
 ```
 
-
 如果你想关闭连接并且从连接池中移除，使用`connection.destory()`方法代替。当你下一次需要使用的时候，池会自动创建一个新的连接。
 通过池创建连接是非常缓慢的。如果你配置你的连接池最大的连接数为100，当你只需要同时使用5个连接时候，它也仅仅只会创建5个连接。这种连接的循环方式是一种轮询(round-robin)的方式。采取的是从连接池顶部到底部的方式。
 
-##Pool参数选项
+## Pool参数选项
 池连可以接受一些连接的参数选项。当一个连接创建之后，这些参数选项通过简单的构造传递到连接里面。池连接参数可以接受下面这些参数。
 * `waitForConnections`:判断当前的连接是否可用并且是否已经达到了连接数的上限。如果是`true`。这个连接就会加入到连接队列中同时把状态转换为可用状态。如果是`false`，那么会立即返回一个错误给开发者。(默认：`true`).
 * `connectionLimit`:一次连接最大的连接数(默认:`10`)。
 * `queueLimit`:从`getConnection`获取连接数并且判断是否超出了`queneLimit`限制的排队等待的连接值，如果是就返回一个错误。如果设置为`0`，就是不限制连队列数(默认：`0`)。
 
-##PoolCluster
+## PoolCluster
 PoolCluster提供了多台主机连接功能(group&retry&selector)：
 
 ```js
@@ -291,7 +310,7 @@ pool.getConnection(function (err, connection) {});
 // 释放连接
 poolCluster.end();
 ```
- 
+
 
 ##PoolCluster选项
 * `canRetry`:如果是`true`,当连接失败时`Poolcluster`会尝试重新连接(默认:`true`)。
@@ -333,7 +352,7 @@ connection.changeUser({user : 'john'}, function(err) {
 
 转义查询值
 为了避免被SQL注入攻击,你需要把用户提交过来的数据进行转义之后再放到SQL查询语句里面。模块提供了`connection.escape()`和`Pool.escape()`两种方法：
- 
+
 ```js
 var userId = 'some user provided value';
 var sql    = 'SELECT * FROM users WHERE id = ' + connection.escape(userId);
@@ -342,7 +361,7 @@ connection.query(sql, function(err, results) {
 });
 ```
 或者，你可以使用占位符`?`来代替，同样的也能对传入的值进行转义:
- 
+
 ```js
 connection.query('SELECT * FROM users WHERE id = ?', [userId], function(err, results) {
   // ...
@@ -357,7 +376,7 @@ connection.query('SELECT * FROM users WHERE id = ?', [userId], function(err, res
 * Buffer转换为了16进制，例如:`X'0fa5'`
 * String转换为了安全的字符串。
 * Array转换为了`list`。例如:`['a','b']`会返回`'a','b'`
-多维数组会被转换为多维`list`。例如`[['a', 'b'], ['c', 'd']]`返回`('a', 'b'), ('c', 'd')`
+  多维数组会被转换为多维`list`。例如`[['a', 'b'], ['c', 'd']]`返回`('a', 'b'), ('c', 'd')`
 * Object转换为`key = 'val'`;多维Object对象会转换为字符串.
 * undefined/null会转换为`null`
 * NaN / Infinity 保持不变,因为MySQL现在并不支持这些对象，如果你把`NaN/Infinity`做为值,MySQL会报错.直到它们被MySQL支持。
@@ -374,7 +393,7 @@ console.log(query.sql); // INSERT INTO posts SET `id` = 1, `title` = 'Hello MySQ
 ```
 
 如果你觉得有必要自己去转义查询值，那么你可以直接去调用转义函数：
- 
+
 ```js
 var query = "SELECT * FROM posts WHERE title=" + mysql.escape("Hello MySQL");
 
@@ -390,7 +409,7 @@ var query = 'SELECT * FROM posts ORDER BY ' + mysql.escapeId(sorter);
 console.log(query); // SELECT * FROM posts ORDER BY `date`
 ```
 它还支持添加合格的转义符。不过得把转义的分成两部分:
- 
+
 ```js
 var sorter = 'date';
 var query = 'SELECT * FROM posts ORDER BY ' + mysql.escapeId('posts.' + sorter);
@@ -399,7 +418,7 @@ console.log(query); // SELECT * FROM posts ORDER BY `posts`.`date`
 ```
 
 或者,你可以使用占位符`??`，它会自动转义查询的值：
- 
+
 ```js
 var userId = 1;
 var columns = ['username', 'email'];
@@ -414,7 +433,7 @@ console.log(query.sql); // SELECT `username`, `email` FROM `users` WHERE id = 1
 当你使用`.escape()`,`.query()`,`.escapeId()`时可以有效的防御SQL注入攻击.
 ###预查询
 你可以使用`mysql.format()`去执行预处理多嵌套查询语句，利用适当的转义处理对于标示符与值.下面有一个简单的例子:
- 
+
 ```js
 var sql = "SELECT * FROM ?? WHERE ?? = ?";
 var inserts = ['users', 'id', userId];
@@ -502,7 +521,7 @@ query
 ```
 
 在上面的例子中请注意几件事情:
- 
+
 *同常的时候你希望当接收到一定数量的查询结果的时候再执行`pause()`方法,这数量取决于你查询总的数量和数据的大小。
 *`pause()`/`resume()`操作底层socket和解析器时，可以确定在调用`pause()`方法之后再有`result`事件被执行
 *当有多条数据流读取时，不能再给query()方法添加一个回调函数.
@@ -533,7 +552,7 @@ connection.query('SELECT 1; SELECT 2', function(err, results) {
 });
 ```
 此外，您也可以串行理的多个语句查询的结果：
- 
+
 ```js
 var query = connection.query('SELECT 1; SELECT 2');
 
@@ -570,7 +589,7 @@ connection.query(options, function(err, results) {
 });
 ```
 或者你可以使用字符串分隔符合并成你想要的结果:
- 
+
 ```js
 var options = {sql: '...', nestTables: '_'};
 connection.query(options, function(err, results) {
@@ -708,7 +727,7 @@ connection.on('error', function() {});
 * BIGINT (可能会超过float精度)
 * TIME (转换为日期, but what date would be set?)
 * GEOMETRY (从来没有用错，当你使用的时候你可以联系我们)
-我们不建议你把类型转换这个参数禁用，但是如果你想禁用也可以在连接的时候就去做（这种方法可能在以后的版本中删除/改变）：
+  我们不建议你把类型转换这个参数禁用，但是如果你想禁用也可以在连接的时候就去做（这种方法可能在以后的版本中删除/改变）：
 ```js
 var connection = require('mysql').createConnection({typeCast: false});
 ```
@@ -806,4 +825,3 @@ mysql -u root -e "CREATE DATABASE IF NOT EXISTS node_mysql_test"
 * 预查询语句
 * 查询时调用 `setTimeout() `方法
 * 支持 UTF-8 / ASCII编码
-
