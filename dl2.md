@@ -1340,3 +1340,15 @@
 * [《Convolutional Neural Networks for Visual Recognition (CS231n Spring 2017)》](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
 介绍:斯坦福2017季CS231n深度视觉识别课程视频
+
+* [《Deep Learning for Music (DL4M)》](https://github.com/ybayle/awesome-deep-learning-music)
+
+介绍:音乐深度学习相关资料大列表(音乐生成/语音分离/说话人识别等)
+
+* [《Deep Learning for Music (DL4M)》](https://people.cs.umass.edu/~arvind/arvind_thesis.pdf)
+
+介绍:博士论文：深度神经网络知识表示与推理,附[视频](https://www.youtube.com/watch?v=lc68_d_DnYs)
+
+* [《Recent Deep Learning papers in NLU and RL》](https://github.com/madrugado/deep-learning-nlp-rl-papers)
+
+介绍:近期自然语言理解(NLU)/增强学习(RL)文献选集
