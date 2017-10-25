@@ -823,3 +823,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《Postgres EXPLAIN Visualizer (pev)》](http://tatiyants.com/pev/)
 
 介绍:Postgres 执行计划可视化工具
+
+* [《PostgreSQL workings in one picture》](http://blog.postgresql-consulting.com/2017/09/postgresql-workings-in-one-picture.html)
+
+介绍:一张图了解PostgreSQL工作结构
