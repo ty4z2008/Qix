@@ -488,6 +488,10 @@
 
 介绍：NoSQL知识清单,里面不仅仅包含了数据库阅读清单还包含了分布式系统资料.
 
+* [《Raft: In search of an Understandable Consensus Algorithm》](https://raft.github.io/raft.pdf)
+
+介绍：aft 是一种用来管理日志复制的一致性算法。它和 Paxos 的性能和功能是一样的，但是它和 Paxos 的结构不一样；这使得 Raft 更容易理解并且更易于建立实际的系统。[中文版](http://www.infoq.com/cn/articles/raft-paper)
+
 * [《Raft: Understandable Distributed Consensus》](http://thesecretlivesofdata.com/raft/)
 
 介绍：Raft可视化图帮助理解分布式一致性
