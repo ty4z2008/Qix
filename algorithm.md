@@ -207,3 +207,7 @@
 * [《常见算法实现》](https://github.com/qiwsir/algorithm)
 
 介绍：常见算法实现
+
+* [《International Conference on Algorithmic Learning Theory》](http://proceedings.mlr.press/v76/)
+
+介绍：算法学习理论国际会议
