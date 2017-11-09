@@ -1352,3 +1352,7 @@
 * [《Recent Deep Learning papers in NLU and RL》](https://github.com/madrugado/deep-learning-nlp-rl-papers)
 
 介绍:近期自然语言理解(NLU)/增强学习(RL)文献选集
+
+* [《Theories of Deep Learning (STATS 385)》](https://stats385.github.io/)
+
+介绍:2017年斯坦福课程：深度学习理论
