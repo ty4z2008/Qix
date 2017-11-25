@@ -1368,3 +1368,16 @@
 * [Pedestrian Alignment Network for Large-scale Person Re-identification ](https://github.com/layumi/Pedestrian_Alignment)
 
 介绍： 行人对齐和行人重识别一起做。统一框架。
+
+* [《On the Information Bottleneck Theory of Deep Learning》](https://openreview.net/forum?id=ry_WPG-A-&noteId=ry_WPG-A-)
+
+介绍:论深度学习信息瓶颈理论
+
+* [《CMU CS 11-747, Fall 2017 Neural Networks for NLP》](http://phontron.com/class/nn4nlp2017/)
+
+介绍:CMU神经网络自然语言处理课程
+
+* [《Awesome Chainer》](https://github.com/chainer-community/awesome-chainer)
+
+介绍:Chainer是一个深度学习框架，提供了很多解决方案，例如动态计算图。它是基于Python编写的
+
