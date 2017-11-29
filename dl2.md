@@ -1381,3 +1381,21 @@
 
 介绍:Chainer是一个深度学习框架，提供了很多解决方案，例如动态计算图。它是基于Python编写的
 
+* [《StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation》](https://arxiv.org/abs/1711.09020)
+
+介绍:用StarGAN实现人脸部件、性别、年龄、表情等变化。实现[代码](https://github.com/yunjey/StarGAN). YouTube上面有简单的[视频](https://www.youtube.com/watch?v=EYjdLppmERE)介绍。@layumi
+
+* [《Feature Visualization》](https://distill.pub/2017/feature-visualization/)
+
+介绍:利用神经网络增加对图像理解，对特征进行可视化。同时推荐[《Visualizing and Understanding Convolutional Networks》](https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)。本文是Matthew D.Zeiler 和Rob Fergus于（纽约大学）13年撰写的论文，主要通过Deconvnet（反卷积）来可视化卷积网络，来理解卷积网络，并调整卷积网络；本文通过Deconvnet技术，可视化Alex-net，并指出了Alex-net的一些不足，最后修改网络结构，使得分类结果提升。[中文摘要翻译](http://blog.csdn.net/whiteinblue/article/details/43312059) @layumi
+
+* [《Random Erasing Data Augmentation》](https://arxiv.org/abs/1708.04896)
+
+介绍:本文提出了一种叫做“Random Erasing”的数据增强方法，通过给图像数据加入随机的噪声进行数据增强，防止过拟合，可以移植到其他的CV任务中。[代码实现](https://github.com/zhunzhong07/Random-Erasing) @layumi
+
+* [《SVDNet for Pedestrian Retrieval》](https://arxiv.org/abs/1703.05693)
+
+介绍: SVDNet在行人重识别的应用[翻译](https://zhuanlan.zhihu.com/p/29326061)。[代码](https://github.com/syfafterzy/SVDNet-for-Pedestrian-Retrieval) @layumi
+
+
+
