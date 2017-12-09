@@ -211,3 +211,7 @@
 * [《International Conference on Algorithmic Learning Theory》](http://proceedings.mlr.press/v76/)
 
 介绍：算法学习理论国际会议
+
+* [《Deep learning Algorithms tutorial》](https://github.com/KeKe-Li/tutorialm)
+
+介绍：常见的机器学习算法
