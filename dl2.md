@@ -1397,5 +1397,7 @@
 
 介绍: SVDNet在行人重识别的应用[翻译](https://zhuanlan.zhihu.com/p/29326061)。[代码](https://github.com/syfafterzy/SVDNet-for-Pedestrian-Retrieval) @layumi
 
+* [《NIPS 2017 Notes》](https://cs.brown.edu/~dabel/blog/posts/misc/nips_2017.pdf)
 
+介绍: 2017年神经信息处理系统大会笔记
 
