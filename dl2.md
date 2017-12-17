@@ -1408,3 +1408,7 @@
 * [《Kloud Strife DL papers of the year》](https://kloudstrifeblog.wordpress.com/2017/12/15/my-papers-of-the-year/)
 
 介绍: Kloud Strife总结了2017年阅读的论文，对抗网络学习、SGD（随机梯度下降）、模型设计与生成、强化学习
+
+* [《Oxford Deep NLP 2017 course》](https://github.com/oxford-cs-deepnlp-2017/lectures)
+
+介绍: 牛津大学2017年深度自然语言处理课程视频与slides
