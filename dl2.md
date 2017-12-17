@@ -1389,7 +1389,7 @@
 
 介绍:利用神经网络增加对图像理解，对特征进行可视化。同时推荐[《Visualizing and Understanding Convolutional Networks》](https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)。本文是Matthew D.Zeiler 和Rob Fergus于（纽约大学）13年撰写的论文，主要通过Deconvnet（反卷积）来可视化卷积网络，来理解卷积网络，并调整卷积网络；本文通过Deconvnet技术，可视化Alex-net，并指出了Alex-net的一些不足，最后修改网络结构，使得分类结果提升。[中文摘要翻译](http://blog.csdn.net/whiteinblue/article/details/43312059) @layumi
 
-* [《Random Erasing Data Augmentation》](https://arxiv.org/abs/1708.04896)
+* [《Random Erasing Data Augmentation》](https://arxiv.org/abs/1708.04896)2
 
 介绍:本文提出了一种叫做“Random Erasing”的数据增强方法，通过给图像数据加入随机的噪声进行数据增强，防止过拟合，可以移植到其他的CV任务中。[代码实现](https://github.com/zhunzhong07/Random-Erasing) @layumi
 
@@ -1401,3 +1401,6 @@
 
 介绍: 2017年神经信息处理系统大会笔记
 
+* [《Hung-yi Lee Home page》](http://speech.ee.ntu.edu.tw/~tlkagk/)
+
+介绍: 推荐台湾大学的李宏毅教授的主页，他的[机器学习课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)很适合初学者。不会枯燥无味
