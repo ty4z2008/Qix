@@ -1404,3 +1404,7 @@
 * [《Hung-yi Lee Home page》](http://speech.ee.ntu.edu.tw/~tlkagk/)
 
 介绍: 推荐台湾大学的李宏毅教授的主页，他的[机器学习课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)很适合初学者。不会枯燥无味
+
+* [《Kloud Strife DL papers of the year》](https://kloudstrifeblog.wordpress.com/2017/12/15/my-papers-of-the-year/)
+
+介绍: Kloud Strife总结了2017年阅读的论文，对抗网络学习、SGD（随机梯度下降）、模型设计与生成、强化学习
