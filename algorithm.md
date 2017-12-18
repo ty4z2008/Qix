@@ -215,3 +215,7 @@
 * [《Deep learning Algorithms tutorial》](https://github.com/KeKe-Li/tutorialm)
 
 介绍：常见的机器学习算法
+
+* [《Matters Computational Ideas, Algorithms, Source Code》](https://jjj.de/fxt/fxtbook.pdf)
+
+介绍：计算思想和算法的教科书
