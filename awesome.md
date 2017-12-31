@@ -398,3 +398,7 @@
 
 介绍:SRE conf2016会议视频与PPT，主要是集中在工程管理方面。例如监控的重要性，面对混乱如何乱而不是方寸。和Google出版的sre可以对比阅读，比较适合基数管理层
 
+* [《Ask HN: What was the best CS paper you read in 2017?》](https://news.ycombinator.com/item?id=16035402)
+
+介绍:HN上面关于2017年读过最好的计算机科学论文的总结问答，问答中揽括了一些理论并且有促进意义的论文。譬如索引的学习，系统设计、软件工程等
+
