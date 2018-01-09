@@ -1412,3 +1412,7 @@
 * [《Oxford Deep NLP 2017 course》](https://github.com/oxford-cs-deepnlp-2017/lectures)
 
 介绍: 牛津大学2017年深度自然语言处理课程视频与slides
+
+* [《Speech and Language Processing, 3rd Edition》](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
+
+介绍: 斯坦福大学免费电子书《语音和语言处理》第3版，自然语言处理概论，有关计算语言学和语音识别的知识。 ​​​​
