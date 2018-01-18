@@ -402,3 +402,7 @@
 
 介绍:HN上面关于2017年读过最好的计算机科学论文的总结问答，问答中揽括了一些理论并且有促进意义的论文。譬如索引的学习，系统设计、软件工程等
 
+* [《CMU15-721:Advanced Database Systems》](http://15721.courses.cs.cmu.edu/spring2017/schedule.html)
+
+介绍:卡内基梅隆大学高级数据库系统课程，拥有课件和视频。课程内容有，并发控制(MVCC、OCC)、LTOP、优化器、数据压缩、执行和调度、并行join
+
