@@ -842,4 +842,8 @@
 
 * [《Resources for Getting Started with Distributed Systems》](https://caitiem.com/2017/09/07/getting-started-with-distributed-systems/)
 
-介绍:分布式系统初学者资源
+介绍:分布式系统初学者资源.
+
+* [《Building a Distributed Log from Scratch, Part 1: Storage Mechanics》](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-1-storage-mechanics/)
+
+介绍:从0开始构建一个分布式日志。第一部分主要是讲日志的存储，截止到现在已经写到[数据复制](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-2-data-replication/)、[扩容之日志消耗](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-3-scaling-message-delivery/)。另外推荐作者写的[现实世界中的分布式系统推论](https://bravenewgeek.com/from-the-ground-up-reasoning-about-distributed-systems-in-the-real-world/)
