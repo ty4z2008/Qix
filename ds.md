@@ -520,9 +520,9 @@
 
 介绍：分布式文件系统综述
 
-* [《Concepts of Concurrent Programming》](ftp://ftp.sei.cmu.edu/pub/education/cm24.pdf)
+* [《Concepts of Concurrent Programming》](https://resources.sei.cmu.edu/asset_files/CurriculumModule/1990_007_001_15815.pdf)
 
-介绍：并行编程的概念,同时推荐[卡内基梅隆FTP](ftp://ftp.sei.cmu.edu/pub/education/)
+介绍：并行编程的概念,同时推荐[卡内基梅隆工程师数字图书馆](https://resources.sei.cmu.edu/library/)
 
 * [《Concurrency Control Performance Modeling:Alternatives and Implications》](https://www.cs.berkeley.edu/~brewer/cs262/ConcControl.pdf)
 
