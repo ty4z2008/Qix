@@ -846,7 +846,7 @@
 
 * [《Building a Distributed Log from Scratch, Part 1: Storage Mechanics》](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-1-storage-mechanics/)
 
-介绍:从0开始构建一个分布式日志。第一部分主要是讲日志的存储，截止到现在已经写到[数据复制](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-2-data-replication/)、[扩容之日志消耗](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-3-scaling-message-delivery/)。另外推荐作者写的[现实世界中的分布式系统推论](https://bravenewgeek.com/from-the-ground-up-reasoning-about-distributed-systems-in-the-real-world/)
+介绍:从0开始构建一个分布式日志。第一部分主要是讲日志的存储，截止到现在已经写到[数据复制](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-2-data-replication/)、[扩容之日志消耗](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-3-scaling-message-delivery/)、[权衡与思考](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-4-trade-offs-and-lessons-learned/)。另外推荐作者写的[现实世界中的分布式系统推论](https://bravenewgeek.com/from-the-ground-up-reasoning-about-distributed-systems-in-the-real-world/)
 
 * [《CS 525 Spring 2018 Advanced Distributed Systems》](https://courses.engr.illinois.edu/cs525/sp2018/index.html)
 
