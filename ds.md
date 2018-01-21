@@ -847,3 +847,7 @@
 * [《Building a Distributed Log from Scratch, Part 1: Storage Mechanics》](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-1-storage-mechanics/)
 
 介绍:从0开始构建一个分布式日志。第一部分主要是讲日志的存储，截止到现在已经写到[数据复制](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-2-data-replication/)、[扩容之日志消耗](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-3-scaling-message-delivery/)。另外推荐作者写的[现实世界中的分布式系统推论](https://bravenewgeek.com/from-the-ground-up-reasoning-about-distributed-systems-in-the-real-world/)
+
+* [《CS 525 Spring 2018 Advanced Distributed Systems》](https://courses.engr.illinois.edu/cs525/sp2018/index.html)
+
+介绍:伊利诺伊大学分布式系统进阶课程，涉及内容云的前世今生，大公司的在分布式计算上的工作（Mapreduce参考）、P2P系统滚、KV存储、基本的分布式算法（时钟同步，锁）、强一致性、分布式在机器学习上的应用、流处理、认证、事务处理、存储与复制、最终一致性、图处理、集群调度、分布式系统bug跟踪和性能测试、安全、缓存。
