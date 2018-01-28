@@ -827,3 +827,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《PostgreSQL workings in one picture》](http://blog.postgresql-consulting.com/2017/09/postgresql-workings-in-one-picture.html)
 
 介绍:一张图了解PostgreSQL工作结构
+
+* [《Postgres Indexes Under the Hood》](https://rcoh.me/posts/postgres-indexes-under-the-hood/)
+
+介绍:Postgres索引的底层运行机制
