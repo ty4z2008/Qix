@@ -851,3 +851,7 @@
 * [《CS 525 Spring 2018 Advanced Distributed Systems》](https://courses.engr.illinois.edu/cs525/sp2018/index.html)
 
 介绍:伊利诺伊大学分布式系统进阶课程，涉及内容云的前世今生，大公司的在分布式计算上的工作（Mapreduce参考）、P2P系统滚、KV存储、基本的分布式算法（时钟同步，锁）、强一致性、分布式在机器学习上的应用、流处理、认证、事务处理、存储与复制、最终一致性、图处理、集群调度、分布式系统bug跟踪和性能测试、安全、缓存。
+
+* [《Notes on Distributed Systems for Young Bloods》](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
+
+介绍:这篇文章没有理论，适合新手阅读分布式系统实践笔记
