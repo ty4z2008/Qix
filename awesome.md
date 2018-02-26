@@ -406,3 +406,7 @@
 
 介绍:卡内基梅隆大学高级数据库系统课程，拥有课件和视频。课程内容有，并发控制(MVCC、OCC)、LTOP、优化器、数据压缩、执行和调度、并行join
 
+* [《The Philosophy of Computer Science》](https://plato.stanford.edu/entries/computer-science/)
+
+介绍:计算机科学的哲学
+
