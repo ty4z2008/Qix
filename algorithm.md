@@ -126,7 +126,7 @@
 
 * [《Edsger Wybe Dijkstra HomePage》](http://www.cs.utexas.edu/~EWD/)
 
-介绍:艾兹赫尔·韦伯·戴克斯特拉是荷兰第一位以程式为专业的科学家,以发现了图论中的最短路径算法（[Dijkstra算法](https://www.ssucet.org/old/pluginfile.php/2121/mod_resource/content/1/21-dijkstra.pdf)）而闻名于世，1972年因为ALGOL第二代编程语言而获得图灵奖。GOTO有害论“[Go To StatementConsidered Harmful](http://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)”(EWD215)也是被广为传颂的经典之作.推荐[Using Dijkstra's algorithm to draw maps](https://github.com/ibaaj/dijkstra-cartography)
+介绍:艾兹赫尔·韦伯·戴克斯特拉是荷兰第一位以程式为专业的科学家,以发现了图论中的最短路径算法（[Dijkstra算法](https://www.ssucet.org/old/pluginfile.php/2121/mod_resource/content/1/21-dijkstra.pdf)）而闻名于世，1972年因为ALGOL第二代编程语言而获得图灵奖。GOTO有害论“[Go To StatementConsidered Harmful](http://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)”(EWD215)也是被广为传颂的经典之作.推荐[Using Dijkstra's algorithm to draw maps](https://github.com/ibaaj/dijkstra-cartography). 如果是学习，可能论文会比较难。推荐阅读[理解Dijkstra算法](https://aos.github.io/2018/02/24/understanding-dijkstras-algorithm/)
 
 * [《John Backus HomePage》](http://www.columbia.edu/cu/computinghistory/backus.html)
 
