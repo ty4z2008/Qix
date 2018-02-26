@@ -1415,4 +1415,8 @@
 
 * [《Speech and Language Processing, 3rd Edition》](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
 
-介绍: 斯坦福大学免费电子书《语音和语言处理》第3版，自然语言处理概论，有关计算语言学和语音识别的知识。 ​​​​
+介绍: 斯坦福大学免费电子书《语音和语言处理》第3版，自然语言处理概论，有关计算语言学和语音识别的知识。
+
+* [《A Brief Introduction to Machine Learning for Engineers》](https://arxiv.org/pdf/1709.02840.pdf)
+
+介绍: 由伦敦国王学院编写的<工程师机器学习简明教程>
