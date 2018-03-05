@@ -347,3 +347,7 @@
 * [《dotConferences talks》](https://www.dotconferences.com/conference/dotgo-2017)
 
 介绍：dotGo conference 是相当盛大的 Golang 研讨会， Google 与 Golang 社群有许多权威都有加入這场盛会． 在這場有有许多值得一听的演讲． Francesc 讲 Machine Learning in Go Sam Boyer (dep 的主要开发者之一) 來讲 Dep Sameer Ajmani (Go team manager ) 來讲 Simulation real world in Go
+
+* [《A Gopher's Reading List》](https://github.com/enocom/gopher-reading-list)
+
+介绍：Golang学习阅读列表，基础知识、经典文章（高效的golang、并发）、编码风格、测试、Web、性能分析、垃圾回收、性能处理、字符编码处理、JSON编码与解码
