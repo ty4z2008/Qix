@@ -859,3 +859,7 @@
 * [《Design patterns for container-based distributed systems》](https://www.usenix.org/system/files/conference/hotcloud16/hotcloud16_burns.pdf)
 
 介绍:基于容器的分布式系统设计模式，文中提到了，单容器模式，所有的服务都集成在一个容器里面。单节点多容器模式，类似于kubernetes的Pods（任务组）。一个服务跨多个容器。对于这种模式可以分为Sidecar模式:譬如一个Web服务。Web由一个容器提供，日志处理由一个Logsaver容器提供。Ambassador模式（外交官模式）类似于SLB的设计模式，中间有一个代理容器用来分发功能到子容器。Adapter模式（适配器模式）主要是目的是想分布的执行和存储，统一的监控和管理。有点类似监控系统的设计，日志数据的输入不一，但是统一结果输出。多节点应用模式：这个分为选主模式（核心是选主算法）。Work Queue模式（工作队列模式）类似大规模电商系统的订单处理设计。Scatter/gather模式：有点类似MapRedue架构，分片处理，最后汇总结果。文章推荐[容器设计模式](http://www.infoq.com/cn/articles/kubernetes-and-cloud-native-app-container-design-pattern)
+
+* [《Making The Case For Building Scalable Stateful Services In The Modern Era》](http://highscalability.com/blog/2015/10/12/making-the-case-for-building-scalable-stateful-services-in-t.html)
+
+介绍: 在处理分布式系统的时候，很多经验告诉我们要尽量让服务无状态。而在实际分布式系统中，有状态的服务是一致存在的。例如消息队列、数据库存储服务。本文介绍了如何构建有状态的服务，如果保证有状态化服务的高可用。
