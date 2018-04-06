@@ -1287,7 +1287,7 @@
 
 * [《Course notes for CS224N Winter17》](https://github.com/stanfordnlp/cs224n-winter17-notes)
 
-介绍:笔记：斯坦福CS224n深度学习NLP课程(2017)
+介绍:笔记：斯坦福CS224n深度学习NLP课程(2017),课程地址[http://web.stanford.edu/class/cs224n/](http://web.stanford.edu/class/cs224n/).这个里面的[设计报告堪比国内博士论文](http://web.stanford.edu/class/cs224n/reports.html)
 
 * [《Persontyle Workshop for Applied Deep Learning》](https://github.com/telecombcn-dl/2017-persontyle)
 
@@ -1420,3 +1420,7 @@
 * [《A Brief Introduction to Machine Learning for Engineers》](https://arxiv.org/pdf/1709.02840.pdf)
 
 介绍: 由伦敦国王学院编写的<工程师机器学习简明教程>
+
+* [《An Introduction to Machine Learning with R》](https://lgatto.github.io/IntroMachineLearningWithR/index.html)
+
+介绍: 免费书：R语言机器学习导论
