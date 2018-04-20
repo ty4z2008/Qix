@@ -863,3 +863,16 @@
 * [《Making The Case For Building Scalable Stateful Services In The Modern Era》](http://highscalability.com/blog/2015/10/12/making-the-case-for-building-scalable-stateful-services-in-t.html)
 
 介绍: 在处理分布式系统的时候，很多经验告诉我们要尽量让服务无状态。而在实际分布式系统中，有状态的服务是一致存在的。例如消息队列、数据库存储服务。本文介绍了如何构建有状态的服务，如果保证有状态化服务的高可用。
+
+* [《LHD: Improving Cache Hit Rate by Maximizing Hit Density》](http://www.cs.cmu.edu/~beckmann/publications/papers/2018.nsdi.lhd.pdf)
+
+介绍:使用Maximizing Hit Density提高缓存命中.
+
+* [《Principles Of Chaos Engineering》](http://principlesofchaos.org/)
+
+介绍:混沌工程是在分布式系统上进行实验的学科, 目的是建立对系统抵御生产环境中失控条件的能力以及信心。
+大规模分布式软件系统的发展正在改变软件工程。作为一个行业，我们很快采用了提高开发灵活性和部署速度的实践。紧跟着这些好处的一个紧迫问题是：我们对投入生产的复杂系统中有多少信心？
+
+* [《The Paxos Algorithm》](https://www.youtube.com/watch?v=d7nAGI_NZPk)
+
+介绍:Google SRE 讲解分布式系统Paxos算法。
