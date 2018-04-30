@@ -1424,3 +1424,7 @@
 * [《An Introduction to Machine Learning with R》](https://lgatto.github.io/IntroMachineLearningWithR/index.html)
 
 介绍: 免费书：R语言机器学习导论
+
+* [《An Introduction to Deep Learning for Tabular Data》](http://www.fast.ai/2018/04/29/categorical-embeddings/)
+
+介绍: 表格数据深度学习入门
