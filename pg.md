@@ -831,3 +831,20 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《Postgres Indexes Under the Hood》](https://rcoh.me/posts/postgres-indexes-under-the-hood/)
 
 介绍:Postgres索引的底层运行机制
+
+* [《Annotated Config Files for PostgreSQL》](https://github.com/jberkus/annotated.conf)
+
+介绍:PostgreSQL配置文件注释篇，详细介绍每个参数的意思，其中`postgresql.10.simple.conf`为必须修改项，`extra.10.conf`为可能要修改的项。
+
+* [《pgBackRest:Reliable PostgreSQL Backup & Restore》](https://pgbackrest.org/)
+
+介绍:pgBackRest支持并行备份和恢复，增量备份。对于大规模pg数据库备份与同步很有帮助
+
+* [《PostgreSQL Related Slides and Presentations》](https://wiki.postgresql.org/wiki/PostgreSQL_Related_Slides_and_Presentations)
+
+介绍:PostgreSQL相关演讲资料。包括一些pgconf会议PPT。
+
+* [《Awesome Postgres》](https://github.com/dhamaniasad/awesome-postgres)
+
+介绍:Awesome系列，高可用、备份、管理、打包版本、命令行、监控、扩展、优化、工具、API、以及一些比较不错的博文、例如[Debugging PostgreSQL performance, the hard way
+](https://www.justwatch.com/blog/post/debugging-postgresql-performance-the-hard-way/)
