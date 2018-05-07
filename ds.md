@@ -123,9 +123,9 @@
 
 介绍:Replication, atomicity and order in distributed systems
 
-* [《MIT course:Distributed Systems》](http://nil.csail.mit.edu/6.824/2017/)
+* [《MIT course:Distributed Systems》](http://nil.csail.mit.edu/6.824/2018/)
 
-介绍:2017年MIT分布式系统课程主页，这次用Golang作为授课语言。[6.824 Distributed Systems](https://pdos.csail.mit.edu/6.824/)课程主页
+介绍:2017年MIT分布式系统课程主页，用Golang作为授课语言。[6.824 Distributed Systems](https://pdos.csail.mit.edu/6.824/)课程主页.课程的课堂测试[Past Exams](https://pdos.csail.mit.edu/6.824/quizzes.html)可以很好的考察学习的结果。对于学习分布式系统比较推荐这个课程
 
 * [《Distributed systems for fun and profit》](http://book.mixu.net/distsys/)
 
