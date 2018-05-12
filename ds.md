@@ -876,3 +876,11 @@
 * [《The Paxos Algorithm》](https://www.youtube.com/watch?v=d7nAGI_NZPk)
 
 介绍:Google SRE 讲解分布式系统Paxos算法。
+
+* [《Time Series Database Lectures 》](https://db.cs.cmu.edu/seminar2017/)
+
+介绍:[Andy Pavlo](http://www.cs.cmu.edu/~pavlo/)组织的时序数据库系列演讲分享,InfluxDB存储引擎、QuasarDB内部剖析、TimescaleDB成长、Two Sigma时序数据库实践。
+
+* [《Andy CMU course：Advanced Database Systems》](https://15721.courses.cs.cmu.edu/spring2017/schedule.html)
+
+介绍:[Andy Pavlo](http://www.cs.cmu.edu/~pavlo/)在卡内基梅隆大学的高级数据库课程，以论文导读的形式。有[视频](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYgTIlqf4Dy9KQpQ7kn1Tl0)。并发控制，乐观并发控制、多版本并发控制、OLAP索引、数据库压缩、存储模型、日志协议、检查点协议、优化器的实现、执行计划、并行join、查询编译、内存数据库
