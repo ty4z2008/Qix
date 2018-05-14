@@ -848,3 +848,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 介绍:Awesome系列，高可用、备份、管理、打包版本、命令行、监控、扩展、优化、工具、API、以及一些比较不错的博文、例如[Debugging PostgreSQL performance, the hard way
 ](https://www.justwatch.com/blog/post/debugging-postgresql-performance-the-hard-way/)
+
+* [《The Internals of PostgreSQL》](http://www.interdb.jp/pg/)
+
+介绍:一本关于PG数据库管理员运维的书，主要围绕着集群、备份、Buffer、索引、复制
