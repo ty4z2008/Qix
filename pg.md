@@ -851,4 +851,8 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 * [《The Internals of PostgreSQL》](http://www.interdb.jp/pg/)
 
-介绍:一本关于PG数据库管理员运维的书，主要围绕着集群、备份、Buffer、索引、复制
+介绍:一本关于PG数据库管理员运维的书，主要围绕着集群、备份、Buffer、索引、复制.
+
+* [《Understanding the power of data types: PostgreSQL's Secret Weapon》](http://postgres-data-types.pvh.ca/)
+
+介绍:了解数据类型的力量：PostgreSQL的秘密武器
