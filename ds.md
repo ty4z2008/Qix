@@ -883,4 +883,8 @@
 
 * [《Andy CMU course：Advanced Database Systems》](https://15721.courses.cs.cmu.edu/spring2017/schedule.html)
 
-介绍:[Andy Pavlo](http://www.cs.cmu.edu/~pavlo/)在卡内基梅隆大学的高级数据库课程，以论文导读的形式。有[视频](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYgTIlqf4Dy9KQpQ7kn1Tl0)。并发控制，乐观并发控制、多版本并发控制、OLAP索引、数据库压缩、存储模型、日志协议、检查点协议、优化器的实现、执行计划、并行join、查询编译、内存数据库
+介绍:[Andy Pavlo](http://www.cs.cmu.edu/~pavlo/)在卡内基梅隆大学的高级数据库课程，以论文导读的形式。有[视频](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYgTIlqf4Dy9KQpQ7kn1Tl0)。并发控制，乐观并发控制、多版本并发控制、OLAP索引、数据库压缩、存储模型、日志协议、检查点协议、优化器的实现、执行计划、并行join、查询编译、内存数据库.
+
+* [《CASPaxos: Replicated State Machines without logs》](https://arxiv.org/abs/1802.07000)
+
+介绍:这篇论文是Paxos算法变种，规避了Paxos算法的复杂性。同时达到了RSM的高性能要求。[github](https://github.com/rystsov/caspaxos) 上有开发者对这个算法进行了总结。已经有多种语言的实现方式。譬如Js和Golang版本的实现
