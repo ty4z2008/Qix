@@ -351,3 +351,7 @@
 * [《A Gopher's Reading List》](https://github.com/enocom/gopher-reading-list)
 
 介绍：Golang学习阅读列表，基础知识、经典文章（高效的golang、并发）、编码风格、测试、Web、性能分析、垃圾回收、性能处理、字符编码处理、JSON编码与解码
+
+* [《Go libraries》](https://golanglibs.com/)
+
+介绍：Golang库搜索
