@@ -1428,3 +1428,7 @@
 * [《An Introduction to Deep Learning for Tabular Data》](http://www.fast.ai/2018/04/29/categorical-embeddings/)
 
 介绍: 表格数据深度学习入门
+
+* [《OpenAI Scholars 2018 Reinforcement Learning Syllabus》](https://hollygrimm.com/syllabus_rl)
+
+介绍: OpenAI Scholars 2018 强化训练大纲
