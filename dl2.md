@@ -1431,4 +1431,8 @@
 
 * [《OpenAI Scholars 2018 Reinforcement Learning Syllabus》](https://hollygrimm.com/syllabus_rl)
 
-介绍: OpenAI Scholars 2018 强化训练大纲
+介绍: OpenAI Scholars 2018 强化训练大纲.
+
+* [《Deep reinforcement learning》](https://www.youtube.com/playlist?list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_)
+
+介绍: 李宏毅深度强化学习课程（国语）
