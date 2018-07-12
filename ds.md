@@ -887,4 +887,8 @@
 
 * [《CASPaxos: Replicated State Machines without logs》](https://arxiv.org/abs/1802.07000)
 
-介绍:这篇论文是Paxos算法变种，规避了Paxos算法的复杂性。同时达到了RSM的高性能要求。[github](https://github.com/rystsov/caspaxos) 上有开发者对这个算法进行了总结。已经有多种语言的实现方式。譬如Js和Golang版本的实现
+介绍:这篇论文是Paxos算法变种，规避了Paxos算法的复杂性。同时达到了RSM的高性能要求。[github](https://github.com/rystsov/caspaxos) 上有开发者对这个算法进行了总结。已经有多种语言的实现方式。譬如Js和Golang版本的实现.
+
+* [《Facebook Immune System》](https://css.csail.mit.edu/6.858/2012/readings/facebook-immune.pdf)
+
+介绍:Facebook反作弊系统论文。
