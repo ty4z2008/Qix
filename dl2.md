@@ -1436,3 +1436,7 @@
 * [《Deep reinforcement learning》](https://www.youtube.com/playlist?list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_)
 
 介绍: 李宏毅深度强化学习课程（国语）
+
+* [《Intro to Neural Networks and Machine Learning》](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/)
+
+介绍: 多伦多大学课程：CSC 321 Winter 2018.神经网络与机器学习入门
