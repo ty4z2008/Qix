@@ -892,3 +892,7 @@
 * [《Facebook Immune System》](https://css.csail.mit.edu/6.858/2012/readings/facebook-immune.pdf)
 
 介绍:Facebook反作弊系统论文。
+
+* [《Logical Physical Clocks and Consistent Snapshots in Globally Distributed Databases》](https://cse.buffalo.edu/tech-reports/2014-04.pdf)
+
+介绍:混合逻辑时钟。
