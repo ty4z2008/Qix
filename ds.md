@@ -896,3 +896,7 @@
 * [《Logical Physical Clocks and Consistent Snapshots in Globally Distributed Databases》](https://cse.buffalo.edu/tech-reports/2014-04.pdf)
 
 介绍:混合逻辑时钟。
+
+* [《Riffle: optimized shuffle service for large-scale data analytics》](https://dl.acm.org/citation.cfm?id=3190534)
+
+介绍:Riffle：大规模分布式系统中的数据分析优化。
