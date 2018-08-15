@@ -39,7 +39,7 @@ Link ：https://github.com/ty4z2008/Qix/blob/master/golang.md
 
 Link  ：https://github.com/ty4z2008/Qix/blob/master/pg.md
 
-## Distributed system resource
+## Distributed system resources
 
 Links ：https://github.com/ty4z2008/Qix/blob/master/ds.md
 
