@@ -355,3 +355,11 @@
 * [《Go libraries》](https://golanglibs.com/)
 
 介绍：Golang库搜索
+
+* [《Golang libraries of uber》](https://go.uber.org/)
+
+介绍：Uber的开源核心库。从重可以学习到一个大型系统的Go语言结构设计，里面涉及到配置、日志、工具组件、RPC、监控
+
+* [《Go语言高级编程(Advanced Go Programming)》](https://chai2010.gitbooks.io/advanced-go-programming-book/)
+
+介绍：本书涵盖CGO、Go汇编语言、RPC实现、Web框架实现、分布式系统等高阶主题，针对Go语言有一定经验想深入了解Go语言各种高级用法的开发人员。对于刚学习Go语言的读者，建议先从[《Go语言圣经》](https://github.com/gopl-zh/gopl-zh.github.com)开始系统学习Go语言的基础知识。
