@@ -366,4 +366,4 @@
 
 * [《GopherCon 2018 liveblog》](https://about.sourcegraph.com/go/)
 
-介绍：GopherCon 2018会议分享文本
+介绍：GopherCon 2018会议分享文本,主题：包的实现，Go contributor，代码优化、机器学习的应用、项目结构、图像识别、测试
