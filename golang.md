@@ -363,3 +363,7 @@
 * [《Go语言高级编程(Advanced Go Programming)》](https://chai2010.gitbooks.io/advanced-go-programming-book/)
 
 介绍：本书涵盖CGO、Go汇编语言、RPC实现、Web框架实现、分布式系统等高阶主题，针对Go语言有一定经验想深入了解Go语言各种高级用法的开发人员。对于刚学习Go语言的读者，建议先从[《Go语言圣经》](https://github.com/gopl-zh/gopl-zh.github.com)开始系统学习Go语言的基础知识。
+
+* [《GopherCon 2018 liveblog》](https://about.sourcegraph.com/go/)
+
+介绍：GopherCon 2018会议分享文本
