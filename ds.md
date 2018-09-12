@@ -900,3 +900,7 @@
 * [《Riffle: optimized shuffle service for large-scale data analytics》](https://dl.acm.org/citation.cfm?id=3190534)
 
 介绍:Riffle：大规模分布式系统中的数据分析优化。
+
+* [《Omega: flexible, scalable schedulers for large compute clusters》](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41684.pdf)
+
+介绍:本文描述了Google第二代容器化调度服务Omega的设计与诞生。作者也有一份[keynote](https://people.csail.mit.edu/malte/pub/talks/2013-04-17_eurosys-omega.pdf)。相关介绍[视频](https://www.youtube.com/watch?v=Zf__a9ReiPE)
