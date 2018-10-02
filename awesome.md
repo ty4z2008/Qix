@@ -18,6 +18,9 @@
 
 介绍:Linux：安装，配置，源码分析,还有在线电子书[Bash Guide for Beginners](http://linux.die.net/Bash-Beginners-Guide/)等等
 
+* [《Linux Documentation and Resources》](http://linux.die.net/)
+
+介绍:Linux：安装，配置，源码分析,还有在线电子书[Bash Guide for Beginners](http://linux.die.net/Bash-Beginners-Guide/)等等
 * [《Learn X in Y minutes》](http://learnxinyminutes.com/)
 
 介绍:编程语言快速学习指南,主要是对编程语言代码的分析
@@ -406,7 +409,7 @@
 
 介绍:卡内基梅隆大学高级数据库系统课程，拥有课件和视频。课程内容有，并发控制(MVCC、OCC)、LTOP、优化器、数据压缩、执行和调度、并行join
 
-* [《The Philosophy of Computer Science》](https://plato.stanford.edu/entries/computer-science/)
+* [《AMPLab paper set》](https://amplab.cs.berkeley.edu/publication)
 
-介绍:计算机科学的哲学
+介绍:加州大学伯克利学校AMPLab实验室论文集合
 
