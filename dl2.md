@@ -1440,3 +1440,19 @@
 * [《Intro to Neural Networks and Machine Learning》](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/)
 
 介绍: 多伦多大学课程：CSC 321 Winter 2018.神经网络与机器学习入门
+
+* [《UC Berkeley：Deep Reinforcement Learning》](http://rail.eecs.berkeley.edu/deeprlcourse/)
+
+介绍: UC Berkeley深度強化學習課程,[Youtube](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37) 、[Bilibili](https://www.bilibili.com/video/av32730838/)
+
+* [《The Illustrated Transformer》](https://jalammar.github.io/illustrated-transformer/)
+
+介绍: 图解Transformer
+
+* [《EE363 - Linear Dynamical Systems》](http://stanford.edu/class/ee363/lectures.html)
+
+介绍: 斯坦福《线性动态系统》课程讲义
+
+* [《Google at EMNLP 2018》](https://ai.googleblog.com/2018/10/google-at-emnlp-2018.html)
+
+介绍: Google的EMNLP 2018成果汇总
