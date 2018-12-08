@@ -904,3 +904,7 @@
 * [《Omega: flexible, scalable schedulers for large compute clusters》](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41684.pdf)
 
 介绍:本文描述了Google第二代容器化调度服务Omega的设计与诞生。作者也有一份[keynote](https://people.csail.mit.edu/malte/pub/talks/2013-04-17_eurosys-omega.pdf)。相关介绍[视频](https://www.youtube.com/watch?v=Zf__a9ReiPE)
+
+* [《Large-scale Incremental Processing Using Distributed Transactions and Notifications》](http://notes.stephenholiday.com/Percolator.pdf)
+
+介绍:Percolator号称其取代MapReduce之后，Google的索引更新速度提升了100倍。它究竟是如何实现 “100” 这个刺眼的数字？当今的并行计算世界真的有如此大的提升空间吗？当我们满心欢喜以为又有新的算法、新的并行计算架构可以学习时，她却又为何跟你聊起了分布式事务？这篇文章将为您揭晓。[中文版](http://www.importnew.com/2896.html)
