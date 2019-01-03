@@ -1456,3 +1456,15 @@
 * [《Google at EMNLP 2018》](https://ai.googleblog.com/2018/10/google-at-emnlp-2018.html)
 
 介绍: Google的EMNLP 2018成果汇总
+
+* [《COMPGI22 - Advanced Deep Learning and Reinforcement Learning》](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+
+介绍: 伦敦大学的深度学习与强化学习进阶课程。[slide](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning)
+
+* [《Causal Inference(drafts)》](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
+
+介绍: 书稿：因果推理概念与方法. [code](https://github.com/jrfiedler/causal_inference_python_code)
+
+* [《INF556 -- Topological Data Analysis (2018-19)》](http://www.enseignement.polytechnique.fr/informatique/INF556/index.html)
+
+介绍: 课程资料：拓扑数据分析。非官方[笔记](https://tlacombe.github.io/teaching/notesCoursINF556/)
