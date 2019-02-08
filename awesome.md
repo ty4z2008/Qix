@@ -413,3 +413,8 @@
 
 介绍:加州大学伯克利学校AMPLab实验室论文集合
 
+* [《Online, Asynchronous Schema Change in F1》](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41376.pdf)
+
+介绍:在线异步修改表结构，本文讲述Google F1 在线表结构更改算法逻辑。核心思想是把scheme的修改由一步变为四步：`absent --> delete only --> write only --(reorg)--> public`.中文版参考可以阅读[异步 schema 变更
+](https://github.com/zimulala/builddatabase/blob/master/f1/schema-change.md)
+
