@@ -490,7 +490,7 @@
 
 * [《Raft: In search of an Understandable Consensus Algorithm》](https://raft.github.io/raft.pdf)
 
-介绍：aft 是一种用来管理日志复制的一致性算法。它和 Paxos 的性能和功能是一样的，但是它和 Paxos 的结构不一样；这使得 Raft 更容易理解并且更易于建立实际的系统。[中文版](http://www.infoq.com/cn/articles/raft-paper)
+介绍：aft 是一种用来管理日志复制的一致性算法。它和 Paxos 的性能和功能是一样的，但是它和 Paxos 的结构不一样；这使得 Raft 更容易理解并且更易于建立实际的系统。[中文版](http://www.infoq.com/cn/articles/raft-paper). [](https://github.com/pingcap/raft-rs)
 
 * [《Raft: Understandable Distributed Consensus》](http://thesecretlivesofdata.com/raft/)
 
@@ -908,3 +908,7 @@
 * [《Large-scale Incremental Processing Using Distributed Transactions and Notifications》](http://notes.stephenholiday.com/Percolator.pdf)
 
 介绍:Percolator号称其取代MapReduce之后，Google的索引更新速度提升了100倍。它究竟是如何实现 “100” 这个刺眼的数字？当今的并行计算世界真的有如此大的提升空间吗？当我们满心欢喜以为又有新的算法、新的并行计算架构可以学习时，她却又为何跟你聊起了分布式事务？这篇文章将为您揭晓。[中文版](http://www.importnew.com/2896.html)
+
+* [《Designing Data-Intensive Applications》](http://dataintensive.net/)
+
+介绍:设计数据密集型应用是一本讲述分布式系统的数据，作者是卡内基梅隆大学的研究员。本书的质量很高。详细讲述各种数据存储，包括关系型数据库、NoSQL、大数据存储、流处理系统等等，由浅入深、拨丝抽茧.适合给刚刚步入分布式系统大门的朋友.[简译版](https://vonng.gitbooks.io/ddia-cn/content/)
