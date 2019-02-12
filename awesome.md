@@ -418,3 +418,7 @@
 介绍:在线异步修改表结构，本文讲述Google F1 在线表结构更改算法逻辑。核心思想是把scheme的修改由一步变为四步：`absent --> delete only --> write only --(reorg)--> public`.中文版参考可以阅读[异步 schema 变更
 ](https://github.com/zimulala/builddatabase/blob/master/f1/schema-change.md)、[TiDB 的异步 schema 变更实现](http://zimulala.github.io/2016/02/02/schema-change-implement/)
 
+* [《Writing an OS in Rust (Second Edition)》](https://os.phil-opp.com/)
+
+介绍: 用Rust写一个操作系统系列文章。
+
