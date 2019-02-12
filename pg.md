@@ -855,4 +855,8 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 * [《Understanding the power of data types: PostgreSQL's Secret Weapon》](http://postgres-data-types.pvh.ca/)
 
-介绍:了解数据类型的力量：PostgreSQL的秘密武器
+介绍:了解数据类型的力量：PostgreSQL的秘密武器.
+
+* [《PostgreSQL Backend Flowchart》](https://www.postgresql.org/developer/backend/)
+
+介绍:PostgreSQL的后台执行流程图。
