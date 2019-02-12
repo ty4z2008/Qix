@@ -859,4 +859,4 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 
 * [《PostgreSQL Backend Flowchart》](https://www.postgresql.org/developer/backend/)
 
-介绍:PostgreSQL的后台执行流程图。
+介绍:PostgreSQL的后台执行流程图,对于阅读源码或者是想了解内部的构成可以先阅读。
