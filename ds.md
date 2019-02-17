@@ -912,3 +912,7 @@
 * [《Designing Data-Intensive Applications》](http://dataintensive.net/)
 
 介绍:设计数据密集型应用是一本讲述分布式系统的数据，作者是卡内基梅隆大学的研究员。本书的质量很高。详细讲述各种数据存储，包括关系型数据库、NoSQL、大数据存储、流处理系统等等，由浅入深、拨丝抽茧.适合给刚刚步入分布式系统大门的朋友.[简译版](https://vonng.gitbooks.io/ddia-cn/content/)
+
+* [《CSE 552 Fall 2013 Lecture Topics》](https://courses.cs.washington.edu/courses/cse552/13au/calendar/lecturelist.html)
+
+介绍:华盛顿大学分布式系统课程，老师是Tom Anderson，。
