@@ -1472,3 +1472,11 @@
 * [《paper with code》](https://paperswithcode.com)
 
 介绍: 有时会遇到找Paper的时候还需要找代码。时间一晃眼就过去了。现在有一个站点集合论文与代码一起。涵盖计算机视觉、自然语言、语音、医疗、生物等各个领域的机器学习论文
+
+* [《awesome-network-embedding》](https://github.com/chihming/awesome-network-embedding)
+
+介绍: 网络嵌入表示,也被称为图嵌入方法。推荐國立政治大學[陈启明](http://cherry.cs.nccu.edu.tw/~g10018/portfolio/)博士整理的推荐阅读列表
+
+* [《Awesome Community Detection》](https://github.com/benedekrozemberczki/awesome-community-detection)
+
+介绍: 社区发现算法用来发现网络中的社区结构，也可以视为一种广义的聚类算法。做社交网络的朋友推荐阅读[社区发现（community detection）未来的路到底该何去何从？](https://www.zhihu.com/question/32127662)
