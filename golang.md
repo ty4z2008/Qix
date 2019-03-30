@@ -367,3 +367,11 @@
 * [《GopherCon 2018 liveblog》](https://about.sourcegraph.com/go/)
 
 介绍：GopherCon 2018会议分享文本,主题：包的实现，Go contributor，代码优化、机器学习的应用、项目结构、图像识别、测试
+
+* [《Go security](https://github.com/guardrailsio/awesome-golang-security)
+
+介绍：Golang在安全领域的应用
+
+* [《Go conference](https://github.com/golang/go/wiki/Conferences)
+
+介绍：Go会议主页列表。
