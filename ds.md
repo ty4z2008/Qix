@@ -418,7 +418,7 @@
 
 * [《Cassandra - A Decentralized Structured Storage System》](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
 
-介绍: 分布式存储系统Cassandra剖析,推荐白皮书[Introduction to Apache Cassandra](http://www.datastax.com/wp-content/uploads/2012/08/WP-IntrotoCassandra.pdf).
+介绍: 分布式存储系统Cassandra剖析,主要讲述系统设计、客户端API、以及facebook的应用。推荐白皮书[Introduction to Apache Cassandra](http://www.datastax.com/wp-content/uploads/2012/08/WP-IntrotoCassandra.pdf).
 
 * [《What is the best resource to learn about distributed systems?》](https://www.quora.com/What-is-the-best-resource-to-learn-about-distributed-systems)
 
@@ -915,4 +915,12 @@
 
 * [《CSE 552 Fall 2013 Lecture Topics》](https://courses.cs.washington.edu/courses/cse552/13au/calendar/lecturelist.html)
 
-介绍:华盛顿大学分布式系统课程，老师是Tom Anderson，。
+介绍:华盛顿大学分布式系统课程，老师是Tom Anderson。
+
+* [《Kafka: a Distributed Messaging System for Log Processing》](http://notes.stephenholiday.com/Kafka.pdf)
+
+介绍:这篇论文是Kafka的开发团队所著，讲述Kafka的设计和架构，在Linkedin中应用以及性能评估，相当于是消息系统领域的"GFS"论文。
+
+* [《Workload Analysis of a Large-Scale Key-Value Store》](http://www.ece.eng.wayne.edu/~sjiang/pubs/papers/atikoglu12-memcached.pdf)
+
+介绍:这篇论文分析facebook在大规模使用Memcached的应用经验。如果高效的在分布式系统中利用缓存。通过缓存系统，研究员可以像tcpdump一样保存请求进行数据分析。如果是遇到大规模缓存使用的场景还是挺值得阅读。
