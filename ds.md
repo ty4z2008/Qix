@@ -924,3 +924,7 @@
 * [《Workload Analysis of a Large-Scale Key-Value Store》](http://www.ece.eng.wayne.edu/~sjiang/pubs/papers/atikoglu12-memcached.pdf)
 
 介绍:这篇论文分析facebook在大规模使用Memcached的应用经验。如果高效的在分布式系统中利用缓存。通过缓存系统，研究员可以像tcpdump一样保存请求进行数据分析。如果是遇到大规模缓存使用的场景还是挺值得阅读。
+
+* [《F4: Facebook's Warm BLOB Storage System》](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-muralidhar.pdf)
+
+介绍:F4 是 Facebook 为了降低存储成本而开发的，应用于只读可删除不可写场景的，对象存储系统。F4是建立在HDFS上，并阐述了它是如何应对HDFS的几处局限（即，增加了cross-data center replication和使用纠删码来减少复制因子）。通常，Facebook开发一个系统，都是非常实用的，都是为他们真实的使用案例量身打造的。
