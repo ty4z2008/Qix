@@ -218,4 +218,8 @@
 
 * [《Matters Computational Ideas, Algorithms, Source Code》](https://jjj.de/fxt/fxtbook.pdf)
 
-介绍：计算思想和算法的教科书
+介绍：计算思想和算法的教科书.
+
+* [《Computational Linear Algebra for Coders》](https://github.com/fastai/numerical-linear-algebra)
+
+介绍：写给程序员的线性代数课程
