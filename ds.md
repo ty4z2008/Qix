@@ -928,3 +928,21 @@
 * [《F4: Facebook's Warm BLOB Storage System》](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-muralidhar.pdf)
 
 介绍:F4 是 Facebook 为了降低存储成本而开发的，应用于只读可删除不可写场景的，对象存储系统。F4是建立在HDFS上，并阐述了它是如何应对HDFS的几处局限（即，增加了cross-data center replication和使用纠删码来减少复制因子）。通常，Facebook开发一个系统，都是非常实用的，都是为他们真实的使用案例量身打造的。
+
+* [《Towards Optimization-Safe Systems: Analyzing the Impact of Undefined Behavior》](http://www.cs.cmu.edu/~15712/papers/wang13.pdf)
+
+介绍:这篇论文是[SOSP '13](https://www.sigops.org/s/conferences/sosp/2013/)的论文。描述了各种由于编译器优化导致的正常人很难发现的 Bug。下面摘录一篇[阅读笔记](https://github.com/dyweb/papers-notebook#bug):
+```
+Undefined behavior 是编程语言规范对某段代码可能产生的某些执行结果未定义。Unstable code 就是在程序实际的执行过程中，由于涉及到undefined behavior，从而无法被编译器翻译（直接略过）的代码段。
+
+STACK会在Assumption Δ被允许和不允许的情况下分别模拟编译。
+
+先模拟假设不成立的情况进行一次编译；
+模拟假设成立的情况进行一次编译；
+查看前两步的执行结果有没有区别，有区别的地方就是 unstable code。
+如果执行第二步时得不到准确的结果，那么会漏报一些unstable code；如果执行第一步时得不到准确的结果，就会产生误报(false warning / false positive)。目前stack给出的Undefined behavior pattern 可能不齐全。
+
+对于程序员来说，通过fix bug或者去掉一些会被编译器当做是undefined behavior的代码；对于编译器来说，可以集成一些现有的bug-finding的工具，或者利用STACK的方式来判定unstable code；完善编程语言的specification，定义更多的代码执行规则，减少undefined behavior的产生。
+
+STACK为了使可扩展性更高，在计算Δ = ∀e:Reach(e) → ¬Undef(e)的时候做了一些近似运算，使最后得到的结果可能会漏掉一些unstable code。STACK为了简化和滤过某些查询用到的constraint solver如果发生了timeout，也会出现漏报的情况。因此，STACK为了更好的扩展性，牺牲了一定的可靠性（精度）。
+```
