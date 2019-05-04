@@ -222,4 +222,8 @@
 
 * [《Computational Linear Algebra for Coders》](https://github.com/fastai/numerical-linear-algebra)
 
-介绍：写给程序员的线性代数课程
+介绍：写给程序员的线性代数课程.
+
+* [《100 Suggested Final Project Topics》](http://web.stanford.edu/class/cs166/handouts/100%20Suggested%20Final%20Project%20Topics.pdf)
+
+介绍：斯坦福[CS160:数据结构](http://web.stanford.edu/class/cs166/)结课关于数据结构话题分类。字符串相关、最优MST算法、范围查找、LCA算法、二叉树等。包括简单介绍和为什么需要学习他们
