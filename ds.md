@@ -946,3 +946,7 @@ STACK会在Assumption Δ被允许和不允许的情况下分别模拟编译。
 
 STACK为了使可扩展性更高，在计算Δ = ∀e:Reach(e) → ¬Undef(e)的时候做了一些近似运算，使最后得到的结果可能会漏掉一些unstable code。STACK为了简化和滤过某些查询用到的constraint solver如果发生了timeout，也会出现漏报的情况。因此，STACK为了更好的扩展性，牺牲了一定的可靠性（精度）。
 ```
+
+* [《The Tail At Scale》](https://cseweb.ucsd.edu/~gmporter/classes/fa17/cse124/post/schedule/p74-dean.pdf)
+
+介绍:Jeff Dean 2013年发表的文章，讲述当用户的请求依赖大规模分布式系统来协作完成时，如何保证请求的响应时间？。里面提到几个关键：任务拆分、区分定时任务和后台任务、服务间调用超时处理、热点数据多副本
