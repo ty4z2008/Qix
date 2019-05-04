@@ -422,3 +422,7 @@
 
 介绍: 用Rust写一个操作系统系列文章。
 
+* [《Competitive Programmer’s Handbook》](https://cses.fi/book/book.pdf)
+
+介绍: 开源书籍，程序员竞争知识手册。
+
