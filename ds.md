@@ -953,4 +953,4 @@ STACK为了使可扩展性更高，在计算Δ = ∀e:Reach(e) → ¬Undef(e)的
 
 * [《ZooKeeper: Wait-free coordination for Internet-scale systems》](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf)
 
-介绍: ZooKeeper是一个分布式协调组件，它提供了一系列的基本原语，增、删、读、监听。例如这些可以实现很多高级的原语。例如锁（Zookeeper部署锁服务）、配置管理、主从管理。本文主要讲述了它的设计、应用以及测试结果。其中也讲到了它的高可用问题
+介绍: ZooKeeper是一个分布式协调组件，它提供了一系列的基本原语，增、删、读、监听。例如这些可以实现很多高级的原语。例如锁（Zookeeper部署锁服务）、配置管理、主从管理。本文主要讲述了它的设计、应用以及测试结果。其中也讲到了它的高可用问题，是Chubby的开源版本
