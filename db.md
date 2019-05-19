@@ -34,4 +34,4 @@
 
 - [《Spanner: Becoming a SQL System》]（https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/46103.pdf）    
 
-介绍：这本论文主要是讲述[Spanner](https://ai.google/research/pubs/pub39966)的之所以能成功的一些工程经验。如何为一个强大的分布式数据库内核添加SQL支持，如何处理并发问题。其中还列举出了两个案例：分布式中TOPK问题、JOIN随机读问题。
+介绍：这本论文主要是讲述[Spanner](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/65b514eda12d025585183a641b5a9e096a3c4be5.pdf)的之所以能成功的一些工程经验。如何为一个强大的分布式数据库内核添加SQL支持，如何处理并发问题。其中还列举出了两个案例：分布式中TOPK问题、JOIN随机读问题。
