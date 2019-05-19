@@ -14,7 +14,7 @@
 
 #### 书籍
 
-- [《Database System Concepts》](https://kakeboksen.td.org.uit.no/Database System Concepts 6th edition.pdf)
+- [《Database System Concepts》](https://kakeboksen.td.org.uit.no/Database%20System%20Concepts%206th%20edition.pdf)
 
     介绍：经典书籍，数据库系统概念。数据库领域的殿堂级作品。夯实数据库理论基础，增强数据库技术内功的必备之选。内容涉及很广：表、SQL、关系模型、事务、数据库设计、分布式、存储、索引、查询处理与优化、并发、数据库分析（postgresql,SQL server）。书的难度系数对于刚刚入门的同学可能不太适合，但可以当作"词典”。配套书籍[网站](https://www.db-book.com/).
 
