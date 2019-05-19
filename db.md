@@ -1,8 +1,8 @@
 ## 数据库系统(Database System)资料
 
-- 书籍
+- [书籍](#书籍)
 - 进程管理
-- 查询/优化器
+- [查询/优化器](#查询/优化器)
 - 存储
 - 事务
 - 共享组件
@@ -24,7 +24,7 @@
 
 
 
-#### 查询/优化器
+#### 查询优化器
 
 - [《How to Architect a Query Compiler, Revisited》](https://www.cs.purdue.edu/homes/rompf/papers/tahboub-sigmod18.pdf)
 
