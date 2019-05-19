@@ -953,4 +953,8 @@ STACK为了使可扩展性更高，在计算Δ = ∀e:Reach(e) → ¬Undef(e)的
 
 * [《ZooKeeper: Wait-free coordination for Internet-scale systems》](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf)
 
-介绍: ZooKeeper是一个分布式协调组件，它提供了一系列的基本原语，增、删、读、监听。例如这些可以实现很多高级的原语。例如锁（Zookeeper部署锁服务）、配置管理、主从管理。本文主要讲述了它的设计、应用以及测试结果。其中也讲到了它的高可用问题，是Chubby的开源版本
+介绍: ZooKeeper是一个分布式协调组件，它提供了一系列的基本原语，增、删、读、监听。例如这些可以实现很多高级的原语。例如锁（Zookeeper部署锁服务）、配置管理、主从管理。本文主要讲述了它的设计、应用以及测试结果。其中也讲到了它的高可用问题，是Chubby的开源版本.
+
+* [《Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases》](https://www.allthingsdistributed.com/files/p1041-verbitski.pdf)
+
+介绍:Amazon Aurora是NewSQL的代表作品之一，与[TiDB](https://github.com/pingcap/tidb)相比较有一些不同。不过两者都是为云而生的数据库，对横向伸缩天生的良好支持、failover。从论文中可以知道aurora通过log如何实现改善数据库的性能。Aurora的核心思想是尽可能的利用存储的性能，把计算节点下推到存储节点处理。
