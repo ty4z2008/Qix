@@ -1,6 +1,7 @@
 ## 数据库系统(Database System)资料
 
 - [书籍](#书籍)
+- [课程](#课程)
 - 进程管理
 - [查询/优化器](#查询/优化器)
 - 存储
@@ -22,7 +23,11 @@
 
 介绍：经典书籍，数据库系统基础教程。讲述关系数据模型、ER图、约束与触发器、SQL、视图。适合入门数据库系统的同学
 
+#### 书籍
 
+- [《CMU 15-721 (SPRING 2018) Advanced Database Systems》](https://15721.courses.cs.cmu.edu/spring2018/)
+
+介绍：卡内基梅隆2018年春季高级数据库课程，对现代数据库管理系统内部的全面研究。它将涵盖高性能事务处理系统（OLTP）和大规模分析系统（OLAP）中的组件核心概念和基础知识。它的[阅读列表](https://15721.courses.cs.cmu.edu/spring2018/schedule.html#jan-24-2018)、[课堂笔记](https://15721.courses.cs.cmu.edu/spring2018/notes/)、[课件](https://15721.courses.cs.cmu.edu/spring2018/slides/)都已经开放。并且提供了[视频](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYplQRUlrgQKwIAV3es0U6t)
 
 #### 查询优化器
 
