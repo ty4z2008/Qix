@@ -23,7 +23,7 @@
 
 介绍：经典书籍，数据库系统基础教程。讲述关系数据模型、ER图、约束与触发器、SQL、视图。适合入门数据库系统的同学
 
-#### 书籍
+#### 课程
 
 - [《CMU 15-721 (SPRING 2018) Advanced Database Systems》](https://15721.courses.cs.cmu.edu/spring2018/)
 
