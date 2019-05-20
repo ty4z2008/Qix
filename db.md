@@ -10,6 +10,7 @@
 - 关系模型
 - 分布式数据库
 - [NewSQL](#NewSQL)
+- [学者](#学者)
 
 
 
@@ -29,6 +30,10 @@
 
 介绍：卡内基梅隆2018年春季高级数据库课程，对现代数据库管理系统内部的全面研究。它将涵盖高性能事务处理系统（OLTP）和大规模分析系统（OLAP）中的组件核心概念和基础知识。它的[阅读列表](https://15721.courses.cs.cmu.edu/spring2018/schedule.html#jan-24-2018)、[课堂笔记](https://15721.courses.cs.cmu.edu/spring2018/notes/)、[课件](https://15721.courses.cs.cmu.edu/spring2018/slides/)都已经开放。并且提供了[视频](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYplQRUlrgQKwIAV3es0U6t)
 
+- [《6.830/6.814: Database Systems》](http://db.csail.mit.edu/6.830/)
+
+介绍：数据库系统的一门核心课程。由数据库的一大山头[Samuel Madden教授](http://db.csail.mit.edu/madden/)。前半部分比较基础的数据库的知识包含关系代数、数据模型、范式、查询优化、事务，后半段主要在讲分布式数据库，讲如何达到数据一致性，也是database比较火的研究方向。
+
 #### 查询优化器
 
 - [《How to Architect a Query Compiler, Revisited》](https://www.cs.purdue.edu/homes/rompf/papers/tahboub-sigmod18.pdf)
@@ -40,3 +45,9 @@
 - [《Spanner: Becoming a SQL System》](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/46103.pdf)    
 
 介绍：这本论文主要是讲述[Spanner](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/65b514eda12d025585183a641b5a9e096a3c4be5.pdf)的之所以能成功的一些工程经验。如何为一个强大的分布式数据库内核添加SQL支持，如何处理并发问题。其中还列举出了两个案例：分布式中TOPK问题、JOIN随机读问题。
+
+#### 学者
+
+- [《Daniel Abadi》](https://www.cs.umd.edu/~abadi/)    
+
+介绍：卡内基梅隆的Daniel Abadi教授，HadoopDB的作者。他的[博客](http://dbmsmusings.blogspot.com/) 质量很高。譬如[讨论事务隔离级别](http://dbmsmusings.blogspot.com/2019/05/introduction-to-transaction-isolation.html)、[2阶段提交](http://dbmsmusings.blogspot.com/2019/01/its-time-to-move-on-from-two-phase.html)
