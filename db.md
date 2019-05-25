@@ -22,7 +22,11 @@
 
 - [《A First Course in Database Systems》](http://infolab.stanford.edu/~ullman/fcdb.html)
 
-介绍：经典书籍，数据库系统基础教程。讲述关系数据模型、ER图、约束与触发器、SQL、视图。适合入门数据库系统的同学
+介绍：经典书籍，数据库系统基础教程。讲述关系数据模型、ER图、约束与触发器、SQL、视图。适合入门数据库系统的同学。
+
+- [《Architecture of a Database System》](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf)
+
+介绍：剖析数据系统内部架构，本文一共包括 8 章，分别是：第 1 章概述，第 2 章进程模型，第 3 章并行体系结构：进程和内存协调，第 4 章关系查询处理器，第 5 章存储管理，第 6 章事务：并发控制和恢复，第 7 章共享组件，第 8 章结束语。[中文版](http://dblab.xmu.edu.cn/wp-content/uploads/old/files/linziyu-Architecture%20of%20a%20Database%20System(Chinese%20Version)-ALL.pdf)由厦门大学数据库实验室翻译
 
 #### 课程
 
