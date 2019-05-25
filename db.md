@@ -30,7 +30,11 @@
 
 - [《Readings in Database Systems, 5th Edition》](http://www.redbook.io/)
 
-介绍：数据库领域红宝书重出江湖。《Readings in Database Systems, 5th Edition》评注版 Peter Bailis, Joseph M. Hellerstein, Michael Stonebraker编著。十年之后，内容大变，传统数据库架构彻底重写，bigdata浪潮影响深远，数据库领域必看书籍。里面包含有数据挖掘、查询优化、数据库语言
+介绍：数据库领域红宝书重出江湖。《Readings in Database Systems, 5th Edition》评注版 Peter Bailis, Joseph M. Hellerstein, Michael Stonebraker编著。十年之后，内容大变，传统数据库架构彻底重写，bigdata浪潮影响深远，数据库领域必看书籍。里面包含有数据挖掘、查询优化、数据库语言.
+
+- [《Database System Implementation》](http://infolab.stanford.edu/~ullman/dbsi.html)
+
+介绍：斯坦福大学本科教材，这本阐述了实现关系数据库系统各个层面的关键技术。主要分为三部分：存储管理器、查询处理器和事务管理器的实现技术。书中从存储，Index，SQL compiler，optimizer, log，事务等关键技术。不太适合数据库入门初学者，理论很多信息量大。[英文版](https://people.inf.elte.hu/miiqaai/elektroModulatorDva.pdf)
 
 #### 课程
 
