@@ -5,7 +5,7 @@
 - 进程管理
 - [查询/优化器](#查询/优化器)
 - 存储
-- 事务
+- [事务](#事务)
 - 共享组件
 - 关系模型
 - 分布式数据库
@@ -42,11 +42,22 @@
 
 介绍：数据库系统的一门核心课程。由数据库的一大山头[Samuel Madden教授](http://db.csail.mit.edu/madden/)。前半部分比较基础的数据库的知识包含关系代数、数据模型、范式、查询优化、事务，后半段主要在讲分布式数据库，讲如何达到数据一致性，也是database比较火的研究方向。
 
-#### 查询优化器
+- [《Use and realization of database systems》](https://db.in.tum.de/teaching/ss19/impldb/?lang=en)
+
+介绍：使用并且实现一个数据库系统，这门课程是德国慕尼黑工业大学开设，包含两部分：实现和使用。内容有：事务管理、错误处理、多用户同步、数据的结构、请求处理、分布式数据库、OLTP/OLAP、XML、性能评估。
+
+
+#### 查询/优化器
 
 - [《How to Architect a Query Compiler, Revisited》](https://www.cs.purdue.edu/homes/rompf/papers/tahboub-sigmod18.pdf)
 
 介绍：本篇论文讲述如何架构一个查询编译器，SQL如何被执行、查询评估、如何处理并行执行、查询器的优化、以及最后的[TPC]([http://www.tpc.org/information/benchmarks.asp](http://www.tpc.org/information/benchmarks.asp))测试。
+
+#### 事务
+
+- [《Transaction Systems》](https://db.in.tum.de/teaching/ss19/transactions/?lang=en)
+
+介绍：这门课程是德国慕尼黑工业大学开设的关于数据库事务课程。内容有：计算模型、并发控制算法、多版本并发控制、并发控制在对象/查询结构/关系数据库的应用、事务恢复、page恢复算法、如何实现。主要是课件
 
 #### NewSQL
 
