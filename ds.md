@@ -958,3 +958,7 @@ STACK为了使可扩展性更高，在计算Δ = ∀e:Reach(e) → ¬Undef(e)的
 * [《Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases》](https://www.allthingsdistributed.com/files/p1041-verbitski.pdf)
 
 介绍:Amazon Aurora是NewSQL的代表作品之一，与[TiDB](https://github.com/pingcap/tidb)相比较有一些不同。不过两者都是为云而生的数据库，对横向伸缩天生的良好支持、failover。从论文中可以知道aurora通过log如何实现改善数据库的性能。Aurora的核心思想是尽可能的利用存储的性能，把计算节点下推到存储节点处理。
+
+- [《Consensus: Bridging Theory and Practice》](https://web.stanford.edu/~ouster/cgi-bin/papers/OngaroPhD.pdf)
+
+介绍：一致性：理论和实践。这篇是作者的博士论文，整篇论文围绕这个一致性相关主题展开。Raft算法基础、集群成员改变、客户端交互、Raft学习、验证、一致性实现和性能。作者把相关的公式和笔记放在[github](https://github.com/ongardie/dissertation/)
