@@ -28,6 +28,10 @@
 
 介绍：剖析数据系统内部架构，本文一共包括 8 章，分别是：第 1 章概述，第 2 章进程模型，第 3 章并行体系结构：进程和内存协调，第 4 章关系查询处理器，第 5 章存储管理，第 6 章事务：并发控制和恢复，第 7 章共享组件，第 8 章结束语。[中文版](http://dblab.xmu.edu.cn/wp-content/uploads/old/files/linziyu-Architecture%20of%20a%20Database%20System(Chinese%20Version)-ALL.pdf)由厦门大学数据库实验室翻译
 
+- [《Readings in Database Systems, 5th Edition》](http://www.redbook.io/)
+
+介绍：数据库领域红宝书重出江湖。《Readings in Database Systems, 5th Edition》评注版 Peter Bailis, Joseph M. Hellerstein, Michael Stonebraker编著。十年之后，内容大变，传统数据库架构彻底重写，bigdata浪潮影响深远，数据库领域必看书籍。里面包含有数据挖掘、查询优化、数据库语言
+
 #### 课程
 
 - [《CMU 15-721 (SPRING 2018) Advanced Database Systems》](https://15721.courses.cs.cmu.edu/spring2018/)
