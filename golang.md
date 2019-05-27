@@ -375,3 +375,7 @@
 * [《Go conference](https://github.com/golang/go/wiki/Conferences)
 
 介绍：Go会议主页列表。
+
+* [《Go 101](https://go101.org/article/101.html)
+
+介绍：Go 101是一个系列，包含语言基础、技巧、内部细节、常见疑问。有[中文版](https://gfw.go101.org/article/101.html)
