@@ -376,7 +376,7 @@
 
 * [《Gradient Boosted Regression Trees》](http://nbviewer.ipython.org/github/pprett/pydata-gbrt-tutorial/blob/master/gbrt-tutorial.ipynb)
 
-介绍:(IPN)基于Scikit-Learn的GBRT(Gradient Boost Regression Tree)教程，[slide](http://orbi.ulg.ac.be/bitstream/2268/163521/1/slides.pdf)
+介绍:(IPN)基于Scikit-Learn的GBRT(Gradient Boost Regression Tree)教程，[slide](http://orbi.ulg.ac.be/bitstream/2268/163521/1/slides.pdf).推荐决策树相关[阅读列表](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
 
 * [《Apache SINGA : Distributed Deep Learning System》](http://www.comp.nus.edu.sg/~dbsystem/singa/)
 
@@ -1473,9 +1473,9 @@
 
 介绍: 有时会遇到找Paper的时候还需要找代码。时间一晃眼就过去了。现在有一个站点集合论文与代码一起。涵盖计算机视觉、自然语言、语音、医疗、生物等各个领域的机器学习论文
 
-* [《awesome-network-embedding》](https://github.com/chihming/awesome-network-embedding)
+* [《awesome network embedding》](https://github.com/chihming/awesome-network-embedding)
 
-介绍: 网络嵌入表示,也被称为图嵌入方法。推荐國立政治大學[陈启明](http://cherry.cs.nccu.edu.tw/~g10018/portfolio/)博士整理的推荐阅读列表
+介绍: 网络嵌入,也被称为图嵌入方法。推荐國立政治大學[陈启明](http://cherry.cs.nccu.edu.tw/~g10018/portfolio/)博士整理的推荐阅读列表。[图嵌入论文阅读列表](https://github.com/benedekrozemberczki/awesome-graph-embedding)
 
 * [《Awesome Community Detection》](https://github.com/benedekrozemberczki/awesome-community-detection)
 
@@ -1484,3 +1484,7 @@
 * [《SLAM Resources》](https://github.com/ckddls1321/SLAM_Resources)
 
 介绍: 即时定位与地图构建资源列表，主要是这个领域的论文、算法、数据集、相关开发工具
+
+* [《Fraud Detection Research Papers》](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
+
+介绍: 反欺诈相关论文阅读列表，在金融领域反欺诈一直是一个非常重要的部分。贯穿整个金融系统。随着经济的发展，电商、保险等行业需要引入欺诈检测。论文列表中涉及的部分涵盖电商、交易、社交网络、银行多个行业的案例与实践。

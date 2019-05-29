@@ -1219,7 +1219,7 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 * [《Machine learning for package users with R (1): Decision Tree》](http://tjo-en.hatenablog.com/entry/2015/03/20/191614)
 
-介绍: 决策树
+介绍: 决策树，推荐决策树相关论文[阅读列表](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
 
 * [《Deep Learning, The Curse of Dimensionality, and Autoencoders》](http://www.kdnuggets.com/2015/03/deep-learning-curse-dimensionality-autoencoders.html)
 
