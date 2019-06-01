@@ -962,3 +962,7 @@ STACK为了使可扩展性更高，在计算Δ = ∀e:Reach(e) → ¬Undef(e)的
 - [《Consensus: Bridging Theory and Practice》](https://web.stanford.edu/~ouster/cgi-bin/papers/OngaroPhD.pdf)
 
 介绍：一致性：理论和实践。这篇是作者的博士论文，整篇论文围绕这个一致性相关主题展开。Raft算法基础、集群成员改变、客户端交互、Raft学习、验证、一致性实现和性能。作者把相关的公式和笔记放在[github](https://github.com/ongardie/dissertation/)
+
+- [《Performance Debugging for Distributed Systems of Black Boxes》](https://pdos.csail.mit.edu/~athicha/papers/blackboxes:sosp03.pdf)
+
+介绍：对分布式系统的性能Debug非常困难，因为里面的问题很多都是非确定性的，而且无法重现。只能通过对log的挖掘，找出配对的调用/消息以定位问题。黑盒方案假定需要跟踪的除了上述信息之外没有额外的信息，这样使用统计回归技术来推断两者之间的关系.与之相对应的Google使用标注方案解决Debug问题，具体参考[Dapper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36356.pdf)
