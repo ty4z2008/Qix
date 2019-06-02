@@ -44,7 +44,7 @@
 
 - [《6.830/6.814: Database Systems》](http://db.csail.mit.edu/6.830/)
 
-介绍：数据库系统的一门核心课程。由数据库的一大山头[Samuel Madden教授](http://db.csail.mit.edu/madden/)。前半部分比较基础的数据库的知识包含关系代数、数据模型、范式、查询优化、事务，后半段主要在讲分布式数据库，讲如何达到数据一致性，也是database比较火的研究方向。
+介绍：麻省理工学院数据库系统的一门核心课程。由数据库[Samuel Madden教授](http://db.csail.mit.edu/madden/)[DB Lab](http://db.csail.mit.edu/)推出的课程。前半部分比较基础的数据库的知识包含关系代数、数据模型、范式、查询优化、事务，后半段主要在讲分布式数据库，讲如何达到数据一致性，也是database比较火的研究方向。
 
 - [《Use and realization of database systems》](https://db.in.tum.de/teaching/ss19/impldb/?lang=en)
 
