@@ -1475,7 +1475,7 @@
 
 * [《awesome network embedding》](https://github.com/chihming/awesome-network-embedding)
 
-介绍: 网络嵌入,也被称为图嵌入方法。推荐國立政治大學[陈启明](http://cherry.cs.nccu.edu.tw/~g10018/portfolio/)博士整理的推荐阅读列表。[图嵌入论文阅读列表](https://github.com/benedekrozemberczki/awesome-graph-embedding)
+介绍: 网络嵌入,也被称为图嵌入方法。推荐國立政治大學[陈启明](http://cherry.cs.nccu.edu.tw/~g10018/portfolio/)博士整理的推荐阅读列表。[图嵌入论文阅读列表](https://github.com/benedekrozemberczki/awesome-graph-classification)
 
 * [《Awesome Community Detection》](https://github.com/benedekrozemberczki/awesome-community-detection)
 
