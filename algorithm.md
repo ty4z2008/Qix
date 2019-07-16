@@ -231,3 +231,7 @@
 * [《15-853: Algorithms in the "Real World"》](http://www.cs.cmu.edu/afs/cs/project/pscico-guyb/realworld/www/indexS18.html)
 
 介绍：CMU的算法在工业界的应用课程
+
+* [《15-859: Algorithms for Big Data, Fall 2017》](http://www.cs.cmu.edu/~dwoodruf/teaching/15859-fall17/index.html)
+
+介绍：CMU的算法在大数据的应用课程
