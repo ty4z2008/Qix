@@ -69,6 +69,10 @@
 
 介绍：这本论文主要是讲述[Spanner](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/65b514eda12d025585183a641b5a9e096a3c4be5.pdf)的之所以能成功的一些工程经验。如何为一个强大的分布式数据库内核添加SQL支持，如何处理并发问题。其中还列举出了两个案例：分布式中TOPK问题、JOIN随机读问题。
 
+- [《Fast Scans on Key-Value Stores》](http://www.vldb.org/pvldb/vol10/p1526-bocksrocker.pdf)    
+
+介绍：vldb2019年会议论文，如何构建可快速查询的KV存储系统.讲述了KV系统构建时的权衡.该篇是作者博士论文[<Tell: An Elastic Database System for Mixed Workloads>](https://www.systems.ethz.ch/sites/default/files/file/UpcomingPublications/PilmanMarkus2016.pdf)的精简版
+
 #### 学者
 
 - [《Daniel Abadi》](https://www.cs.umd.edu/~abadi/)    
