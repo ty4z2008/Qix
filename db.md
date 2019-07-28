@@ -57,6 +57,10 @@
 
 介绍：本篇论文讲述如何架构一个查询编译器，SQL如何被执行、查询评估、如何处理并行执行、查询器的优化、以及最后的[TPC]([http://www.tpc.org/information/benchmarks.asp](http://www.tpc.org/information/benchmarks.asp))测试。
 
+- [《Improved Query Performance with Variant Indexes》](http://ilpubs.stanford.edu:8090/253/1/1997-40.pdf)
+
+介绍：分析型数据库和OLTP数据库需要不同的利弊权衡方式。这反映在索引数据结构的选择上。此文讨论了许多更适合分析型数据库的索引数据结构。
+
 #### 事务
 
 - [《Transaction Systems》](https://db.in.tum.de/teaching/ss19/transactions/?lang=en)

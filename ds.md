@@ -966,3 +966,7 @@ STACK为了使可扩展性更高，在计算Δ = ∀e:Reach(e) → ¬Undef(e)的
 - [《Performance Debugging for Distributed Systems of Black Boxes》](https://pdos.csail.mit.edu/~athicha/papers/blackboxes:sosp03.pdf)
 
 介绍：对分布式系统的性能Debug非常困难，因为里面的问题很多都是非确定性的，而且无法重现。只能通过对log的挖掘，找出配对的调用/消息以定位问题。黑盒方案假定需要跟踪的除了上述信息之外没有额外的信息，这样使用统计回归技术来推断两者之间的关系.与之相对应的Google使用标注方案解决Debug问题，具体参考[Dapper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36356.pdf)
+
+- [《The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules of Thumb》](http://jimgray.azurewebsites.net/5_min_rule_sigmod.pdf)
+
+介绍： 五分钟法则,此文与十年前的原始论文解释了一个量化公式，用来计算数据页是否应该缓存在内存中。能读到Jim Gray处理一系列相关问题（比如数据页应该多大）的方法，幸何如之。
