@@ -368,14 +368,14 @@
 
 介绍：GopherCon 2018会议分享文本,主题：包的实现，Go contributor，代码优化、机器学习的应用、项目结构、图像识别、测试
 
-* [《Go security](https://github.com/guardrailsio/awesome-golang-security)
+* [《Go security》](https://github.com/guardrailsio/awesome-golang-security)
 
 介绍：Golang在安全领域的应用
 
-* [《Go conference](https://github.com/golang/go/wiki/Conferences)
+* [《Go conference》](https://github.com/golang/go/wiki/Conferences)
 
 介绍：Go会议主页列表。
 
-* [《Go 101](https://go101.org/article/101.html)
+* [《Go 101》](https://go101.org/article/101.html)
 
 介绍：Go 101是一个系列，包含语言基础、技巧、内部细节、常见疑问。有[中文版](https://gfw.go101.org/article/101.html)
