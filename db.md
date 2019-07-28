@@ -77,6 +77,10 @@
 
 介绍：vldb2019年会议论文，如何构建可快速查询的KV存储系统.讲述了KV系统构建时的权衡.该篇是作者博士论文[<Tell: An Elastic Database System for Mixed Workloads>](https://www.systems.ethz.ch/sites/default/files/file/UpcomingPublications/PilmanMarkus2016.pdf)的精简版
 
+- [《Online, Asynchronous Schema Change in F1》](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41376.pdf)
+
+介绍：在线异步执行F1 DDL操纵.F1团队提出了一种安全的Schema变更算法。本文将先简单介绍KV存储引擎的提供的接口，然后分析异步的Schema变更导致的问题，最后再描述F1的Schema变更算法以及其限制点。参考阅读[异步 schema 变更](https://github.com/ngaut/builddatabase/blob/master/f1/schema-change.md)。[TiDB 的异步 schema 变更实现]
+(https://github.com/ngaut/builddatabase/blob/master/f1/schema-change-implement.md)
 #### 学者
 
 - [《Daniel Abadi》](https://www.cs.umd.edu/~abadi/)    
