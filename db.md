@@ -67,6 +67,10 @@
 
 介绍：这门课程是德国慕尼黑工业大学开设的关于数据库事务课程。内容有：计算模型、并发控制算法、多版本并发控制、并发控制在对象/查询结构/关系数据库的应用、事务恢复、page恢复算法、如何实现。主要是课件
 
+- [《Generalized Isolation Level Definitions》](http://pmg.csail.mit.edu/papers/icde00.pdf)
+
+介绍：事务隔离是数据库系统设计中根本的组成部分，本文主要从标准层面来讨论隔离级别的划分方式，先解释事务隔离分级的原因以及标准制定的目标；之后概述其发展历史；最后介绍Atul Adya给出的比较合理的隔离级别定义。参考[序列化](http://blog.kongfy.com/2019/03/serializable/)
+
 #### NewSQL
 
 - [《Spanner: Becoming a SQL System》](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/46103.pdf)    
