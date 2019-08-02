@@ -85,6 +85,11 @@
 
 介绍：在线异步执行F1 DDL操纵.F1团队提出了一种安全的Schema变更算法。本文将先简单介绍KV存储引擎的提供的接口，然后分析异步的Schema变更导致的问题，最后再描述F1的Schema变更算法以及其限制点。参考阅读[异步 schema 变更](https://github.com/ngaut/builddatabase/blob/master/f1/schema-change.md)。[TiDB 的异步 schema 变更实现]
 (https://github.com/ngaut/builddatabase/blob/master/f1/schema-change-implement.md)
+
+- [《Percolator: Large-scale Incremental Processing Using Distributed Transactions and Notifications》](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36726.pdf)    
+
+介绍：Percolator是由Google公司开发的、为大数据集群进行增量处理更新的系统，主要用于google网页搜索索引服务。使用基于Percolator的增量处理系统代替原有的批处理索引系统后，Google在处理同样数据量的文档时，将文档的平均搜索延时降低了50%。[笔记参考](http://andremouche.github.io/transaction/percolator.html)
+
 #### 学者
 
 - [《Daniel Abadi》](https://www.cs.umd.edu/~abadi/)    
