@@ -87,8 +87,7 @@
 
 - [《Online, Asynchronous Schema Change in F1》](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41376.pdf)
 
-介绍：在线异步执行F1 DDL操纵.F1团队提出了一种安全的Schema变更算法。本文将先简单介绍KV存储引擎的提供的接口，然后分析异步的Schema变更导致的问题，最后再描述F1的Schema变更算法以及其限制点。参考阅读[异步 schema 变更](https://github.com/ngaut/builddatabase/blob/master/f1/schema-change.md)。[TiDB 的异步 schema 变更实现]
-(https://github.com/ngaut/builddatabase/blob/master/f1/schema-change-implement.md)
+介绍：在线异步执行F1 DDL操纵.F1团队提出了一种安全的Schema变更算法。本文将先简单介绍KV存储引擎的提供的接口，然后分析异步的Schema变更导致的问题，最后再描述F1的Schema变更算法以及其限制点。参考阅读[异步 schema 变更](https://github.com/ngaut/builddatabase/blob/master/f1/schema-change.md)。[TiDB 的异步 schema 变更实现](https://github.com/ngaut/builddatabase/blob/master/f1/schema-change-implement.md)
 
 
 - [《Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases》](https://www.allthingsdistributed.com/files/p1041-verbitski.pdf)    
