@@ -71,6 +71,10 @@
 
 介绍：事务隔离是数据库系统设计中根本的组成部分，本文主要从标准层面来讨论隔离级别的划分方式，先解释事务隔离分级的原因以及标准制定的目标；之后概述其发展历史；最后介绍Atul Adya给出的比较合理的隔离级别定义。参考[序列化](http://blog.kongfy.com/2019/03/serializable/)
 
+- [《Percolator: Large-scale Incremental Processing Using Distributed Transactions and Notifications》](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36726.pdf)    
+
+介绍：Percolator是由Google公司开发的、为大数据集群进行增量处理更新的系统，主要用于google网页搜索索引服务。使用基于Percolator的增量处理系统代替原有的批处理索引系统后，Google在处理同样数据量的文档时，将文档的平均搜索延时降低了50%。[笔记参考](http://andremouche.github.io/transaction/percolator.html)
+
 #### NewSQL
 
 - [《Spanner: Becoming a SQL System》](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/46103.pdf)    
@@ -86,9 +90,11 @@
 介绍：在线异步执行F1 DDL操纵.F1团队提出了一种安全的Schema变更算法。本文将先简单介绍KV存储引擎的提供的接口，然后分析异步的Schema变更导致的问题，最后再描述F1的Schema变更算法以及其限制点。参考阅读[异步 schema 变更](https://github.com/ngaut/builddatabase/blob/master/f1/schema-change.md)。[TiDB 的异步 schema 变更实现]
 (https://github.com/ngaut/builddatabase/blob/master/f1/schema-change-implement.md)
 
-- [《Percolator: Large-scale Incremental Processing Using Distributed Transactions and Notifications》](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36726.pdf)    
 
-介绍：Percolator是由Google公司开发的、为大数据集群进行增量处理更新的系统，主要用于google网页搜索索引服务。使用基于Percolator的增量处理系统代替原有的批处理索引系统后，Google在处理同样数据量的文档时，将文档的平均搜索延时降低了50%。[笔记参考](http://andremouche.github.io/transaction/percolator.html)
+- [《Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases》](https://www.allthingsdistributed.com/files/p1041-verbitski.pdf)    
+
+介绍：Aurora是一个 OLTP 的关系型数据库。这篇论文描述Aurora架构和设计时的考量。高吞吐的数据处理瓶颈，已经从计算和存储，转移到了网络。Aurora的主要是为了解决多租户scale-out、共享存储、网络瓶颈。[阅读笔记](http://www.zenlife.tk/aurora.md)、[Amazon Aurora: 云原生关系数据库的设计](https://www.allthingsdistributed.com/2019/03/Amazon-Aurora-design-cloud-native-relational-database.html)
+
 
 #### 学者
 
