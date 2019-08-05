@@ -55,7 +55,7 @@
 
 - [《How to Architect a Query Compiler, Revisited》](https://www.cs.purdue.edu/homes/rompf/papers/tahboub-sigmod18.pdf)
 
-介绍：本篇论文讲述如何架构一个查询编译器，SQL如何被执行、查询评估、如何处理并行执行、查询器的优化、以及最后的[TPC]([http://www.tpc.org/information/benchmarks.asp](http://www.tpc.org/information/benchmarks.asp))测试。
+介绍：本篇论文讲述如何架构一个查询编译器，SQL如何被执行、查询评估、如何处理并行执行、查询器的优化、以及最后的[TPC](http://www.tpc.org/information/benchmarks.asp)测试。
 
 - [《Improved Query Performance with Variant Indexes》](http://ilpubs.stanford.edu:8090/253/1/1997-40.pdf)
 
