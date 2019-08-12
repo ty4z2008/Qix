@@ -970,3 +970,7 @@ STACK为了使可扩展性更高，在计算Δ = ∀e:Reach(e) → ¬Undef(e)的
 - [《The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules of Thumb》](http://jimgray.azurewebsites.net/5_min_rule_sigmod.pdf)
 
 介绍： 五分钟法则,此文与十年前的原始论文解释了一个量化公式，用来计算数据页是否应该缓存在内存中。能读到Jim Gray处理一系列相关问题（比如数据页应该多大）的方法，幸何如之。
+
+* [《CS-739: Distributed Systems》](http://pages.cs.wisc.edu/~remzi/Classes/739/Fall2018/)
+
+介绍:威斯康星大学分布式系统课程，主要以阅读为主：网络（TCP、RPC、U-net、Thrift、虚拟网络），系统失效、分布式时钟、一致性、资源隔离与分配、安全、负载均衡、集群调度、文件系统、案例学习
