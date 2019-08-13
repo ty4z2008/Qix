@@ -4,7 +4,7 @@
 - [课程](#课程)
 - 进程管理
 - [查询/优化器](#查询/优化器)
-- 存储
+- [存储](#存储)
 - [事务](#事务)
 - 共享组件
 - 关系模型
@@ -94,9 +94,18 @@
 
 介绍：Aurora是一个 OLTP 的关系型数据库。这篇论文描述Aurora架构和设计时的考量。高吞吐的数据处理瓶颈，已经从计算和存储，转移到了网络。Aurora的主要是为了解决多租户scale-out、共享存储、网络瓶颈。[阅读笔记](http://www.zenlife.tk/aurora.md)、[Amazon Aurora: 云原生关系数据库的设计](https://www.allthingsdistributed.com/2019/03/Amazon-Aurora-design-cloud-native-relational-database.html)
 
+- [《Automatically Indexing Millions of Databases in Microsoft Azure SQL Database》](https://www.microsoft.com/en-us/research/uploads/prod/2019/02/autoindexing_azuredb.pdf)    
+
+介绍：vldb2019年会议论文，本文重点讨论了Azure的自动索引推荐系统，讨论了整个过程的细节和反馈。[相关笔记](https://zhuanlan.zhihu.com/p/62628781)
 
 #### 学者
 
 - [《Daniel Abadi》](https://www.cs.umd.edu/~abadi/)    
 
 介绍：卡内基梅隆的Daniel Abadi教授，HadoopDB的作者。他的[博客](http://dbmsmusings.blogspot.com/) 质量很高。譬如[讨论事务隔离级别](http://dbmsmusings.blogspot.com/2019/05/introduction-to-transaction-isolation.html)、[2阶段提交](http://dbmsmusings.blogspot.com/2019/01/its-time-to-move-on-from-two-phase.html)
+
+#### 存储
+
+- [《X-Engine: An Optimized Storage Engine for Large-Scale E-Commerce Transaction Processing》](https://dl.acm.org/citation.cfm?id=3314041)    
+
+介绍：这篇论文介绍了阿里云面向大规模流量场景设计的自研存储引擎X-Engine，设计采用分层存储的全新理念，可以根据数据访问频度将数据合理归位，实现快存快取。POLARDB是基于x-engine
