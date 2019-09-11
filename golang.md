@@ -379,3 +379,7 @@
 * [《Go 101》](https://go101.org/article/101.html)
 
 介绍：Go 101是一个系列，包含语言基础、技巧、内部细节、常见疑问。有[中文版](https://gfw.go101.org/article/101.html)
+
+* [《Understanding Real-World Concurrency Bugs in Go》](https://engineering.purdue.edu/~yiying/GoStudy-ASPLOS19.pdf)
+
+介绍：总结了非常多数量且有用的真实 Bug，用以警示我们未来使用这些同步原语时可能会犯的错误。
