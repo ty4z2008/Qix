@@ -382,4 +382,4 @@
 
 * [《Understanding Real-World Concurrency Bugs in Go》](https://engineering.purdue.edu/~yiying/GoStudy-ASPLOS19.pdf)
 
-介绍：总结了非常多数量且有用的真实 Bug，用以警示我们未来使用这些同步原语时可能会犯的错误。
+介绍：总结了非常多数量且有用的真实 Bug，用以警示我们未来使用这些同步原语时可能会犯的错误。[讨论](https://github.com/developer-learning/reading-go/issues/464)
