@@ -973,4 +973,8 @@ STACK为了使可扩展性更高，在计算Δ = ∀e:Reach(e) → ¬Undef(e)的
 
 * [《CS-739: Distributed Systems》](http://pages.cs.wisc.edu/~remzi/Classes/739/Fall2018/)
 
-介绍:威斯康星大学分布式系统课程，主要以阅读为主：网络（TCP、RPC、U-net、Thrift、虚拟网络），系统失效、分布式时钟、一致性、资源隔离与分配、安全、负载均衡、集群调度、文件系统、案例学习
+介绍:威斯康星大学分布式系统课程，主要以阅读为主：网络（TCP、RPC、U-net、Thrift、虚拟网络），系统失效、分布式时钟、一致性、资源隔离与分配、安全、负载均衡、集群调度、文件系统、案例学习.
+
+* [《Readings in Stream Processing》](https://github.com/xerial/streamdb-readings)
+
+介绍: 流处理相关论文阅读列表。可以深入理解消息队列
