@@ -8,7 +8,7 @@
 - [事务](#事务)
 - 共享组件
 - 关系模型
-- 分布式数据库
+- 分布式数据库(#分布式数据库)
 - [NewSQL](#NewSQL)
 - [学者](#学者)
 
@@ -109,3 +109,10 @@
 - [《X-Engine: An Optimized Storage Engine for Large-Scale E-Commerce Transaction Processing》](https://dl.acm.org/citation.cfm?id=3314041)    
 
 介绍：这篇论文介绍了阿里云面向大规模流量场景设计的自研存储引擎X-Engine，设计采用分层存储的全新理念，可以根据数据访问频度将数据合理归位，实现快存快取。POLARDB是基于x-engine
+
+#### 分布式数据库
+
+- [《AnalyticDB: Real-time OLAP Database System at Alibaba Cloud》](http://www.vldb.org/pvldb/vol12/p2059-zhan.pdf)    
+
+介绍：AnalyticDB是阿里云构建的OLAP分布式计算数据库，是一种存储和计算分离的架构。在论文中，提到了和阿里基础设施服务盘古和伏羲的结合，并且在此基础上面做的一些工作。论文中有很多大胆的设计，例如所有列都有索引，减少用户的索引维护成本。读写分离，读节点定时拉，写节点主动下推。
+
