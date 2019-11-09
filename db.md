@@ -102,6 +102,10 @@
 
 介绍：vldb2019年会议论文，本文重点讨论了Azure的自动索引推荐系统，讨论了整个过程的细节和反馈。[相关笔记](https://zhuanlan.zhihu.com/p/62628781)
 
+- [《A Lightweight and Efficient Temporal Database Management System in TDSQL》](http://www.vldb.org/pvldb/vol12/p2035-lu.pdf)    
+
+介绍：本文详细讲述了腾讯分布式数据库TDSQL的实现细节和考量
+
 #### 学者
 
 - [《Daniel Abadi》](https://www.cs.umd.edu/~abadi/)    
