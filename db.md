@@ -8,7 +8,7 @@
 - [事务](#事务)
 - 共享组件
 - 关系模型
-- 分布式数据库(#分布式数据库)
+- [分布式数据库](#分布式数据库)
 - [NewSQL](#NewSQL)
 - [学者](#学者)
 
@@ -74,6 +74,10 @@
 - [《Percolator: Large-scale Incremental Processing Using Distributed Transactions and Notifications》](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36726.pdf)    
 
 介绍：Percolator是由Google公司开发的、为大数据集群进行增量处理更新的系统，主要用于google网页搜索索引服务。使用基于Percolator的增量处理系统代替原有的批处理索引系统后，Google在处理同样数据量的文档时，将文档的平均搜索延时降低了50%。[笔记参考](http://andremouche.github.io/transaction/percolator.html)
+
+- [《Improving Optimistic Concurrency Control Through Transaction Batching and Operation Reordering》](http://www.vldb.org/pvldb/vol12/p169-ding.pdf)
+
+介绍：通过事务批量和操作的重排序来提高乐观并发控制性能
 
 #### NewSQL
 
