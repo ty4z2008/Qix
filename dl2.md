@@ -1488,3 +1488,10 @@
 * [《Fraud Detection Research Papers》](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
 
 介绍: 反欺诈相关论文阅读列表，在金融领域反欺诈一直是一个非常重要的部分。贯穿整个金融系统。随着经济的发展，电商、保险等行业需要引入欺诈检测。论文列表中涉及的部分涵盖电商、交易、社交网络、银行多个行业的案例与实践。
+
+* [《Awesome model compression》](https://github.com/ChanChiChoi/awesome-model-compression)
+
+介绍: 深度神经网络的压缩方法相关论文阅读列表。卷积神经网络日益增长的深度和尺寸为深度学习在移动端的部署带来了巨大的挑战，CNN模型压缩与加速成为了学术界和工业界都重点关注的研究领域之一。
+
+
+
