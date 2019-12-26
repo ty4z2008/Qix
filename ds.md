@@ -982,3 +982,23 @@ STACK为了使可扩展性更高，在计算Δ = ∀e:Reach(e) → ¬Undef(e)的
 * [《paper notebook of distributed system》](https://github.com/dyweb/papers-notebook)
 
 介绍: 分布式系统领域论文笔记。里面推荐了很多相关论文，譬如：调度器(Scheduler)、存储(Storage)、一致性算法、图计算、虚拟化、沙箱、安全、网络.现在这个列表转移到了[issue](https://github.com/dyweb/papers-notebook/issues)
+
+* [《Distributed tracing》](https://gianarb.it/blog/faq-distributed-tracing)
+
+介绍: 分布式系统跟踪，解释了为什么需要、跟踪什么、如何处理众多信息.
+
+* [《Dapr：Distributed Application Runtime》](https://github.com/dapr/dapr)
+
+介绍: 微软发布分布式应用程序运行时(Dapr)，这是一个开源项目，使每个开发人员更容易地构建微服务应用程序
+
+* [《Waltz: A Distributed Write-Ahead Log》](https://wecode.wepay.com/posts/waltz-a-distributed-write-ahead-log)
+
+介绍: 分布式预写日志
+
+* [《Reading List – Designing a Practical Distributed System》](https://devpoga.org/distributed_system/)
+
+介绍: 设计实用的分布式系统阅读清单
+
+* [《A Generalised Solution to Distributed Consensus》](https://arxiv.org/abs/1902.06776)
+
+介绍: 分布式共识问题一直以来是大规模系统的一个难题，本文讨论了一些分布式共识的通用解决方案。[详细介绍](https://blog.acolyer.org/2019/03/08/a-generalised-solution-to-distributed-consensus/)
