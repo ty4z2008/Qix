@@ -978,3 +978,7 @@ STACK为了使可扩展性更高，在计算Δ = ∀e:Reach(e) → ¬Undef(e)的
 * [《Readings in Stream Processing》](https://github.com/xerial/streamdb-readings)
 
 介绍: 流处理相关论文阅读列表。可以深入理解消息队列
+
+* [《paper notebook of distributed system》](https://github.com/dyweb/papers-notebook)
+
+介绍: 分布式系统领域论文笔记。里面推荐了很多相关论文，譬如：调度器(Scheduler)、存储(Storage)、一致性算法、图计算、虚拟化、沙箱、安全、网络.现在这个列表转移到了[issue](https://github.com/dyweb/papers-notebook/issues)

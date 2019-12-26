@@ -1489,6 +1489,10 @@
 
 介绍: 反欺诈相关论文阅读列表，在金融领域反欺诈一直是一个非常重要的部分。贯穿整个金融系统。随着经济的发展，电商、保险等行业需要引入欺诈检测。论文列表中涉及的部分涵盖电商、交易、社交网络、银行多个行业的案例与实践。
 
-* [《Awesome Model Compression》](https://github.com/ChanChiChoi/awesome-model-compression)
+* [《Awesome model compression》](https://github.com/ChanChiChoi/awesome-model-compression)
 
-介绍: 模型压缩相关论文，内容主要来自[arxiv.org](arxiv.org).近两年内容比较多。
+介绍: 深度神经网络的压缩方法相关论文阅读列表。卷积神经网络日益增长的深度和尺寸为深度学习在移动端的部署带来了巨大的挑战，CNN模型压缩与加速成为了学术界和工业界都重点关注的研究领域之一。
+
+* [《Best Resources for Imbalanced Classification》](https://machinelearningmastery.com/resources-for-imbalanced-classification/)
+
+介绍: 不平衡分类其主要关注于如何从类别分布不均衡的数据中学习数据的模式。本篇介绍了一些解决不平衡类分类问题的多种学习资源
