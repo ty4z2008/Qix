@@ -1488,3 +1488,7 @@
 * [《Fraud Detection Research Papers》](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
 
 介绍: 反欺诈相关论文阅读列表，在金融领域反欺诈一直是一个非常重要的部分。贯穿整个金融系统。随着经济的发展，电商、保险等行业需要引入欺诈检测。论文列表中涉及的部分涵盖电商、交易、社交网络、银行多个行业的案例与实践。
+
+* [《Awesome Model Compression》](https://github.com/ChanChiChoi/awesome-model-compression)
+
+介绍: 模型压缩相关论文，内容主要来自[arxiv.org](arxiv.org).近两年内容比较多。
