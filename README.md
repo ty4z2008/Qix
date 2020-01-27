@@ -1,4 +1,5 @@
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) ![GitHub stars](https://img.shields.io/github/stars/ty4z2008/qix.svg?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/ty4z2008/qix.svg?color=blue&style=plastic) 
 
 ## About Me
 
