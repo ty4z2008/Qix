@@ -1479,7 +1479,7 @@
 
 * [《Awesome Community Detection》](https://github.com/benedekrozemberczki/awesome-community-detection)
 
-介绍: 社区发现算法用来发现网络中的社区结构，也可以视为一种广义的聚类算法。做社交网络的朋友推荐阅读[社区发现（community detection）未来的路到底该何去何从？](https://www.zhihu.com/question/32127662)
+介绍: 社区发现算法用来发现网络中的社区结构，也可以视为一种广义的聚类算法。做社交网络的朋友推荐阅读[社区发现（community detection）未来的路到底该何去何从？](https://www.zhihu.com/question/32127662) 以及基于NetworkX构建的项目[karateclub](https://github.com/benedekrozemberczki/karateclub)
 
 * [《SLAM Resources》](https://github.com/ckddls1321/SLAM_Resources)
 
