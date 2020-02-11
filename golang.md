@@ -387,3 +387,11 @@
 * [《Uber Go Style Guide》](https://github.com/uber-go/guide)
 
 介绍：Uber Go语言编码规范,[中文参考](https://tonybai.com/2019/10/12/uber-go-style-guide/)
+
+* [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42)
+
+介绍：详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。
+
+* [《go.dev》](https://go.dev/)
+
+介绍：Go官方团队又一生态建设社区，它提供了 godoc.org 的文档，界面更加友好。
