@@ -426,3 +426,7 @@
 
 介绍: 开源书籍，程序员竞争知识手册。
 
+* [《Paper we love》](https://github.com/papers-we-love/papers-we-love)
+
+介绍: 计算机科学界的论文阅读和讨论。
+
