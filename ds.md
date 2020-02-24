@@ -63,7 +63,7 @@
 
 介绍:分布式系统电子书籍.涵盖内容：分布式系统介绍、全序和偏序、时钟、复制模型.适合分布式系统入门的同学。国内也有一些[笔记](https://blog.csdn.net/u012618715/article/details/76652831)
 
-* [《Distributed Systems Spring 2015》](http://www.andrew.cmu.edu/course/95-702/)
+* [《95-702 — Distributed Systems for Information Systems Management》](http://www.andrew.cmu.edu/course/95-702/)
 
 介绍:卡内基梅隆大学春季分布式课程主页
 
