@@ -860,3 +860,7 @@ About:[PostgreSQL About](http://www.postgresql.org/about/)
 * [《PostgreSQL Backend Flowchart》](https://www.postgresql.org/developer/backend/)
 
 介绍:PostgreSQL的后台执行流程图,对于阅读源码或者是想了解内部的构成可以先阅读。
+
+* [《Postgres Explain Visualizer 2 》](https://github.com/dalibo/pev2)
+
+介绍:执行计划可视化工具，导出JSON格式的执行计划数据，通过这个工具可以很方便的可视化查询计划
