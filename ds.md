@@ -1002,3 +1002,8 @@ STACK为了使可扩展性更高，在计算Δ = ∀e:Reach(e) → ¬Undef(e)的
 * [《A Generalised Solution to Distributed Consensus》](https://arxiv.org/abs/1902.06776)
 
 介绍: 分布式共识问题一直以来是大规模系统的一个难题，本文讨论了一些分布式共识的通用解决方案。[详细介绍](https://blog.acolyer.org/2019/03/08/a-generalised-solution-to-distributed-consensus/)
+
+* [《Paxos vs Raft: Have we reached consensus on distributed consensus?》](https://arxiv.org/abs/2004.05074)
+
+介绍: 这篇论文对比分布式共识算法Paxos和Raft。讨论了为什么对于诞生的2014年诞生的Raft算法如此受业界亲睐。使用Raft的理论来解释Paxos算法，通过类比的方式发现，两者在大体上是相类似的。不同点在于Leader选举。论文得出的结论是：Raft比Paxos更易用是因为论文解释的比较清楚。
+
