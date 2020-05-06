@@ -79,6 +79,10 @@
 
 介绍：通过事务批量和操作的重排序来提高乐观并发控制性能
 
+- [《Omid: Lock-free transactional support for distributed data stores》]
+
+介绍：Omid一种无锁分布式事务，它是Yahoo公司研发的在大规模分布式存储之上提供事务功能的组件，每隔一段时间都会发布一篇论文。分别是[《Taking Omid to the Clouds》](https://webee.technion.ac.il/~idish/ftp/p842-shacham.pdf)，[《Omid, Reloaded: Scalable and Highly-Available Transaction Processing》](https://www.usenix.org/system/files/conference/fast17/fast17-shacham.pdf)。阅读时推荐和Google发表的Percolator论文一起阅读
+
 #### NewSQL
 
 - [《Spanner: Becoming a SQL System》](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/46103.pdf)    
