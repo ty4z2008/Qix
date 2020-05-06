@@ -430,3 +430,6 @@
 
 介绍: 计算机科学界的论文阅读和讨论。
 
+* [《6.S081: Operating System Engineering》](https://pdos.csail.mit.edu/6.828)
+
+介绍: 麻省理工学院操作系统课程，教你一步步构建一个微型操作系统
