@@ -433,3 +433,7 @@
 * [《6.S081: Operating System Engineering》](https://pdos.csail.mit.edu/6.828)
 
 介绍: 麻省理工学院操作系统课程，教你一步步构建一个微型操作系统
+
+* [《Operating Systems: Three Easy Pieces》](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+
+介绍: 威斯康星大学出版的操作系统书籍，把操作系统分为三部分：虚拟化、并发、持久化。对于自学操作系统很受益。原文写的通俗易懂，没有晦涩难懂的词藻。配合留下来的课堂作业能巩固通过看书了解到的知识
