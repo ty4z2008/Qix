@@ -88,6 +88,10 @@
 
 介绍：Omid一种无锁分布式事务，它是Yahoo公司研发的在大规模分布式存储之上提供事务功能的组件，每隔一段时间都会发布一篇论文。分别是[《Taking Omid to the Clouds》](https://webee.technion.ac.il/~idish/ftp/p842-shacham.pdf)，[《Omid, Reloaded: Scalable and Highly-Available Transaction Processing》](https://www.usenix.org/system/files/conference/fast17/fast17-shacham.pdf)。阅读时推荐和Google发表的Percolator论文一起阅读
 
+- [《Concurrency Control and Recovery in Database Systems》](https://www.microsoft.com/en-us/research/people/philbe/book/)
+
+介绍：经典书籍，讨论数据库的并发控制和恢复。序列化、两阶段锁、MVCC、分布式数据恢复、数据复制
+
 #### 关系模型
 
 - [《Course Introduction and the Relational Model》](https://15445.courses.cs.cmu.edu/fall2019/schedule.html#aug-26-2019)    
