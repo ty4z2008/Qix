@@ -7,7 +7,7 @@
 - [存储](#存储)
 - [事务](#事务)
 - 共享组件
-- 关系模型
+- [关系模型](#关系模型)
 - [NewSQL](#NewSQL)
 - [学者](#学者)
 - [其他](#其他)
@@ -61,6 +61,11 @@
 
 介绍：分析型数据库和OLTP数据库需要不同的利弊权衡方式。这反映在索引数据结构的选择上。此文讨论了许多更适合分析型数据库的索引数据结构。
 
+- [《The Case for Learned Index Structures》](https://arxiv.org/abs/1712.01208)
+
+介绍：Google利用深度学习改善索引创建，提交查询效率
+
+
 #### 事务
 
 - [《Transaction Systems》](https://db.in.tum.de/teaching/ss19/transactions/?lang=en)
@@ -82,6 +87,12 @@
 - [《Omid: Lock-free transactional support for distributed data stores》]
 
 介绍：Omid一种无锁分布式事务，它是Yahoo公司研发的在大规模分布式存储之上提供事务功能的组件，每隔一段时间都会发布一篇论文。分别是[《Taking Omid to the Clouds》](https://webee.technion.ac.il/~idish/ftp/p842-shacham.pdf)，[《Omid, Reloaded: Scalable and Highly-Available Transaction Processing》](https://www.usenix.org/system/files/conference/fast17/fast17-shacham.pdf)。阅读时推荐和Google发表的Percolator论文一起阅读
+
+#### 关系模型
+
+- [《Course Introduction and the Relational Model》](https://15445.courses.cs.cmu.edu/fall2019/schedule.html#aug-26-2019)    
+
+介绍：CMU 数据课程，讲述数据库关系模型
 
 #### NewSQL
 
@@ -133,3 +144,7 @@
 - [《Readings in Databases》](https://github.com/rxin/db-readings)
 
 介绍：Apache Spark作者[Reynold Xin](http://twitter.com/rxin)推荐的数据库阅读清单
+
+- [《Awesome Database Learning》](https://github.com/pingcap/awesome-database-learning)
+
+介绍：PingCAP下面的数据库学习资料repository. 
