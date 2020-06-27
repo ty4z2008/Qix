@@ -1496,3 +1496,7 @@
 * [《Best Resources for Imbalanced Classification》](https://machinelearningmastery.com/resources-for-imbalanced-classification/)
 
 介绍: 不平衡分类其主要关注于如何从类别分布不均衡的数据中学习数据的模式。本篇介绍了一些解决不平衡类分类问题的多种学习资源
+
+* [《Machine learning system design pattern》](https://github.com/mercari/ml-system-design-pattern)
+
+介绍: 机器学习系统设计模式，涵盖QA、训练、提供服务、devops运维等场景 
