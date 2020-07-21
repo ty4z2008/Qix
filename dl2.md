@@ -1500,3 +1500,8 @@
 * [《Machine learning system design pattern》](https://github.com/mercari/ml-system-design-pattern)
 
 介绍: 机器学习系统设计模式，涵盖QA、训练、提供服务、devops运维等场景 
+
+* [《Advanced Machine learning》](https://www.aminer.cn/aml)
+
+介绍: 来自清华大学的机器学习课程，课程主要介绍机器学习的理论和相关算法；课程内容涵盖基础篇：经典机器学习方法的回顾、概率图生成模型（Generative learning）和概率图判别模型（Discriminative learning），进阶篇：介绍最近流行的深度学习、表示学习、增强学习、自动机器学习以及对抗学习，高级篇：介绍当前热点的预训练、自学习以及认知图谱等
+
