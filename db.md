@@ -152,3 +152,7 @@
 - [《Awesome Database Learning》](https://github.com/pingcap/awesome-database-learning)
 
 介绍：PingCAP下面的数据库学习资料repository. 
+
+- [《VLDB Proceedings of the VLDB Endowment,2019-2020 》](http://www.vldb.org/pvldb/vol13.html)
+
+介绍：2019-2020年著名数据库顶级会议之一的VLDB投稿论文列表，论文涵盖：测试、机器学习、数据存储、查询、图、索引、大数据领域等。
