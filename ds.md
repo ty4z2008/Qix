@@ -1011,3 +1011,8 @@ STACK为了使可扩展性更高，在计算Δ = ∀e:Reach(e) → ¬Undef(e)的
 
 介绍: 卡内基梅隆大学2021年分布式系统课程主页，围绕这个并发和分布式系统讨论。分布式章节的讲师是DDIA书籍的作者Martin Kleppmann，并且相关的视频也已经放到[Youtube](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB).
 
+* [《Hashed and Hierarchical Wheels algorithms》](https://github.com/ifesdjeen/hashed-wheel-timer)
+
+介绍: 分布式定时任务调度算法——Hash时间轮。一种利用定时轮的方式来管理和维护大量的Timer调度算法.
+
+
