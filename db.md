@@ -92,6 +92,18 @@
 
 介绍：经典书籍，讨论数据库的并发控制和恢复。序列化、两阶段锁、MVCC、分布式数据恢复、数据复制
 
+- [《A Critique of ANSI SQL Isolation Levels》](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-95-51.pdf)
+
+介绍：对ANSI SQL 隔离级别的批评。ANSI SQL-92 提出了最经典的隔离级别定义，包括读未提交（Read Uncommitted）、读提交（Read Committed）、可重复读（Repeatable Read）和可序列化（Serializable）。本文显示，这些phenomena和ANSI SQL定义无法正确表征几个流行的隔离级别，包括对于不同隔离级别标准的锁实现。本文调查了phenomena说明中的歧义，并提出了更正式的说明;此外，介绍了更好地表征隔离类型的新phenomena。最后，定义了一个称为快照隔离的重要的多版本隔离类型。
+
+- [《Generalized Isolation Level Definitions》](http://pmg.csail.mit.edu/papers/icde00.pdf)
+
+介绍：这篇文章，指出了此前对隔离级别定义重度依赖数据库的实现，并且提出了与实现无关的隔离级别定义。
+
+- [《Serializable Snapshot Isolation in PostgreSQL》](https://drkp.net/papers/ssi-vldb12.pdf)
+
+介绍：快照隔离首先是在《A Critique of ANSI SQL Isolation Levels 》中被提出。本文主要讲述PostgreSQL中基于 Snapshot Isolation 的可串行化实现。
+
 #### 关系模型
 
 - [《Course Introduction and the Relational Model》](https://15445.courses.cs.cmu.edu/fall2019/schedule.html#aug-26-2019)    
