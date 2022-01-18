@@ -141,6 +141,10 @@
 
 介绍：AnalyticDB是阿里云构建的OLAP分布式计算数据库，是一种存储和计算分离的架构。在论文中，提到了和阿里基础设施服务盘古和伏羲的结合，并且在此基础上面做的一些工作。论文中有很多大胆的设计，例如所有列都有索引，减少用户的索引维护成本。读写分离，读节点定时拉，写节点主动下推。
 
+- [《PushdownDB: Accelerating a DBMS using S3 Computation》](https://arxiv.org/pdf/2002.05837.pdf)    
+
+介绍：这篇论文主要讲述PushdownDB 如何利用AWS S3做为存储组件。把DBMS的一些过滤、聚合、映射下发至S3并得到响应结果。其实利用S3用于底层存储AWS 在Aurora就有实现。
+
 #### 学者
 
 - [《Daniel Abadi》](https://www.cs.umd.edu/~abadi/)    
