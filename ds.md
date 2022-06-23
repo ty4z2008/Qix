@@ -1009,12 +1009,13 @@ STACK为了使可扩展性更高，在计算Δ = ∀e:Reach(e) → ¬Undef(e)的
 
 * [《Concurrent and Distributed Systems》](https://www.cl.cam.ac.uk/teaching/2021/ConcDisSys/)
 
-介绍: 卡内基梅隆大学2021年分布式系统课程主页，围绕这个并发和分布式系统讨论。分布式章节的讲师是DDIA书籍的作者Martin Kleppmann，并且相关的视频也已经放到[Youtube](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB).
+介绍: 卡内基梅隆大学2021年分布式系统课程主页，围绕这个并发和分布式系统讨论。分布式章节的讲师是DDIA书籍的作者Martin Kleppmann，并且相关的视频也已经放到[Youtube](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_
 
-* [《Hashed and Hierarchical Wheels algorithms》](https://github.com/ifesdjeen/hashed-wheel-timer)
+HdUFe97RItdiB).
 
-介绍: 分布式定时任务调度算法——Hash时间轮。一种利用定时轮的方式来管理和维护大量的Timer调度算法.
+* [《Patterns of Distributed Systems》](https://martinfowler.com/articles/patterns-of-distributed-systems/)
 
+介绍: 在线电子书，讲述分布式系统模式。类似编程语言中的设计模式。列出了目前业界常用的分布式系统设计模式。WAL、两步提交、版本向量、复制日志等
 
 
 
