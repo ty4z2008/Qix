@@ -160,9 +160,9 @@
 
 介绍：一个 Go 语言跨平台 UI 库  
 
-* [《Go最新资料汇总》](http://studygolang.com/topics/node13)
+* [《Go最新资料汇总》](http://studygolang.com/topics/node/13)
 
-介绍：Go最新资料汇总
+介绍：Golang中国社区golang资料汇总
 
 * [《猎豹移动技术博客:Golang》](http://dev.cmcm.com/archives/category/golang)
 
@@ -235,10 +235,6 @@
 * [《fleet》](https://github.com/coreos/fleet)
 
 介绍：fleet 绑定了systemd 和etcd 到一个分布式init 系统，可以认为是systemd 的扩展，但是并不是机器级别的，而是集群级别的.
-
-* [《Go资料汇总》](http://studygolang.com/topics/node/13)
-
-介绍：Golang中国社区golang资料汇总.
 
 * [《Heim-A real-time community platform》](https://github.com/euphoria-io/heim)
 
