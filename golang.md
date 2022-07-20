@@ -148,7 +148,7 @@
 
 介绍：为什么golang在中国如此流行?
 
-* [《Tenus - Golang Powered Linux Networking》](http://containerops.org/2014/07/30/tenus-golang-powered-linux-networking/)
+* [《Tenus - Golang Powered Linux Networking》](https://cybernetist.com/2014/07/30/tenus-golang-powered-linux-networking/)
 
 介绍：Linux网络驱动
 
