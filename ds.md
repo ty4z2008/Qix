@@ -1017,5 +1017,7 @@ HdUFe97RItdiB).
 
 介绍: 在线电子书，讲述分布式系统模式。类似编程语言中的设计模式。列出了目前业界常用的分布式系统设计模式。WAL、两步提交、版本向量、复制日志等
 
+* [《Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service》](https://assets.amazon.science/33/9d/b77f13fe49a798ece85cf3f9be6d/amazon-dynamodb-a-scalable-predictably-performant-and-fully-managed-nosql-database-service.pdf)
 
+介绍: 亚马逊自2007年发表了一篇DynamoDB论文后，对后面的分布式系统设计产生了深远的影响；论文主要介绍了亚马逊运营大规模 DynamoDB 的经验以及它的架构是如何满足客户工作负载不断增长的需求。这篇论文非常适合做DBaas服务的工程师阅读，让人有一种“知己难寻”的感觉
 
