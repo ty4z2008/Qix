@@ -787,7 +787,7 @@
 
 * [《Distributed Systems: Principles and Paradigms(second edtion)》](https://vowi.fsinf.at/images/b/bc/TU_Wien-Verteilte_Systeme_VO_(G%C3%B6schka)_-_Tannenbaum-distributed_systems_principles_and_paradigms_2nd_edition.pdf)
 
-介绍:分布式系统原理与范型第二版,[课后解答](http://barbie.uta.edu/~jli/Resources/MapReduce&Hadoop/distributed%20systems%20principles%20and%20paradigms%20solution.pdf)
+介绍:分布式系统原理与范型第二版,[课后解答](https://www.distributed-systems.net/my-data/DS2/ds-solutions.pdf)。同时推荐作者的官方网站[Distributed Systems.net](https://www.distributed-systems.net/),这本书也已经出到了第三版，作者还提供了额外的PPT资料帮助你学习
 
 * [《Distributed Systems Seminar's reading list for Spring 2017》](http://muratbuffalo.blogspot.jp/2016/11/my-distributed-systems-seminars-reading.html)
 
