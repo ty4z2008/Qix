@@ -1025,6 +1025,10 @@ HdUFe97RItdiB).
 
 介绍: 自20世纪80年代成立以来，分布式共识一直是广泛的学术研究的主题。虽然定义不同，但分布式共识（或等同于原子广播）最常指的是如何在一组分布式节点之间决定一个有序的数值序列的问题。这可以用来实现一个只附加复制的日志，可以直接或间接地利用它来提供服务，如主备份复制或状态机复制。这些抽象可以反过来形成新的抽象的组成部分，如分布式键值存储。一些共识算法反而只决定一个单一的值或一个部分有序的值序列。统一分布式共识算法的是，无论延迟和崩溃，它们总是安全的（尽管它们不一定是拜占庭式的容错），而且只要有足够的活泼性，就能保证取得进展。列表中带⭐️ 的代表有影响力的论文。💎是项目作者认为不错的论文。
 
-* [《Facebook's Tectonic Filesystem: Efficiency from Exascale》](https://www.usenix.org/conference/fast21/presentation/pan))
+* [《Facebook's Tectonic Filesystem: Efficiency from Exascale》](https://www.usenix.org/conference/fast21/presentation/pan)
 
 介绍: Tectonic是Facebook新一代的分布式文件系统，取代了以前的专用存储系统。相比以前的多种专用的存储系统，操作也相对简单。由于不同租户之间可以资源共享。
+
+* [《Lakebase: Serverless Postgres over Open Lake Storage》](https://www.vldb.org/pvldb/vol19/p4385-pandis.pdf)
+
+介绍: 这篇论文提出 Lakebase：把 PostgreSQL 的计算与存储彻底分离，将数据以开放格式放进云对象存储，从而让数据库像云计算一样可以按需启动、自动扩缩到零、瞬间创建分支，并更适合 AI Agent 大量创建短生命周期数据库的新工作模式
